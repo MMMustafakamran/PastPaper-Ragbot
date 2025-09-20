@@ -26,7 +26,7 @@ class Question:
         if self.metadata is None:
             self.metadata = {}
 
-class FinalQuestionParser:
+class QuestionParser:
     def __init__(self):
         # Enhanced patterns for different question formats
         self.question_patterns = [
@@ -438,7 +438,7 @@ def main():
         text = f.read()
     
     # Initialize parser
-    parser = FinalQuestionParser()
+    parser = QuestionParser()
     
     # Extract questions
     logger.info("Extracting questions with final parser...")
@@ -467,7 +467,7 @@ def main():
     }
     
     # Save results
-    with open('final_questions.json', 'w', encoding='utf-8') as f:
+    with open('data/questions.json', 'w', encoding='utf-8') as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
     
     # Print comprehensive summary

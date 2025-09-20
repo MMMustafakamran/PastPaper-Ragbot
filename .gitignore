@@ -23,7 +23,6 @@ env/
 
 # Project specific - Generated files
 extracted_text.txt
-pdf_analysis.json
 *.log
 
 # Vector Database
@@ -32,6 +31,10 @@ pdf_analysis.json
 *.faiss
 chroma_db/
 vector_store/
+
+# Data files (keep structure, ignore large files)
+data/*.json
+!data/questions.json
 embeddings/
 
 # API Keys and Config
