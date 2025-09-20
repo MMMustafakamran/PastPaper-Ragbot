@@ -1,0 +1,4617 @@
+{
+  "summary": {
+    "total_questions": 199,
+    "subject_distribution": {
+      "mathematics": 65,
+      "general": 84,
+      "chemistry": 12,
+      "physics": 28,
+      "general_knowledge": 2,
+      "english": 8
+    },
+    "question_type_distribution": {
+      "multiple_choice": 196,
+      "selection": 1,
+      "calculation": 2
+    },
+    "option_count_distribution": {
+      "4": 196,
+      "5": 3
+    },
+    "statistics": {
+      "avg_question_length": 65.26130653266331,
+      "avg_options_per_question": 4.015075376884422,
+      "questions_with_math_notation": 11,
+      "questions_with_equations": 40,
+      "questions_with_chemical_formulas": 191
+    }
+  },
+  "questions": [
+    {
+      "question_number": "1",
+      "question_text": "If sin⁻¹x + sin⁻¹ y + sin⁻¹z =3π/2 then the value of x9 + y9 + z9 – 1/ x9 y9 z9 is equal to",
+      "options": [
+        "a. 0",
+        "b. 1",
+        "c. 2",
+        "d. 3"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": true,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 91,
+        "avg_option_length": 4.0
+      }
+    },
+    {
+      "question_number": "2",
+      "question_text": "Let p, q, r be the sides opposite to the angle P,Q.R respectively in a triangle PQR. If r² sin",
+      "options": [
+        "a. Equilateral",
+        "b. Acute angled but not equilateral",
+        "c. Obtuse angled if sin",
+        "d. Right angled"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 94,
+        "avg_option_length": 21.75
+      }
+    },
+    {
+      "question_number": "3",
+      "question_text": "Let p, q, and r be sides opposite to the angles P, Q, R respectively in a triangle PQR. Then",
+      "options": [
+        "a. p² + q² + r²",
+        "b. p² + r² - q²",
+        "c. q² + r² - p²",
+        "d. p² + q² - r²"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 92,
+        "avg_option_length": 15.0
+      }
+    },
+    {
+      "question_number": "4",
+      "question_text": "Let P (2,-3), Q (-2, 1) be the vertices of the triangle PQR. If the centroid of ΔPQR lies on the line",
+      "options": [
+        "a. 2x + 3y = 9",
+        "b. 2x - 3y = 9",
+        "c. 3x + 2y = 5",
+        "d. 3x - 2y = 5"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 101,
+        "avg_option_length": 14.0
+      }
+    },
+    {
+      "question_number": "5",
+      "question_text": "If n(A) = m, then nP(A) =",
+      "options": [
+        "a. 2 n",
+        "b. 2n",
+        "c. 2m",
+        "d. 2m"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 25,
+        "avg_option_length": 5.25
+      }
+    },
+    {
+      "question_number": "6",
+      "question_text": "If f is a real-valued differentiable function such that f(x) f’(x) < 0 for all real x, then",
+      "options": [
+        "a. F(x) must be an increasing function",
+        "b. F(x) must be an decreasing function",
+        "c. |F(x)| must be an increasing function",
+        "d. |F(x)| must be an decreasing function"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 91,
+        "avg_option_length": 39.0
+      }
+    },
+    {
+      "question_number": "7",
+      "question_text": "Role’s theorem is applicable in the interval [-2,2] for the function",
+      "options": [
+        "a. F(x) =x3",
+        "b. F(x) =4x4",
+        "c. F(x) =2x3 + 3",
+        "d. F(x) =π|x|"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 68,
+        "avg_option_length": 13.0
+      }
+    },
+    {
+      "question_number": "8",
+      "question_text": "The solution of 25 d²y/dx² -10dy/dx + y = 0 , y(0) =1y(1) =2e1/5 is",
+      "options": [
+        "a. y= e5x + e-5x",
+        "b. y=(1 +x) e5x",
+        "c. y=(1 +x) ex/5",
+        "d. y=(1 +x) e- x/5"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 67,
+        "avg_option_length": 16.25
+      }
+    },
+    {
+      "question_number": "9",
+      "question_text": "Let P be the midpoint of a chord joining the vertex of the parabola y² = 8x to another point on it.",
+      "options": [
+        "a. = 2x",
+        "b. y² = 4x",
+        "c. x²/4 + y² = 1",
+        "d. x² + y²/4 = 1"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 99,
+        "avg_option_length": 12.25
+      }
+    },
+    {
+      "question_number": "10",
+      "question_text": "the line x =2y intersects the ellipse x²/4 + y² =1 at the point P and Q. the equation of the circle",
+      "options": [
+        "a. x² + y² = 1/2",
+        "b. x² + y² = 1",
+        "c. x² + y² = 2",
+        "d. x² + y² = 5/2"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 99,
+        "avg_option_length": 15.0
+      }
+    },
+    {
+      "question_number": "11",
+      "question_text": "the eccentric angle in the first quadrant of a point on the ellipse x² /10 + y² /8= 1 at a distance",
+      "options": [
+        "a. π/6",
+        "b. π/4",
+        "c. π/3",
+        "d. π/2"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": false,
+        "has_equations": true,
+        "question_length": 99,
+        "avg_option_length": 6.0
+      }
+    },
+    {
+      "question_number": "12",
+      "question_text": "The transverse axis of a hyperbola is along the x axis and its length is 2a. The vertex of the",
+      "options": [
+        "a. 6x² - y² = 3a2",
+        "b. x² - 3 y² = 3a2",
+        "c. x² - 6 y² = 3a2",
+        "d. 3x² - y² = 3a2"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 94,
+        "avg_option_length": 17.5
+      }
+    },
+    {
+      "question_number": "13",
+      "question_text": "A point moves in such a way that the difference of its distance from two point (8, 0) and (-8, 0)",
+      "options": [
+        "a. A circle",
+        "b. A parabola",
+        "c. An ellipse",
+        "d. A hyperbola"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 97,
+        "avg_option_length": 12.75
+      }
+    },
+    {
+      "question_number": "14",
+      "question_text": "The number of integer values of m, for which the x coordinate of the point of intersection of the",
+      "options": [
+        "a. 0",
+        "b. 2",
+        "c. 4",
+        "d. 1"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 97,
+        "avg_option_length": 4.0
+      }
+    },
+    {
+      "question_number": "15",
+      "question_text": "If a straight line passes through the point (α,β) and the portion of the line intercepted between",
+      "options": [
+        "a. 0",
+        "b. 1",
+        "c. 2",
+        "d. 4"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 97,
+        "avg_option_length": 4.0
+      }
+    },
+    {
+      "question_number": "16",
+      "question_text": "The maximum value of |z| when the Complex number z satisfies the condition |z + 2/z| is",
+      "options": [
+        "a. √3",
+        "b. √3 + √2",
+        "c. √3+1",
+        "d. √3−1"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 87,
+        "avg_option_length": 7.25
+      }
+    },
+    {
+      "question_number": "17",
+      "question_text": "If (3/2 + i√3/2)56 =3 25 (x +iy) , where x and y are real, then the ordered pair (x,y) is",
+      "options": [
+        "a. (-3,0)",
+        "b. (0,3)",
+        "c. (0,-3)",
+        "d. (½) (√3/2)"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": true,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 89,
+        "avg_option_length": 9.75
+      }
+    },
+    {
+      "question_number": "18",
+      "question_text": "If z-1/z+1 is purely imaginary, then",
+      "options": [
+        "a. |z|= ½",
+        "b. |z|=1",
+        "c. |z|=2",
+        "d. |z|=3"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 36,
+        "avg_option_length": 8.25
+      }
+    },
+    {
+      "question_number": "19",
+      "question_text": "Then inverse of q  p is ?",
+      "options": [
+        "a. p  q",
+        "b. p  q",
+        "c. q p",
+        "d. q p"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 26,
+        "avg_option_length": 7.5
+      }
+    },
+    {
+      "question_number": "20",
+      "question_text": "a vehicle registration number consists of 2 letters of English alphabet followed by 4 digits, where",
+      "options": [
+        "a. 262 x 104",
+        "b. 26p x 10p 2 2",
+        "c. 26p x 9 x 10p 2 3",
+        "d. 262 x9 x103"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 99,
+        "avg_option_length": 15.5
+      }
+    },
+    {
+      "question_number": "21",
+      "question_text": "The number of the words that can be written using all the letter of the word “irrational” is",
+      "options": [
+        "a. 10! / (2!)3",
+        "b. 10! / (2!)2",
+        "c. 10! /2!",
+        "d. 10!"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 92,
+        "avg_option_length": 11.0
+      }
+    },
+    {
+      "question_number": "22",
+      "question_text": "Four speakers will address a meeting where speaker Q will always speak after speaker. Then the",
+      "options": [
+        "a. 256",
+        "b. 128",
+        "c. 24",
+        "d. 12"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 94,
+        "avg_option_length": 5.5
+      }
+    },
+    {
+      "question_number": "23",
+      "question_text": "The number of diagonals in a regular polygon of 100 sides is",
+      "options": [
+        "a. 4950",
+        "b. 4850",
+        "c. 4750",
+        "d. 4650"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 60,
+        "avg_option_length": 7.0
+      }
+    },
+    {
+      "question_number": "24",
+      "question_text": "Let the coefficients of powers of x in the 2nd, 3rd and 4th terms in the expansion of (1 +x)n where",
+      "options": [
+        "a. 23",
+        "b. 64",
+        "c. 128",
+        "d. 256"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 99,
+        "avg_option_length": 5.5
+      }
+    },
+    {
+      "question_number": "25",
+      "question_text": "The sum 1 x 1! + 2 x 2! + ………..50 x 50! Equal to",
+      "options": [
+        "a. 51!",
+        "b. 51!-1",
+        "c. 51!+1",
+        "d. 51! X 2"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 48,
+        "avg_option_length": 8.0
+      }
+    },
+    {
+      "question_number": "26",
+      "question_text": "Six numbers are in AP. Such that their sum is 3 the first term is 4 times the third term. Then the",
+      "options": [
+        "a. -15",
+        "b. -3",
+        "c. 9",
+        "d. -4"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 98,
+        "avg_option_length": 5.0
+      }
+    },
+    {
+      "question_number": "27",
+      "question_text": "The sum of the infinite series 1 + 1/3 + 1.3/1.6 + 1.3.5/3.6.9 + 1.3.5.7/3.6.9.12 + ………………. Is",
+      "options": [
+        "a. √2",
+        "b. √3",
+        "c. √3/2",
+        "d. √1/3"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 94,
+        "avg_option_length": 6.0
+      }
+    },
+    {
+      "question_number": "28",
+      "question_text": "The equations x²+ x+ a = 0 and x²+ ax+ 1 =0 have a common real root",
+      "options": [
+        "a. For no value of a",
+        "b. For exactly one value of a",
+        "c. For exactly two value of a",
+        "d. For exactly three value of a"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 67,
+        "avg_option_length": 27.25
+      }
+    },
+    {
+      "question_number": "29",
+      "question_text": "If 64, 27, 36, are the Pth Qth and the Rth terms of the G.P then P + 2Q is equal to",
+      "options": [
+        "a. R",
+        "b. 2R",
+        "c. 3R",
+        "d. 4R"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 83,
+        "avg_option_length": 4.75
+      }
+    },
+    {
+      "question_number": "30",
+      "question_text": "The equation y² + 4x +4y + k = 0 represents a parabola whose lotus rectum is",
+      "options": [
+        "a. 1",
+        "b. 2",
+        "c. 3",
+        "d. 4"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 76,
+        "avg_option_length": 4.0
+      }
+    },
+    {
+      "question_number": "31",
+      "question_text": "If the circles x² + y² +2x + 2ky + 6 = 0 and x² + y² + 2ky + k = 0 intersect orthogonally, then k is",
+      "options": [
+        "a. 2 or -3/2",
+        "b. -2 or-3/2",
+        "c. 2 or 3/2",
+        "d. -2 or 3/2"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 100,
+        "avg_option_length": 11.75
+      }
+    },
+    {
+      "question_number": "32",
+      "question_text": "If four distinct points(2k,3k),(2,0),(0,3),(0,0) lie on a circle , then",
+      "options": [
+        "a. K< 0",
+        "b. 0< K < 1",
+        "c. K = 1",
+        "d. K > 1"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 71,
+        "avg_option_length": 8.5
+      }
+    },
+    {
+      "question_number": "33",
+      "question_text": "The line joining a( bcos α, bsin) and B( acos β, asin β) , where a ≠ b, is produced to the point",
+      "options": [
+        "a. 0",
+        "b. 1",
+        "c. -1",
+        "d. a2 + b2"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 96,
+        "avg_option_length": 5.75
+      }
+    },
+    {
+      "question_number": "34",
+      "question_text": "let the foci of the ellipse x²/9 + y² = 1 subtend right angle at a point P then the locus of P is",
+      "options": [
+        "a. x² + y² = 1",
+        "b. x² + y² = 2",
+        "c. x² + y² = 4",
+        "d. x² + y² = 8"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 97,
+        "avg_option_length": 14.0
+      }
+    },
+    {
+      "question_number": "35",
+      "question_text": "the general solution of the differential equation dy /dx =(x+y+1/2x +2y +1 ) is",
+      "options": [
+        "a. Log |3x +3y +2| +3x +6x =c",
+        "b. Log |3x +3y +2| -3x +6x =c",
+        "c. Log |3x +3y +2| -3x -6x =c",
+        "d. Log |3x +3y +2| +3x -6x =c"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": false,
+        "has_equations": true,
+        "question_length": 79,
+        "avg_option_length": 29.0
+      }
+    },
+    {
+      "question_number": "37",
+      "question_text": "The value of the integral π/2∫ 1/1 +(tanx)101 dx is equal to",
+      "options": [
+        "a. 1",
+        "b. π/6",
+        "c. π/8",
+        "d. π/4"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": true,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 60,
+        "avg_option_length": 5.5
+      }
+    },
+    {
+      "question_number": "38",
+      "question_text": "the integrating factor of the differential equation 3x log x dy/dx +y = 2 log x is given by",
+      "options": [
+        "a. log x3",
+        "b. log (log x)",
+        "c. log x",
+        "d. (log x)1/3"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": false,
+        "has_equations": true,
+        "question_length": 91,
+        "avg_option_length": 11.0
+      }
+    },
+    {
+      "question_number": "39",
+      "question_text": "Number of solutions of the equation tan x + sec x = 2 cos x, x∈ [0,𝜋] is",
+      "options": [
+        "a. 0",
+        "b. 1",
+        "c. 2",
+        "d. 3"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 72,
+        "avg_option_length": 4.0
+      }
+    },
+    {
+      "question_number": "40",
+      "question_text": "The value of the integral π/4∫ sinx + cosx / 3 + sin2x dx is equal to",
+      "options": [
+        "a. Log 2",
+        "b. Log 3",
+        "c. ¼ log 2",
+        "d. ¼ log 3"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": true,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 69,
+        "avg_option_length": 9.0
+      }
+    },
+    {
+      "question_number": "41",
+      "question_text": "Let y= (3x – 1/3x+1 )sinx + log (2 +x) , x >-1 then at x = 0, dy /dx equals",
+      "options": [
+        "a. 1",
+        "b. 0",
+        "c. -1",
+        "d. -2"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 75,
+        "avg_option_length": 4.5
+      }
+    },
+    {
+      "question_number": "42",
+      "question_text": "Max value of the function f(x) = x/8 + 2/x on the interval [1,6] is",
+      "options": [
+        "a. 1",
+        "b. 9/8",
+        "c. 13/12",
+        "d. 17/8"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 67,
+        "avg_option_length": 6.25
+      }
+    },
+    {
+      "question_number": "43",
+      "question_text": "A non-empty set on which a binary operation can be defined is called",
+      "options": [
+        "a. Group",
+        "b. Semi group",
+        "c. Groupoid",
+        "d. Ableian group",
+        "e. Monoid"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 5,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 68,
+        "avg_option_length": 11.4
+      }
+    },
+    {
+      "question_number": "44",
+      "question_text": "The value of the integral 2∫ (1 +2sinx)e|x| dx is equal to",
+      "options": [
+        "a. 0",
+        "b. e2 -1",
+        "c. 2(e2 – 1)",
+        "d. 1"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": true,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 58,
+        "avg_option_length": 7.0
+      }
+    },
+    {
+      "question_number": "45",
+      "question_text": "If (α +√𝛽) and (α –√𝛽) are the roots of the equation x + px+ q =0 where α , β,p,q are real then",
+      "options": [
+        "a. (1/α + 1/√𝛽 )and( 1/α - 1/√𝛽)",
+        "b. (1/√α + 1/𝛽)and( 1/√α - 1/𝛽",
+        "c. (1/√α + 1/√𝛽 )and( 1/√α - 1/√𝛽)",
+        "d. (√α +√𝛽) and (√α -√𝛽)"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": true,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 95,
+        "avg_option_length": 30.0
+      }
+    },
+    {
+      "question_number": "46",
+      "question_text": "The number of solutions of the equation log2(x² + 2x -1)=1 is",
+      "options": [
+        "a. 0",
+        "b. 1",
+        "c. 2",
+        "d. 3"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 61,
+        "avg_option_length": 4.0
+      }
+    },
+    {
+      "question_number": "47",
+      "question_text": "The sum of the series 1 + 1n/2 C1 + 1n/3 C2 + ……………. + 1n/n+1Cn.",
+      "options": [
+        "a. 2n+1 -1 / n+1",
+        "b. 3(2n-1)/2n",
+        "c. 2n+1/ n+1",
+        "d. 2n+1/ 2n ∞ 1+2+3+⋯….(𝑟−1)"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 64,
+        "avg_option_length": 17.25
+      }
+    },
+    {
+      "question_number": "48",
+      "question_text": "The value of ∑ I sequal to",
+      "options": [
+        "a. e",
+        "b. 2e",
+        "c. e/2",
+        "d. 3e/2"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": true,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 26,
+        "avg_option_length": 5.5
+      }
+    },
+    {
+      "question_number": "49",
+      "question_text": "If P = Q=PPt , then the value of the determinant of Q is equal to",
+      "options": [
+        "a. 2",
+        "b. -2",
+        "c. 1",
+        "d. 0"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 65,
+        "avg_option_length": 4.25
+      }
+    },
+    {
+      "question_number": "50",
+      "question_text": "The remainder obtained when 1! +2! +………………. +95! Is divided by 15 is",
+      "options": [
+        "a. 14",
+        "b. 3",
+        "c. 1",
+        "d. 0 -1 cosR cosQ"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 68,
+        "avg_option_length": 7.5
+      }
+    },
+    {
+      "question_number": "51",
+      "question_text": "If P, Q R, are angles of triangle PQR then the value of is equal to",
+      "options": [
+        "a. -1 cosQ cosP -1",
+        "b. 0",
+        "c. ½",
+        "d. 1"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 67,
+        "avg_option_length": 7.5
+      }
+    },
+    {
+      "question_number": "52",
+      "question_text": "The number of real values of α for which the system of equations x +3y +5z =αx, 5x +y+3z =αy,",
+      "options": [
+        "a. 1",
+        "b. 2",
+        "c. 4",
+        "d. 6"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 93,
+        "avg_option_length": 4.0
+      }
+    },
+    {
+      "question_number": "53",
+      "question_text": "The total number of injections(one –one into mappings) from {a1,a2,a3,a4} to",
+      "options": [
+        "a. 400",
+        "b. 420",
+        "c. 800",
+        "d. 840"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 76,
+        "avg_option_length": 6.0
+      }
+    },
+    {
+      "question_number": "54",
+      "question_text": "It the set G = {1, ω, ω2} is an abelian group w.r.t multiplication then inverse of ω is?",
+      "options": [
+        "a. 1",
+        "b. ω",
+        "c. ω2",
+        "d. does not contain an inverse"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 88,
+        "avg_option_length": 10.75
+      }
+    },
+    {
+      "question_number": "55",
+      "question_text": "Two decks of playing cards are well shuffled and 26 cards are randomly distributed to a player.",
+      "options": [
+        "a. 52C / 104C 26 26",
+        "b. 2 x 52C / 104C 26 26",
+        "c. 213 x 52C / 104C 26 26",
+        "d. 2 26x 52C / 104C 26 26"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 95,
+        "avg_option_length": 23.0
+      }
+    },
+    {
+      "question_number": "56",
+      "question_text": "An urn contains * red 5 white balls. Three balls are drawn at random. Then the probability that",
+      "options": [
+        "a. 40/143",
+        "b. 70/143",
+        "c. 3/13",
+        "d. 10/13"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 95,
+        "avg_option_length": 8.25
+      }
+    },
+    {
+      "question_number": "57",
+      "question_text": "Two coin are available, one fair and the other two headed .choose a coin unbiased coin is",
+      "options": [
+        "a. 3/5",
+        "b. 2/5",
+        "c. 1/5",
+        "d. 2/7"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "selection",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 89,
+        "avg_option_length": 6.0
+      }
+    },
+    {
+      "question_number": "58",
+      "question_text": "Let R be the set of real numbers and the functions f:RR and g : R R be defined f(x) = X2 + 2x",
+      "options": [
+        "a. -1",
+        "b. 0",
+        "c. 1",
+        "d. 2"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 95,
+        "avg_option_length": 4.25
+      }
+    },
+    {
+      "question_number": "59",
+      "question_text": "If a ,b,c are in arithmetic progression, then the roots of the equation ax²-2bx + c =0 are",
+      "options": [
+        "a. 1 and c/a",
+        "b. -1/a and –c",
+        "c. -1 and –c/a",
+        "d. -2 and –c/2a"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 90,
+        "avg_option_length": 13.75
+      }
+    },
+    {
+      "question_number": "60",
+      "question_text": "Let γ be the solution of the differential equation x dy/dx = y²/1-logx satisfying y(1) =1 then γ",
+      "options": [
+        "a. Y =xy-1",
+        "b. Y =x y",
+        "c. Y=xy+1",
+        "d. Y=xy+2"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 96,
+        "avg_option_length": 9.25
+      }
+    },
+    {
+      "question_number": "61",
+      "question_text": "The area of the region bounded by the curves y = sin -1x + x(1-x) and y = sin -1x –(1-x) in the",
+      "options": [
+        "a. 1",
+        "b. ½",
+        "c. 1/3",
+        "d. ¼"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 95,
+        "avg_option_length": 4.5
+      }
+    },
+    {
+      "question_number": "62",
+      "question_text": "The value of the integral 5∫ [|x-3| +1-x|]dx is equal to",
+      "options": [
+        "a. 4",
+        "b. 8",
+        "c. 12",
+        "d. 16"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": true,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 56,
+        "avg_option_length": 4.5
+      }
+    },
+    {
+      "question_number": "63",
+      "question_text": "If f (x) and g(X) are twice differentiable functions on (0,3) satisfying f”(x) =g”(x), f(1) =4 g(1)=6",
+      "options": [
+        "a. 4",
+        "b. -4",
+        "c. 0",
+        "d. -2"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 101,
+        "avg_option_length": 4.5
+      }
+    },
+    {
+      "question_number": "64",
+      "question_text": "Let (x) denote the greater integer less than or equal to x, then the value of the integral 1∫",
+      "options": [
+        "a. 3",
+        "b. 2",
+        "c. -2",
+        "d. -3"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": true,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 93,
+        "avg_option_length": 4.5
+      }
+    },
+    {
+      "question_number": "65",
+      "question_text": "The points representing the complex number z for which arg(z-2/z+2) =π/3 lies on",
+      "options": [
+        "a. A circle",
+        "b. A straight line",
+        "c. An ellipse",
+        "d. A parabola"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": true,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 80,
+        "avg_option_length": 13.75
+      }
+    },
+    {
+      "question_number": "66",
+      "question_text": "Let a, b, c, p, q, r be positive real numbers such that a, b ,c are in G.P and ap =bq =crthen A,B,C",
+      "options": [
+        "a. p, q rare in G.P",
+        "b. p, q rare in A.P",
+        "c. p, q rare in H.P",
+        "d. p²,q² and r² rare in A.P"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 99,
+        "avg_option_length": 21.0
+      }
+    },
+    {
+      "question_number": "67",
+      "question_text": "a compound statement at the form “If p then q ” is called",
+      "options": [
+        "a. implication",
+        "b. hypothesis",
+        "c. tautology",
+        "d. contingency"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "chemistry",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 57,
+        "avg_option_length": 13.25
+      }
+    },
+    {
+      "question_number": "68",
+      "question_text": "The quadratic equation 2x²(a3 +8a -1) x a2 -4a =0 possesses roots of opposite sign. then",
+      "options": [
+        "a. a ≤ 0",
+        "b. 0<a<4",
+        "c. 4 ≤ a < 8",
+        "d. a≥8"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 88,
+        "avg_option_length": 8.5
+      }
+    },
+    {
+      "question_number": "69",
+      "question_text": "if log (x² -16 ) ≤ log(4𝑥−11),𝑡ℎ𝑒𝑛",
+      "options": [
+        "a. 4<x≤ 5",
+        "b. X< -4 0r x>4",
+        "c. -1≤ 𝑥 ≤ 5",
+        "d. X<-1 0r x>5"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": false,
+        "has_equations": true,
+        "question_length": 34,
+        "avg_option_length": 12.5
+      }
+    },
+    {
+      "question_number": "70",
+      "question_text": "The coefficient of x 10 in the expansion of 1+ (1+x) +………………………+(1+x)10 is",
+      "options": [
+        "a. 19C 9",
+        "b. 20C 10",
+        "c. 21C 11",
+        "d. 22C 12"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 74,
+        "avg_option_length": 8.75
+      }
+    },
+    {
+      "question_number": "71",
+      "question_text": "The system of linear equation λx+ y+ z =3, x-y-2z=6, -x + y +z =𝜇",
+      "options": [
+        "a. Infinite number of solutions for λ ≠-1 and all 𝜇",
+        "b. Infinite number of solutions for λ =-1 and all 𝜇 =3",
+        "c. No solution for λ ≠-1",
+        "d. Unique solution for λ =-1 and all 𝜇 =3"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 65,
+        "avg_option_length": 42.5
+      }
+    },
+    {
+      "question_number": "72",
+      "question_text": "Let A and B be two events with P(Ac) =0.3, P (B)=0.4 and P(A ∩B’) =0.5 Then P(B/(AUB’)) is",
+      "options": [
+        "a. ¼",
+        "b. 1/3",
+        "c. ½",
+        "d. 2/3"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 90,
+        "avg_option_length": 5.0
+      }
+    },
+    {
+      "question_number": "73",
+      "question_text": "The set of real number is a subset of",
+      "options": [
+        "a. Set at natural number",
+        "b. Set of whole number",
+        "c. Set of………..",
+        "d. Set of complex number"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 37,
+        "avg_option_length": 21.0
+      }
+    },
+    {
+      "question_number": "74",
+      "question_text": "Let C and C denote the cents of the circles x² + y² =4 and (x-2)2+ y² =1 respectively and let P",
+      "options": [
+        "a. 3:1",
+        "b. 5:1",
+        "c. 7:1",
+        "d. 9:1"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 95,
+        "avg_option_length": 6.0
+      }
+    },
+    {
+      "question_number": "75",
+      "question_text": "A Straight line through the point of intersection of the lines x +2y =4 and 2x +y =4 meet the",
+      "options": [
+        "a. 3(x + y) =2xy",
+        "b. 2(x + y) =3xy",
+        "c. 2(x + y) =xy",
+        "d. (x y) =3xy"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 93,
+        "avg_option_length": 15.0
+      }
+    },
+    {
+      "question_number": "76",
+      "question_text": "Let P and Q be the points on the parabola y² =4x so that the line segment PQ subtends right",
+      "options": [
+        "a. 1",
+        "b. 2",
+        "c. 4",
+        "d. 6"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 91,
+        "avg_option_length": 4.0
+      }
+    },
+    {
+      "question_number": "77",
+      "question_text": "The set {{a , b}} is called",
+      "options": [
+        "a. Singleton set",
+        "b. Proper",
+        "c. Overlapping set",
+        "d. Improper set"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 27,
+        "avg_option_length": 14.5
+      }
+    },
+    {
+      "question_number": "78",
+      "question_text": "The value of lim x ∞ (n!)1/n/n is",
+      "options": [
+        "a. 1",
+        "b. 1/e2",
+        "c. 1/2e",
+        "d. 1/e"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 34,
+        "avg_option_length": 6.0
+      }
+    },
+    {
+      "question_number": "79",
+      "question_text": "The area of the region bounded by the curve y =x3 ,y =(1/x) x=2 is",
+      "options": [
+        "a. 2 –log2",
+        "b. ¼ - log2",
+        "c. 3 –log2",
+        "d. 15/4 –log 2"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 66,
+        "avg_option_length": 11.25
+      }
+    },
+    {
+      "question_number": "80",
+      "question_text": "Let f(x) =ax²+bx +c, g(x) =px² + qx +r such that f(1) =g(2),f(2) =g(2) and f(3) –g(3) =2.then f(4) –",
+      "options": [
+        "a. 4",
+        "b. 5",
+        "c. 6",
+        "d. 7"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 100,
+        "avg_option_length": 4.0
+      }
+    },
+    {
+      "question_number": "81",
+      "question_text": "If the measuring scale has a least count of 10 kg then in 8000 kg the significant figures are",
+      "options": [
+        "a. 4",
+        "b. 1",
+        "c. 3",
+        "d. 0"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 93,
+        "avg_option_length": 4.0
+      }
+    },
+    {
+      "question_number": "82",
+      "question_text": "Which one of the following series are observed in the visible region of electromagnetic",
+      "options": [
+        "a. Lyman series",
+        "b. Balmer series",
+        "c. Bracket series",
+        "d. Pfunds series"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "physics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 87,
+        "avg_option_length": 16.0
+      }
+    },
+    {
+      "question_number": "83",
+      "question_text": "The number 1678.9 should be written in scientific notation as",
+      "options": [
+        "a. 16.789 x 103",
+        "b. 1.6789 x 103",
+        "c. 1678.9 x 103",
+        "d. None"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 61,
+        "avg_option_length": 13.0
+      }
+    },
+    {
+      "question_number": "84",
+      "question_text": "Which one of the following groups has quantities that do not have the same dimensions",
+      "options": [
+        "a. Velocity, speed",
+        "b. Pressure, stress",
+        "c. Force, impulse",
+        "d. Work , energy"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 85,
+        "avg_option_length": 17.5
+      }
+    },
+    {
+      "question_number": "85",
+      "question_text": "The %age errors in the measurement of mass and speed are 3% and 4% respectively. The",
+      "options": [
+        "a. 11%",
+        "b. 10 5",
+        "c. 8%",
+        "d. 9%"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 84,
+        "avg_option_length": 5.75
+      }
+    },
+    {
+      "question_number": "86",
+      "question_text": "The vector product of two vectors is zero, when",
+      "options": [
+        "a. They are parallel to each other",
+        "b. They are equal vectors",
+        "c. They are perpendicular to each other",
+        "d. They are inclined at angle of 600"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 47,
+        "avg_option_length": 33.5
+      }
+    },
+    {
+      "question_number": "87",
+      "question_text": "In right hand rule, the direction of the product vector will be",
+      "options": [
+        "a. Along the thumb erect",
+        "b. Perpendicular to the erect thumb",
+        "c. Along the rotation of fingers",
+        "d. None"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 63,
+        "avg_option_length": 24.5
+      }
+    },
+    {
+      "question_number": "88",
+      "question_text": "When an object slides at constant speed down an inclined plane, the coefficient of friction may",
+      "options": [
+        "a. sinӨ",
+        "b. cos Ө",
+        "c. tan Ө",
+        "d. cot Ө"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 95,
+        "avg_option_length": 7.75
+      }
+    },
+    {
+      "question_number": "89",
+      "question_text": "Two forces 3N and 2N are at an angle Ө such that the resultant is R the first force is now",
+      "options": [
+        "a. 300",
+        "b. 600",
+        "c. 900",
+        "d. 1200"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "physics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 90,
+        "avg_option_length": 6.25
+      }
+    },
+    {
+      "question_number": "90",
+      "question_text": "Torque acting on a body determines",
+      "options": [
+        "a. Acceleration",
+        "b. Linear acceleration",
+        "c. Angular acceleration",
+        "d. Direction of motion of the body"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 34,
+        "avg_option_length": 23.5
+      }
+    },
+    {
+      "question_number": "91",
+      "question_text": "If the velocity of a body is uniform the velocity –time graph is a straight line which is",
+      "options": [
+        "a. Parallel to x axis",
+        "b. Parallel",
+        "c. At an angle of 450 with the x-axis",
+        "d. Along the y-axis"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "physics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 89,
+        "avg_option_length": 22.0
+      }
+    },
+    {
+      "question_number": "92",
+      "question_text": "At what angle of projection the horizontal range of a projectile is max?",
+      "options": [
+        "a. 300",
+        "b. 450",
+        "c. 600",
+        "d. 900"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 72,
+        "avg_option_length": 6.0
+      }
+    },
+    {
+      "question_number": "93",
+      "question_text": "What will be the ratio of the distance moved by a freely falling body from rest in 4th and 5th",
+      "options": [
+        "a. 4: 5",
+        "b. 7:9",
+        "c. 16:25",
+        "d. 1:1"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 94,
+        "avg_option_length": 6.75
+      }
+    },
+    {
+      "question_number": "94",
+      "question_text": "According to the postulates of the theory of relativity, a fourth dimension has been added to the",
+      "options": [
+        "a. Space",
+        "b. Inertial frame of reference",
+        "c. Speed of light",
+        "d. Time"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 97,
+        "avg_option_length": 15.5
+      }
+    },
+    {
+      "question_number": "95",
+      "question_text": "If the water fall from a dam to into a turbine wheel 19.6m below, then the velocity of water at",
+      "options": [
+        "a. 9.8m/s",
+        "b. 19.6 m/s",
+        "c. 39.2 m/s",
+        "d. 98.0 m/s"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "physics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 95,
+        "avg_option_length": 10.5
+      }
+    },
+    {
+      "question_number": "96",
+      "question_text": "The escape velocity of earth in Km/s",
+      "options": [
+        "a. 9.75",
+        "b. 11.2",
+        "c. 12.3",
+        "d. 15.6"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "physics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 36,
+        "avg_option_length": 7.0
+      }
+    },
+    {
+      "question_number": "97",
+      "question_text": "Which is constant for a satellite in orbit?",
+      "options": [
+        "a. Velocity",
+        "b. K.E",
+        "c. Angular momentum",
+        "d. P.E"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 43,
+        "avg_option_length": 10.5
+      }
+    },
+    {
+      "question_number": "98",
+      "question_text": "How much water a pump of 2kw can raise in one minute to a height of 10 m, (Take g =10m/s2)",
+      "options": [
+        "a. 1000 liters",
+        "b. 1200 liters",
+        "c. 100 liters",
+        "d. 2000 liters"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": true,
+        "question_length": 90,
+        "avg_option_length": 13.75
+      }
+    },
+    {
+      "question_number": "99",
+      "question_text": "The escape velocity from the earth’s surface is 11km/s. A certain planet has a radius twice that",
+      "options": [
+        "a. 24km/s",
+        "b. 11km/s",
+        "c. 5.5km/s",
+        "d. 16.5km/s"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "physics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 96,
+        "avg_option_length": 9.75
+      }
+    },
+    {
+      "question_number": "100",
+      "question_text": "If force and displacement of particle in the direction of force are doubled. work would",
+      "options": [
+        "a. Double",
+        "b. 4 times",
+        "c. Half",
+        "d. ¼ time"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "physics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 87,
+        "avg_option_length": 8.75
+      }
+    },
+    {
+      "question_number": "101",
+      "question_text": "An electric motor is required to haul a cage of mass 400kg up a mineshaft through a",
+      "options": [
+        "a. 3.2kw",
+        "b. 5kw",
+        "c. 32kw",
+        "d. 50kw"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "physics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 83,
+        "avg_option_length": 7.0
+      }
+    },
+    {
+      "question_number": "102",
+      "question_text": "A couple produces",
+      "options": [
+        "a. Purely linear motion",
+        "b. Purely rotational motion",
+        "c. Linear and rotational motion",
+        "d. No motion"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 17,
+        "avg_option_length": 23.25
+      }
+    },
+    {
+      "question_number": "103",
+      "question_text": "The units of angular acceleration I s",
+      "options": [
+        "a. Radian",
+        "b. Radian per second",
+        "c. Radian per second2",
+        "d. None"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "physics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 37,
+        "avg_option_length": 14.25
+      }
+    },
+    {
+      "question_number": "104",
+      "question_text": "Once the space shuttle is in orbit at a radius R from earth’s center, what force does the",
+      "options": [
+        "a. Mg",
+        "b. Zero newton",
+        "c. M/g",
+        "d. Ng/R2"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "physics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 89,
+        "avg_option_length": 8.25
+      }
+    },
+    {
+      "question_number": "105",
+      "question_text": "In which case application of angular velocity is useful?",
+      "options": [
+        "a. When body is rotating",
+        "b. When velocity of body is in a straight line",
+        "c. When velocity is in a straight line",
+        "d. None"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "physics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 56,
+        "avg_option_length": 28.75
+      }
+    },
+    {
+      "question_number": "106",
+      "question_text": "If the area of a circle is equal to its circumference the radius of this circle is",
+      "options": [
+        "a. 1",
+        "b. 2",
+        "c. 3",
+        "d. 4"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 82,
+        "avg_option_length": 4.0
+      }
+    },
+    {
+      "question_number": "107",
+      "question_text": "Rotational K.E of a disc is",
+      "options": [
+        "a. K.E =1/2 mv2 rot",
+        "b. K.E =1/3 mv2 rot",
+        "c. K.E =1/4 mv2 rot",
+        "d. None"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 27,
+        "avg_option_length": 16.0
+      }
+    },
+    {
+      "question_number": "108",
+      "question_text": "Which of these statements is not correct",
+      "options": [
+        "a. Moment of inertia is independent of shape and size of the body",
+        "b. Moment of inertia depends on choice of axes",
+        "c. Momentum of inertia does not depend on the mass of body",
+        "d. None"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 40,
+        "avg_option_length": 44.0
+      }
+    },
+    {
+      "question_number": "109",
+      "question_text": "A particle is moving in a vertical circle. The tensions the string when passing through two",
+      "options": [
+        "a. T = T 1 2",
+        "b. T > T 2 1",
+        "c. T > T 1 2",
+        "d. Tension in the string always remains the same"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 91,
+        "avg_option_length": 21.0
+      }
+    },
+    {
+      "question_number": "110",
+      "question_text": "At terminal velocity, fluid friction is",
+      "options": [
+        "a. Maximum",
+        "b. Minimum",
+        "c. Zero",
+        "d. Decreasing"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "physics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 39,
+        "avg_option_length": 10.0
+      }
+    },
+    {
+      "question_number": "111",
+      "question_text": "𝑣 = √2g(h1−h2) 𝑠ℎ𝑜𝑤𝑠 𝑡ℎ𝑒",
+      "options": [
+        "a. Equation of continuity",
+        "b. Bernoulli’s theorem",
+        "c. Torricelli’s theorem",
+        "d. Equation for compressible fluids"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": true,
+        "has_chemical_formulas": false,
+        "has_equations": true,
+        "question_length": 24,
+        "avg_option_length": 26.25
+      }
+    },
+    {
+      "question_number": "112",
+      "question_text": "With the increase of temperature viscosity",
+      "options": [
+        "a. Increase",
+        "b. Decrease",
+        "c. Remain constant",
+        "d. Doubles"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 42,
+        "avg_option_length": 12.5
+      }
+    },
+    {
+      "question_number": "113",
+      "question_text": "In case of streamed lined flow of liquid the loss of energy is",
+      "options": [
+        "a. Maximum",
+        "b. Minimum",
+        "c. Infinite",
+        "d. Equal to what is in turbulent flow"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "physics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 62,
+        "avg_option_length": 17.0
+      }
+    },
+    {
+      "question_number": "114",
+      "question_text": "A car engine is based on the principle of",
+      "options": [
+        "a. Bernoulli’s equation",
+        "b. Ventura relation",
+        "c. Torricelli’s theorem",
+        "d. None"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "chemistry",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 41,
+        "avg_option_length": 18.0
+      }
+    },
+    {
+      "question_number": "115",
+      "question_text": "When a beam of light traveling in a rare medium is reflected from a denser medium it",
+      "options": [
+        "a. Suffers no phase change",
+        "b. Undergoes a phase change of 1800",
+        "c. Undergoes a phase change of 2700",
+        "d. Undergoes a phase change of 900"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 84,
+        "avg_option_length": 32.5
+      }
+    },
+    {
+      "question_number": "116",
+      "question_text": "Two water pipes of diameters 4 cm and 8 cm are connected with a supply line. The",
+      "options": [
+        "a. ¼ times",
+        "b. 4 times",
+        "c. Twice",
+        "d. ½ of 8 cm diameter pipe"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 80,
+        "avg_option_length": 13.5
+      }
+    },
+    {
+      "question_number": "117",
+      "question_text": "The density of water in F.P.S system is",
+      "options": [
+        "a. 50lb/ft2",
+        "b. 50ft/lb",
+        "c. 50ft/lb3",
+        "d. 50lb/ft3"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 39,
+        "avg_option_length": 10.75
+      }
+    },
+    {
+      "question_number": "118",
+      "question_text": "Total pressure on 1 m x 1 m gate immersed vertically at a depth of 2 m below the",
+      "options": [
+        "a. 1000 kg",
+        "b. 2000kg",
+        "c. 4000kg",
+        "d. 8000 kg"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 80,
+        "avg_option_length": 9.5
+      }
+    },
+    {
+      "question_number": "119",
+      "question_text": "The frequency of second pendulum is",
+      "options": [
+        "a. 1 hertz",
+        "b. 2 hertz",
+        "c. 0.5 hertz",
+        "d. None"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "physics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 35,
+        "avg_option_length": 9.75
+      }
+    },
+    {
+      "question_number": "120",
+      "question_text": "The type of motion in which an oscillating disturbance is transmitted from one",
+      "options": [
+        "a. Periodic motion",
+        "b. Rotatory motion",
+        "c. Wave motion",
+        "d. Rectilinear motion"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 78,
+        "avg_option_length": 17.75
+      }
+    },
+    {
+      "question_number": "121",
+      "question_text": "A ball is just allowed to fall from the window of a moving train it will hit the ground",
+      "options": [
+        "a. Circular path",
+        "b. Hyperbolic path",
+        "c. Straight line path",
+        "d. Parabolic path"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 87,
+        "avg_option_length": 18.0
+      }
+    },
+    {
+      "question_number": "122",
+      "question_text": "Which one of the following is a simple harmonic motion?",
+      "options": [
+        "a. Wave moving through a string fixed at both end",
+        "b. Earth spinning about its own axis",
+        "c. Ball bouncing between two rigid vertical walls",
+        "d. Particle moving in a circle with uniform speed."
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 55,
+        "avg_option_length": 46.0
+      }
+    },
+    {
+      "question_number": "123",
+      "question_text": "A block weighting 40 kg extends a spring by 0.16m from its unscratched position. What",
+      "options": [
+        "a. 170 kg/s2",
+        "b. 245 kg/s2",
+        "c. 215 kg/s2",
+        "d. 201 kg/s2"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 85,
+        "avg_option_length": 12.0
+      }
+    },
+    {
+      "question_number": "124",
+      "question_text": "A simple harmonic oscillator has a period T and energy E. the amplitude of the oscillator",
+      "options": [
+        "a. Period and energy get double",
+        "b. Period gets doubled while energy remain same",
+        "c. Energy gets doubled while Period remain same",
+        "d. Period remain same and Energy becomes 4 times"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "physics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 89,
+        "avg_option_length": 43.25
+      }
+    },
+    {
+      "question_number": "125",
+      "question_text": "A particle performs simple harmonic motion of amplitude 0.020 m and frequency",
+      "options": [
+        "a. 0.008m/s",
+        "b. 0.050 m/s",
+        "c. 0.125 m/s",
+        "d. 0.314 m/s"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "physics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 77,
+        "avg_option_length": 11.75
+      }
+    },
+    {
+      "question_number": "126",
+      "question_text": "Which if electromagnetic radiation has the longest wavelength?",
+      "options": [
+        "a. γ rays",
+        "b. UV",
+        "c. Microwaves",
+        "d. X rays"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "physics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 62,
+        "avg_option_length": 9.0
+      }
+    },
+    {
+      "question_number": "127",
+      "question_text": "The length of a spring is α when a force of 4 N is applied on it the length is β when 5 N",
+      "options": [
+        "a. 5β - 4α",
+        "b. β - α",
+        "c. 5α -4β",
+        "d. 9(β – α)"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "physics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 89,
+        "avg_option_length": 9.5
+      }
+    },
+    {
+      "question_number": "128",
+      "question_text": "Two springs of spring constant k1 and K2 are joined in series. The effective spring",
+      "options": [
+        "a. (k1 +k2)/2",
+        "b. K1+ K2",
+        "c. K1k2/(k1 + k2)",
+        "d. √𝑘1𝑘2"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 83,
+        "avg_option_length": 11.75
+      }
+    },
+    {
+      "question_number": "129",
+      "question_text": "The various features of wave phenomenon can be very conveniently studies by an",
+      "options": [
+        "a. Sonometer",
+        "b. Ripple tank",
+        "c. hydrometer",
+        "d. barometer"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "physics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 78,
+        "avg_option_length": 12.75
+      }
+    },
+    {
+      "question_number": "130",
+      "question_text": "A highly directional beam of ultrasonic wave can be made to travel in water in",
+      "options": [
+        "a. many meters",
+        "b. many kilometers",
+        "c. several kilometers",
+        "d. none"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "physics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 78,
+        "avg_option_length": 15.0
+      }
+    },
+    {
+      "question_number": "131",
+      "question_text": "Applications of the result of scientific studies of sound in the designs of building etc. is",
+      "options": [
+        "a. Optics",
+        "b. Wave mechanics",
+        "c. Acoustics",
+        "d. Statics"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 92,
+        "avg_option_length": 12.0
+      }
+    },
+    {
+      "question_number": "132",
+      "question_text": "Laplace formula is derived from",
+      "options": [
+        "a. Isothermal; change",
+        "b. Adiabatic change",
+        "c. Isobaric change",
+        "d. Isochoric change"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 31,
+        "avg_option_length": 19.25
+      }
+    },
+    {
+      "question_number": "133",
+      "question_text": "In the absence of an external torque the angular momentum of a rotating body is",
+      "options": [
+        "a. Constant",
+        "b. Variable",
+        "c. Unstable",
+        "d. Zero"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "physics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 79,
+        "avg_option_length": 10.0
+      }
+    },
+    {
+      "question_number": "134",
+      "question_text": "Progressive waves of frequency 300 Hz are superimposed to produce a system of",
+      "options": [
+        "a. 100m/s",
+        "b. 200m/s",
+        "c. 450 m/s",
+        "d. 900 m/s"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "physics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 77,
+        "avg_option_length": 9.5
+      }
+    },
+    {
+      "question_number": "135",
+      "question_text": "Which one of the following could be the frequency of ultraviolet radiation",
+      "options": [
+        "a. 1.0 x 106 Hz",
+        "b. 1.0 x 109 Hz",
+        "c. 1.0 x 1012 Hz",
+        "d. 1.0 x 1015Hz"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "physics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 74,
+        "avg_option_length": 15.25
+      }
+    },
+    {
+      "question_number": "136",
+      "question_text": "To hear a clear echo, the reflecting surface must be at a minimum distance of",
+      "options": [
+        "a. 10m",
+        "b. 16.5m",
+        "c. 33m",
+        "d. 66m"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 77,
+        "avg_option_length": 6.5
+      }
+    },
+    {
+      "question_number": "137",
+      "question_text": "Which one is not a produced by sound wave in air",
+      "options": [
+        "a. Polarization",
+        "b. Diffraction",
+        "c. Refraction",
+        "d. Reflection"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "physics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 48,
+        "avg_option_length": 13.75
+      }
+    },
+    {
+      "question_number": "138",
+      "question_text": "The conduction due to charges produced by pair generation in a semi-conductor is",
+      "options": [
+        "a. Polarity",
+        "b. Intrinsic conduction",
+        "c. Electrostatic",
+        "d. Amplitude modulation"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 80,
+        "avg_option_length": 18.25
+      }
+    },
+    {
+      "question_number": "139",
+      "question_text": "Ever point of a wave front may be considered as a",
+      "options": [
+        "a. Source",
+        "b. Source of wave front",
+        "c. Source of secondary wave front",
+        "d. None"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "physics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 49,
+        "avg_option_length": 18.0
+      }
+    },
+    {
+      "question_number": "140",
+      "question_text": "The phenomenon of polarization occurs only in which of the following wave type",
+      "options": [
+        "a. Electromagnetic",
+        "b. Longitudinal",
+        "c. Mechanical waves",
+        "d. Matter waves"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "physics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 78,
+        "avg_option_length": 16.75
+      }
+    },
+    {
+      "question_number": "141",
+      "question_text": "Spontaneous reaction is one",
+      "options": [
+        "a. Directional, irreversible, real process",
+        "b. Unidirectional , reversible , imaginary reaction",
+        "c. Irreversible, Unidirectional, real process",
+        "d. Imaginary, reversible reaction"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 27,
+        "avg_option_length": 42.75
+      }
+    },
+    {
+      "question_number": "142",
+      "question_text": "Which one of the following solution has the highest boiling point?",
+      "options": [
+        "a. 0.1M BaCl 2",
+        "b. 0.1M glucose",
+        "c. 0.1M urea",
+        "d. 0.1M NaCl"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 66,
+        "avg_option_length": 13.25
+      }
+    },
+    {
+      "question_number": "143",
+      "question_text": "The pH of 0.005 molar solution of sulphuric acid is approximately:",
+      "options": [
+        "a. 0.010",
+        "b. 1",
+        "c. 2",
+        "d. 0.005"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "chemistry",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 66,
+        "avg_option_length": 6.0
+      }
+    },
+    {
+      "question_number": "144",
+      "question_text": "Given that heat of neutralization of strong acid and strong base as – 57.1 kg. The head",
+      "options": [
+        "a. 14.275kj",
+        "b. 57.1kj",
+        "c. 22.5kj",
+        "d. 28.6kj",
+        "e. All"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "chemistry",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 5,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 87,
+        "avg_option_length": 8.8
+      }
+    },
+    {
+      "question_number": "145",
+      "question_text": "Number of moles of NaOH present in 2L of 0.5 M NaOH is",
+      "options": [
+        "a. 1.5",
+        "b. 2.0",
+        "c. 1.0",
+        "d. 2.5"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 54,
+        "avg_option_length": 6.0
+      }
+    },
+    {
+      "question_number": "146",
+      "question_text": "The molar solution of sulphuric acid is equal to",
+      "options": [
+        "a. N/2 solution",
+        "b. N solution",
+        "c. 2N solution",
+        "d. 3N solution"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "chemistry",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 48,
+        "avg_option_length": 14.0
+      }
+    },
+    {
+      "question_number": "147",
+      "question_text": "Substances exist because they posses",
+      "options": [
+        "a. Material",
+        "b. Molecular bonds",
+        "c. Volume",
+        "d. Heat"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 36,
+        "avg_option_length": 11.25
+      }
+    },
+    {
+      "question_number": "148",
+      "question_text": "The equilibrium constant for a reaction A+2B 2C is 40. The equilibrium constant for",
+      "options": [
+        "a. 40",
+        "b. [1/40]2",
+        "c. 1/40",
+        "d. 1/[40]1/2"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "chemistry",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 84,
+        "avg_option_length": 8.5
+      }
+    },
+    {
+      "question_number": "149",
+      "question_text": "In the reaction 2A +B  A B, if the concentration of A is doubled and that of B is",
+      "options": [
+        "a. Increase 2 times",
+        "b. Increase 4 times",
+        "c. Decrease 2 times",
+        "d. Remain same"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "chemistry",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 82,
+        "avg_option_length": 17.75
+      }
+    },
+    {
+      "question_number": "150",
+      "question_text": "Correct order among the following is",
+      "options": [
+        "a. 1 erg> 1j > 1 call",
+        "b. 1 call > 1j > 1 erg",
+        "c. 1 erg >1 call >1j",
+        "d. 1j > 1 call > 1 erg"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 36,
+        "avg_option_length": 21.25
+      }
+    },
+    {
+      "question_number": "151",
+      "question_text": "Which is the phenomenon who help us to calculate lattice energy of ionic crystals",
+      "options": [
+        "a. Hess law",
+        "b. Enthalpy of formation",
+        "c. Born haber process",
+        "d. None"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "physics",
+      "difficulty": null,
+      "question_type": "calculation",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 81,
+        "avg_option_length": 15.75
+      }
+    },
+    {
+      "question_number": "152",
+      "question_text": "The volatile metal is",
+      "options": [
+        "a. Fe",
+        "b. Zn",
+        "c. Cu",
+        "d. Ag"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 21,
+        "avg_option_length": 5.0
+      }
+    },
+    {
+      "question_number": "153",
+      "question_text": "Gypsum on heating 1200 C -1300 C gives",
+      "options": [
+        "a. Anhydrous salt",
+        "b. Hemihydrate",
+        "c. Monohydrate",
+        "d. Dehydrates"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 38,
+        "avg_option_length": 14.5
+      }
+    },
+    {
+      "question_number": "154",
+      "question_text": "Substances exit because they posses",
+      "options": [
+        "a. Material",
+        "b. Molecular bonds",
+        "c. Volume",
+        "d. Heat"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 35,
+        "avg_option_length": 11.25
+      }
+    },
+    {
+      "question_number": "155",
+      "question_text": "O ,N are present in the ratio of 1:4 by weight the ratio of number of molecules is",
+      "options": [
+        "a. 7:32",
+        "b. 1:4",
+        "c. 2:1",
+        "d. 4:1"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "chemistry",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 82,
+        "avg_option_length": 6.25
+      }
+    },
+    {
+      "question_number": "156",
+      "question_text": "Chlorine upon reaction with NaOH in cold yields",
+      "options": [
+        "a. NaCl,NaClO, H O 2",
+        "b. NaCl,NaClO , H O 3 2",
+        "c. NaClO,NaClO , H O 3 2",
+        "d. NaCl , H O 2"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "chemistry",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 47,
+        "avg_option_length": 20.5
+      }
+    },
+    {
+      "question_number": "157",
+      "question_text": "Farming’s salt is",
+      "options": [
+        "a. NaCl",
+        "b. HF",
+        "c. KHF 2",
+        "d. KClO 3"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 17,
+        "avg_option_length": 7.25
+      }
+    },
+    {
+      "question_number": "158",
+      "question_text": "Which of the following is least polarizable?",
+      "options": [
+        "a. Ne",
+        "b. He",
+        "c. Xe",
+        "d. Kr"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 44,
+        "avg_option_length": 5.0
+      }
+    },
+    {
+      "question_number": "159",
+      "question_text": "Transfer of heat from hot surrounding too cold refrigerator is an example of",
+      "options": [
+        "a. Spontaneous reaction",
+        "b. Non spontaneous reaction",
+        "c. First law of thermodynamics",
+        "d. All of above"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 76,
+        "avg_option_length": 23.75
+      }
+    },
+    {
+      "question_number": "160",
+      "question_text": "Alkaline KMnO converts ethylene into",
+      "options": [
+        "a. Methanol",
+        "b. Ethanol",
+        "c. Ethane",
+        "d. Ethylene glycol"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 36,
+        "avg_option_length": 12.0
+      }
+    },
+    {
+      "question_number": "161",
+      "question_text": "Which one of the following is not an isotope of hydrogen?",
+      "options": [
+        "a. Deuterium",
+        "b. Tritium",
+        "c. Ortho hydrogen",
+        "d. None"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 57,
+        "avg_option_length": 11.5
+      }
+    },
+    {
+      "question_number": "162",
+      "question_text": "Blue litmus turn s red in a solution of pH",
+      "options": [
+        "a. Below 7",
+        "b. 7",
+        "c. Above 7",
+        "d. at all pH"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 42,
+        "avg_option_length": 9.0
+      }
+    },
+    {
+      "question_number": "163",
+      "question_text": "maximum ionization potential is of",
+      "options": [
+        "a. Ca",
+        "b. Na",
+        "c. Be",
+        "d. Mg"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": false,
+        "has_equations": false,
+        "question_length": 34,
+        "avg_option_length": 5.0
+      }
+    },
+    {
+      "question_number": "164",
+      "question_text": "Strongest acid among the following is",
+      "options": [
+        "a. CCL COOH 3",
+        "b. CH COOH 3",
+        "c. CF COOH 3",
+        "d. CBr COOH 3"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "chemistry",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 37,
+        "avg_option_length": 12.5
+      }
+    },
+    {
+      "question_number": "165",
+      "question_text": "Which molecule is planar?",
+      "options": [
+        "a. SF 4",
+        "b. XeF 4",
+        "c. NF 3",
+        "d. SiF 4"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "chemistry",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 25,
+        "avg_option_length": 7.5
+      }
+    },
+    {
+      "question_number": "166",
+      "question_text": "A certain radioactive isotope has a half-life of 50 days. Fraction of the material left",
+      "options": [
+        "a. 125%",
+        "b. 25%",
+        "c. 50%",
+        "d. 75%"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 87,
+        "avg_option_length": 6.25
+      }
+    },
+    {
+      "question_number": "167",
+      "question_text": "The Rams speed at NTP of a gas can be calculated from the expression:",
+      "options": [
+        "a. √( ) 𝑑 3𝑃𝑉",
+        "b. √( ) 𝑀",
+        "c. √(3𝑅𝑇𝜙𝑀)",
+        "d. All of these"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "calculation",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 69,
+        "avg_option_length": 12.0
+      }
+    },
+    {
+      "question_number": "168",
+      "question_text": "Prussian blue is",
+      "options": [
+        "a. K Fe[Fe(CN) 2 6]",
+        "b. K [Fe(CN) ] 4 6",
+        "c. Fe (Fe(CN) ) 4 6",
+        "d. K (Fe(CN) ) 3 6"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 16,
+        "avg_option_length": 18.5
+      }
+    },
+    {
+      "question_number": "169",
+      "question_text": "Following are fundamental ways of transferring energy",
+      "options": [
+        "a. Pressure and work",
+        "b. Volume and pressure",
+        "c. Heat and work",
+        "d. Pressure and heat"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "physics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 53,
+        "avg_option_length": 19.5
+      }
+    },
+    {
+      "question_number": "170",
+      "question_text": "A mixture of camphor and benzoic acid can be separated by",
+      "options": [
+        "a. Fractional crystallization",
+        "b. Sublimation",
+        "c. Chemical method",
+        "d. Extraction with solvent"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "chemistry",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 57,
+        "avg_option_length": 21.75
+      }
+    },
+    {
+      "question_number": "171",
+      "question_text": "_________ is a very difficult profession for a lazy person as you are.",
+      "options": [
+        "a. That copper mining",
+        "b. It is copper mining",
+        "c. Although copper mining",
+        "d. Copper mining"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": false,
+        "has_equations": false,
+        "question_length": 70,
+        "avg_option_length": 21.0
+      }
+    },
+    {
+      "question_number": "172",
+      "question_text": "She read_____________",
+      "options": [
+        "a. Several chapters in the library last night",
+        "b. Last night several chapters in the library",
+        "c. Last night in library several chapters",
+        "d. In the library several chapters last night"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 21,
+        "avg_option_length": 44.0
+      }
+    },
+    {
+      "question_number": "173",
+      "question_text": "He is taking some ________ this semester",
+      "options": [
+        "a. Histories class",
+        "b. History classes",
+        "c. History class",
+        "d. None"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 40,
+        "avg_option_length": 14.75
+      }
+    },
+    {
+      "question_number": "174",
+      "question_text": "The _________ death",
+      "options": [
+        "a. wages of sins are",
+        "b. Wage of sin are",
+        "c. Wages of sin is",
+        "d. Wage of sins are"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 19,
+        "avg_option_length": 18.75
+      }
+    },
+    {
+      "question_number": "175",
+      "question_text": "Murtaza scored _________ in his last entry test",
+      "options": [
+        "a. The least points",
+        "b. A least points",
+        "c. The fewest points",
+        "d. The fewer points"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 47,
+        "avg_option_length": 18.75
+      }
+    },
+    {
+      "question_number": "176",
+      "question_text": "The advent of science and technology has increased the",
+      "options": [
+        "a. freedom of people",
+        "b. tyranny of political parties",
+        "c. powers of the government",
+        "d. chances of economic inequality"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general_knowledge",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 54,
+        "avg_option_length": 27.75
+      }
+    },
+    {
+      "question_number": "177",
+      "question_text": "A spirit of moderation on the economically sound people would make the less privileged",
+      "options": [
+        "a. unhappy with the rich people",
+        "b. more interested in freedom and security",
+        "c. unhappy with their lot",
+        "d. clamour less for absolute equality"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 86,
+        "avg_option_length": 33.75
+      }
+    },
+    {
+      "question_number": "178",
+      "question_text": "The growth of government is necessitated to",
+      "options": [
+        "a. make the rich and the poor happy",
+        "b. curb the accumulation of wealth in a few hands",
+        "c. monitor science and technology",
+        "d. deploy the police force wisely"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 43,
+        "avg_option_length": 37.5
+      }
+    },
+    {
+      "question_number": "179",
+      "question_text": "‘Era of good feeling’ in the second sentence refers to",
+      "options": [
+        "a. time of prosperity",
+        "b. time of adversity",
+        "c. time without government",
+        "d. time of police atrocities"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "english",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 54,
+        "avg_option_length": 23.75
+      }
+    },
+    {
+      "question_number": "180",
+      "question_text": "‘Tolerable state of balance’ in the last sentence may mean",
+      "options": [
+        "a. an adequate level of police force",
+        "b. a reasonable level of economic equality",
+        "c. a reasonable amount of government interference",
+        "d. a reasonable check on economic power"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "english",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 58,
+        "avg_option_length": 41.5
+      }
+    },
+    {
+      "question_number": "181",
+      "question_text": "race : fatigue (analogy)",
+      "options": [
+        "a. fasting : hunger",
+        "b. round :boxing",
+        "c. flower: colors",
+        "d. Hiking : gangrene"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": false,
+        "has_equations": false,
+        "question_length": 24,
+        "avg_option_length": 18.0
+      }
+    },
+    {
+      "question_number": "182",
+      "question_text": "Strut : walking (analogy)",
+      "options": [
+        "a. Sweating : wrestling",
+        "b. Hunter : fire",
+        "c. Speech : stage",
+        "d. Stammer : talk"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 25,
+        "avg_option_length": 18.25
+      }
+    },
+    {
+      "question_number": "183",
+      "question_text": "Industries : hardworking (analogy)",
+      "options": [
+        "a. Sky : blue",
+        "b. Muddy: unclear",
+        "c. Book :reading",
+        "d. Pond: lake"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 34,
+        "avg_option_length": 14.75
+      }
+    },
+    {
+      "question_number": "184",
+      "question_text": "Scholar : ignorant (analogy)",
+      "options": [
+        "a. Hardworking : lazy",
+        "b. Knife : sword",
+        "c. Courage : bold",
+        "d. Luxury : wealth"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 28,
+        "avg_option_length": 18.0
+      }
+    },
+    {
+      "question_number": "185",
+      "question_text": "Cool : frozen:: (analogy)",
+      "options": [
+        "a. Sharp :cut",
+        "b. Warm: hot",
+        "c. Hassock : stool",
+        "d. Freedom : liberty"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 25,
+        "avg_option_length": 15.75
+      }
+    },
+    {
+      "question_number": "186",
+      "question_text": "Admonish(synonym)",
+      "options": [
+        "a. Hypnotic",
+        "b. Honor",
+        "c. Encourage",
+        "d. scold",
+        "e. Prepare"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "english",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 5,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 17,
+        "avg_option_length": 9.8
+      }
+    },
+    {
+      "question_number": "187",
+      "question_text": "Animosity (antonym)",
+      "options": [
+        "a. Friendliness",
+        "b. Anxiety",
+        "c. Eagerness",
+        "d. Reliability"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "english",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 19,
+        "avg_option_length": 12.75
+      }
+    },
+    {
+      "question_number": "188",
+      "question_text": "Portly (synonym)",
+      "options": [
+        "a. Briskly",
+        "b. Vessel",
+        "c. Slender",
+        "d. Entirely"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "english",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 16,
+        "avg_option_length": 10.0
+      }
+    },
+    {
+      "question_number": "189",
+      "question_text": "Impetuous (antonym)",
+      "options": [
+        "a. Defensive",
+        "b. Ardent",
+        "c. Hobbyist",
+        "d. Wary"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "english",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 19,
+        "avg_option_length": 9.75
+      }
+    },
+    {
+      "question_number": "190",
+      "question_text": "Valid (antonym)",
+      "options": [
+        "a. Laud",
+        "b. Feeble",
+        "c. Due",
+        "d. Dump"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "english",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 15,
+        "avg_option_length": 7.25
+      }
+    },
+    {
+      "question_number": "191",
+      "question_text": "An index that estimate true rate of exchange among the currencies is",
+      "options": [
+        "a. Human development index",
+        "b. Exchange rate",
+        "c. Purchasing rate",
+        "d. None"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 68,
+        "avg_option_length": 16.75
+      }
+    },
+    {
+      "question_number": "192",
+      "question_text": "LRR is stand for",
+      "options": [
+        "a. Lahore ring road",
+        "b. Large ring road",
+        "c. Lahore ring road",
+        "d. Long ring road"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 16,
+        "avg_option_length": 18.25
+      }
+    },
+    {
+      "question_number": "193",
+      "question_text": "Who is allegedly the current head of al-Qaida?",
+      "options": [
+        "a. Khalid sheikh MOHAMMAD",
+        "b. Osama bin laden (late)",
+        "c. Ayman ul Zawahiri",
+        "d. None"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 46,
+        "avg_option_length": 19.25
+      }
+    },
+    {
+      "question_number": "194",
+      "question_text": "Who is chancellor of Germany",
+      "options": [
+        "a. Joachim Gauck",
+        "b. Angela Merkel",
+        "c. John Atta Mills",
+        "d. Laszlo Kover"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 28,
+        "avg_option_length": 16.25
+      }
+    },
+    {
+      "question_number": "195",
+      "question_text": "Which of the following academies grants the noble prize in literature?",
+      "options": [
+        "a. London academy",
+        "b. Norwegian academy",
+        "c. Swedish academy",
+        "d. New York academy"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "english",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 70,
+        "avg_option_length": 18.5
+      }
+    },
+    {
+      "question_number": "196",
+      "question_text": "BCB stand for",
+      "options": [
+        "a. Bhutan cricket board",
+        "b. Bangladesh cricket board",
+        "c. Belgium cricket board",
+        "d. None"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "mathematics",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 13,
+        "avg_option_length": 20.25
+      }
+    },
+    {
+      "question_number": "197",
+      "question_text": "Who was honored with highest cultural award of France the commander of the order",
+      "options": [
+        "a. David bowie",
+        "b. Paul hewson",
+        "c. Bruce Willis",
+        "d. Bob Dylan"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general_knowledge",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 80,
+        "avg_option_length": 13.75
+      }
+    },
+    {
+      "question_number": "198",
+      "question_text": "Identify the current hajj year",
+      "options": [
+        "a. 1432",
+        "b. 1433",
+        "c. 1434",
+        "d. 1435"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 30,
+        "avg_option_length": 7.0
+      }
+    },
+    {
+      "question_number": "199",
+      "question_text": "Faf Du plessis is player of",
+      "options": [
+        "a. Hockey",
+        "b. Cricket",
+        "c. Foot ball",
+        "d. Snooker"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 27,
+        "avg_option_length": 10.25
+      }
+    },
+    {
+      "question_number": "200",
+      "question_text": "Easy jet is air line of",
+      "options": [
+        "a. Uk",
+        "b. Malaysia",
+        "c. Spain",
+        "d. Turkey"
+      ],
+      "answer": null,
+      "explanation": null,
+      "subject_area": "general",
+      "difficulty": null,
+      "question_type": "multiple_choice",
+      "metadata": {
+        "num_options": 4,
+        "has_mathematical_notation": false,
+        "has_chemical_formulas": true,
+        "has_equations": false,
+        "question_length": 23,
+        "avg_option_length": 8.25
+      }
+    }
+  ],
+  "answers": {},
+  "extraction_metadata": {
+    "total_lines_processed": 1181,
+    "extraction_timestamp": "2024-01-01T00:00:00Z",
+    "parser_version": "2.0"
+  }
+}

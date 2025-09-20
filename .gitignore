@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+.venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific - Generated files
+extracted_text.txt
+pdf_analysis.json
+*.log
+
+# Vector Database
+*.db
+*.sqlite
+*.faiss
+chroma_db/
+vector_store/
+embeddings/
+
+# API Keys and Config
+config.ini
+secrets.json
+.env.local
+
+# Temporary files
+temp/
+tmp/
+*.tmp
