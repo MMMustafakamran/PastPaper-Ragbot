@@ -20,7 +20,9 @@ class Question:
     difficulty: Optional[str] = None
     question_type: str = "multiple_choice"
     metadata: Dict[str, Any] = None
-    source: str = "NUST Engineering Past Paper 4"
+    source: str = ""
+    exam_type: Optional[str] = None
+    paper_year: Optional[int] = None
 
     def __post_init__(self):
         if self.metadata is None:
@@ -51,11 +53,14 @@ class QuestionParser:
             'chemistry': [
                 r'atom|molecule|bond|reaction|compound|element|organic|inorganic|acid|base|pH|oxidation|reduction|stoichiometry|thermodynamics|kinetics|equilibrium|electrochemistry|organic chemistry|inorganic chemistry|alkane|alkene|alkyne|alcohol|aldehyde|ketone|carboxylic acid|ester|amine|amide|polymer|catalyst|enzyme|buffer|salt|ion|cation|anion|isotope|radioactive|half-life'
             ],
+            'biology': [
+                r'cell|DNA|RNA|gene|protein|enzyme|mitochondria|chloroplast|nucleus|ribosome|membrane|cytoplasm|chromosome|mitosis|meiosis|photosynthesis|respiration|metabolism|glycolysis|krebs cycle|electron transport|ATP|glucose|bacteria|virus|fungi|plant|animal|tissue|organ|system|digestion|circulation|nervous system|endocrine|immune|reproduction|evolution|natural selection|adaptation|species|ecosystem|food chain|biodiversity|taxonomy|phylogeny|genetics|heredity|mutation|allele|genotype|phenotype|dominant|recessive|homeostasis|osmosis|diffusion|active transport|passive transport'
+            ],
             'english': [
                 r'synonym|antonym|grammar|vocabulary|sentence|paragraph|essay|literature|poetry|novel|comprehension|reading|writing|language|linguistics|etymology|phonics|pronunciation|spelling|punctuation|syntax|semantics|morphology|phonetics|rhetoric|figurative|metaphor|simile|alliteration|assonance|consonance|rhyme|meter|stanza|verse|prose|drama|fiction|non-fiction'
             ],
             'general_knowledge': [
-                r'country|capital|president|prime minister|award|prize|sport|cricket|football|history|geography|current affairs|politics|economics|culture|religion|science|technology|environment|health|medicine|biology|zoology|botany|ecology|conservation|climate|weather|astronomy|space|universe|planet|star|galaxy|solar system'
+                r'country|capital|president|prime minister|award|prize|sport|cricket|football|history|geography|current affairs|politics|economics|culture|religion|science|technology|environment|health|medicine|zoology|botany|ecology|conservation|climate|weather|astronomy|space|universe|planet|star|galaxy|solar system'
             ],
             'computer_science': [
                 r'programming|algorithm|data structure|computer|software|hardware|network|database|artificial intelligence|machine learning|cybersecurity|web development|mobile development|operating system|memory|processor|storage|input|output|user interface|graphics|multimedia|simulation|modeling|optimization|complexity|efficiency|security|privacy|encryption|decryption'
@@ -358,6 +363,7 @@ class QuestionParser:
                 'mathematical_questions': 0,
                 'physics_questions': 0,
                 'chemistry_questions': 0,
+                'biology_questions': 0,
                 'english_questions': 0,
                 'general_knowledge_questions': 0
             }
@@ -420,6 +426,8 @@ class QuestionParser:
                 summary['quality_metrics']['physics_questions'] += 1
             elif subject == 'chemistry':
                 summary['quality_metrics']['chemistry_questions'] += 1
+            elif subject == 'biology':
+                summary['quality_metrics']['biology_questions'] += 1
             elif subject == 'english':
                 summary['quality_metrics']['english_questions'] += 1
             elif subject == 'general_knowledge':
@@ -494,6 +502,7 @@ def main():
     print(f"- Mathematical questions: {summary['quality_metrics']['mathematical_questions']}")
     print(f"- Physics questions: {summary['quality_metrics']['physics_questions']}")
     print(f"- Chemistry questions: {summary['quality_metrics']['chemistry_questions']}")
+    print(f"- Biology questions: {summary['quality_metrics']['biology_questions']}")
     print(f"- English questions: {summary['quality_metrics']['english_questions']}")
     print(f"- General knowledge questions: {summary['quality_metrics']['general_knowledge_questions']}")
     

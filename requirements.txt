@@ -1,12 +1,11 @@
 # PDF Processing
 pdfplumber==0.11.7
+PyPDF2==3.0.1
 
-# Vector Database and Embeddings
-chromadb==0.4.24
-sentence-transformers==2.7.0
-
-# Web Framework for Chatbot Interface
-streamlit==1.31.0
+# OCR Libraries
+pytesseract==0.3.10
+Pillow>=10.0.0  # Already installed (11.3.0)
+pdf2image==1.17.0
 
 # Data Processing
 pandas==2.2.0

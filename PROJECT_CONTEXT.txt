@@ -1,6 +1,6 @@
-================================================================================
+============
 PROJECT CONTEXT: MULTI-EXAM PAST PAPERS DATASET BUILDER
-================================================================================
+============
 
 PROJECT TYPE: Multi-Exam Dataset Creation Pipeline
 PRIMARY GOAL: Build comprehensive question datasets from Pakistani entrance exam 
@@ -9,9 +9,9 @@ PRIMARY GOAL: Build comprehensive question datasets from Pakistani entrance exam
 ⚠️ SCOPE: This is a data extraction and preprocessing pipeline that handles
          multiple exam formats, both text-based and scanned PDFs.
 
-================================================================================
+============
 WHAT THIS PROJECT DOES
-================================================================================
+============
 
 INPUT:  Multiple exam past papers in Past Papers/ directory
         - MDCAT: Medical & Dental College Admission Test papers
@@ -33,11 +33,284 @@ EXTRACTION PIPELINE:
 7. Validation → Quality checks, completeness verification
 8. JSON Export → Structured output per exam with full metadata
 
-STATUS: 🚧 IN PROGRESS - Multi-exam batch processing pipeline
+STATUS: ✅ PHASE 1 COMPLETE - Core modules ready
+        🚧 PHASE 2 IN PROGRESS - Batch processing integration
 
-================================================================================
+=========
+COMPLETE DATA FLOW (How Everything Works Together)
+=========
+STEP-BY-STEP WORKFLOW:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ STEP 1: PDF INPUT                                                           │
+└─────────────────────────────────────────────────────────────────────────────┘
+   Location: Past Papers/MDCAT/selectable/PMC MDCAT PAPER 2020.pdf
+   Module: User provides PDF path via CLI
+   
+   Example: python main.py parse --exam MDCAT --file "PMC MDCAT PAPER 2020.pdf"
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ STEP 2: PDF DETECTION (src/pdf_extractor.py)                               │
+└─────────────────────────────────────────────────────────────────────────────┘
+   Class: PDFExtractor
+   Method: is_text_selectable(pdf_path)
+   
+   Actions:
+   - Opens PDF with pdfplumber
+   - Checks first 3 pages for extractable text
+   - Returns: True (text-based) or False (needs OCR)
+   
+   Output: PDF classification → "selectable" or "scanned"
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ STEP 3: TEXT EXTRACTION (src/pdf_extractor.py)                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+   Class: PDFExtractor
+   Method: extract_text(pdf_path, method='auto')
+   
+   For Text-Based PDFs:
+   1. extract_text_pdfplumber() - Primary method
+   2. extract_text_pypdf2() - Fallback if pdfplumber fails
+   
+   For Scanned PDFs (future):
+   1. OCR with pytesseract/EasyOCR
+   
+   Output: Raw text string (all pages concatenated)
+   Example: "1. What is the atomic number of Carbon?\na. 6\nb. 12..."
+   
+   Saved to: Extracted Text/MDCAT/PMC_MDCAT_PAPER_2020.txt
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ STEP 4: NOISE REMOVAL (src/noise_remover.py)                               │
+└─────────────────────────────────────────────────────────────────────────────┘
+   Class: NoiseRemover
+   Method: clean_text(text, remove_pages=True)
+   
+   Removes:
+   ✗ URLs: www.educatedzone.com, https://...
+   ✗ Phone numbers: 03047418334, 0321-1234567
+   ✗ Promotional text: "Download MDCAT Guide App From Play Store"
+   ✗ App references: "MDCAT Guide App"
+   ✗ Email addresses: contact@example.com
+   ✗ Social media: Facebook.com/..., @handles
+   ✗ Watermarks: "Copyright 2024", "All rights reserved"
+   ✗ Page numbers: "Page 1", "- 5 -"
+   
+   Preserves:
+   ✓ Question numbers: 1. 2. 3.
+   ✓ Options: a. b. c. d. e.
+   ✓ Mathematical symbols: π, √, ∑, ∫
+   ✓ Scientific notation: H₂O, CO₂
+   
+   Statistics:
+   - Typical noise removal: 40-60% of content
+   - Lines removed: ~30-50%
+   
+   Output: Cleaned text ready for parsing
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ STEP 5: QUESTION PARSING (src/parser.py)                                   │
+└─────────────────────────────────────────────────────────────────────────────┘
+   Class: QuestionParser
+   Method: extract_questions_from_text(text)
+   
+   Process:
+   1. Split text into lines
+   2. Scan for question starts: r'^(\d+)\.\s+(.+)$'
+   3. Extract question text
+   4. Find following options: r'^([a-e])\.\s*(.+)$'
+   5. Handle multi-line questions/options
+   6. Create Question objects
+   
+   Example Detection:
+   Input:  "1. What is the atomic number of Carbon?\na. 6\nb. 12\nc. 14\nd. 16"
+   
+   Parsed:
+   - question_number: "1"
+   - question_text: "What is the atomic number of Carbon?"
+   - options: ["a. 6", "b. 12", "c. 14", "d. 16"]
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ STEP 6: SUBJECT CLASSIFICATION (src/parser.py)                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+   Method: _detect_subject_area(question_text)
+   
+   Keyword Matching for 7 Subjects:
+   
+   Mathematics: sin, cos, integral, equation, matrix, probability...
+   Physics: force, energy, electric, wave, quantum, mechanics...
+   Chemistry: atom, molecule, reaction, pH, oxidation, polymer...
+   Biology: cell, DNA, protein, mitochondria, photosynthesis... ✨ NEW!
+   English: synonym, grammar, literature, comprehension...
+   Computer Science: algorithm, programming, database...
+   General Knowledge: country, award, history, geography...
+   
+   Scoring:
+   - Count keyword matches per subject
+   - Subject with highest score wins
+   - Default to "general" if no matches
+   
+   Example:
+   "What is the function of mitochondria in cells?"
+   → Matches: "function" (biology), "mitochondria" (biology), "cells" (biology)
+   → Classified as: Biology (score: 3)
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ STEP 7: METADATA ENRICHMENT (src/parser.py)                                │
+└─────────────────────────────────────────────────────────────────────────────┘
+   Method: _extract_metadata(question_text, options)
+   
+   Detects Features:
+   ✓ has_mathematical_notation: π, √, ∑, ∫, ∂
+   ✓ has_equations: =, <, >, ≤, ≥
+   ✓ has_functions: f(x), g(y), h(z)
+   ✓ has_coordinates: (0,0), (1,-2)
+   ✓ has_angles: 45°, 2π
+   ✓ has_chemical_formulas: H2O, CO2
+   
+   Calculates:
+   - complexity_score: 0-5 scale based on length, symbols, notation
+   - num_options: Count of answer choices
+   - question_length: Character count
+   - avg_option_length: Mean length of options
+   
+   Example Metadata:
+   {
+     "num_options": 4,
+     "has_mathematical_notation": true,
+     "has_equations": true,
+     "complexity_score": 2.14,
+     "question_length": 87
+   }
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ STEP 8: VALIDATION (src/parser.py)                                         │
+└─────────────────────────────────────────────────────────────────────────────┘
+   Method: validate_question(question)
+   
+   Checks:
+   ✓ question_number exists
+   ✓ question_text exists and > 10 characters
+   ✓ At least 2 options present
+   ✓ All options non-empty
+   
+   Invalid Questions Filtered Out:
+   ✗ Incomplete extractions
+   ✗ Garbage text parsed as questions
+   ✗ Header/footer content
+   
+   Quality Metrics Tracked:
+   - Total valid questions
+   - Questions with 4 options (standard)
+   - Questions with 5 options
+   - Subject distribution
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ STEP 9: SUMMARY GENERATION (src/parser.py)                                 │
+└─────────────────────────────────────────────────────────────────────────────┘
+   Method: generate_comprehensive_summary(questions)
+   
+   Calculates:
+   
+   Subject Distribution:
+   - Mathematics: 68 (34%)
+   - Chemistry: 44 (22%)
+   - Biology: 30 (15%)
+   - Physics: 28 (14%)
+   
+   Question Types:
+   - multiple_choice: 196
+   - calculation: 2
+   - identification: 1
+   
+   Statistics:
+   - avg_question_length: 65.3 chars
+   - avg_options_per_question: 4.02
+   - avg_complexity_score: 1.2
+   - questions_with_math_notation: 11
+   - questions_with_equations: 40
+   
+   Quality Metrics:
+   - valid_questions: 199/199 (100%)
+   - questions_with_4_options: 196 (98.5%)
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ STEP 10: JSON EXPORT                                                       │
+└─────────────────────────────────────────────────────────────────────────────┘
+   Output Structure:
+   
+   Processed Data/MDCAT/questions.json:
+   {
+     "summary": { ... statistics ... },
+     "questions": [
+       {
+         "question_number": "1",
+         "question_text": "...",
+         "options": [...],
+         "answer": null,
+         "subject_area": "biology",
+         "difficulty": "medium",
+         "question_type": "multiple_choice",
+         "metadata": { ... },
+         "source": "PMC MDCAT PAPER 2020.pdf"
+       },
+       ...
+     ],
+     "extraction_metadata": {
+       "total_lines_processed": 1181,
+       "extraction_timestamp": "2024-01-15T10:30:00",
+       "parser_version": "3.0",
+       "source_file": "PMC MDCAT PAPER 2020.pdf",
+       "exam_type": "MDCAT"
+     }
+   }
+
+==========================================================================================================================================================================================================================================================================================================================
+MODULE INTERACTIONS
+==========================================================================================================================================================================================================================================================================================================================
+
+main.py (CLI Entry Point)
+    │
+    ├──> pdf_extractor.py (PDFExtractor)
+    │    │
+    │    ├──> pdfplumber: Primary extraction
+    │    └──> PyPDF2: Fallback extraction
+    │
+    ├──> noise_remover.py (NoiseRemover)
+    │    │
+    │    └──> Regex patterns: Clean promotional content
+    │
+    └──> parser.py (QuestionParser)
+         │
+         ├──> Question extraction: Regex parsing
+         ├──> Subject classification: Keyword matching
+         ├──> Metadata enrichment: Feature detection
+         ├──> Validation: Quality checks
+         └──> Summary generation: Statistics calculation
+
+DATA FLOW:
+    
+    PDF File → PDFExtractor.extract_text() → Raw Text String
+             ↓
+    Raw Text → NoiseRemover.clean_text() → Cleaned Text
+             ↓
+    Cleaned Text → QuestionParser.extract_questions_from_text()
+             ↓
+    List[Question Objects] → QuestionParser.validate_question() (filter)
+             ↓
+    Valid Questions → QuestionParser.generate_comprehensive_summary()
+             ↓
+    {summary, questions, metadata} → JSON file
+
+ERROR HANDLING:
+- PDFExtractor: Falls back to PyPDF2 if pdfplumber fails
+- NoiseRemover: Preserves content if patterns don't match
+- QuestionParser: Skips invalid questions, continues processing
+- Validation: Filters out incomplete/malformed questions
+
+==========================================================================================================================================================================================================================================================================================================================
 OUTPUT DATA SCHEMA
-================================================================================
+==========================================================================================================================================================================================================================================================================================================================
 
 Each question in data/questions.json has this structure:
 
@@ -64,9 +337,9 @@ JSON Structure:
 - "questions": Array of 199 question objects
 - "extraction_metadata": Timestamp, parser version, source file
 
-================================================================================
+============
 TARGET EXAM TYPES & SOURCES
-================================================================================
+============
 
 MDCAT (Medical & Dental College Admission Test):
 - Location: Past Papers/MDCAT/
@@ -93,9 +366,9 @@ COMMON NOISE PATTERNS TO REMOVE:
 - "www.educatedzone.com"
 - Watermarks, website URLs, contact numbers
 
-================================================================================
+============
 KEY PARSER CAPABILITIES (src/parser.py - ENHANCED)
-================================================================================
+============
 
 1. MULTI-FORMAT PDF HANDLING
    - Auto-detect text-based vs scanned PDFs
@@ -130,9 +403,9 @@ KEY PARSER CAPABILITIES (src/parser.py - ENHANCED)
    - Unicode preservation for scientific notation
    - Source attribution (exam type, year, paper number)
 
-================================================================================
+============
 TECHNICAL STACK
-================================================================================
+============
 
 LANGUAGE: Python 3.13
 
@@ -159,9 +432,9 @@ FUTURE RAG INTEGRATION:
 - sentence-transformers 2.7.0: Embeddings
 - streamlit 1.31.0: Web UI
 
-================================================================================
+============
 PROJECT STRUCTURE
-================================================================================
+============
 
 past-papers-parsing/
 ├── main.py                          # CLI: python main.py [command] [exam]
@@ -203,9 +476,9 @@ past-papers-parsing/
 ├── PROJECT_CONTEXT.txt            # This file
 └── README.md                      # User guide
 
-================================================================================
+============
 USAGE
-================================================================================
+============
 
 SETUP:
   python -m venv venv
@@ -238,9 +511,9 @@ OUTPUT STRUCTURE:
   Extracted Text/MDCAT/*.txt           - Intermediate text files
   Console                              - Real-time progress & statistics
 
-================================================================================
+============
 DATASET GOALS & METRICS
-================================================================================
+============
 
 TARGET DATASETS:
 ✅ MDCAT: 500-1000 questions (Biology, Chemistry, Physics, English)
@@ -259,9 +532,9 @@ METADATA REQUIREMENTS:
 - Difficulty: Inferred from question complexity
 - Features: Math notation, equations, diagrams (if present)
 
-================================================================================
+============
 CHALLENGES & SOLUTIONS
-================================================================================
+============
 
 CHALLENGE 1: Mixed PDF formats (text-based vs scanned)
 SOLUTION: Implement dual-path processing (pdfplumber + OCR fallback)
@@ -288,9 +561,9 @@ CHALLENGE 5: Answer keys not always included in PDFs
 SOLUTION: Separate answer key parsing or manual annotation phase
 
 
-================================================================================
+============
 CURRENT STATUS & ROADMAP
-================================================================================
+============
 
 COMPLETED ✅:
 - Basic PDF text extraction (pdfplumber, PyPDF2)
@@ -315,6 +588,6 @@ PLANNED 📋:
 - Quality validation dashboard
 - Automated testing for parser accuracy
 
-================================================================================
+============
 END OF CONTEXT
-================================================================================
+============
