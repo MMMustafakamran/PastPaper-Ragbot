@@ -1,0 +1,218 @@
+================================================================================
+PROJECT CONTEXT: PAST PAPERS DATA EXTRACTION & PREPROCESSING
+================================================================================
+
+PROJECT TYPE: Data Extraction Pipeline (Phase 1 for future RAG system)
+PRIMARY GOAL: Extract structured questions from PDF past papers into JSON format
+
+⚠️ SCOPE: This is NOT a RAG chatbot. This is data preparation only.
+
+================================================================================
+WHAT THIS PROJECT DOES
+================================================================================
+
+INPUT:  PDF past papers (e.g., NUST-Engineering-Pastpaper-4.pdf)
+OUTPUT: data/questions.json (199 structured question records)
+
+EXTRACTION PIPELINE:
+1. PDF → Text (pdfplumber/PyPDF2)
+2. Text → Questions (regex parsing, option detection)
+3. Questions → Classification (subject, difficulty, type)
+4. Questions → Enrichment (metadata, complexity scores)
+5. Questions → JSON (validated, structured output)
+
+STATUS: ✅ COMPLETED - 199 questions extracted with 100% validation rate
+
+================================================================================
+OUTPUT DATA SCHEMA
+================================================================================
+
+Each question in data/questions.json has this structure:
+
+{
+  "question_number": "1",
+  "question_text": "If sin⁻¹x + sin⁻¹y + sin⁻¹z = 3π/2 then...",
+  "options": ["a. 0", "b. 1", "c. 2", "d. 3"],
+  "answer": null,
+  "subject_area": "mathematics",
+  "difficulty": "medium",
+  "question_type": "multiple_choice",
+  "metadata": {
+    "has_mathematical_notation": true,
+    "has_equations": true,
+    "has_functions": true,
+    "complexity_score": 2.14,
+    "num_options": 4
+  },
+  "source": "NUST-Engineering-Pastpaper-4(educatedzone.com).pdf"
+}
+
+JSON Structure:
+- "summary": Stats (subject distribution, difficulty, quality metrics)
+- "questions": Array of 199 question objects
+- "extraction_metadata": Timestamp, parser version, source file
+
+================================================================================
+EXTRACTION RESULTS
+================================================================================
+
+SOURCE: NUST-Engineering-Pastpaper-4(educatedzone.com).pdf
+TOTAL: 199 valid questions extracted
+
+SUBJECT DISTRIBUTION:
+- Mathematics: 68 (34%)
+- Chemistry: 44 (22%)
+- Physics: 28 (14%)
+- English: 10 (5%)
+- General: 47 (24%)
+- General Knowledge: 2 (1%)
+
+QUALITY:
+- 100% validation rate
+- 98.5% have 4 options
+- 40 questions with equations
+- 12 questions with mathematical notation
+- Average complexity score: 1.11
+
+================================================================================
+KEY PARSER CAPABILITIES (src/parser.py)
+================================================================================
+
+1. QUESTION EXTRACTION
+   - Regex pattern matching for question numbers (1. 2. 3...)
+   - Multi-line question handling
+   - Option detection (a. b. c. d. e.)
+   - Noise filtering (removes website references)
+
+2. CLASSIFICATION
+   - Subject: 6 categories via keyword matching
+   - Difficulty: Easy/Medium/Hard based on content analysis
+   - Type: Multiple choice, calculation, identification
+
+3. METADATA ENRICHMENT
+   - Detects: Mathematical notation (π, √, ∑, ∫)
+   - Detects: Equations, functions, coordinates, angles
+   - Calculates: Complexity score (0-5 scale)
+   - Validates: Question completeness and quality
+
+4. OUTPUT FORMATTING
+   - JSON serialization with full metadata
+   - Unicode preservation for math symbols
+   - Source attribution for every question
+
+================================================================================
+TECHNICAL STACK
+================================================================================
+
+LANGUAGE: Python 3.13
+
+CORE LIBRARIES:
+- pdfplumber 0.11.7: PDF text extraction
+- PyPDF2 3.0.1: Fallback PDF reader
+- pandas 2.2.0: Data manipulation
+- numpy 1.26.3: Numerical operations
+
+INSTALLED (for future RAG project):
+- chromadb 0.4.24: Vector database
+- sentence-transformers 2.7.0: Embeddings
+- streamlit 1.31.0: Web UI
+
+================================================================================
+PROJECT STRUCTURE
+================================================================================
+
+past-papers-parsing/
+├── main.py                    # CLI: python main.py parse
+├── src/parser.py              # Core extraction logic
+├── data/questions.json        # OUTPUT: 199 questions
+├── extracted_text.txt         # Raw text (1,181 lines)
+├── requirements.txt           # Dependencies
+├── PROJECT_CONTEXT.txt        # This file
+└── NUST-Engineering-Pastpaper-4.pdf  # Source PDF
+
+================================================================================
+USAGE
+================================================================================
+
+SETUP:
+  python -m venv venv
+  venv\Scripts\Activate.ps1  # Windows
+  pip install -r requirements.txt
+
+RUN EXTRACTION:
+  python main.py parse
+
+OUTPUT:
+  data/questions.json - Structured question data
+  Console - Summary statistics
+
+================================================================================
+FOR FUTURE RAG INTEGRATION
+================================================================================
+
+This data is RAG-ready:
+
+1. DATA FORMAT
+   - One question = One document (atomic unit)
+   - Self-contained records (text + options + metadata)
+   - Designed for 1:1 vector embedding mapping
+
+2. METADATA FOR FILTERING
+   - subject_area: Topic-based filtering
+   - difficulty: Adaptive question selection
+   - complexity_score: Ranking by difficulty
+   - feature_flags: has_equations, has_functions, etc.
+
+3. RECOMMENDED EMBEDDING STRATEGY
+   - Model: sentence-transformers/all-mpnet-base-v2 (768 dims)
+   - Content: question_text + options + subject keywords
+   - Math handling: Preserve Unicode (π, √) or convert to LaTeX
+   - Batching: 64-256 records per batch
+
+4. NEXT STEPS (Separate RAG Project)
+   - Load questions.json into vector DB (ChromaDB/Pinecone)
+   - Generate embeddings for all 199 questions
+   - Implement semantic search + metadata filtering
+   - Integrate LLM for answer generation
+   - Build chatbot UI (Streamlit/Gradio)
+
+================================================================================
+IMPORTANT NOTES
+================================================================================
+
+✅ COMPLETED: Data extraction, parsing, classification, validation
+✅ OUTPUT: data/questions.json with 199 validated questions
+✅ READY FOR: Vector database integration and RAG development
+
+❌ NOT INCLUDED:
+   - Vector database setup
+   - Embedding generation
+   - RAG engine
+   - LLM integration
+   - Chatbot UI
+   - API endpoints
+
+⚠️ LIMITATIONS:
+   - Answer keys not in source PDF (stored as null)
+   - Basic difficulty detection (needs ML improvement)
+   - Tested only on NUST format
+   - Requires text-based PDFs (no OCR for scanned images)
+
+🎯 USE CASE:
+   Data preparation layer for RAG chatbots, question banks, practice test
+   generators, or educational AI assistants. Output JSON ready for vector DB.
+
+================================================================================
+SAMPLE QUESTION
+================================================================================
+
+Question 1 (Mathematics, Medium):
+Text: "If sin⁻¹x + sin⁻¹y + sin⁻¹z = 3π/2 then the value of x⁹ + y⁹ + z⁹ 
+      – 1/x⁹y⁹z⁹ is equal to"
+Options: a. 0  b. 1  c. 2  d. 3
+Metadata: has_mathematical_notation=true, has_functions=true, 
+          complexity_score=2.14
+
+================================================================================
+END OF CONTEXT
+================================================================================
