@@ -1,15 +1,10 @@
 # PDF Processing
-pdfplumber==0.11.7
-PyPDF2==3.0.1
-
-# OCR Libraries
-pytesseract==0.3.10
-Pillow>=10.0.0  # Already installed (11.3.0)
-pdf2image==1.17.0
+pdfplumber==0.11.7  # PDF text extraction and table parsing library
+PyPDF2==3.0.1  # PDF text extraction and table parsing library
 
 # Data Processing
-pandas==2.2.0
-numpy==1.26.3
+pandas==2.2.0  # Data manipulation and analysis library
+numpy==1.26.3  # Numerical computing library
 
 # Utilities
-tqdm==4.66.1
+tqdm==4.66.1  # Progress bar for loops

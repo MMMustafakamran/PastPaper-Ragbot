@@ -1,0 +1,3625 @@
+{
+  "metadata": {
+    "total_questions": 100,
+    "extraction_date": "2025-09-30T13:00:09.445816",
+    "parser_version": "1.0"
+  },
+  "questions": [
+    {
+      "id": "NET_UNKNOWN_Q001",
+      "question_number": 1,
+      "question_text": "If a die is rolled twice then what is the probability that the sum of the number of dots shown is 8?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5/36"
+        },
+        {
+          "label": "B",
+          "text": "4/36"
+        },
+        {
+          "label": "C",
+          "text": "1/12"
+        },
+        {
+          "label": "D",
+          "text": "1/2"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "mathematics",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: If a die is rolled twice then what is the probability that the sum of the number of dots shown is 8? Options: 5/36 | 4/36 | 1/12 | 1/2 Subject: mathematics Answer: 5/36",
+      "raw_text": "Q1. If a die is rolled twice then what is the probability that the sum of the number of dots shown is 8?\nA. 5/36\nB. 4/36\nC. 1/12\nD. 1/2\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q002",
+      "question_number": 2,
+      "question_text": "What is the sine inverse of sin(pi/2)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1"
+        },
+        {
+          "label": "B",
+          "text": "pi/2 radians"
+        },
+        {
+          "label": "C",
+          "text": "90 degrees"
+        },
+        {
+          "label": "D",
+          "text": "Both B and C"
+        }
+      ],
+      "correct_answer": "D",
+      "solution": null,
+      "subject": "mathematics",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: What is the sine inverse of sin(pi/2)? Options: 1 | pi/2 radians | 90 degrees | Both B and C Subject: mathematics Answer: Both B and C",
+      "raw_text": "Q2. What is the sine inverse of sin(pi/2)?\nA. 1\nB. pi/2 radians\nC. 90 degrees\nD. Both B and C\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q003",
+      "question_number": 3,
+      "question_text": "What is the derivative of the inverse cosecant function?",
+      "options": [
+        {
+          "label": "A",
+          "text": "(-1)/[|x|*sqrt(x^2-1)]"
+        },
+        {
+          "label": "B",
+          "text": "(-1)/[|x|*sqrt(x^2+1)]"
+        },
+        {
+          "label": "C",
+          "text": "1/[|x|*sqrt(x^2-1)]"
+        },
+        {
+          "label": "D",
+          "text": "1/sqrt(x^2-1)"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "mathematics",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: What is the derivative of the inverse cosecant function? Options: (-1)/[|x|*sqrt(x^2-1)] | (-1)/[|x|*sqrt(x^2+1)] | 1/[|x|*sqrt(x^2-1)] | 1/sqrt(x^2-1) Subject: mathematics Answer: (-1)/[|x|*sqrt(x^2-1)]",
+      "raw_text": "Q3. What is the derivative of the inverse cosecant function?\nA. (-1)/[|x|*sqrt(x^2-1)]\nB. (-1)/[|x|*sqrt(x^2+1)]\nC. 1/[|x|*sqrt(x^2-1)]\nD. 1/sqrt(x^2-1)\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q004",
+      "question_number": 4,
+      "question_text": "What is the domain of the inverse cosecant function?",
+      "options": [
+        {
+          "label": "A",
+          "text": "[-1,1]"
+        },
+        {
+          "label": "B",
+          "text": "R"
+        },
+        {
+          "label": "C",
+          "text": "R-(-1,1)"
+        },
+        {
+          "label": "D",
+          "text": "(-1,1)"
+        }
+      ],
+      "correct_answer": "C",
+      "solution": null,
+      "subject": "chemistry",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: What is the domain of the inverse cosecant function? Options: [-1,1] | R | R-(-1,1) | (-1,1) Subject: chemistry Answer: R-(-1,1)",
+      "raw_text": "Q4. What is the domain of the inverse cosecant function?\nA. [-1,1]\nB. R\nC. R-(-1,1)\nD. (-1,1)\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q005",
+      "question_number": 5,
+      "question_text": "Evaluate: [sin^-1][3/4]+[sin^-1][sqrt(7)/4]",
+      "options": [
+        {
+          "label": "A",
+          "text": "[cos^-1](0)"
+        },
+        {
+          "label": "B",
+          "text": "[sin^-1](1)"
+        },
+        {
+          "label": "C",
+          "text": "[tan^-1](infinity)"
+        },
+        {
+          "label": "D",
+          "text": "All of these"
+        }
+      ],
+      "correct_answer": "D",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": true,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Evaluate: [sin^-1][3/4]+[sin^-1][sqrt(7)/4] Options: [cos^-1](0) | [sin^-1](1) | [tan^-1](infinity) | All of these Subject: general Answer: All of these",
+      "raw_text": "Q5. Evaluate: [sin^-1][3/4]+[sin^-1][sqrt(7)/4]\nA. [cos^-1](0)\nB. [sin^-1](1)\nC. [tan^-1](infinity)\nD. All of these\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q006",
+      "question_number": 6,
+      "question_text": "How many hours are there in 360 degrees?",
+      "options": [
+        {
+          "label": "A",
+          "text": "21600"
+        },
+        {
+          "label": "B",
+          "text": "360"
+        },
+        {
+          "label": "C",
+          "text": "60"
+        },
+        {
+          "label": "D",
+          "text": "3.14"
+        }
+      ],
+      "correct_answer": "B",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: How many hours are there in 360 degrees? Options: 21600 | 360 | 60 | 3.14 Subject: general Answer: 360",
+      "raw_text": "Q6. How many hours are there in 360 degrees?\nA. 21600\nB. 360\nC. 60\nD. 3.14\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q007",
+      "question_number": 7,
+      "question_text": "How many terms are there in the expansion of (1+x)^n; considering that ‘n’ is positive?",
+      "options": [
+        {
+          "label": "A",
+          "text": "n+1"
+        },
+        {
+          "label": "B",
+          "text": "n"
+        },
+        {
+          "label": "C",
+          "text": "Infinite"
+        },
+        {
+          "label": "D",
+          "text": "n-1"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "chemistry",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: How many terms are there in the expansion of (1+x)^n; considering that ‘n’ is positive? Options: n+1 | n | Infinite | n-1 Subject: chemistry Answer: n+1",
+      "raw_text": "Q7. How many terms are there in the expansion of (1+x)^n; considering that ‘n’ is positive?\nA. n+1\nB. n\nC. Infinite\nD. n-1\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q008",
+      "question_number": 8,
+      "question_text": "What is the derivative of 2t^3 with respect to 3t^2?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2t^3"
+        },
+        {
+          "label": "B",
+          "text": "t"
+        },
+        {
+          "label": "C",
+          "text": "t^2"
+        },
+        {
+          "label": "D",
+          "text": "1/t"
+        }
+      ],
+      "correct_answer": "B",
+      "solution": null,
+      "subject": "mathematics",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: What is the derivative of 2t^3 with respect to 3t^2? Options: 2t^3 | t | t^2 | 1/t Subject: mathematics Answer: t",
+      "raw_text": "Q8. What is the derivative of 2t^3 with respect to 3t^2?\nA. 2t^3\nB. t\nC. t^2\nD. 1/t\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q009",
+      "question_number": 9,
+      "question_text": "1, 1/3, 1/5, 1/7... is a/an ________ sequence.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fibonnaci"
+        },
+        {
+          "label": "B",
+          "text": "Harmonic"
+        },
+        {
+          "label": "C",
+          "text": "Geometric"
+        },
+        {
+          "label": "D",
+          "text": "Arithmetic"
+        }
+      ],
+      "correct_answer": "B",
+      "solution": null,
+      "subject": "mathematics",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": true,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: 1, 1/3, 1/5, 1/7... is a/an ________ sequence. Options: Fibonnaci | Harmonic | Geometric | Arithmetic Subject: mathematics Answer: Harmonic",
+      "raw_text": "Q9. 1, 1/3, 1/5, 1/7... is a/an ________ sequence.\nA. Fibonnaci\nB. Harmonic\nC. Geometric\nD. Arithmetic\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q010",
+      "question_number": 10,
+      "question_text": "What is the difference between the arithmetic mean and the geometric mean of 5 and 7?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.8"
+        },
+        {
+          "label": "B",
+          "text": "0.08"
+        },
+        {
+          "label": "C",
+          "text": "0.008"
+        },
+        {
+          "label": "D",
+          "text": "0.0008"
+        }
+      ],
+      "correct_answer": "B",
+      "solution": null,
+      "subject": "mathematics",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: What is the difference between the arithmetic mean and the geometric mean of 5 and 7? Options: 0.8 | 0.08 | 0.008 | 0.0008 Subject: mathematics Answer: 0.08",
+      "raw_text": "Q10. What is the difference between the arithmetic mean and the geometric mean of 5 and 7?\nA. 0.8\nB. 0.08\nC. 0.008\nD. 0.0008\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q011",
+      "question_number": 11,
+      "question_text": "What is the real component of the complex number (4-i)^2?",
+      "options": [
+        {
+          "label": "A",
+          "text": "-8"
+        },
+        {
+          "label": "B",
+          "text": "17"
+        },
+        {
+          "label": "C",
+          "text": "15"
+        },
+        {
+          "label": "D",
+          "text": "Missing information"
+        }
+      ],
+      "correct_answer": "C",
+      "solution": null,
+      "subject": "mathematics",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: What is the real component of the complex number (4-i)^2? Options: -8 | 17 | 15 | Missing information Subject: mathematics Answer: 15",
+      "raw_text": "Q11. What is the real component of the complex number (4-i)^2?\nA. -8\nB. 17\nC. 15\nD. Missing information\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q012",
+      "question_number": 12,
+      "question_text": "Which one of the following properties of sets is said to be the commutative property?",
+      "options": [
+        {
+          "label": "A",
+          "text": "AUB=BUA"
+        },
+        {
+          "label": "B",
+          "text": "A=B"
+        },
+        {
+          "label": "C",
+          "text": "AU(BUC)=(AUB)UC"
+        },
+        {
+          "label": "D",
+          "text": "A’=U-A"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Which one of the following properties of sets is said to be the commutative property? Options: AUB=BUA | A=B | AU(BUC)=(AUB)UC | A’=U-A Subject: general Answer: AUB=BUA",
+      "raw_text": "Q12. Which one of the following properties of sets is said to be the commutative property?\nA. AUB=BUA\nB. A=B\nC. AU(BUC)=(AUB)UC\nD. A’=U-A\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q013",
+      "question_number": 13,
+      "question_text": "If x^4-3x^2+4=0 then its roots are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "2, -2, i and –i"
+        },
+        {
+          "label": "B",
+          "text": "1, -1, i and -i"
+        },
+        {
+          "label": "C",
+          "text": "iota only"
+        },
+        {
+          "label": "D",
+          "text": "Impossible to determine"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": true,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: If x^4-3x^2+4=0 then its roots are: Options: 2, -2, i and –i | 1, -1, i and -i | iota only | Impossible to determine Subject: general Answer: 2, -2, i and –i",
+      "raw_text": "Q13. If x^4-3x^2+4=0 then its roots are:\nA. 2, -2, i and –i\nB. 1, -1, i and -i\nC. iota only\nD. Impossible to determine\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q014",
+      "question_number": 14,
+      "question_text": "What are the cube roots of unity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1, -1, i and -i"
+        },
+        {
+          "label": "B",
+          "text": "1, -1 and i"
+        },
+        {
+          "label": "C",
+          "text": "There doesn’t exist such entities in mathematics"
+        },
+        {
+          "label": "D",
+          "text": "1, [-1+sqrt(3)*i]/2 and [-1-sqrt(3)*i]/2"
+        }
+      ],
+      "correct_answer": "D",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: What are the cube roots of unity? Options: 1, -1, i and -i | 1, -1 and i | There doesn’t exist such entities in mathematics | 1, [-1+sqrt(3)*i]/2 and [-1-sqrt(3)*i]/2 Subject: general Answer: 1, [-1+sqrt(3)*i]/2 and [-1-sqrt(3)*i]/2",
+      "raw_text": "Q14. What are the cube roots of unity?\nA. 1, -1, i and -i\nB. 1, -1 and i\nC. There doesn’t exist such entities in mathematics\nD. 1, [-1+sqrt(3)*i]/2 and [-1-sqrt(3)*i]/2\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q015",
+      "question_number": 15,
+      "question_text": "If 4x/(x-1)(x+1)=A/(x-1)+B/(x+1) then the values of ‘A’ and ‘B’ are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "2 and 2"
+        },
+        {
+          "label": "B",
+          "text": "2 and -2"
+        },
+        {
+          "label": "C",
+          "text": "1 and -1"
+        },
+        {
+          "label": "D",
+          "text": "Impossible to determine"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: If 4x/(x-1)(x+1)=A/(x-1)+B/(x+1) then the values of ‘A’ and ‘B’ are: Options: 2 and 2 | 2 and -2 | 1 and -1 | Impossible to determine Subject: general Answer: 2 and 2",
+      "raw_text": "Q15. If 4x/(x-1)(x+1)=A/(x-1)+B/(x+1) then the values of ‘A’ and ‘B’ are:\nA. 2 and 2\nB. 2 and -2\nC. 1 and -1\nD. Impossible to determine\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q016",
+      "question_number": 16,
+      "question_text": "What is the nth term of the sequence: 1, 3, 5, 7…?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2n-1"
+        },
+        {
+          "label": "B",
+          "text": "2n+3"
+        },
+        {
+          "label": "C",
+          "text": "2n"
+        },
+        {
+          "label": "D",
+          "text": "It is impossible to find the nth term for such a sequence"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "mathematics",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: What is the nth term of the sequence: 1, 3, 5, 7…? Options: 2n-1 | 2n+3 | 2n | It is impossible to find the nth term for such a sequence Subject: mathematics Answer: 2n-1",
+      "raw_text": "Q16. What is the nth term of the sequence: 1, 3, 5, 7…?\nA. 2n-1\nB. 2n+3\nC. 2n\nD. It is impossible to find the nth term for such a sequence\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q017",
+      "question_number": 17,
+      "question_text": "What are the two numbers whose sum is 20 but their product is minimum?",
+      "options": [
+        {
+          "label": "A",
+          "text": "10, 10"
+        },
+        {
+          "label": "B",
+          "text": "15, 5"
+        },
+        {
+          "label": "C",
+          "text": "0, 20"
+        },
+        {
+          "label": "D",
+          "text": "1, 19"
+        }
+      ],
+      "correct_answer": "C",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: What are the two numbers whose sum is 20 but their product is minimum? Options: 10, 10 | 15, 5 | 0, 20 | 1, 19 Subject: general Answer: 0, 20",
+      "raw_text": "Q17. What are the two numbers whose sum is 20 but their product is minimum?\nA. 10, 10\nB. 15, 5\nC. 0, 20\nD. 1, 19\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q018",
+      "question_number": 18,
+      "question_text": "The set of points P(x,y) in which x and y both are less than zero, lie in which quadrant?",
+      "options": [
+        {
+          "label": "A",
+          "text": "I"
+        },
+        {
+          "label": "B",
+          "text": "II"
+        },
+        {
+          "label": "C",
+          "text": "III"
+        },
+        {
+          "label": "D",
+          "text": "IV"
+        }
+      ],
+      "correct_answer": "C",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: The set of points P(x,y) in which x and y both are less than zero, lie in which quadrant? Options: I | II | III | IV Subject: general Answer: III",
+      "raw_text": "Q18. The set of points P(x,y) in which x and y both are less than zero, lie in which quadrant?\nA. I\nB. II\nC. III\nD. IV\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q019",
+      "question_number": 19,
+      "question_text": "What is the same as sin(-a)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "–sin(a)"
+        },
+        {
+          "label": "B",
+          "text": "sin(a)"
+        },
+        {
+          "label": "C",
+          "text": "–tan(a)/sec(a)"
+        },
+        {
+          "label": "D",
+          "text": "Both A and C"
+        }
+      ],
+      "correct_answer": "D",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: What is the same as sin(-a)? Options: –sin(a) | sin(a) | –tan(a)/sec(a) | Both A and C Subject: general Answer: Both A and C",
+      "raw_text": "Q19. What is the same as sin(-a)?\nA. –sin(a)\nB. sin(a)\nC. –tan(a)/sec(a)\nD. Both A and C\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q020",
+      "question_number": 20,
+      "question_text": "What is the domain of the function f(x)=1/sqrt(x^2+3x+2)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "(-1,+infinity)U(-2, +infinity)"
+        },
+        {
+          "label": "B",
+          "text": "(-1,-2)"
+        },
+        {
+          "label": "C",
+          "text": "Set of real numbers"
+        },
+        {
+          "label": "D",
+          "text": "(-infinity, +infinity)"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "mathematics",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": true,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: What is the domain of the function f(x)=1/sqrt(x^2+3x+2)? Options: (-1,+infinity)U(-2, +infinity) | (-1,-2) | Set of real numbers | (-infinity, +infinity) Subject: mathematics Answer: (-1,+infinity)U(-2, +infinity)",
+      "raw_text": "Q20. What is the domain of the function f(x)=1/sqrt(x^2+3x+2)?\nA. (-1,+infinity)U(-2, +infinity)\nB. (-1,-2)\nC. Set of real numbers\nD. (-infinity, +infinity)\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q021",
+      "question_number": 21,
+      "question_text": "If f(x)=x^3, then what is its inverse?",
+      "options": [
+        {
+          "label": "A",
+          "text": "x^(1/3)"
+        },
+        {
+          "label": "B",
+          "text": "3^x"
+        },
+        {
+          "label": "C",
+          "text": "[x^(2/3)]^0.5"
+        },
+        {
+          "label": "D",
+          "text": "Both A and C"
+        }
+      ],
+      "correct_answer": "D",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: If f(x)=x^3, then what is its inverse? Options: x^(1/3) | 3^x | [x^(2/3)]^0.5 | Both A and C Subject: general Answer: Both A and C",
+      "raw_text": "Q21. If f(x)=x^3, then what is its inverse?\nA. x^(1/3)\nB. 3^x\nC. [x^(2/3)]^0.5\nD. Both A and C\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q022",
+      "question_number": 22,
+      "question_text": "If in a triangle, a=200, b=120 and γ=150 degrees, then what is the area of the triangle?",
+      "options": [
+        {
+          "label": "A",
+          "text": "10932"
+        },
+        {
+          "label": "B",
+          "text": "Impossible to determine"
+        },
+        {
+          "label": "C",
+          "text": "7050"
+        },
+        {
+          "label": "D",
+          "text": "6000"
+        }
+      ],
+      "correct_answer": "D",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": true,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: If in a triangle, a=200, b=120 and γ=150 degrees, then what is the area of the triangle? Options: 10932 | Impossible to determine | 7050 | 6000 Subject: general Answer: 6000",
+      "raw_text": "Q22. If in a triangle, a=200, b=120 and γ=150 degrees, then what is the area of the triangle?\nA. 10932\nB. Impossible to determine\nC. 7050\nD. 6000\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q023",
+      "question_number": 23,
+      "question_text": "Use analytical geometry to determine to classify the quadrilateral ABCD with vertices A(-1,0), B(3,3), C(6,-1), and D(2,-4).",
+      "options": [
+        {
+          "label": "A",
+          "text": "Parallelogram"
+        },
+        {
+          "label": "B",
+          "text": "Square"
+        },
+        {
+          "label": "C",
+          "text": "Rhombus"
+        },
+        {
+          "label": "D",
+          "text": "Trapezium"
+        }
+      ],
+      "correct_answer": "B",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Use analytical geometry to determine to classify the quadrilateral ABCD with vertices A(-1,0), B(3,3), C(6,-1), and D(2,-4). Options: Parallelogram | Square | Rhombus | Trapezium Subject: general Answer: Square",
+      "raw_text": "Q23. Use analytical geometry to determine to classify the quadrilateral ABCD with vertices A(-1,0), B(3,3), C(6,-1), and D(2,-4).\nA. Parallelogram\nB. Square\nC. Rhombus\nD. Trapezium\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q024",
+      "question_number": 24,
+      "question_text": "Tell the relationship between x and y. x 0 1 2 3 4 5 6 7 8 y Undefined 0 0.693 1.099 1.386 1.609 1.792 1.946 2.079",
+      "options": [
+        {
+          "label": "A",
+          "text": "y=ln x"
+        },
+        {
+          "label": "B",
+          "text": "y=log x"
+        },
+        {
+          "label": "C",
+          "text": "y=1/x"
+        },
+        {
+          "label": "D",
+          "text": "y=e^x"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "chemistry",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Tell the relationship between x and y. x 0 1 2 3 4 5 6 7 8 y Undefined 0 0.693 1.099 1.386 1.609 1.792 1.946 2.079 Options: y=ln x | y=log x | y=1/x | y=e^x Subject: chemistry Answer: y=ln x",
+      "raw_text": "Q24. Tell the relationship between x and y. x 0 1 2 3 4 5 6 7 8 y Undefined 0 0.693 1.099 1.386 1.609 1.792 1.946 2.079\nA. y=ln x\nB. y=log x\nC. y=1/x\nD. y=e^x\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q025",
+      "question_number": 25,
+      "question_text": "The feasible solution which maximizes or minimizes the objective function is called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Optimal solution"
+        },
+        {
+          "label": "B",
+          "text": "Feasible solution"
+        },
+        {
+          "label": "C",
+          "text": "Linear solution"
+        },
+        {
+          "label": "D",
+          "text": "Quintic solution"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "chemistry",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: The feasible solution which maximizes or minimizes the objective function is called: Options: Optimal solution | Feasible solution | Linear solution | Quintic solution Subject: chemistry Answer: Optimal solution",
+      "raw_text": "Q25. The feasible solution which maximizes or minimizes the objective function is called:\nA. Optimal solution\nB. Feasible solution\nC. Linear solution\nD. Quintic solution\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q026",
+      "question_number": 26,
+      "question_text": "Evaluate: (sin(θ)-1)^2+(sin(θ)+1)^2",
+      "options": [
+        {
+          "label": "A",
+          "text": "2[1+[sin^2](θ)]"
+        },
+        {
+          "label": "B",
+          "text": "1+[sin^2](θ)"
+        },
+        {
+          "label": "C",
+          "text": "1"
+        },
+        {
+          "label": "D",
+          "text": "2+(sin^2)(θ)"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Evaluate: (sin(θ)-1)^2+(sin(θ)+1)^2 Options: 2[1+[sin^2](θ)] | 1+[sin^2](θ) | 1 | 2+(sin^2)(θ) Subject: general Answer: 2[1+[sin^2](θ)]",
+      "raw_text": "Q26. Evaluate: (sin(θ)-1)^2+(sin(θ)+1)^2\nA. 2[1+[sin^2](θ)]\nB. 1+[sin^2](θ)\nC. 1\nD. 2+(sin^2)(θ)\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q027",
+      "question_number": 27,
+      "question_text": "If one of the lengths of the sides of an equilateral triangle is 10, then what is the area of the triangle?",
+      "options": [
+        {
+          "label": "A",
+          "text": "25*sqrt(3)"
+        },
+        {
+          "label": "B",
+          "text": "43.30"
+        },
+        {
+          "label": "C",
+          "text": "Both A and B"
+        },
+        {
+          "label": "D",
+          "text": "Missing information"
+        }
+      ],
+      "correct_answer": "C",
+      "solution": null,
+      "subject": "chemistry",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: If one of the lengths of the sides of an equilateral triangle is 10, then what is the area of the triangle? Options: 25*sqrt(3) | 43.30 | Both A and B | Missing information Subject: chemistry Answer: Both A and B",
+      "raw_text": "Q27. If one of the lengths of the sides of an equilateral triangle is 10, then what is the area of the triangle?\nA. 25*sqrt(3)\nB. 43.30\nC. Both A and B\nD. Missing information\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q028",
+      "question_number": 28,
+      "question_text": "Iota expressed in the form of coordinates is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "(0,1)"
+        },
+        {
+          "label": "B",
+          "text": "(1,0)"
+        },
+        {
+          "label": "C",
+          "text": "(0,0)"
+        },
+        {
+          "label": "D",
+          "text": "It is impossible to express a complex number in the form of coordinates"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "mathematics",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Iota expressed in the form of coordinates is: Options: (0,1) | (1,0) | (0,0) | It is impossible to express a complex number in the form of coordinates Subject: mathematics Answer: (0,1)",
+      "raw_text": "Q28. Iota expressed in the form of coordinates is:\nA. (0,1)\nB. (1,0)\nC. (0,0)\nD. It is impossible to express a complex number in the form of coordinates\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q029",
+      "question_number": 29,
+      "question_text": "What is the sum of angles in a quadrilateral?",
+      "options": [
+        {
+          "label": "A",
+          "text": "120"
+        },
+        {
+          "label": "B",
+          "text": "180"
+        },
+        {
+          "label": "C",
+          "text": "270"
+        },
+        {
+          "label": "D",
+          "text": "360"
+        }
+      ],
+      "correct_answer": "D",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: What is the sum of angles in a quadrilateral? Options: 120 | 180 | 270 | 360 Subject: general Answer: 360",
+      "raw_text": "Q29. What is the sum of angles in a quadrilateral?\nA. 120\nB. 180\nC. 270\nD. 360\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q030",
+      "question_number": 30,
+      "question_text": "What is the power of fourth power of ‘x’ in the sixth power of (2-x)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "24"
+        },
+        {
+          "label": "B",
+          "text": "10"
+        },
+        {
+          "label": "C",
+          "text": "6/4"
+        },
+        {
+          "label": "D",
+          "text": "2"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: What is the power of fourth power of ‘x’ in the sixth power of (2-x)? Options: 24 | 10 | 6/4 | 2 Subject: general Answer: 24",
+      "raw_text": "Q30. What is the power of fourth power of ‘x’ in the sixth power of (2-x)?\nA. 24\nB. 10\nC. 6/4\nD. 2\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q031",
+      "question_number": 31,
+      "question_text": "What is the sum of the first 50 real numbers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "500"
+        },
+        {
+          "label": "B",
+          "text": "1275"
+        },
+        {
+          "label": "C",
+          "text": "1200"
+        },
+        {
+          "label": "D",
+          "text": "8900"
+        }
+      ],
+      "correct_answer": "B",
+      "solution": null,
+      "subject": "mathematics",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: What is the sum of the first 50 real numbers? Options: 500 | 1275 | 1200 | 8900 Subject: mathematics Answer: 1275",
+      "raw_text": "Q31. What is the sum of the first 50 real numbers?\nA. 500\nB. 1275\nC. 1200\nD. 8900\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q032",
+      "question_number": 32,
+      "question_text": "Orders of some matrices are given in the following. Which one of them cannot be multiplied?",
+      "options": [
+        {
+          "label": "A",
+          "text": "mxn, nxp where m, n and p are all positive integers"
+        },
+        {
+          "label": "B",
+          "text": "axb, bxc where a, b and c are all positive integers"
+        },
+        {
+          "label": "C",
+          "text": "1x2, 2x6"
+        },
+        {
+          "label": "D",
+          "text": "3x5, 4x1"
+        }
+      ],
+      "correct_answer": "D",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Orders of some matrices are given in the following. Which one of them cannot be multiplied? Options: mxn, nxp where m, n and p are all positive integers | axb, bxc where a, b and c are all positive integers | 1x2, 2x6 | 3x5, 4x1 Subject: general Answer: 3x5, 4x1",
+      "raw_text": "Q32. Orders of some matrices are given in the following. Which one of them cannot be multiplied?\nA. mxn, nxp where m, n and p are all positive integers\nB. axb, bxc where a, b and c are all positive integers\nC. 1x2, 2x6\nD. 3x5, 4x1\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q033",
+      "question_number": 33,
+      "question_text": "sin (pi/3) is equal to?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.866"
+        },
+        {
+          "label": "B",
+          "text": "0.500"
+        },
+        {
+          "label": "C",
+          "text": "0.707"
+        },
+        {
+          "label": "D",
+          "text": "0.966"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: sin (pi/3) is equal to? Options: 0.866 | 0.500 | 0.707 | 0.966 Subject: general Answer: 0.866",
+      "raw_text": "Q33. sin (pi/3) is equal to?\nA. 0.866\nB. 0.500\nC. 0.707\nD. 0.966\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q034",
+      "question_number": 34,
+      "question_text": "What is the formula for tan θ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "sin θ/cos θ"
+        },
+        {
+          "label": "B",
+          "text": "1/cot θ"
+        },
+        {
+          "label": "C",
+          "text": "tan(180+ θ)"
+        },
+        {
+          "label": "D",
+          "text": "All of these"
+        }
+      ],
+      "correct_answer": "D",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: What is the formula for tan θ? Options: sin θ/cos θ | 1/cot θ | tan(180+ θ) | All of these Subject: general Answer: All of these",
+      "raw_text": "Q34. What is the formula for tan θ?\nA. sin θ/cos θ\nB. 1/cot θ\nC. tan(180+ θ)\nD. All of these\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q035",
+      "question_number": 35,
+      "question_text": "What is the formula for cos 2θ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "[1-[tan^2](θ)]/[1+[tan^2](θ)]"
+        },
+        {
+          "label": "B",
+          "text": "1-2sin^2(θ)"
+        },
+        {
+          "label": "C",
+          "text": "Both A and B"
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        }
+      ],
+      "correct_answer": "C",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: What is the formula for cos 2θ? Options: [1-[tan^2](θ)]/[1+[tan^2](θ)] | 1-2sin^2(θ) | Both A and B | None of these Subject: general Answer: Both A and B",
+      "raw_text": "Q35. What is the formula for cos 2θ?\nA. [1-[tan^2](θ)]/[1+[tan^2](θ)]\nB. 1-2sin^2(θ)\nC. Both A and B\nD. None of these\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q036",
+      "question_number": 36,
+      "question_text": "Evaluate: cos θ+tan θ*sin θ",
+      "options": [
+        {
+          "label": "A",
+          "text": "sec θ"
+        },
+        {
+          "label": "B",
+          "text": "1/cos θ"
+        },
+        {
+          "label": "C",
+          "text": "sqrt[1-sin^2(θ)]"
+        },
+        {
+          "label": "D",
+          "text": "All of these"
+        }
+      ],
+      "correct_answer": "D",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Evaluate: cos θ+tan θ*sin θ Options: sec θ | 1/cos θ | sqrt[1-sin^2(θ)] | All of these Subject: general Answer: All of these",
+      "raw_text": "Q36. Evaluate: cos θ+tan θ*sin θ\nA. sec θ\nB. 1/cos θ\nC. sqrt[1-sin^2(θ)]\nD. All of these\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q037",
+      "question_number": 37,
+      "question_text": "Solve: (22/7)*sqrt(3)",
+      "options": [
+        {
+          "label": "A",
+          "text": "5.44"
+        },
+        {
+          "label": "B",
+          "text": "5.20"
+        },
+        {
+          "label": "C",
+          "text": "5.85"
+        },
+        {
+          "label": "D",
+          "text": "5.69"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": true,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Solve: (22/7)*sqrt(3) Options: 5.44 | 5.20 | 5.85 | 5.69 Subject: general Answer: 5.44",
+      "raw_text": "Q37. Solve: (22/7)*sqrt(3)\nA. 5.44\nB. 5.20\nC. 5.85\nD. 5.69\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q038",
+      "question_number": 38,
+      "question_text": "What is the cosine inverse of cos(0.5)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1/6"
+        },
+        {
+          "label": "B",
+          "text": "1/2"
+        },
+        {
+          "label": "C",
+          "text": "1/3"
+        },
+        {
+          "label": "D",
+          "text": "1/4"
+        }
+      ],
+      "correct_answer": "B",
+      "solution": null,
+      "subject": "mathematics",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: What is the cosine inverse of cos(0.5)? Options: 1/6 | 1/2 | 1/3 | 1/4 Subject: mathematics Answer: 1/2",
+      "raw_text": "Q38. What is the cosine inverse of cos(0.5)?\nA. 1/6\nB. 1/2\nC. 1/3\nD. 1/4\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q039",
+      "question_number": 39,
+      "question_text": "Probability of any event cannot have the value of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1/5"
+        },
+        {
+          "label": "B",
+          "text": "1/8"
+        },
+        {
+          "label": "C",
+          "text": "1/2"
+        },
+        {
+          "label": "D",
+          "text": "3/2"
+        }
+      ],
+      "correct_answer": "D",
+      "solution": null,
+      "subject": "mathematics",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Probability of any event cannot have the value of: Options: 1/5 | 1/8 | 1/2 | 3/2 Subject: mathematics Answer: 3/2",
+      "raw_text": "Q39. Probability of any event cannot have the value of:\nA. 1/5\nB. 1/8\nC. 1/2\nD. 3/2\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q040",
+      "question_number": 40,
+      "question_text": "If A={1,2,3}, B={0,4,5} and U={0,3,6}, then find n(AUB).",
+      "options": [
+        {
+          "label": "A",
+          "text": "64"
+        },
+        {
+          "label": "B",
+          "text": "8"
+        },
+        {
+          "label": "C",
+          "text": "16"
+        },
+        {
+          "label": "D",
+          "text": "32"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: If A={1,2,3}, B={0,4,5} and U={0,3,6}, then find n(AUB). Options: 64 | 8 | 16 | 32 Subject: general Answer: 64",
+      "raw_text": "Q40. If A={1,2,3}, B={0,4,5} and U={0,3,6}, then find n(AUB).\nA. 64\nB. 8\nC. 16\nD. 32\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q041",
+      "question_number": 41,
+      "question_text": "When both nappes of a double-napped cone are intersected by a plane (not passing through the vertex), the cross section produces a/an:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hyperbola"
+        },
+        {
+          "label": "B",
+          "text": "Circle"
+        },
+        {
+          "label": "C",
+          "text": "Ellipse"
+        },
+        {
+          "label": "D",
+          "text": "Parabola"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "mathematics",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: When both nappes of a double-napped cone are intersected by a plane (not passing through the vertex), the cross section produces a/an: Options: Hyperbola | Circle | Ellipse | Parabola Subject: mathematics Answer: Hyperbola",
+      "raw_text": "Q41. When both nappes of a double-napped cone are intersected by a plane (not passing through the vertex), the cross section produces a/an:\nA. Hyperbola\nB. Circle\nC. Ellipse\nD. Parabola\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q042",
+      "question_number": 42,
+      "question_text": "Find the value of cos[(tan^-1)(-1)].",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.766"
+        },
+        {
+          "label": "B",
+          "text": "0.707"
+        },
+        {
+          "label": "C",
+          "text": "0.500"
+        },
+        {
+          "label": "D",
+          "text": "0.087"
+        }
+      ],
+      "correct_answer": "B",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Find the value of cos[(tan^-1)(-1)]. Options: 0.766 | 0.707 | 0.500 | 0.087 Subject: general Answer: 0.707",
+      "raw_text": "Q42. Find the value of cos[(tan^-1)(-1)].\nA. 0.766\nB. 0.707\nC. 0.500\nD. 0.087\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q043",
+      "question_number": 43,
+      "question_text": "Evaluate: tan (θ/2)",
+      "options": [
+        {
+          "label": "A",
+          "text": "sqrt[(1-cos θ)/(1+cos θ)]"
+        },
+        {
+          "label": "B",
+          "text": "1/cot (θ/2)"
+        },
+        {
+          "label": "C",
+          "text": "tan(180+θ/2)"
+        },
+        {
+          "label": "D",
+          "text": "All of these"
+        }
+      ],
+      "correct_answer": "D",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Evaluate: tan (θ/2) Options: sqrt[(1-cos θ)/(1+cos θ)] | 1/cot (θ/2) | tan(180+θ/2) | All of these Subject: general Answer: All of these",
+      "raw_text": "Q43. Evaluate: tan (θ/2)\nA. sqrt[(1-cos θ)/(1+cos θ)]\nB. 1/cot (θ/2)\nC. tan(180+θ/2)\nD. All of these\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q044",
+      "question_number": 44,
+      "question_text": "Evaluate: [tan^-1][1/sqrt(3)]",
+      "options": [
+        {
+          "label": "A",
+          "text": "pi/6 radians"
+        },
+        {
+          "label": "B",
+          "text": "pi/3 radians"
+        },
+        {
+          "label": "C",
+          "text": "13pi/6 radians"
+        },
+        {
+          "label": "D",
+          "text": "Both A and C"
+        }
+      ],
+      "correct_answer": "D",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Evaluate: [tan^-1][1/sqrt(3)] Options: pi/6 radians | pi/3 radians | 13pi/6 radians | Both A and C Subject: general Answer: Both A and C",
+      "raw_text": "Q44. Evaluate: [tan^-1][1/sqrt(3)]\nA. pi/6 radians\nB. pi/3 radians\nC. 13pi/6 radians\nD. Both A and C\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q045",
+      "question_number": 45,
+      "question_text": "Find the distance AB between the two points: A(3,1) and B(-2,-4).",
+      "options": [
+        {
+          "label": "A",
+          "text": "sqrt(50)"
+        },
+        {
+          "label": "B",
+          "text": "sqrt(26)"
+        },
+        {
+          "label": "C",
+          "text": "sqrt(34)"
+        },
+        {
+          "label": "D",
+          "text": "sqrt(10)"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Find the distance AB between the two points: A(3,1) and B(-2,-4). Options: sqrt(50) | sqrt(26) | sqrt(34) | sqrt(10) Subject: general Answer: sqrt(50)",
+      "raw_text": "Q45. Find the distance AB between the two points: A(3,1) and B(-2,-4).\nA. sqrt(50)\nB. sqrt(26)\nC. sqrt(34)\nD. sqrt(10)\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q046",
+      "question_number": 46,
+      "question_text": "What are three AMs between -18 and 4?",
+      "options": [
+        {
+          "label": "A",
+          "text": "12.5, 7 and 1.5"
+        },
+        {
+          "label": "B",
+          "text": "AM can’t be found between a negative and a positive number"
+        },
+        {
+          "label": "C",
+          "text": "-12.5, -7 and -1.5"
+        },
+        {
+          "label": "D",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correct_answer": "C",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: What are three AMs between -18 and 4? Options: 12.5, 7 and 1.5 | AM can’t be found between a negative and a positive number | -12.5, -7 and -1.5 | 1, 2 and 3 Subject: general Answer: -12.5, -7 and -1.5",
+      "raw_text": "Q46. What are three AMs between -18 and 4?\nA. 12.5, 7 and 1.5\nB. AM can’t be found between a negative and a positive number\nC. -12.5, -7 and -1.5\nD. 1, 2 and 3\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q047",
+      "question_number": 47,
+      "question_text": "Find the sum: 1+3+5…+(2n+1)",
+      "options": [
+        {
+          "label": "A",
+          "text": "n^2"
+        },
+        {
+          "label": "B",
+          "text": "ln e^2"
+        },
+        {
+          "label": "C",
+          "text": "2^n"
+        },
+        {
+          "label": "D",
+          "text": "n^e"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": true,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Find the sum: 1+3+5…+(2n+1) Options: n^2 | ln e^2 | 2^n | n^e Subject: general Answer: n^2",
+      "raw_text": "Q47. Find the sum: 1+3+5…+(2n+1)\nA. n^2\nB. ln e^2\nC. 2^n\nD. n^e\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q048",
+      "question_number": 48,
+      "question_text": "What is the domain of tan x?",
+      "options": [
+        {
+          "label": "A",
+          "text": "R – (2n+1)(pi/2) where ‘n’ cannot be zero"
+        },
+        {
+          "label": "B",
+          "text": "R – (2n+1)(pi/2) where ‘n’ can be zero"
+        },
+        {
+          "label": "C",
+          "text": "R – n(pi) where ‘n’ cannot be zero"
+        },
+        {
+          "label": "D",
+          "text": "R"
+        }
+      ],
+      "correct_answer": "B",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: What is the domain of tan x? Options: R – (2n+1)(pi/2) where ‘n’ cannot be zero | R – (2n+1)(pi/2) where ‘n’ can be zero | R – n(pi) where ‘n’ cannot be zero | R Subject: general Answer: R – (2n+1)(pi/2) where ‘n’ can be zero",
+      "raw_text": "Q48. What is the domain of tan x?\nA. R – (2n+1)(pi/2) where ‘n’ cannot be zero\nB. R – (2n+1)(pi/2) where ‘n’ can be zero\nC. R – n(pi) where ‘n’ cannot be zero\nD. R\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q049",
+      "question_number": 49,
+      "question_text": "Which one of the following pairs has the same period?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tangent function and cotangent function"
+        },
+        {
+          "label": "B",
+          "text": "Sine function and tangent function"
+        },
+        {
+          "label": "C",
+          "text": "Cosine function and cotangent function"
+        },
+        {
+          "label": "D",
+          "text": "Cosecant function and tangent function"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "mathematics",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Which one of the following pairs has the same period? Options: Tangent function and cotangent function | Sine function and tangent function | Cosine function and cotangent function | Cosecant function and tangent function Subject: mathematics Answer: Tangent function and cotangent function",
+      "raw_text": "Q49. Which one of the following pairs has the same period?\nA. Tangent function and cotangent function\nB. Sine function and tangent function\nC. Cosine function and cotangent function\nD. Cosecant function and tangent function\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q050",
+      "question_number": 50,
+      "question_text": "30 degrees, 45 minutes and 47 seconds are equal to _____ degrees:",
+      "options": [
+        {
+          "label": "A",
+          "text": "30.56"
+        },
+        {
+          "label": "B",
+          "text": "30.66"
+        },
+        {
+          "label": "C",
+          "text": "30.67"
+        },
+        {
+          "label": "D",
+          "text": "30.86"
+        }
+      ],
+      "correct_answer": "D",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: 30 degrees, 45 minutes and 47 seconds are equal to _____ degrees: Options: 30.56 | 30.66 | 30.67 | 30.86 Subject: general Answer: 30.86",
+      "raw_text": "Q50. 30 degrees, 45 minutes and 47 seconds are equal to _____ degrees:\nA. 30.56\nB. 30.66\nC. 30.67\nD. 30.86\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q051",
+      "question_number": 51,
+      "question_text": "Tickets numbered 1 to 20 are mixed up and then a ticket is drawn at random. What is the probability that the ticket drawn has a number which is a multiple of 3 or 5?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1/2"
+        },
+        {
+          "label": "B",
+          "text": "2/5"
+        },
+        {
+          "label": "C",
+          "text": "8/15"
+        },
+        {
+          "label": "D",
+          "text": "9/20"
+        }
+      ],
+      "correct_answer": "D",
+      "solution": null,
+      "subject": "mathematics",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Tickets numbered 1 to 20 are mixed up and then a ticket is drawn at random. What is the probability that the ticket drawn has a number which is a multiple of 3 or 5? Options: 1/2 | 2/5 | 8/15 | 9/20 Subject: mathematics Answer: 9/20",
+      "raw_text": "Q51. Tickets numbered 1 to 20 are mixed up and then a ticket is drawn at random. What is the probability that the ticket drawn has a number which is a multiple of 3 or 5?\nA. 1/2\nB. 2/5\nC. 8/15\nD. 9/20\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q052",
+      "question_number": 52,
+      "question_text": "If α and β are the roots of the equation x^2-x+1=0, then find 2α and 2β.",
+      "options": [
+        {
+          "label": "A",
+          "text": "1+sqrt(3)*i, 1-sqrt(3)*i"
+        },
+        {
+          "label": "B",
+          "text": "only i"
+        },
+        {
+          "label": "C",
+          "text": "Impossible to determine"
+        },
+        {
+          "label": "D",
+          "text": "i and -i"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "chemistry",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": true,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: If α and β are the roots of the equation x^2-x+1=0, then find 2α and 2β. Options: 1+sqrt(3)*i, 1-sqrt(3)*i | only i | Impossible to determine | i and -i Subject: chemistry Answer: 1+sqrt(3)*i, 1-sqrt(3)*i",
+      "raw_text": "Q52. If α and β are the roots of the equation x^2-x+1=0, then find 2α and 2β.\nA. 1+sqrt(3)*i, 1-sqrt(3)*i\nB. only i\nC. Impossible to determine\nD. i and -i\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q053",
+      "question_number": 53,
+      "question_text": "If A={a,b,c} then the number of possible subsets is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "3"
+        },
+        {
+          "label": "B",
+          "text": "8"
+        },
+        {
+          "label": "C",
+          "text": "6"
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        }
+      ],
+      "correct_answer": "B",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: If A={a,b,c} then the number of possible subsets is: Options: 3 | 8 | 6 | None of these Subject: general Answer: 8",
+      "raw_text": "Q53. If A={a,b,c} then the number of possible subsets is:\nA. 3\nB. 8\nC. 6\nD. None of these\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q054",
+      "question_number": 54,
+      "question_text": "How many 6-digit numbers can be formed without repeating any digit from the digits 0, 1, 2, 3, 4 and 5?",
+      "options": [
+        {
+          "label": "A",
+          "text": "120"
+        },
+        {
+          "label": "B",
+          "text": "720"
+        },
+        {
+          "label": "C",
+          "text": "96"
+        },
+        {
+          "label": "D",
+          "text": "4920"
+        }
+      ],
+      "correct_answer": "B",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: How many 6-digit numbers can be formed without repeating any digit from the digits 0, 1, 2, 3, 4 and 5? Options: 120 | 720 | 96 | 4920 Subject: general Answer: 720",
+      "raw_text": "Q54. How many 6-digit numbers can be formed without repeating any digit from the digits 0, 1, 2, 3, 4 and 5?\nA. 120\nB. 720\nC. 96\nD. 4920\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q055",
+      "question_number": 55,
+      "question_text": "If a parabola has an equation of y^2=4x, then find its focus.",
+      "options": [
+        {
+          "label": "A",
+          "text": "(1,0)"
+        },
+        {
+          "label": "B",
+          "text": "(0,1)"
+        },
+        {
+          "label": "C",
+          "text": "(4,0)"
+        },
+        {
+          "label": "D",
+          "text": "(0,4)"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "mathematics",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": true,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: If a parabola has an equation of y^2=4x, then find its focus. Options: (1,0) | (0,1) | (4,0) | (0,4) Subject: mathematics Answer: (1,0)",
+      "raw_text": "Q55. If a parabola has an equation of y^2=4x, then find its focus.\nA. (1,0)\nB. (0,1)\nC. (4,0)\nD. (0,4)\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q056",
+      "question_number": 56,
+      "question_text": "Any line parallel to x-axis has a slope of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "0"
+        },
+        {
+          "label": "B",
+          "text": "infinity"
+        },
+        {
+          "label": "C",
+          "text": "1"
+        },
+        {
+          "label": "D",
+          "text": "-1"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Any line parallel to x-axis has a slope of: Options: 0 | infinity | 1 | -1 Subject: general Answer: 0",
+      "raw_text": "Q56. Any line parallel to x-axis has a slope of:\nA. 0\nB. infinity\nC. 1\nD. -1\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q057",
+      "question_number": 57,
+      "question_text": "The product of all the three cube roots of unity is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1"
+        },
+        {
+          "label": "B",
+          "text": "-1"
+        },
+        {
+          "label": "C",
+          "text": "-1+sqrt(3)*i"
+        },
+        {
+          "label": "D",
+          "text": "0"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: The product of all the three cube roots of unity is: Options: 1 | -1 | -1+sqrt(3)*i | 0 Subject: general Answer: 1",
+      "raw_text": "Q57. The product of all the three cube roots of unity is:\nA. 1\nB. -1\nC. -1+sqrt(3)*i\nD. 0\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q058",
+      "question_number": 58,
+      "question_text": "2/3 is a/an ________ number.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Irrational"
+        },
+        {
+          "label": "B",
+          "text": "Rational"
+        },
+        {
+          "label": "C",
+          "text": "Positive"
+        },
+        {
+          "label": "D",
+          "text": "Both B and C"
+        }
+      ],
+      "correct_answer": "D",
+      "solution": null,
+      "subject": "mathematics",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": true,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: 2/3 is a/an ________ number. Options: Irrational | Rational | Positive | Both B and C Subject: mathematics Answer: Both B and C",
+      "raw_text": "Q58. 2/3 is a/an ________ number.\nA. Irrational\nB. Rational\nC. Positive\nD. Both B and C\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q059",
+      "question_number": 59,
+      "question_text": "How many radians are there in a degree?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.07145"
+        },
+        {
+          "label": "B",
+          "text": "0.06250"
+        },
+        {
+          "label": "C",
+          "text": "0.06145"
+        },
+        {
+          "label": "D",
+          "text": "0.07135"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: How many radians are there in a degree? Options: 0.07145 | 0.06250 | 0.06145 | 0.07135 Subject: general Answer: 0.07145",
+      "raw_text": "Q59. How many radians are there in a degree?\nA. 0.07145\nB. 0.06250\nC. 0.06145\nD. 0.07135\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q060",
+      "question_number": 60,
+      "question_text": "Which one of the following things a hyperbola has?",
+      "options": [
+        {
+          "label": "A",
+          "text": "One focus and two directrices"
+        },
+        {
+          "label": "B",
+          "text": "Two foci and two directrices"
+        },
+        {
+          "label": "C",
+          "text": "Two foci and one directrix"
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        }
+      ],
+      "correct_answer": "B",
+      "solution": null,
+      "subject": "mathematics",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Which one of the following things a hyperbola has? Options: One focus and two directrices | Two foci and two directrices | Two foci and one directrix | None of these Subject: mathematics Answer: Two foci and two directrices",
+      "raw_text": "Q60. Which one of the following things a hyperbola has?\nA. One focus and two directrices\nB. Two foci and two directrices\nC. Two foci and one directrix\nD. None of these\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q061",
+      "question_number": 61,
+      "question_text": "A line segment that touches two points on the outside of the circle but doesn't pass through the center is called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chord"
+        },
+        {
+          "label": "B",
+          "text": "Diameter"
+        },
+        {
+          "label": "C",
+          "text": "Radius"
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: A line segment that touches two points on the outside of the circle but doesn't pass through the center is called: Options: Chord | Diameter | Radius | None of these Subject: general Answer: Chord",
+      "raw_text": "Q61. A line segment that touches two points on the outside of the circle but doesn't pass through the center is called:\nA. Chord\nB. Diameter\nC. Radius\nD. None of these\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q062",
+      "question_number": 62,
+      "question_text": "In a right-angled triangle, if a median drawn from the right angle to the hypotenuse has a length of 6 meters, then what is the length of the hypotenuse?",
+      "options": [
+        {
+          "label": "A",
+          "text": "12 meters"
+        },
+        {
+          "label": "B",
+          "text": "6 meters"
+        },
+        {
+          "label": "C",
+          "text": "3 meters"
+        },
+        {
+          "label": "D",
+          "text": "36 meters"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "mathematics",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: In a right-angled triangle, if a median drawn from the right angle to the hypotenuse has a length of 6 meters, then what is the length of the hypotenuse? Options: 12 meters | 6 meters | 3 meters | 36 meters Subject: mathematics Answer: 12 meters",
+      "raw_text": "Q62. In a right-angled triangle, if a median drawn from the right angle to the hypotenuse has a length of 6 meters, then what is the length of the hypotenuse?\nA. 12 meters\nB. 6 meters\nC. 3 meters\nD. 36 meters\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q063",
+      "question_number": 63,
+      "question_text": "If we have a function f(x,y)=c, then we differentiate it using the method of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chain Rule"
+        },
+        {
+          "label": "B",
+          "text": "Implicit differentiation"
+        },
+        {
+          "label": "C",
+          "text": "Product Rule"
+        },
+        {
+          "label": "D",
+          "text": "Newton’s method"
+        }
+      ],
+      "correct_answer": "B",
+      "solution": null,
+      "subject": "physics",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: If we have a function f(x,y)=c, then we differentiate it using the method of: Options: Chain Rule | Implicit differentiation | Product Rule | Newton’s method Subject: physics Answer: Implicit differentiation",
+      "raw_text": "Q63. If we have a function f(x,y)=c, then we differentiate it using the method of:\nA. Chain Rule\nB. Implicit differentiation\nC. Product Rule\nD. Newton’s method\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q064",
+      "question_number": 64,
+      "question_text": "The sum of coefficients in the expansion of (x+y)^5 is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "128"
+        },
+        {
+          "label": "B",
+          "text": "64"
+        },
+        {
+          "label": "C",
+          "text": "32"
+        },
+        {
+          "label": "D",
+          "text": "16"
+        }
+      ],
+      "correct_answer": "C",
+      "solution": null,
+      "subject": "chemistry",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: The sum of coefficients in the expansion of (x+y)^5 is: Options: 128 | 64 | 32 | 16 Subject: chemistry Answer: 32",
+      "raw_text": "Q64. The sum of coefficients in the expansion of (x+y)^5 is:\nA. 128\nB. 64\nC. 32\nD. 16\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q065",
+      "question_number": 65,
+      "question_text": "If the sum of two consecutive integers is ‘x’, then what is the product of them?",
+      "options": [
+        {
+          "label": "A",
+          "text": "(x^2-1)/4"
+        },
+        {
+          "label": "B",
+          "text": "(x^2-1)/2"
+        },
+        {
+          "label": "C",
+          "text": "x^2-1"
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: If the sum of two consecutive integers is ‘x’, then what is the product of them? Options: (x^2-1)/4 | (x^2-1)/2 | x^2-1 | None of these Subject: general Answer: (x^2-1)/4",
+      "raw_text": "Q65. If the sum of two consecutive integers is ‘x’, then what is the product of them?\nA. (x^2-1)/4\nB. (x^2-1)/2\nC. x^2-1\nD. None of these\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q066",
+      "question_number": 66,
+      "question_text": "What fraction is the result of the sum of the series: 0.2+0.02+0.002…",
+      "options": [
+        {
+          "label": "A",
+          "text": "1/3"
+        },
+        {
+          "label": "B",
+          "text": "1/6"
+        },
+        {
+          "label": "C",
+          "text": "2/9"
+        },
+        {
+          "label": "D",
+          "text": "1/7"
+        }
+      ],
+      "correct_answer": "C",
+      "solution": null,
+      "subject": "chemistry",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": true,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: What fraction is the result of the sum of the series: 0.2+0.02+0.002… Options: 1/3 | 1/6 | 2/9 | 1/7 Subject: chemistry Answer: 2/9",
+      "raw_text": "Q66. What fraction is the result of the sum of the series: 0.2+0.02+0.002…\nA. 1/3\nB. 1/6\nC. 2/9\nD. 1/7\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q067",
+      "question_number": 67,
+      "question_text": "Differentiate ‘sin 2x’ with respect to x.",
+      "options": [
+        {
+          "label": "A",
+          "text": "2cos 2x"
+        },
+        {
+          "label": "B",
+          "text": "2sin 2x"
+        },
+        {
+          "label": "C",
+          "text": "2[1-2[sin^2](x)]"
+        },
+        {
+          "label": "D",
+          "text": "Both A and C"
+        }
+      ],
+      "correct_answer": "D",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Differentiate ‘sin 2x’ with respect to x. Options: 2cos 2x | 2sin 2x | 2[1-2[sin^2](x)] | Both A and C Subject: general Answer: Both A and C",
+      "raw_text": "Q67. Differentiate ‘sin 2x’ with respect to x.\nA. 2cos 2x\nB. 2sin 2x\nC. 2[1-2[sin^2](x)]\nD. Both A and C\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q068",
+      "question_number": 68,
+      "question_text": "Men and women are in a ratio of P:Q. What is the percentage of men?",
+      "options": [
+        {
+          "label": "A",
+          "text": "P/P+Q"
+        },
+        {
+          "label": "B",
+          "text": "Q/P+Q"
+        },
+        {
+          "label": "C",
+          "text": "100/P+Q"
+        },
+        {
+          "label": "D",
+          "text": "50/50"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Men and women are in a ratio of P:Q. What is the percentage of men? Options: P/P+Q | Q/P+Q | 100/P+Q | 50/50 Subject: general Answer: P/P+Q",
+      "raw_text": "Q68. Men and women are in a ratio of P:Q. What is the percentage of men?\nA. P/P+Q\nB. Q/P+Q\nC. 100/P+Q\nD. 50/50\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q069",
+      "question_number": 69,
+      "question_text": "Which of the following is the biggest number?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1"
+        },
+        {
+          "label": "B",
+          "text": "2*sqrt(2)"
+        },
+        {
+          "label": "C",
+          "text": "3*sqrt(3)"
+        },
+        {
+          "label": "D",
+          "text": "4*sqrt(4)"
+        }
+      ],
+      "correct_answer": "D",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Which of the following is the biggest number? Options: 1 | 2*sqrt(2) | 3*sqrt(3) | 4*sqrt(4) Subject: general Answer: 4*sqrt(4)",
+      "raw_text": "Q69. Which of the following is the biggest number?\nA. 1\nB. 2*sqrt(2)\nC. 3*sqrt(3)\nD. 4*sqrt(4)\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q070",
+      "question_number": 70,
+      "question_text": "What is the geometric mean of 32 and 64?",
+      "options": [
+        {
+          "label": "A",
+          "text": "32*sqrt(2)"
+        },
+        {
+          "label": "B",
+          "text": "sqrt(32*64)"
+        },
+        {
+          "label": "C",
+          "text": "Geometric mean of positive numbers isn’t possible to determine"
+        },
+        {
+          "label": "D",
+          "text": "Both A and B"
+        }
+      ],
+      "correct_answer": "D",
+      "solution": null,
+      "subject": "mathematics",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: What is the geometric mean of 32 and 64? Options: 32*sqrt(2) | sqrt(32*64) | Geometric mean of positive numbers isn’t possible to determine | Both A and B Subject: mathematics Answer: Both A and B",
+      "raw_text": "Q70. What is the geometric mean of 32 and 64?\nA. 32*sqrt(2)\nB. sqrt(32*64)\nC. Geometric mean of positive numbers isn’t possible to determine\nD. Both A and B\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q071",
+      "question_number": 71,
+      "question_text": "Differentiate ln (e) with respect to ‘x’.",
+      "options": [
+        {
+          "label": "A",
+          "text": "1/e"
+        },
+        {
+          "label": "B",
+          "text": "0"
+        },
+        {
+          "label": "C",
+          "text": "1/x"
+        },
+        {
+          "label": "D",
+          "text": "e"
+        }
+      ],
+      "correct_answer": "B",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Differentiate ln (e) with respect to ‘x’. Options: 1/e | 0 | 1/x | e Subject: general Answer: 0",
+      "raw_text": "Q71. Differentiate ln (e) with respect to ‘x’.\nA. 1/e\nB. 0\nC. 1/x\nD. e\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q072",
+      "question_number": 72,
+      "question_text": "Evaluate: cos x * sin x * tan x * cot x * csc x",
+      "options": [
+        {
+          "label": "A",
+          "text": "cos x"
+        },
+        {
+          "label": "B",
+          "text": "1/sec x"
+        },
+        {
+          "label": "C",
+          "text": "Both A and B"
+        },
+        {
+          "label": "D",
+          "text": "sin x"
+        }
+      ],
+      "correct_answer": "C",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Evaluate: cos x * sin x * tan x * cot x * csc x Options: cos x | 1/sec x | Both A and B | sin x Subject: general Answer: Both A and B",
+      "raw_text": "Q72. Evaluate: cos x * sin x * tan x * cot x * csc x\nA. cos x\nB. 1/sec x\nC. Both A and B\nD. sin x\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q073",
+      "question_number": 73,
+      "question_text": "Evaluate: w^-23+w^-28",
+      "options": [
+        {
+          "label": "A",
+          "text": "-1"
+        },
+        {
+          "label": "B",
+          "text": "1"
+        },
+        {
+          "label": "C",
+          "text": "w"
+        },
+        {
+          "label": "D",
+          "text": "w^2"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Evaluate: w^-23+w^-28 Options: -1 | 1 | w | w^2 Subject: general Answer: -1",
+      "raw_text": "Q73. Evaluate: w^-23+w^-28\nA. -1\nB. 1\nC. w\nD. w^2\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q074",
+      "question_number": 74,
+      "question_text": "The derivate of f(x) with respect to ‘x’ is defined as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "The rate of change in f(x) with respect to ‘x’"
+        },
+        {
+          "label": "B",
+          "text": "The increase in the relevance rate of f(x) with respect to ‘x’"
+        },
+        {
+          "label": "C",
+          "text": "The decrease in the relevance rate of f(x) with respect to ‘x’"
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: The derivate of f(x) with respect to ‘x’ is defined as: Options: The rate of change in f(x) with respect to ‘x’ | The increase in the relevance rate of f(x) with respect to ‘x’ | The decrease in the relevance rate of f(x) with respect to ‘x’ | None of these Subject: general Answer: The rate of change in f(x) with respect to ‘x’",
+      "raw_text": "Q74. The derivate of f(x) with respect to ‘x’ is defined as:\nA. The rate of change in f(x) with respect to ‘x’\nB. The increase in the relevance rate of f(x) with respect to ‘x’\nC. The decrease in the relevance rate of f(x) with respect to ‘x’\nD. None of these\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q075",
+      "question_number": 75,
+      "question_text": "Which one of the following is the additive inverse for 2+sqrt(3)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "sqrt(3)"
+        },
+        {
+          "label": "B",
+          "text": "-2+sqrt(3)"
+        },
+        {
+          "label": "C",
+          "text": "-2-sqrt(3)"
+        },
+        {
+          "label": "D",
+          "text": "2+sqrt(3)"
+        }
+      ],
+      "correct_answer": "C",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Which one of the following is the additive inverse for 2+sqrt(3)? Options: sqrt(3) | -2+sqrt(3) | -2-sqrt(3) | 2+sqrt(3) Subject: general Answer: -2-sqrt(3)",
+      "raw_text": "Q75. Which one of the following is the additive inverse for 2+sqrt(3)?\nA. sqrt(3)\nB. -2+sqrt(3)\nC. -2-sqrt(3)\nD. 2+sqrt(3)\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q076",
+      "question_number": 76,
+      "question_text": "What are the angles of an equilateral triangle?",
+      "options": [
+        {
+          "label": "A",
+          "text": "45 degrees, 45 degrees and 90 degrees"
+        },
+        {
+          "label": "B",
+          "text": "45 degrees, 90 degrees and 45 degrees"
+        },
+        {
+          "label": "C",
+          "text": "120 degrees, 30 degrees and 30 degrees"
+        },
+        {
+          "label": "D",
+          "text": "60 degrees, 60 degrees and 60 degrees"
+        }
+      ],
+      "correct_answer": "D",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: What are the angles of an equilateral triangle? Options: 45 degrees, 45 degrees and 90 degrees | 45 degrees, 90 degrees and 45 degrees | 120 degrees, 30 degrees and 30 degrees | 60 degrees, 60 degrees and 60 degrees Subject: general Answer: 60 degrees, 60 degrees and 60 degrees",
+      "raw_text": "Q76. What are the angles of an equilateral triangle?\nA. 45 degrees, 45 degrees and 90 degrees\nB. 45 degrees, 90 degrees and 45 degrees\nC. 120 degrees, 30 degrees and 30 degrees\nD. 60 degrees, 60 degrees and 60 degrees\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q077",
+      "question_number": 77,
+      "question_text": "If a square has a side of 2 units, then what is the length of its diagonal?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2*sqrt(2)"
+        },
+        {
+          "label": "B",
+          "text": "8"
+        },
+        {
+          "label": "C",
+          "text": "4"
+        },
+        {
+          "label": "D",
+          "text": "16"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: If a square has a side of 2 units, then what is the length of its diagonal? Options: 2*sqrt(2) | 8 | 4 | 16 Subject: general Answer: 2*sqrt(2)",
+      "raw_text": "Q77. If a square has a side of 2 units, then what is the length of its diagonal?\nA. 2*sqrt(2)\nB. 8\nC. 4\nD. 16\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q078",
+      "question_number": 78,
+      "question_text": "In an ellipse, what is the name for the line through the focus and perpendicular to the major axis ending at the ellipse?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Focal chord"
+        },
+        {
+          "label": "B",
+          "text": "Minor axis"
+        },
+        {
+          "label": "C",
+          "text": "Latus rectum"
+        },
+        {
+          "label": "D",
+          "text": "Vertical asymptote"
+        }
+      ],
+      "correct_answer": "C",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: In an ellipse, what is the name for the line through the focus and perpendicular to the major axis ending at the ellipse? Options: Focal chord | Minor axis | Latus rectum | Vertical asymptote Subject: general Answer: Latus rectum",
+      "raw_text": "Q78. In an ellipse, what is the name for the line through the focus and perpendicular to the major axis ending at the ellipse?\nA. Focal chord\nB. Minor axis\nC. Latus rectum\nD. Vertical asymptote\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q079",
+      "question_number": 79,
+      "question_text": "The length of all the sides of a square and an equilateral triangle is 5 units. What is the ratio of the area of the square to the area of the triangle?",
+      "options": [
+        {
+          "label": "A",
+          "text": "8/sqrt(3)"
+        },
+        {
+          "label": "B",
+          "text": "[8*sqrt(3)]/5"
+        },
+        {
+          "label": "C",
+          "text": "4/sqrt(3)"
+        },
+        {
+          "label": "D",
+          "text": "sqrt(3)/8"
+        }
+      ],
+      "correct_answer": "C",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: The length of all the sides of a square and an equilateral triangle is 5 units. What is the ratio of the area of the square to the area of the triangle? Options: 8/sqrt(3) | [8*sqrt(3)]/5 | 4/sqrt(3) | sqrt(3)/8 Subject: general Answer: 4/sqrt(3)",
+      "raw_text": "Q79. The length of all the sides of a square and an equilateral triangle is 5 units. What is the ratio of the area of the square to the area of the triangle?\nA. 8/sqrt(3)\nB. [8*sqrt(3)]/5\nC. 4/sqrt(3)\nD. sqrt(3)/8\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q080",
+      "question_number": 80,
+      "question_text": "Two figures having the same shape but different sizes are called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Congruent figures"
+        },
+        {
+          "label": "B",
+          "text": "Similar figures"
+        },
+        {
+          "label": "C",
+          "text": "Equal figures"
+        },
+        {
+          "label": "D",
+          "text": "All of these"
+        }
+      ],
+      "correct_answer": "B",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Two figures having the same shape but different sizes are called: Options: Congruent figures | Similar figures | Equal figures | All of these Subject: general Answer: Similar figures",
+      "raw_text": "Q80. Two figures having the same shape but different sizes are called:\nA. Congruent figures\nB. Similar figures\nC. Equal figures\nD. All of these\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q081",
+      "question_number": 81,
+      "question_text": "Evaluate: cos(-θ)*cos(-θ)*[-cos(θ)]*cos(θ)*[-cos(-θ)]",
+      "options": [
+        {
+          "label": "A",
+          "text": "[cos^5](θ)"
+        },
+        {
+          "label": "B",
+          "text": "-[cos^5](θ)"
+        },
+        {
+          "label": "C",
+          "text": "[cos^3](θ)"
+        },
+        {
+          "label": "D",
+          "text": "cos (θ)"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Evaluate: cos(-θ)*cos(-θ)*[-cos(θ)]*cos(θ)*[-cos(-θ)] Options: [cos^5](θ) | -[cos^5](θ) | [cos^3](θ) | cos (θ) Subject: general Answer: [cos^5](θ)",
+      "raw_text": "Q81. Evaluate: cos(-θ)*cos(-θ)*[-cos(θ)]*cos(θ)*[-cos(-θ)]\nA. [cos^5](θ)\nB. -[cos^5](θ)\nC. [cos^3](θ)\nD. cos (θ)\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q082",
+      "question_number": 82,
+      "question_text": "Evaluate: [sin^-1][3/5]",
+      "options": [
+        {
+          "label": "A",
+          "text": "[cos^-1][4/5]"
+        },
+        {
+          "label": "B",
+          "text": "[sec^-1][5/4]"
+        },
+        {
+          "label": "C",
+          "text": "[csc^-1][5/3]"
+        },
+        {
+          "label": "D",
+          "text": "All of these"
+        }
+      ],
+      "correct_answer": "D",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": true,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Evaluate: [sin^-1][3/5] Options: [cos^-1][4/5] | [sec^-1][5/4] | [csc^-1][5/3] | All of these Subject: general Answer: All of these",
+      "raw_text": "Q82. Evaluate: [sin^-1][3/5]\nA. [cos^-1][4/5]\nB. [sec^-1][5/4]\nC. [csc^-1][5/3]\nD. All of these\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q083",
+      "question_number": 83,
+      "question_text": "What is the period of sin 3x?",
+      "options": [
+        {
+          "label": "A",
+          "text": "(2*pi)/3"
+        },
+        {
+          "label": "B",
+          "text": "2*pi"
+        },
+        {
+          "label": "C",
+          "text": "3*pi"
+        },
+        {
+          "label": "D",
+          "text": "(3*pi)/2"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: What is the period of sin 3x? Options: (2*pi)/3 | 2*pi | 3*pi | (3*pi)/2 Subject: general Answer: (2*pi)/3",
+      "raw_text": "Q83. What is the period of sin 3x?\nA. (2*pi)/3\nB. 2*pi\nC. 3*pi\nD. (3*pi)/2\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q084",
+      "question_number": 84,
+      "question_text": "What is the formula of cos 3α?",
+      "options": [
+        {
+          "label": "A",
+          "text": "cos 2α*cos α"
+        },
+        {
+          "label": "B",
+          "text": "4[cos^3](α)-3cos α"
+        },
+        {
+          "label": "C",
+          "text": "(1+cos α)/sin α"
+        },
+        {
+          "label": "D",
+          "text": "Both A and C"
+        }
+      ],
+      "correct_answer": "B",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: What is the formula of cos 3α? Options: cos 2α*cos α | 4[cos^3](α)-3cos α | (1+cos α)/sin α | Both A and C Subject: general Answer: 4[cos^3](α)-3cos α",
+      "raw_text": "Q84. What is the formula of cos 3α?\nA. cos 2α*cos α\nB. 4[cos^3](α)-3cos α\nC. (1+cos α)/sin α\nD. Both A and C\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q085",
+      "question_number": 85,
+      "question_text": "Differentiate 3^2x with respect to ‘x’.",
+      "options": [
+        {
+          "label": "A",
+          "text": "2*ln 2*(3^2x)"
+        },
+        {
+          "label": "B",
+          "text": "ln 2*(3^2x)"
+        },
+        {
+          "label": "C",
+          "text": "3^2x"
+        },
+        {
+          "label": "D",
+          "text": "2x/3"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Differentiate 3^2x with respect to ‘x’. Options: 2*ln 2*(3^2x) | ln 2*(3^2x) | 3^2x | 2x/3 Subject: general Answer: 2*ln 2*(3^2x)",
+      "raw_text": "Q85. Differentiate 3^2x with respect to ‘x’.\nA. 2*ln 2*(3^2x)\nB. ln 2*(3^2x)\nC. 3^2x\nD. 2x/3\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q086",
+      "question_number": 86,
+      "question_text": "Find the integral with respect to x: e^x/(e^x+1)",
+      "options": [
+        {
+          "label": "A",
+          "text": "ln |e^x+1|+c"
+        },
+        {
+          "label": "B",
+          "text": "ln |e^x|+c"
+        },
+        {
+          "label": "C",
+          "text": "Impossible to determine"
+        },
+        {
+          "label": "D",
+          "text": "e^x+c"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "mathematics",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Find the integral with respect to x: e^x/(e^x+1) Options: ln |e^x+1|+c | ln |e^x|+c | Impossible to determine | e^x+c Subject: mathematics Answer: ln |e^x+1|+c",
+      "raw_text": "Q86. Find the integral with respect to x: e^x/(e^x+1)\nA. ln |e^x+1|+c\nB. ln |e^x|+c\nC. Impossible to determine\nD. e^x+c\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q087",
+      "question_number": 87,
+      "question_text": "If two coordinates of a rectangle are present in the first quadrant, then which one of the following coordinates is NOT to be of that rectangle?",
+      "options": [
+        {
+          "label": "A",
+          "text": "(2, 8)"
+        },
+        {
+          "label": "B",
+          "text": "(2, -8)"
+        },
+        {
+          "label": "C",
+          "text": "(8, -2)"
+        },
+        {
+          "label": "D",
+          "text": "(-2, -8)"
+        }
+      ],
+      "correct_answer": "D",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: If two coordinates of a rectangle are present in the first quadrant, then which one of the following coordinates is NOT to be of that rectangle? Options: (2, 8) | (2, -8) | (8, -2) | (-2, -8) Subject: general Answer: (-2, -8)",
+      "raw_text": "Q87. If two coordinates of a rectangle are present in the first quadrant, then which one of the following coordinates is NOT to be of that rectangle?\nA. (2, 8)\nB. (2, -8)\nC. (8, -2)\nD. (-2, -8)\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q088",
+      "question_number": 88,
+      "question_text": "Calculate the exact value of the decimal 0.4545…",
+      "options": [
+        {
+          "label": "A",
+          "text": "5/11"
+        },
+        {
+          "label": "B",
+          "text": "50/11"
+        },
+        {
+          "label": "C",
+          "text": "500/11"
+        },
+        {
+          "label": "D",
+          "text": "5000/11"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Calculate the exact value of the decimal 0.4545… Options: 5/11 | 50/11 | 500/11 | 5000/11 Subject: general Answer: 5/11",
+      "raw_text": "Q88. Calculate the exact value of the decimal 0.4545…\nA. 5/11\nB. 50/11\nC. 500/11\nD. 5000/11\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q089",
+      "question_number": 89,
+      "question_text": "What is the cosine inverse of cos(-1/2)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "-1/2"
+        },
+        {
+          "label": "B",
+          "text": "1/2"
+        },
+        {
+          "label": "C",
+          "text": "1/4"
+        },
+        {
+          "label": "D",
+          "text": "(2*pi)/3 radians"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "mathematics",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": true,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: What is the cosine inverse of cos(-1/2)? Options: -1/2 | 1/2 | 1/4 | (2*pi)/3 radians Subject: mathematics Answer: -1/2",
+      "raw_text": "Q89. What is the cosine inverse of cos(-1/2)?\nA. -1/2\nB. 1/2\nC. 1/4\nD. (2*pi)/3 radians\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q090",
+      "question_number": 90,
+      "question_text": "An equation of a parabola is (x-2)^2=4(y+2), then its vertex is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "(2, -2)"
+        },
+        {
+          "label": "B",
+          "text": "(-2, 2)"
+        },
+        {
+          "label": "C",
+          "text": "(0, 0)"
+        },
+        {
+          "label": "D",
+          "text": "Missing information"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "mathematics",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": true,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: An equation of a parabola is (x-2)^2=4(y+2), then its vertex is: Options: (2, -2) | (-2, 2) | (0, 0) | Missing information Subject: mathematics Answer: (2, -2)",
+      "raw_text": "Q90. An equation of a parabola is (x-2)^2=4(y+2), then its vertex is:\nA. (2, -2)\nB. (-2, 2)\nC. (0, 0)\nD. Missing information\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q091",
+      "question_number": 91,
+      "question_text": "If ‘x’ is real, then which one of the following is an odd function?",
+      "options": [
+        {
+          "label": "A",
+          "text": "–sin (x)"
+        },
+        {
+          "label": "B",
+          "text": "–cos (x)"
+        },
+        {
+          "label": "C",
+          "text": "|x|"
+        },
+        {
+          "label": "D",
+          "text": "(e^x-1)/(e^x-1)"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "mathematics",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: If ‘x’ is real, then which one of the following is an odd function? Options: –sin (x) | –cos (x) | |x| | (e^x-1)/(e^x-1) Subject: mathematics Answer: –sin (x)",
+      "raw_text": "Q91. If ‘x’ is real, then which one of the following is an odd function?\nA. –sin (x)\nB. –cos (x)\nC. |x|\nD. (e^x-1)/(e^x-1)\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q092",
+      "question_number": 92,
+      "question_text": "If cos θ = 1, then what is the possible value of θ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0 degrees"
+        },
+        {
+          "label": "B",
+          "text": "360 degrees"
+        },
+        {
+          "label": "C",
+          "text": "720 degrees"
+        },
+        {
+          "label": "D",
+          "text": "All of these are possible"
+        }
+      ],
+      "correct_answer": "D",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": true,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: If cos θ = 1, then what is the possible value of θ? Options: 0 degrees | 360 degrees | 720 degrees | All of these are possible Subject: general Answer: All of these are possible",
+      "raw_text": "Q92. If cos θ = 1, then what is the possible value of θ?\nA. 0 degrees\nB. 360 degrees\nC. 720 degrees\nD. All of these are possible\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q093",
+      "question_number": 93,
+      "question_text": "If an equation of hyperbola is: x^2/4-y^2/9=1, then find its eccentricity.",
+      "options": [
+        {
+          "label": "A",
+          "text": "sqrt(13)/4"
+        },
+        {
+          "label": "B",
+          "text": "9/4"
+        },
+        {
+          "label": "C",
+          "text": "sqrt(5)/4"
+        },
+        {
+          "label": "D",
+          "text": "sqrt(9)*sqrt(5)"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "mathematics",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": true,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: If an equation of hyperbola is: x^2/4-y^2/9=1, then find its eccentricity. Options: sqrt(13)/4 | 9/4 | sqrt(5)/4 | sqrt(9)*sqrt(5) Subject: mathematics Answer: sqrt(13)/4",
+      "raw_text": "Q93. If an equation of hyperbola is: x^2/4-y^2/9=1, then find its eccentricity.\nA. sqrt(13)/4\nB. 9/4\nC. sqrt(5)/4\nD. sqrt(9)*sqrt(5)\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q094",
+      "question_number": 94,
+      "question_text": "Every homogenous second degree equation ax^2+2hxy+by^2 represents a pair of lines through the origin. When are these lines coincident?",
+      "options": [
+        {
+          "label": "A",
+          "text": "(a*b) < h^2"
+        },
+        {
+          "label": "B",
+          "text": "h^2 = 0"
+        },
+        {
+          "label": "C",
+          "text": "h^2 < (a*b)"
+        },
+        {
+          "label": "D",
+          "text": "h^2 = a*b"
+        }
+      ],
+      "correct_answer": "D",
+      "solution": null,
+      "subject": "chemistry",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": true,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Every homogenous second degree equation ax^2+2hxy+by^2 represents a pair of lines through the origin. When are these lines coincident? Options: (a*b) < h^2 | h^2 = 0 | h^2 < (a*b) | h^2 = a*b Subject: chemistry Answer: h^2 = a*b",
+      "raw_text": "Q94. Every homogenous second degree equation ax^2+2hxy+by^2 represents a pair of lines through the origin. When are these lines coincident?\nA. (a*b) < h^2\nB. h^2 = 0\nC. h^2 < (a*b)\nD. h^2 = a*b\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q095",
+      "question_number": 95,
+      "question_text": "Which one of the following is the real part of the complex number: 6(2-3i)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2"
+        },
+        {
+          "label": "B",
+          "text": "12"
+        },
+        {
+          "label": "C",
+          "text": "-3"
+        },
+        {
+          "label": "D",
+          "text": "6"
+        }
+      ],
+      "correct_answer": "B",
+      "solution": null,
+      "subject": "mathematics",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": true,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Which one of the following is the real part of the complex number: 6(2-3i)? Options: 2 | 12 | -3 | 6 Subject: mathematics Answer: 12",
+      "raw_text": "Q95. Which one of the following is the real part of the complex number: 6(2-3i)?\nA. 2\nB. 12\nC. -3\nD. 6\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q096",
+      "question_number": 96,
+      "question_text": "Simplify: (1+tan x)/(1-tan x)",
+      "options": [
+        {
+          "label": "A",
+          "text": "tan(45+x)"
+        },
+        {
+          "label": "B",
+          "text": "Can’t be further simplified"
+        },
+        {
+          "label": "C",
+          "text": "tan(45-x)"
+        },
+        {
+          "label": "D",
+          "text": "tan(x+1)"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Simplify: (1+tan x)/(1-tan x) Options: tan(45+x) | Can’t be further simplified | tan(45-x) | tan(x+1) Subject: general Answer: tan(45+x)",
+      "raw_text": "Q96. Simplify: (1+tan x)/(1-tan x)\nA. tan(45+x)\nB. Can’t be further simplified\nC. tan(45-x)\nD. tan(x+1)\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q097",
+      "question_number": 97,
+      "question_text": "If in a triangle, α=49 degrees, b=5 inches and c=7 inches, then what is the length of ‘a’?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5.29"
+        },
+        {
+          "label": "B",
+          "text": "7.31"
+        },
+        {
+          "label": "C",
+          "text": "12.07"
+        },
+        {
+          "label": "D",
+          "text": "9.65"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": true,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: If in a triangle, α=49 degrees, b=5 inches and c=7 inches, then what is the length of ‘a’? Options: 5.29 | 7.31 | 12.07 | 9.65 Subject: general Answer: 5.29",
+      "raw_text": "Q97. If in a triangle, α=49 degrees, b=5 inches and c=7 inches, then what is the length of ‘a’?\nA. 5.29\nB. 7.31\nC. 12.07\nD. 9.65\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q098",
+      "question_number": 98,
+      "question_text": "The equation which doesn’t change by replacing ‘x’ with ‘1/x’ is called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Linear"
+        },
+        {
+          "label": "B",
+          "text": "Quadratic"
+        },
+        {
+          "label": "C",
+          "text": "Proportional"
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        }
+      ],
+      "correct_answer": "D",
+      "solution": null,
+      "subject": "mathematics",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": true,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: The equation which doesn’t change by replacing ‘x’ with ‘1/x’ is called: Options: Linear | Quadratic | Proportional | None of these Subject: mathematics Answer: None of these",
+      "raw_text": "Q98. The equation which doesn’t change by replacing ‘x’ with ‘1/x’ is called:\nA. Linear\nB. Quadratic\nC. Proportional\nD. None of these\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q099",
+      "question_number": 99,
+      "question_text": "Differentiate tan[sqrt(x)] with respect to ‘x’.",
+      "options": [
+        {
+          "label": "A",
+          "text": "[sec^2][x]/[2sqrt(x)]"
+        },
+        {
+          "label": "B",
+          "text": "[sec^2][sqrt(x)]/[2sqrt(x)]"
+        },
+        {
+          "label": "C",
+          "text": "[sec^2][sqrt(x)]/[2sqrt(x)]"
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        }
+      ],
+      "correct_answer": "C",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Differentiate tan[sqrt(x)] with respect to ‘x’. Options: [sec^2][x]/[2sqrt(x)] | [sec^2][sqrt(x)]/[2sqrt(x)] | [sec^2][sqrt(x)]/[2sqrt(x)] | None of these Subject: general Answer: [sec^2][sqrt(x)]/[2sqrt(x)]",
+      "raw_text": "Q99. Differentiate tan[sqrt(x)] with respect to ‘x’.\nA. [sec^2][x]/[2sqrt(x)]\nB. [sec^2][sqrt(x)]/[2sqrt(x)]\nC. [sec^2][sqrt(x)]/[2sqrt(x)]\nD. None of these\n"
+    },
+    {
+      "id": "NET_UNKNOWN_Q100",
+      "question_number": 100,
+      "question_text": "Which one of the following is the same as sin (75)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "[sqrt(3)+1]/sqrt(8)"
+        },
+        {
+          "label": "B",
+          "text": "It is impossible to determine"
+        },
+        {
+          "label": "C",
+          "text": "[sqrt(3)-1]/sqrt(8)"
+        },
+        {
+          "label": "D",
+          "text": "[sqrt(3)+1]/8"
+        }
+      ],
+      "correct_answer": "A",
+      "solution": null,
+      "subject": "general",
+      "topic": null,
+      "difficulty": "medium",
+      "has_formulas": false,
+      "has_calculations": false,
+      "has_multiline": false,
+      "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+      "exam_type": "NET",
+      "year": null,
+      "embedding_text": "Question: Which one of the following is the same as sin (75)? Options: [sqrt(3)+1]/sqrt(8) | It is impossible to determine | [sqrt(3)-1]/sqrt(8) | [sqrt(3)+1]/8 Subject: general Answer: [sqrt(3)+1]/sqrt(8)",
+      "raw_text": "Q100. Which one of the following is the same as sin (75)?\nA. [sqrt(3)+1]/sqrt(8)\nB. It is impossible to determine\nC. [sqrt(3)-1]/sqrt(8)\nD. [sqrt(3)+1]/8\n"
+    }
+  ],
+  "summary": {
+    "total_questions": 100,
+    "by_subject": {
+      "mathematics": 28,
+      "chemistry": 9,
+      "general": 62,
+      "physics": 1
+    },
+    "by_exam_type": {
+      "NET": 100
+    },
+    "with_answers": 100,
+    "with_solutions": 0,
+    "with_formulas": 55,
+    "avg_options": 4.0
+  }
+}

@@ -1,0 +1,1268 @@
+1. If during circular motion, tangential velocity of a body becomes double then centripetal force
+becomes:
+a. Double
+b. One half
+c. Four times
+d. One fourth
+Sol: Fc = mv2/r
+Fc, = m(2v)2/r
+Fc, = m4v2//r
+Fc, = 4 mv2/r
+Fc, = 4Fc
+2. Under what condition an object will have zero displacement but non zero distance?
+a. Linear motion
+b. Circular motion
+c. Random motion
+d. Osciallation
+Sol: when body moves in a circular, after one complete revolution, as the body return to
+its original position so displacement becomes zero while the distance has been covered
+by the body.
+3. Which one of the following properties is not exhibited by the longitudinal waves?
+a. Interference
+b. Reflection
+c. Diffraction
+d. Polarization
+Sol: polarization is the property that are only exhibited by transverse waves not the
+longitudinal waves. In which two plane wave is converted to one plane.
+4. The speed of sound in air is 332m/s. the speed of sound at 22oC will be:
+a. 345.2 m/s
+b. 340 m/s
+c. 350 m/s
+d. 330 m/s
+Sol: speed of sound at 0oC = 332 m/s speed formula for sound: V+0.6 T, speed of sound
+at 200C = 332 + 0.6(20) = 344
+5. Astronomers calculate speed of dstant stars and galaxies using which of the following
+phenomena?
+a. Beats
+b. Interference
+c. Super position principle
+d. Doppler effect
+Sol: Doppler Effect is used to calculate speed of distant stars and galaxies. Because some
+starts are moving towards observed and others away and by Doppler effects we can
+calculate star speed.
+6. In a ripple tank, 40 waves pass through a certain point in 1 second. If the wavelength of the
+wave is 5 cm, then speed of the wave is:
+a. 0.5 ms-1
+b. 1 ms-1
+c. 1.5 ms-1
+d. 2 ms-1
+Sol: f = 40 waves/s, λ= 5cm = 0.05m, V = fλ = 40 x 0.05 = 2m/s
+7. In which process the entire of heat supplie to the gas is converted to the internal energy of
+the gas?
+a. Isochoric process
+b. Isoharic process
+c. Isothermal process
+d. Adiabatic process
+Sol: in isochoric process the volume remains constant, sot the heat applied is converted to
+internal energy.
+Δq=□U + p□V as □V = 0 so Δq = □U
+Sol: in isothermal process the internal energy remains constant so the
+temperature remains constant. In isochoric process, the volume remains
+constant, in isobaric process, the pressure remains constant. In adiabatic
+processs the heat transfer is zero. In isoentropic process, the entropy remains
+constant.
+In isoenthalpic process, the enthalpy remains constant.
+8. The internal energy of a system during an isothermal process:
+a. Decrease
+b. Increase
+c. Becomes zero
+d. Remain constant
+Sol: in isothermal process the internal energy remains constant so the
+temperature remain constant. In isochoric process, the volume remains constant.
+Isobaric process, the pressure remains constant. In adiabatic process the heat
+transfer is zero. In isoentropic process, the entropy remains constant.
+9. If the potential at a point which is 1m from a charge is 1 volt, them the potential at
+a pont which is 2m from the same charge will be:
+a. 2v
+b. 1v
+c. 0.5v
+d. 3v
+Sol: electric potential is given by V=kQ/r as V is inversely proportional to r so by
+doubling the R(1m 2m), the electric potential will become half (1 volt  0.5
+volt)
+V=kQ/r
+V, = KQ/2r
+V, = (1/2)kQr
+V, = ½ V
+V, = ½(1)
+V, = 0.5 volt
+10. The values of electric intensity will due to the presence of dielectric medium:
+a. Increase
+b. Decrease
+c. Increase exponentially
+d. Remain same
+Sol: the strength of the electric field is reduced due to the presense of dielectric.
+If the total charge on the plates is kept constant. Then the potential difference is
+reduced across the capacitor plates.
+11. The slope of distance – time graph will always be:
+a. Negatice
+b. Positive
+c. Zero
+d. Maximum
+Sol: the slope of distance –time graph will always be positive because distance
+can never be negatice.
+12. At what angle of projection of a projectile the range becomes half of its maximum
+value?
+a. 14o
+b. 20o
+c. 20o
+d. 40o
+Sol: R=vi2 sin2Ø/g
+At given condition: for maximum range sin 2Ø =1 which is possible if we put Ø =
+45
+No get sing 2Ø value 0.5 we will put angle 15 so sin 2Ø = sin2(15) = sin 3Ø = ½
+R, = vi2 (1/2)/gR,=(1/2) vi2/g R, = ½ Rmax
+13. If we drop an object, its initial velocity is zero. How far will it fall in time ‘t’?
+a. 9.8 t2
+b. 4.9 t2
+c. 0.49 t2
+d. 98 t2
+Sol: we know that s = vit + ½ at2 if initial velocity as zero
+S = 0 + ½ (9.8( t2
+S = 0.49 t2
+14. The newton-second is unit of:
+a. Work
+b. Power
+c. Impulse
+d. Momentum
+Hint: impulse = J=Ft
+J= Newton second
+15. A 1.75m heighted weight- lifter raises weight with a mass of 50kg to a height of
+0.5m above his head, how much work is being done by him? (g = 10m-2)
+a. 2125 J
+b. 2500 J
+c. 50 J
+d. 1225 J
+Sol: non of the given option is correct
+Height = 0.5m mass = 50kg g = 10ms-1 work done = P.E = mgh = 50x10x0.5 =
+500x0.5 = 250
+16. What is the speed of 2.9 kg metallic b ob at mean position of a simple pendulum,
+when release from its extreme position 0.5 m high? (g = 10m-2)
+a. 3.16 ms-1
+b. 10 ms-1
+c. 100 ms-1
+d. 50 ms-1
+Sol: at extreme total energy = P.E – mgh = 2x10x0.5 = 10 J
+At means position total energy = K.E = 10 = ½ mv2
+10 = ½ mv2+
+Mv2 = 20  2v2 = 2-  v2 = 10 = 3.1
+17. When the speed of your car is halved, by what factor does its kinetic energy
+decreases?
+a. ½
+b. ¼
+c. 1/8
+d. 1/6
+Sol: K.E = ½ mv2
+As velocity reduced to half then K.E = ½
+M(1/2)2 = ½ mv2/4 ¼ ½ mv2 = ¼ k.E
+18. Which one of the following force in non conservative force?
+a. Frictional force
+b. Gravitational force
+c. Electric force
+d. Elastic spring force
+Sol: frictional force is non conservative field while elastic string force, electric,
+magnetic and gravitational fields are constant
+19. The earth rotates on its axis once a day. Suppose, by dome process the earth
+contracts so that its radius is only half as large as at present, then how long the
+earth will take to complete its rotation?
+a. 24 hours
+b. 18 hours
+c. 6 hours
+d. 12 hours
+Sol: here we assume that the mass of the earth remains same, moment of the
+inertia of the earth rotating about its axis is:
+I = 2/5 M R 2-------(Equation 1)
+e e
+Angular velocity of the earth is
+ω =2π/T ------(Equation 2)
+when the radius is reduced to half, the enw moment of inertial is
+I = 2/5Me(R )2 = 2/5M (R /2)2 ------(Equation 3)
+e e e
+New time period is T and angular velocity is
+ω, 2π/T,,-------(Equation 4)
+applying the law of conservation of angular momentum, we get
+Iω = I,ω,
+From equation 1,2,3 and 4 we get
+2 2π Re
+MeRe2 x = 2/5M ( )2 x 2π/T
+e
+5 𝑇 2
+𝑇
+ T’ =
+4
+But T = 24 hours
+24
+T’ = = 6 hours
+4
+20. 1 radian is equal to:
+a. 57.1o
+b. 57.2
+c. 57.3’’
+d. 57.4o
+Sol: 360o = 2π radian  1 radian = 360/2π 57.3o
+21. In transmission from grid station, power losses are maximized by:
+a. Increasing current
+b. Decreasing current
+c. Increasing resistance
+d. Increasing voltage
+Sol: efficient transmission involves reducing the current by stepping up the
+voltage prior to transmission, and stepping it down at a substatin at the far end.
+For AC power transmission the stepping up and down is done using
+transformers.
+22. The domestic electricity supply has a frequency of:
+a. 150 Hz
+b. 100 Hz
+c. 50 Hz
+d. 25 Hz
+Sol: the domestic electricity supply has a frequency of 50 Hz in Pakistan
+23. PIV stands for:
+a. Positive inverse charge
+b. Power integrated voltage
+c. Peak inverse voltage
+d. Peak integrated voltage
+Sol: PIV stands for Peak inverse voltage.
+24. In full wave rectification, the dioides are used:
+a. 1
+b. 2
+c. 3
+d. 4
+Sol: a full wave rectifier is a circuit arrangement which makes use of both half
+cycles of input alternating current (AC) and converts them to direct current (DC).
+In our tutorial on half wave rectifiers, we have seen that a half wave rectifier
+makes use of only one-half cycle of the input alternating current. Thus a full wave
+rectifier is much more efficient (double+) than a half wave rectifier. This process
+of converting both half cycles of the input supply (alternating current) to direct
+current (DC) is termed full wave rectification
+Full wave rectifier can be constructed in 2 ways.
+The first method makes use of a centre tapped transformer and 2 diodes. This
+arrangement is known as center tapped full wave rectifier.
+The second method uses a normal transformer with 4 diodes arranged as a
+bridge. This arrangement is known as a bridge rectifier.
+25. The wavelength associated with an electron is of the order of:
+a. Visible light
+b. X-rays
+c. Radio waves
+d. Infraref
+Sol: x-rays are commonly produced by accelerating (or decelerating) charges
+particles; examples include a beam of electrons striking a metal plate in an x-ray
+tube and a circulating beam of electrons in a synchrotron particle accelerator or
+storage ring. In addition, highly excited atomsm can emit x-rays with discrete
+wavelengths characteristic of the energy level spacins in the atoms. The X-rays
+region of the electromagnetic spectrum falls far outside the rankge of visible
+wavelengths.
+26. Which photon carries the most energy?
+a. Blue
+b. Violet
+c. Red
+d. Green
+Sol: VIBGYOR
+Wavelength increase
+Frequently decrease 
+Energy (E=hf) decrease  so energy decrease from violet to red. Maximum
+energy is that of violet.
+27. Which one of the following series lies in the ultraviolet region?
+a. Balmer series
+b. Pascher series
+c. Lyman series
+d. Bracaket series
+Sol: lyman series lies in ultra violet region
+Balmer series lies in visible region
+Paschan series lies in Near IR region
+Brackett series lies in Mid IR region
+Pfund series lies in region Far IR
+28. The main difference between X-rays and γ rays is:
+a. Frequency
+b. Wave length
+c. Energy
+d. Origin
+Sol: the key difference is the source: x-rays are emitted by the electrons outside the
+nucleus, and gamma rays are emitted by the excited nucleus itself, sot he main difference
+is that of origin.
+29. There are initially 400 atoms in a radioactive sample. What of atoms after 3 half-life?
+a. 400
+b. 200
+c. 50
+d. 25
+Hint: first half life: 400200
+Second half life 200100
+Third half life 10050
+30. Which using radiation theraphy, cancerous thyroid is treated with radioisotope:
+a. Carbon
+b. 235 uranium
+c. Thorium
+d. Iodine-131
+Sol: radioactive iodine (RAI, also called I-131) can be used to treat thyroid cancer.
+31. In capacitors, energy is stored in the form of:
+a. Gravitational energy
+b. Kinetic energy
+c. Electric intensity (correct)
+d. Magnetic induction
+Sol: both inductor and capacitor store energy while resister radiate or waste energy.
+Energy is stored in capacitor in form of electrical potential energy or electric intensity
+while in inductor it is stored in the form of magnetic field.
+32. Ohm time’s farad is equivalent to:
+a. Time (correct)
+b. Charge
+c. Distance
+d. Capacitor
+Sol: we know that RC is time constant so R T C is also equivalent to time.
+RTC = RCxtime = time x time = time
+33. One kilowatt-hours is commonly termed as one commercial uniq of electric energy which is
+equal to:
+a. 3.6 x 105 J
+b. 3.6 x 106 J (correct)
+c. 3.6 x 104 J
+d. 3.6 x 103 J
+Sol: 1 kwh = 103 watt 1 hr = 103 watt x 3600 sec = 3.6 x 106 Joule
+34. When a wire is compressed and its radius becomes 2R then its resistance will be:
+a. 16R
+b. 4R
+c. 1/16R
+d. 1/4R
+Sol: taking volume constant…
+A – cross section area of wire (πrʌ2)
+L – length of wire.
+R2 = 2.r1 (As diameter is doubled)
+A2 = 4.A 1
+This gives…. L2 = L1/4
+If radius (diameter) is doubled length becomes one fourth.
+Resistance is proportional to L/A
+R2 = R1/16
+35. One of the following is an ohmicdevie:
+a. Filament bulb
+b. Semiconductor diode
+c. Transistor
+d. Copper wire (correct)
+Sol: filament bulb, thermistor and semiconductor diode are non-ohmic materials
+while metals are ohmic devices or substances.
+36. The change is resistance of metallic conductor at temperature below 0oC is:
+a. Non linear
+b. Curve
+c. Linear
+d. Curvilinear
+Sol: the resistance increases as the temperature of a metallic conductor
+increases with increase in temperature. The graph between resistance and
+temperature is linear for both increasing and decreasing.
+37. When current are flowing through two long parallel wires in same direction
+electric field between them is:
+a. Strong
+b. Weak
+c. Remains constant
+d. Infinite
+Sol: the electric field in the middle of both wires are same while the magnetic field
+is weaker as it is opposite in direction and it cancel the effect of each other.
+38. Magnetic flux is maximum when angle between magnetic field and vector area is:
+a. 0o
+b. 90o
+c. 180o
+d. 45o
+Sol: magnetic flux is the product of the magnetic induction & vector area element
+ΔØ = B.ΔA
+ΔØ = B ΔA cosØ
+Direction of the vector area element ΔA is normal to the surface area
+The totatl flux through the surface is given by Ø = ∑𝐵 .ΔA or B.A or Ø = B A cos Ø
+Case 1:
+When magnetic field and area are paralled
+Ø=0
+Ø= B A cos Ø
+Ø = B A 1
+Ø B A magimum magnetic flux
+Case 2:
+When magnetic field and area are perpendicular
+Ø = 90
+Ø = B A cos 90
+Ø = B A 0  0
+39. Transformer is device which steps up or steps down the input:
+a. Current
+b. Voltage
+c. Energy
+d. Power
+Sol: a transformer is used to step up and step down voltage. The power is transformer is
+constant
+40. If a stationary bar magnet is places near a coil at rest so maximum lines of force passes
+through the coil, the galvanometer shows:
+a. Maximum current
+b. Minimum current
+c. No current
+d. Intermediate value of current
+Sol: the current if produced when there is change in flux linkage. As the bar magnet is
+stationary so there is no change in magnetic flux, so no current will be produced. And as
+a result the galvanometer will show zero deflection.
+41. Alkyl halides involving –C –X bond breakage and –C –Nu bond formation
+simultaneously would follow the mechanism
+a. SN1
+b. SN2
+c. E1
+d. E2
+42. Secondary alkyl halides is:
+a.
+b.
+c.
+d. CH3 CI
+43. R-X on reaction with alcohols forms:
+a. R-OH
+b. ROR
+c. R-X-OH
+d. RH
+44. IUPAC name of C6H5O ( CH3)2 is:
+a. 2-Methyl-3-Hexanone
+b. 2,6 – Himethyl cyclohexanone
+c. 3 – Methyl cyclohexanone
+d. 4 – Methyl – 3- hexanone
+45. Phenol is known as:
+a. Carpolic acid
+b. Carbonylic acid
+c. Carbolic acid
+d. Carbolylic acid
+46. Phenol is more acidic than alcohols because of the following reason:
+a. Delocalization of negative charge in the OH group
+b. Delocalization of positive charge on the carbon atom in ring
+c. Delicalization of negative charge in the ring
+d. Delocalization of positive charge on the OH group
+47. The common name of the following aldehyde is
+a. α – methyl – Y – chloropropinaldehyde
+b. β – chloro – a – methyl propionaldehyde
+c. β – chloro – a – methyl propionaldehyde
+d. β – methyl – a – chloropropionaldehyde
+48. which of the following reagent is use to separate and purify carbonyl and non- carbonyl
+compounds?
+a. HCN
+b. BrMgCH3
+c. NaHSO3
+d. H2O
+49. Secondary alcohol is the product of reduction of which carbonyl compound?
+a.
+b.
+c.
+d.
+50. Which of the following is the strongest acid?
+a. Propanic acid
+b. Flouroethanoic acid
+c. Trichloroethanoic acid
+d. Nitroethanoic acid
+51. Hydrolysis of acyl chloride results in the formation of:
+a. Acid anhydride
+b. Carboxylic acid (correct)
+c. Amides
+d. Esters
+52. The exact reactivity order for carboxylic acid derivatives is:
+a. Anhydride >acylchloride> ester
+b. Ester > anhydride >acylchloride
+c. Amide >acylchloride> ester
+d. Acychloride> anhydride > Ester
+53. Based on the physio – chemical properties, proteins may be classified into the
+following types:
+a. Simple proteins
+b. Compound proteins
+c. Derived proteins
+d. All of the above
+54. Based on function, thyroxin can be classified as:
+a. Hormonal protein
+b. Structural protein
+c. Transport protein
+d. Genetic protein
+55. L-Asparaginase enzyme has been used for the treatment of:
+a. Jaundice
+b. Blood cancer
+c. Rickets
+d. Heat disease
+56. Potassium, Rubidium, Cesium react with oxygen to form which types of oxides?
+a. Peroxide
+b. Superoxide
+c. Suboxide
+d. Normal oxide
+57. Magnesium reacts with nitrogen to form:
+a. Mg2N2
+b. Mg3N2
+c. MgN2
+d. MgN
+58. Densities of alkali metals are low due to:
+a. Weak intermolecular forces
+b. Large atomic volume
+c. Smaller size
+d. .ns1 configuration
+59. In 3rd series of transition elements, paramagnetic behavior is maximum for Mn+2
+and:
+a. Cr3+
+b. Ti3+
+c. V3+
+d. Zn+2
+60. Electronic configuration of chromium (proton number 24) is:
+a. [Ar] 3d4 4S2
+b. [Ar} 3d5 4S2
+c. [Ar] 3d5 4S1
+d. [Ar] 3d6 4S2
+61. The transition element which does not show variable valencyos:
+a. Cu
+b. Sc
+c. Zn
+d. Cr
+62. Select the organic compound which belongs to Arene family;
+a. CH =CH
+2 2
+b. CH -o-CH
+3 3
+c. CH □ NH2
+3
+d. C H
+6 6
+63. The type of isomerism existing in a compound of molecular formula C2H60 is:
+a. Functional group
+b. Position
+c. Chain
+d. Metamerism
+64. Which of the following compounds show geometric isomerism?
+a.
+b.
+c.
+d.
+65. Generic formula of cycloalkane is?
+C H
+a. n 2n+2
+b. C H
+n 2n
+C H
+c. n 2n+1
+C H
+d. n 2n-2
+66. Electrophile in sulphonation of benzene is:
+a. HSO-
+4
+b. H SO
+2 4
+c. SO
+3
+d. HSO -
+3
+67. The following has IUPAC name of:
+a. 2,3 – tetramethyl butane
+b. 2,2,3,3 – tetramethyl pentane
+c. 3,3,4,4 – tetramethyl butane
+d. 3,4 – bis (dimethyl butane)
+68. Acetophenoe can be formed by which of the following reaction of benzene?
+a. Alkylation
+b. Acylation
+c. Halogenation
+d. Nitration
+69. In alkanes, each carbon has hybridization:
+a. Sp3
+b. Sp
+c. SP2
+d. Dsp
+70. When CH3 is attached with the benzene ring, it makes the ring:
+a. Good Electrophile
+b. Good nucleophile
+c. Resonance hybrid
+d. Extraordinary stable
+71. Which of the following reaction has greater Kp than Kc (kp>Kc)
+a. 2NO + Cl2 = 2NOCi
+b. 2SO2 + O2 = 2SO3
+c. 2NOCi = 2No + Cl2
+d. N2 + 3H2 = 2NH3
+72. The equation N2g + 3H2g = 2NH3, represents:
+a. Contact process
+b. Haber’s process
+c. Solvay process
+d. Avagadro’s law
+73. The unit of the rate constant is the same as that of the rate of reaction in:
+a. Zero order reaction
+b. First order reaction
+c. Second order reaction
+d. Third order reaction
+74. The study of rates of chemical reactions and the factors that affect the rates of
+chemical reactions is known as:
+a. Thermodynamics
+b. Stoichiometry
+c. Electrochemistry
+d. Chemical kinetics
+75. For the reaction A(g)  products, when the concentration of A(g) doubles, the rate
+of reaction increases four fold, which means it is:
+a. Negative order reaction
+b. First order reaction
+c. Zero order reaction
+d. Second order reaction
+76. For which of the following order of the reaction, rate of reaction in inversely
+proportional to the concentration reaction?
+a. 1st order reaction
+b. 2nd order reaction
+c. Negative order of reaction
+d. Zero order of reaction
+77. The thermal energy at constant pressure is called:
+a. Enthalpy
+b. Internal energy
+c. Heat capacity
+d. Work done
+78. Born-Haber cycle is used to determine the lattice energies of:
+a. Molecular solids
+b. Metallic solids
+c. Ionic solids
+d. Covalent solids
+79. One calorie is equal to:
+a. 4.18 KJ
+b. 4.18
+c. 0.418 KJ mol
+d. 0.418 KJ
+80. The oxidation state of ‘S’ in the (S O )-2is:
+2 3
+a. +4
+b. +6
+c. -2
+d. +2
+81. The common oxidation number of halogens is:
+a. -1
+b. +1
+c. -2
+d. 0
+82. During oxidation process, oxidation number of an element:
+a. Decreases
+b. Increases
+c. Remains constant
+d. Both A&B
+83. Which of the following has the height value of electronegativity?
+a. 1
+b. Br
+c. Cl
+d. F
+84. Which of the following hybrid orbitals has maximum ‘S’ –character?>
+a. Sp3 – hybrid orbital
+b. Sp2 – hybrid orbital
+c. Sp – hybrid orbital
+d. Dsp2 – hybrid orbital
+85. The first ionization energy is maximum for:
+a. Na
+b. Mg
+c. Al
+d. K
+86. The efficiency of chemical reaction cay be expressed as:
+a. Theoretical yield
+b. Actual yield
+c. %yield
+d. Maximum yield
+87. In a vessel, 10g N2, 10g H and 10g O2 are present. Which one will have least
+number of atoms?
+a. H2
+b. N2
+c. O2
+d. Both H2 & N2
+88. The empirical formula of Glucose C H O is:
+6 12 6
+a. C H O
+6 12 16
+b. CHO
+c. CH O
+2
+d. CH O
+2 2
+89. The relationship between quantum number n and I is:
+a. N = 1-1
+b. I = n-2
+c. I = n-1
+d. N = 1-2
+90. Quantum number values for ‘2p’ orbitals are:
+a. N=2, I=1
+b. N=1, I=2
+c. N=1, I=0
+d. N=2, I=0
+91. Which pair has 1 electron in it’s ‘s’ orbital?
+a. Li, Fe
+b. Na & Cr
+c. K &Mn
+d. H & He
+92. Which of the following has the lowest e/m ratio?
+a. Li+2
+b. H
++1
+c. He
+d. Be
+93. According to the general gas equation density of an ideal gas depends upon:
+a. Pressure
+b. Temperature
+c. Molar mass of the gas
+d. All of the above
+94. The actual volume of gas molecules is considered negligible at following
+pressures:
+a. 2 atm
+b. 4 atm
+c. 6 atm
+d. 8 atm
+95. CO and SO both are tri-atomic molecules but heat of vaporization of SO is
+2 2 2
+greater than that of CO due to:
+2
+a. High electronegativity of S
+b. Greater size of SO
+2
+c. SO is polar and CO is non-polar
+2 2
+d. SO is more acidic than CO
+2 2
+96. Which of the following has the lowest vapour pressure at 20oC?
+a. Diethyl ether
+b. Chloroform
+c. Carbon tetrachloride
+d. Water
+97. Which of the following is not a molecular solid?
+a. Bromine
+b. Sulphur
+c. Phosphorus
+d. Carbon dioxide
+98. The lattice energy is also called as:
+a. Enegy of affinity
+b. Bond energy
+c. Crystal energy
+d. Potential energy
+99. For a gaseous phase reaction, when number of moles of reactants and products
+are equal:
+a. The values of Kp and Kc are different
+b. The values of Kp is greater than Kc
+c. The values of Kc is greater than Kp
+d. The values of Kp and KC are the same
+100. Purification of table salt (NaCl) by passing HCI gas through its saturated
+aqueous solution is an example of:
+a. Lawa of mass action
+b. Hess’s law
+c. Common ion effect
+d. Henry’s law
+101. We prefer fruits_____ sweets
+a. To
+b. On
+c. Over
+d. From
+102. Choose the correct spelling
+a. Exantuated
+b. Axantuated
+c. Accenchuated
+d. Accentuated
+103. Choose the correct spelling
+a. Cotioned
+b. Cautioned
+c. Causchuned
+d. Coschuned
+104. Choose the correct spelling
+a. Eccentric
+b. Eccentric
+c. Akcantric
+d. Accentric
+105. Choose the correct spelling
+a. Definite
+b. Definite
+c. Dafanite
+d. Definite
+106. The Headmaster____ to speed to you
+a. Wants
+b. Is wanting
+c. Was wanting
+d. Want
+107. Choose the correct option:
+Knowledge and wisdom____ no time for connection
+a. Has
+b. Have
+c. Had
+d. Are
+108. Identify the erros and choose the correct option:
+I hope this letters finds in the best of your spirits
+a. I hope this letter will find you in good of high spirits
+b. I hope this letter finds you in best of your spirit
+c. I hope letter finds you in the best of spirits
+d. I hope the letter found you in greatest of spirite
+109. Identify the errors and choose the correct option:
+Gulliver travel was written by swift
+a. Gulliver travels was written to swift
+b. Gulliver’s travels was written by swift
+c. Gulliver’s travel was written by swift
+110. Fill in the blank with appropriate article as required. Umbrella is of no avail
+against a thunderstorm
+a. The
+b. A
+c. An
+d. No article required
+111. Choose the correct sentence
+a. I wish I have been a millionare
+b. I wish I am beaing a millionaire
+c. I wish I were a millionaire
+d. I wish I was millionaire
+112. Pick the correct option
+a. No start is brighter than the moon
+b. No star is more bright than the moon
+c. No start is brighter then the moon
+d. No star is brighter than moon
+113. Choose the correctly structured sentence.
+a. Had he lived in England he would miss his family
+b. Had he lived in England, he would have missed his family
+c. Had he lives in England he had missed his family
+d. Had he live in England he will missed his family
+114. She always carried un umbrella. The sentence indicates___tense.
+a. Present tense
+b. Past simple
+c. Past perfect
+d. Present perfect
+115. Ahmed____ me for a long time
+a. Know
+b. Have known
+c. Knows
+d. Knew
+116. Pick the correct option: his first inning consists of four 6s and three 4s
+a. His first inning’s consists of four 6 and three 4
+b. His first innings consist of four 6’s and three 4’s
+c. His first innings consist of four 6’s and three 4’s
+d. His first inning’s consist of four 6’s and three 4’s
+117. Choose the correctly punctuated sentence:
+a. What a fall was there, my countrymen! Long live the king!
+b. What a fall was there! My countrymen. Long live the King!
+c. What a fall was there, my countrymen, Long live the king.
+d. What a fall was there, my countrymen, Long live the king.
+118. Choose the correct option:
+a. He and I was playing
+b. He and I were playing
+c. He and I were being playing
+d. He and I was being playing
+119. Choose the correct option:
+a. Every one of the prisons are full
+b. Every one of the prisons had full
+c. Every one of the prisons have full
+d. Every one of the prisons is full
+120. Not only the parents but also their son ___ for interview
+a. Has called
+b. Have called
+c. Have been called
+d. Has been called
+121. When the temperature of the body surrounding rises, baby responds by
+a. Vasoconstriction
+b. Vasodilation
+c. Shivering
+d. Raising body hairs
+122. The excretion of hypertonic urine in humans is associated best with the
+a. Glomerular capsule
+b. Proximal convoluted tubule
+c. Loop of henle
+d. Distal convoluted tubule
+123. In humans, the temperature regulation control conter is located in
+a. Kidneys
+b. Brain
+c. Lungs
+d. Liver
+124. As an excretory organ, liver
+a. Detoxifies many chemical poisions
+b. Produces ammonia for excretion by the kidneys
+c. Produces uring and uric nitrogen of amino acids
+d. All of the above
+125. The active uptake of sodium in the ascending limb or thick loop of henle is
+promoted by the action of
+a. Aldosterone
+b. Thyroxine
+c. ADH
+d. Cortisone
+126. Which of the following muscles are considered as ‘Voluntary Muscles’?
+a. Smooth muscles
+b. Crdiac muscles
+c. Skeletal muscles
+d. Glandular muscles
+127. Which one of the following ‘myoenic’ types of muscle?
+a. Glandular muscles
+b. Cardiac muscles
+c. Skeletal muscles
+d. Smooth muscles
+128. What do we call the cell surface membrane of a muscle fiber?
+a. Sarcolemma
+b. Plasma membrane
+c. Sarcoplasm
+d. Myofibrils
+129. Which of the following neurotransmitters function, both as
+neurotransmitter and hormones, decreasing our perception of pain?
+a. Epinephrine
+b. Serotonin
+c. Dopamine
+d. Endorphins
+130. Which body function is controlled through positive feedback mechanism?
+a. Labor contractions
+b. Body temperature
+c. Insuliln production
+d. Thyroxin release
+131. Which of the following is common to all neurons?
+a. A cell which contains a nucleus
+b. A thick myelin heath
+c. Presence of node of Ranvier
+d. Presence of Schwann cells
+132. Neurons are cells adopted for the rapid transmission of electrical impulses.
+To do this, they have long thin process called:
+a. Axons
+b. Dendrited
+c. Myelin sheath
+d. Schwann cells
+133. ___ is a junction between two neurons or between a motor neuron and a
+muscle cell
+a. Impulse
+b. Synapse
+c. Axon
+d. Cleft
+134. Which of the following represents the changes that occur in the ovary and
+the uterus approximately every 28 days involving evolution with the breakdown
+and loss of the linning of the uterus
+a. Ovulation
+b. Menstrual cycle
+c. Uterine cycle
+d. Embryo formation
+135. Which of the following disease is sexually transmitted?
+a. Tuberculosis
+b. AIDs
+c. Dengue fever
+d. Cholera
+136. Which of the following hormones of the pituitary gland regulate the
+menstrual cycle?
+a. Follicle stimulating bormone and estrogen
+b. Luteinizing hormone and estrogen
+c. Follicle stimumating hormone and luteinizing hormone
+d. Estrogen and progesterone
+137. Haemophilia A and B, color blindness and testicular feminization are
+example of
+a. X-linked dominant trait
+b. Y-linked recessive trait
+c. Y-linked inheritance
+d. Pseudosutosomal trait
+Note: none of these is correct
+138. Which traits ar most likely to affect men than women?
+a. X linked recessive
+b. X linked dominant
+c. Autosomal dominant
+d. Autosomal recessive
+139. Alleles both have an effect on the phenotype heterozygotic organism
+a. Dominant
+b. Recessive
+c. Multiple
+d. Co-dominant
+140. When both the allele of a genes are same, the organism is said to be:
+a. Heterozygous
+b. Genotype
+c. Homozygous
+d. Phenotype
+141. In which type of cell. Cell wall is not present?
+a. Plant cells
+b. Fungal cells
+c. Bacterial cells
+d. Liver cells
+142. 70S size ribosomes are found in the cells of
+a. Algae
+b. Protozoans
+c. Fungi
+d. Bacteria
+143. According to the fluid mosaic model of cell membrane, which zone is
+embedded inside?
+a. Hydrophobic
+b. Globular
+c. Hydrophilic
+d. Filamentous
+144. The membrane separating the vacuole from cytoplasm is called
+a. Cristae
+b. Cisternae
+c. Tonoplast
+d. Vacuolar membrane
+145. Select the one which is not a function of smooth endoplasmic retidulum
+(SER)?
+a. Metabolism of lipids
+b. Transmission of impulses
+c. Transport of materails
+d. Processing og glycoproteins
+146. Which of the following organelles are involves in the synthesis of plant cell
+wall?
+a. Endoplasmic reticulum
+b. Golgi complex
+c. Lysosomes
+d. Peroxisomes
+147. Which property of water helps to maintain the integrity of cell
+membrances?
+a. Specific heat capacity
+b. Hydrogen bonding
+c. Cohesion and adhesion
+d. Hydrophobic exclusion
+148. Water act as universal solvent because of
+a. Heat of vaporization
+b. Hydrogen bonding
+c. High polarity
+d. Cohesion and adhesion
+149. Lipids store double amount of energy as compared to carbohydrtes
+because of
+a. High proportion of oxygen
+b. High C-O ratio
+c. Low proportion of carbon
+d. High proportion of C-H
+150. Which of the following is an unsaturated fatty acid?
+a. Oleic acid
+b. Palmitic acid
+c. Butyric acid
+d. Acetic acid
+151. Monosaccharides have a general formula represented by
+a. C (H O)n
+n 2
+b. C(H O)
+2 n
+c. C (H O)
+2 2 n
+d. C2(H O)
+2 n
+152. NAD is an example of
+a. Mononucleotide
+b. Dinucleotide
+c. Tri nucleotide
+d. Tetra cucleotide
+153. Lock and key model of enzyme action propoed by Emil Fischer suggested
+that
+a. Enzymes are unbiased for the substrate
+b. Enzymes are restricted to one reaction type
+c. Enzymes are restricted to one reaction type
+d. An enzyme can catalyze variety of reactions
+154. Most enzymes have and optimum temperature of around
+a. 30oC
+b. 40oC (close to exact range i.e 36.1 to 37.8)
+c. 50oC
+d. 20oC
+155. Enzymes work by lowering the ___ of the reactions that catalyze
+a. Kinetic energy
+b. Activation energy
+c. Heat energy
+d. Potential energy
+156. First stable compound during calvin cycle is
+a. 3-phosphoglycerate
+b. Glyceraldehyde 3-phosphatse
+c. 1,3 bisphosphoglyceratae
+d. Ribulose biphosphate
+157. What is the function of ribulose?
+a. Intermediate in photosynthesis
+b. Respirator fuel
+c. Intermediate in cellular respiration
+d. Component of DNA and RNA
+158. Which of the following process does not need pyruvic acid as a substrate?
+a. Alcohol dermentation
+b. Calvin cycle
+c. Aerobic respiration
+d. Lactic acid dermentation
+159. Which of the following is a copper containing protein in electron transport
+chain?
+a. Plastoquinone
+b. Cytochrome-C
+c. Plastocyanin
+d. Ferrodoxin
+160. In electron transport chain, ATP synthesis takes place when electron
+moves from
+a. Primary electron acceptor (PEA) to plastoquinone
+b. Plastoquinone (Pq) to cytochromes
+c. Cytochromes to plastocyanin
+d. Plastocyanin (Pc) to photosystem 1 (PS-I)
+161. “law of independent assortment” states
+a. The each pari of alleles assort independent of other pairs of alleles during
+gamete formation
+b. That allele fo each pair of constrasting trait have unequal probability to assort
+with the alleles of other pairs
+c. That that coexisting alleles for each trait segregate (separate) from each other at
+meiosis so that each gamete receives only one of the two alleles
+d. That pertain to inheritance of single trait (monohybrid cross)
+162. Phenotype is
+a. The genetic complement ie the genes in an individual for a particulartrait
+b. Partner of gene pair
+c. The form of appearance of a trait
+d. The position of a gene on the chromosome
+163. In complete dominance
+a. Differendt alleles of a gene are both expressesed in heterozygous condition
+b. One alleles (R) is completely dominant over the other (r) and the presence of
+recessive allele is functionally hidden the heterozygote (Rr) has the same sound
+phenotype (RR) heterozygote
+c. The phenotype of the heterozygote is intermediate between phenotypes of the
+homozygotes
+d. Gene mutation may produce many different alleles of a gene
+164. Which one of the following is found both messgenger RNA an DNA of a
+mammalian cell?
+a. Double helical structure
+b. Ribose sugar
+c. Thymine
+d. Sugar- phosphate backbone
+165. The cells in our body are all genetically identical apart from the
+a. Somatic cells
+b. Reproductive cells
+c. Muscle fibers
+d. White blood cells
+166. Transcription is the process in which an RNA copy of the DNA sequence
+and coding the gene is produced with help of an enzyme called:
+a. DNA polymerases
+b. RNA polymerase
+c. DNA transcriptase
+d. RNA trnscriptase
+167. Th particular array of chromosomes that an individual prossess is called its
+a. Genotype
+b. Phenotype
+c. Karyotype
+d. Allele
+168. During meiosis, the homologous chromosomes comes together and form
+pairs this process is called
+a. Linkage
+b. Synapsis
+c. Pairing
+d. Crossing over
+169. At what phase the DNA content of a cell is doubled?
+a. Prophase
+b. Interphase
+c. Anaphase
+d. Telophase
+170. Which statement correctly describes transcription of DNA?
+a. It produces aminon acids
+b. It produces messenger RNA
+c. It results in increased DNA synthesis
+d. It is a semi conservative process
+171. This theory says that “mitochondria and chloroplast area in effect ancient
+bacteria which now live inside the large cells”
+a. Darwin’s theory of evolution
+b. Lamarckism
+c. Neo-darwinsm
+d. Endosymbiont theory
+172. The organs which are similar but differ in structure are called
+a. Analogous organs
+b. Homologous organs
+c. Convergent evolution
+d. Divergent evolution
+173. ____ occurs because natural selection gives some alleles a batter chance
+of survival than others
+a. Fitness
+b. Evolution
+c. Crossing over
+d. Artificial selection
+174. The DNA that has been altered and which now contains length of
+nucleotides from two different organisms is called a
+a. Plasmid
+b. Combined DNA
+c. Vector
+d. Recombinant DNA
+175. It is a method for rapid production of a very large number of copies of a
+particular fragment of DNA
+a. Gel electrophoresis
+b. Polymerase chain reaction
+c. DNA extraction
+d. Recombination
+176. What is the effect of DNA ligase?
+a. DNA is broken up at specific sits
+b. DNA fragments are joined together
+c. DNA replication occurs
+d. DNA transcription occurs
+177. Which of the following is the components/ tools of recombinant DNA
+technology?
+a. Gene of interest
+b. Molecular scissors
+c. Molecular glue and expression system
+d. All of the above
+178. Gel electrophoresis is a technique
+a. Employed by forensic scientists to assist in the identification of the individuals by
+their respective type of DNA
+b. Collect all the genes found in one complete set of chromosomes
+c. Is a technique to separate different size fragment of charge bearing polymers
+(proteins, RNA or DNA)
+d. Grows single cells of a group of cells in a glass ware on artificial medium under
+aseptic conditions
+179. Transgenic organisms
+a. Havae a foreigh gene inserted into them
+b. Have an important role in the large scale production of medicinal products
+c. Are considered beneficial to humans
+d. All of the above
+180. Which of the following is not necessary for PCR to occur?
+a. dATP
+b. primers
+c. DNA fragments
+d. Ribonucleotides
+181. The end product of glycolysis in acrobic respiration is
+a. Ethanol and carbon dioxide
+b. Lactate
+c. Pyruvate
+d. Acetyl CoA
+182. Which of the following is not related enveloped virus?
+a. They survive for a short time
+b. Their envelop is sensitive to sunlight
+c. They are tolerant to antidotes
+d. Envelop is derived from host
+183. Numerous opportunistic diseases might attack a persone suffering from
+which of the following disease?
+a. Measles
+b. Influenza
+c. Hepatitits A
+d. AIDS
+184. The complete, mature and infection virus particle is known as
+a. Venome
+b. Genome
+c. Virion
+d. Capsid
+185. Which of the following is not TRUE about Human Immunodeficiency virus (
+HIV)?
+a. It is retrovirus
+b. It is surrounded by an envelop
+c. It does not cause AIDS
+d. It causes the deficiency of the human immune system
+186. Select a method which cause the oxidation of constituent of a bacterial cell
+a. Steam
+b. Filtration
+c. Dry heat
+d. Radiation
+187. Which of the following is TRUE about the structure if typical bacterium?
+a. It has a cell wall
+b. It has cytoplasm
+c. It has genetic material
+d. All of the above
+188. Red algae do not contribute towards
+a. Making coral reefs
+b. Forming limestone deposits
+c. Making fertilizers
+d. Forming chalk deposits
+189. Which of the following is true about amoeba?
+a. They havae flagella
+b. They are multicellular
+c. They do not cause any disease in humans
+d. They move by forming specialized cytoplasmic projections called pseudopodia
+190. The directional movement toward or away from the stimulus is called
+a. Tropism
+b. Orientation
+c. Taxis
+d. Non orientation
+191. Photophosphorylation takes place in the ____ of the chloroplasts
+a. Stroma
+b. Granum
+c. Inner membrane
+d. Outer membrane
+192. Select an anamniote from the following
+a. Snake
+b. Frog
+c. Parrot
+d. Crocodile
+193. In roots the apoplast pathway of water is disrupted when water reaches
+a. Plasmodesmata
+b. Cortex
+c. Endodermis
+d. Pith
+194. Regarding structure of human heart chordae tendinea are present in
+a. Atria
+b. Pulmonary valvea
+c. Ventricles
+d. Aortic valve
+195. The only vein in human body carrying oxygenated blood is
+a. Femoral
+b. Pulmonary
+c. Renal
+d. Iliac
+196. The cells which play very important in developing immunity are
+a. Monocytes
+b. Neutrophils
+c. Lymphocytes
+d. Thrombocytes
+197. Which of the following blood vessels have the highest pressure of blood?
+a. Aorta
+b. Pulmonary arteries
+c. Pulmonary veins
+d. Vena cava
+198. Autoimmune disease act at the principle of
+a. Self against antigens
+b. Antigens against self
+c. Self against self
+d. Antigens self-dstroyed
+199. In human heart, the left atrium receives
+a. The superior Vena Cava
+b. The inferior Vena Cava
+c. The coronary sinus
+d. The four pulmonary veins
+200. Antibodies are manufactured in
+a. T lymphocytes
+b. Red blood cells
+c. Platelets
+d. B lymphocytes

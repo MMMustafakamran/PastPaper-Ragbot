@@ -1,0 +1,1097 @@
+NUST Past Paper – Engineering
+1. The subset A of B which is different from the set of B itself, is called
+a. Proper subset
+b. Improper subset
+c. Subset
+d. Equal set
+2. 0.123456789123456789123456789….
+a. An irrational number
+b. A rational number
+c. A whole number
+d. A –ive number
+3. Every integer number is also
+a. Irrational number
+b. Whole number
+c. Natural number
+d. Rational number
+4. The number √𝑛 , where n is a prime number is
+a. A Rational number
+b. An Irrational number
+c. A Natural number
+d. integer number
+5. The additive inverse of real numbers
+a. 0
+b. 1
+c. 2
+d. 3
+6. If z = a + b then?
+a. –(a + b)
+b. –a + b
+c. a – b
+d. none
+7. The multiplicative inverse of 2 is
+a. 0
+b. 1
+c. -2
+d. ½
+8. Conjugate of (-3 , 4) is
+a. (3 , 4)
+b. (3 ,-4)
+c. (-3 ,-4)
+d. (-3 , 4)
+9. 1 > -1 -3 > -5, this property is called
+a. Additive property
+b. Transitive property
+c. Multiplicative property
+d. Closure property
+10. It Q , R. are any sets, then Q – R =
+a. Q ∩( 𝑄−𝑅)
+b. Q−( 𝑄∪𝑅)
+c. Q−( 𝑄∩𝑅)
+d. Q ∪( 𝑄−𝑅)
+11. The equation| x + 4| = x has solution
+a. X = -2
+b. X = 2
+c. X = -4
+d. X = 4
+12. Geometrically, the modulus of a complex number represents its distance from the
+a. Point (1 , 0)
+b. Point (0 , 1)
+c. Point (1 , 1)
+d. Point (0 , 0)
+13. Associative law of multiplication
+a. ab = ba
+b. a( bc) = ( ab )c
+c. a( a + b ) = ab +bc
+d. (a + b)c = ac + bc
+14. a.a-1 = a-1.a =1 is a
+a. Commutative law of multiplication
+b. Multiplicative identity
+c. Associative law of multiplication
+d. Multiplicative inverse
+15. ( a +bi ) – ( c + di ) =
+a. (a + b) = ( c + d)
+b. (a + c) + i( b + d)
+c. (a - c) + i( c - d)
+d. (a - c) + i( b - d)
+16. ( a , b) +(-a , b) =
+a. ( 0 , 0 )
+b. ( a , b )
+c. ( -a , -b )
+d. ( 1 , 1 )
+17. ( a , 0 ) x( c , 0 ) =
+a. (0 ,ac)
+b. (ac,0)
+c. (0,0)
+d. ( a , c )
+18. ( 7 , 9 ) + ( 3 ,-5) =
+a. ( 4 , 4)
+b. (10 ,4)
+c. ( 9 , -5 )
+d. ( 7 , 3 )
+19. If z1 =2 + 6i and z2 =3 + 7i, then which expression defines the products of z1 and z2?
+a. 36 + (-32)i
+b. -36 + 32i
+c. 6 + (-11)i
+d. 0, + (-12)i
+20. Which element is the additive inverse of (a, b) in complex numbers?
+a. ( a , 0)
+b. ( 0 , b)
+c. ( a , b)
+d. ( -a , -b)
+21. The set (Z , t ) forms a group
+a. Forms a group w.r.t addition
+b. Non commutative group w.r.t multiplication
+c. Forms a group w.r.t multiplication
+d. Does not form group
+22. Which of the following has the same value as i113?
+a. i
+b. -1
+c. –i
+d. 1
+23. P: Islamabad is a capital of Pakistan q: Lahore is not a city of Pakistan, the conjunction of p q is
+a. False
+b. True
+c. Not valid
+d. Known
+24. A disjunction of two statement p and q is true if
+a. P is false
+b. Both p and q is true
+c. One of P and q is true
+d. Q is false
+25. The set of real number R is a subset of
+a. The set of natural Numbers N
+b. The set of inters Z
+c. The set of complex numbers C
+d. The set of even integer E
+26. An element ‘b’ of a set B can be written as
+a. b  B
+b. b < B
+c. b  B
+d. B  b
+27. The set A is
+a. Improper subset of A
+b. Proper submit of A
+c. Not a subset of A
+d. Not superset of A
+28. A set containing only one element is called the
+a. Empty set
+b. Singleton set
+c. Null set
+d. Solution set
+29. To each element of a group there correspond how many inverse element
+a. Only one
+b. At least one
+c. More than one
+d. Two
+30. The set of students of your class is
+a. Infinite set
+b. Finite set
+c. Empty set
+d. Null set
+31. To draw general conclusions from accepted or well-known facts is called:
+a. Induction
+b. Proposition
+c. Deduction
+d. Aristotelian logic
+32. The truth value of the proportion is a positive number or 2+2 = 4 is
+a. True
+b. False
+c. Contingency
+d. None
+33. The draw general conclusions from a limited number of observation or experiences is called
+a. Proposition
+b. Deduction
+c. Induction
+d. Knowledge
+34. A declarative statement which may be3 true or false but not both is called
+a. Proposition
+b. Deduction
+c. Induction
+d. Knowledge
+35. Which of the following is not mooned w.r.t addition?
+a. Z
+b. N
+c. W
+d. R
+36. DEDUCTIVE LOGIC IN WHICH EVERY STATEMENT IS REGARDED AS TRUE OR FALSE AND THERE IS
+SCOPE FOR A THIRD OR FOURTH POSSIBILITY IS CALLED
+a. PROPOSITION
+b. DEDUCTION
+c. NON Aristotelian logic
+d. Aristotelian logic
+37. A disjunction of two statements p and q is true if
+a. P IS FALSE
+b. Both p and q are false
+c. One of p and q is true
+d. Q is false
+38. The identity element of N, w.r.t addition is
+a. 1
+b. 0
+c. 2
+d. None
+39. The set of the first element of the ordered pairs forming a relation is called ots:
+a. Relation of A to B
+b. Relation from B to A
+c. Relation in A
+d. Relation in B
+40. A subset of B x A is called a
+a. Relation of A to B
+b. Relation from B to A
+c. Relation in A
+d. Relation in B
+41. Cos [-150(/2) =?
+a. 0
+b. 1
+c. -1
+d. 
+42. 450 =?
+a. 3/2 radians
+b. 2/3 radians
+c. /4
+d. 180 radians
+43. A circular wire of radius 3cm us cut straightened and then bent so as to lie along the
+circumference of a hoop of radius 24cm.the measure of the angle subs tended at the center of
+the hope is
+a. 150
+b. 300
+c. 450
+d. 600
+44. The area of a sector with a central angle of 0.5 radians in a circular region whose radius is 2m is
+a. /2 m2
+b. /3 m2
+c. /6 m2
+d. 1m2
+45. The multiplicative inverse of – 1 in the set {-1,1}is:
+a. 1
+b. -1
+c. ±1
+d. 0
+46. The values of cos 20+ sec 20 is always
+a. Less than 1
+b. Equal to 1
+c. Greater then 1,but less than 2
+d. Greater than or equal to 2.
+47. The maximum value of sin x + Cos x is
+a. 1
+b. 2
+c. √2
+d. 1/√2
+48. In a school, there are 150 students. Out of these 80 students enrolled for mathematics class, 50
+enrolled for English class, and 60 enrolled for physics class. The student enrolled for English
+cannot attend any other class, but the students of mathematics and physics can take two courses
+at a time. Find the number of students who have taken both physics and mathematics.
+a. 40
+b. 30
+c. 50
+d. 20
+49. The set { {a, b } } is
+a. Infinite set
+b. Singleton set
+c. Two points set
+d. None
+50. Sin 500- sin700 + sin100 is equal to
+a. 1
+b. 2
+c. ½
+d. 2.
+51. The graph of a quadratic function is
+a. Circle
+b. Ellipse
+c. Parabola
+d. hexagon
+52. The set of complex number forms a group under the binary operation of
+a. Addition
+b. Multiplication
+c. Division
+d. Subtraction
+53. The multiplicative inverse of – 1 in the {1,-1} is
+a. 1
+b. -1
+c. ±1
+d. 0
+e. Does not exist
+54. The set {1,- 1/,i ,i}, form a group under
+a. Addition
+b. Multiplication
+c. Subtraction
+d. None
+55. The set of all positive even integers is
+a. Not a group
+b. A group w.r.t, subtraction
+c. A group w.r.t, division
+d. A group w.r.t, multiplication
+56. The vector quantity in the following
+a. Distance
+b. Impulse
+c. Energy
+d. 1
+57. The set (Q,)
+a. Forms a group
+b. Does not room a group
+c. Contains no additive identity
+d. Conations on additive inverse
+58. The set (Z, + ) forms a group
+a. Forms a group w.r.t addition
+b. Non commutative group w.r.t multiplication
+c. Forms a group w.r.t Multiplication
+d. Doesn’t form a group
+59. Total number of subsets that can be formed out of the set{a, b, c}is
+a. 1
+b. 4
+c. 8
+d. 12
+60. Additive inverse of – a- b is
+a. A
+b. –a+ b
+c. A-b
+d. A+ b
+61. If x = 1/x for x R then the respect to subtraction is
+a. 0
+b. 1
+c. 2
+d. 4
+62. The identity element with respect to subtraction is
+a. 0
+b. 1
+c. ±1
+d. Does not exist
+63. Multiplicative inverse of 0 is
+a. 0
+b. 1
+c. ±1
+d. Does not exist
+64. Decimal part of irrational number is
+a. Terminating
+b. Repeating only
+c. Neither repeating nor terminating
+d. Repeating and terminating
+ᶲ
+65. The trigonometric ratio change into co- ratio and vice versa if is added to or subtracted from
+a. Even – multiple of right angle
+b. Odd of /2 multiple
+c. Both a and b
+d. None of these
+66. In a country, 55% of the male population has houses in cities while 30% have houses both in
+cities and in villages. Find the percentage of the population that has houses only in villages,
+a. 45
+b. 30
+c. 25
+d. 50
+67. If a function f: A→ B is such that fan f=B then f is a/ an?
+a. Into function
+b. Onto function
+c. Bi-jective function
+d. one – one function
+68. the set of the first elements of the orders pairs forming a relation is called its
+a. relation in B
+b. range
+c. Domain
+d. Relation in A
+69. A function in which the second elements of the order pairs are distinct is called
+a. Onto function
+b. One-one function
+c. Identity function
+d. Inverse function
+70. A function whose range is just one element is called
+a. One –one function
+b. Constant function
+c. Onto function
+d. Identity function
+71. The graph of a quadratic function is
+a. Circle
+b. Straight line
+c. Parabola
+d. Triangle
+72. To each element of a group there corresponds_______ inverse element
+a. Two
+b. One
+c. No
+d. Three
+73. The set of integer is
+a. Finite group
+b. A group w.r.t addition
+c. A group w.r.t multiplication
+d. Not a group
+74. The set of complex number forms
+a. Commutative group w.r.t addition
+b. Commutative group w.r.t multiplication
+c. Commutative group w.r.t division
+d. Non commutative group w.r.t addition
+75. The set R is ______ w.r.t subtraction
+a. Not a group
+b. A group
+c. No conclusion drawn
+d. Non commutative group
+76. Power set of x I.e. p(x)__________under the binary operation of union U
+a. Forms a group
+b. Does not form a group
+c. Has no identity element
+d. Infinite set although x is infinite
+77. Any point, where f is neither increasing nor decreasing and f’’ (x) =0 at that point, is called a
+a. Minimum
+b. Maximum
+c. Stationary point
+d. Constant point
+78. If A={1,2,3,4,5,6} and gives relation {(1,1),(2,2),(3,3),(4,4),(5,5),(6,6)} is called:
+a. Binary relation
+b. Inverse relation
+c. Range at a relation
+d. Identity relation
+79. The transpose of a row matrix is a
+a. Column matrix
+b. Diagonal matrix
+c. Zero matrix
+d. Scalar matrix
+80. Which of the following is unary operation:
+a. Square root
+b. Union of sets
+c. Addition
+d. Multiplication
+81. The angle subtended at the center of sphere by its surface area is equal to :
+a. 4/3 π radian
+b. 4/3 π steradian
+c. 4 π steradian
+d. 2 π steradian
+82. If 7.635 and 4.81 are two significant numbers, their multiplication in significant digits is
+a. 36.72435
+b. 36.724
+c. 36.72
+d. 36.7
+83. The magnitude of the resultant of two forces is 2F. if the magnitude of each force is F, then
+angle b/w these forces is
+a. 00
+b. 900
+c. 1200
+d. 1800
+84. I( k x j) is equal to
+a. -1
+b. 0
+c. 1
+d. 2
+85. Three vectors of equal magnitude are acting on the three sides of an equilateral triangle. The
+magnitude of their resultant is
+a. 0
+b. 3
+c. √3
+d. 1.72
+86. The physical quantity which produces angular acceleration in the body is
+a. Force
+b. Moment of inertia
+c. Impulse
+d. Torque
+87. The point at which an applied force produces linear motion but no rotatory motion is
+a. Mid-point
+b. Centre of gravity
+c. Optical center
+d. Pole
+88. Bodies which fall freely under the action of gravity is an example of
+a. Uniform acceleration
+b. Variable acceleration
+c. Uniform velocity
+d. Average velocity
+89. Crystalline solids have the properties such as
+a. Regular arrangement
+b. Covalent arrangement
+c. Somewhat defective
+d. All of them
+90. A man throws a ball vertically upward in a compartment of an accelerated train. The ball will fall
+a. In front of him
+b. In his hand
+c. Behind him
+d. Beside him
+91. A bomber drops a bomb, when it is vertically above the target. It misses the target because of
+a. Vertical component of the velocity of bomber
+b. Forces of gravity
+c. Acceleration of the bomber
+d. Horizontal component of the velocity of bomber
+92. The property of the moving object by virtue of which it experts forces on the object that tries to
+stop it is
+a. Inertia of body
+b. Quantity of motion of body
+c. acceleration of body
+d. all of these
+93. the dot product of force and velocity is equal to
+a. power
+b. impulse
+c. couple
+d. momentum
+94. the escape velocity from the earth gravitational field depend upon
+a. rotation of earth
+b. mass of body
+c. radius of body
+d. mass of earth
+95. if the velocity of a body becomes half, the kinetic energy of body will become
+a. one fourth
+b. double
+c. four times
+d. half
+96. a 60kg man In a lift which is moving upward with an acceleration of 4.8m/s2 will have apparent
+weight of
+a. 588N
+b. 294N
+c. 58.8N
+d. 882N
+97. The apparent weight of pilot when diving down in a jet plane with an acceleration of 9.8m/s2
+will become
+a. Double
+b. Half
+c. –ive
+d. 0
+98. The geostationary satellites are
+a. Stationary W.R.T earth
+b. rotating W.R.T earth
+c. rotating very fast
+d. rotating very slow
+99. [ML -1T-1] are the dimensions of
+a. Angular momentum
+b. Power
+c. Impulse
+d. Viscosity
+100. A two meter high tank is full of water a hole is made in the middle of the tank. The speed of
+efflux is
+a. 4.9m/s
+b. 9.8m/s
+c. 4.42m/s
+d. 3.75m/s
+101. The quantity which specifies the displacement as well as the direction of motion in simple
+harmonic motion is the
+a. Phase angle
+b. Angular frequency
+c. Path difference
+d. None
+102. The number of loops in stationary waves depends upon
+a. Velocity of waves
+b. Wavelength of wave
+c. Nature of the medium
+d. Frequency of waves
+103. When the light enters from air to glass, it suffers a change in the
+a. Wavelength of light
+b. speed of light
+c. Frequency of light
+d. Wavelength and speed of light
+104. Which one of the following properties of light does not change with the nature of medium?
+a. Frequency of light
+b. Wavelength of light
+c. speed of light
+d. all of these
+105. we can hear sound around the corner but cannot see because of
+a. interface
+b. diffraction
+c. polarization
+d. dispersion
+106. The powers of the objective and eye piece of telescope are 0.5 diopter and 10 diopter
+respectively. The magnifying power of telescope is
+a. 0.5
+b. 10
+c. 20
+d. 0.05
+107. At constant temperature when the volume of the given mass of gas is doubled its density
+becomes
+a. Double
+b. one fourth
+c. four times
+d. half
+108. the process which is performed quickly is
+a. isobaric process
+b. adiabatic process
+c. isothermal process
+d. isochoric process
+109. the correct expression for the coulomb’s law/force is
+a. F= (1/k)(q1q2/r2)
+b. F= (k)(q1q2/r2)
+c. F= 4π Є (q1q2/r2)
+d. F= (k)(r2/ q1q2)
+110. The wave nature of an electron is illustrated by its
+a. Photoelectric effect
+b. Compton effect
+c. Penetrating effect
+d. Diffraction
+111. The potential gradient between the two charged plates having , separation of 0.5cm and
+potential difference of 12 volts is
+a. 240 NC-1
+b. 24 NC-1
+c. 2.4 NC-1
+d. 2400 NC-1
+112. The rate of change of electric potential w.r.t displacement is equal to
+a. Potential gradient
+b. Electric potential energy
+c. Electric intensity
+d. Electric flux
+113. A wire of uniform cross section A, length 1 and resistance R is cut into two equal pieces. The
+resistivity of each piece will be
+a. The same
+b. One fourth
+c. Double
+d. One half
+114. Two metallic conductors have the same value of resistivity. These conductors can be
+differentiated from the values of their
+a. Temperature coefficient
+b. Resistance
+c. Conductance
+d. Conductivity
+115. Two metallic wires are lying parallel. If the current in these wires be flowing in the same
+direction, the wires will :
+a. Attract each other
+b. Repel each other
+c. Have no force of attraction or repulsion
+d. Remain stationary
+116. The S.I unit of magnetic flux is weber which is equal to :
+a. Nm/A
+b. Nm2/A1
+c. NA/ m1
+d. NA/ m2
+117. An electron and proton are projected with same velocity normal to magnetic field which one
+will suffer greater deflection
+a. Proton
+b. Electron
+c. Both will suffer greater defection
+d. None
+118. The magnetic field due to current in solenoids can be increased by
+a. Increasing the number of turns per unit length
+b. Using soft iron core
+c. Increasing the current
+d. All of these
+119. Volt x second /ampere is equal to
+a. Gauss
+b. Weber
+c. Henry
+d. Tesla
+120. The counter torque produced in the moving coil of generator is called
+a. Restoring torque
+b. Deflection torque
+c. Back motor torque
+d. All of these
+121. The inductive reactance of the coil having inductance of 0.5 henry in which AC of 50hz flows is
+a. 94.2 ohm
+b. 1.57 ohm
+c. 157 ohm
+d. 9.4 ohm
+122. In RLC series circuit when the frequency of AC source is very low, The circuit is a/ an
+a. Resistive circuit
+b. Capacitive circuit
+c. Inductive circuit
+d. Resonant circuit
+123. Which of the following makes the motion of a perpetual motion machine a physical
+impossibility
+a. First law of thermodynamics
+b. Second law of thermodynamics
+c. Third law of thermodynamics
+d. None of these
+124. The process of combining low frequency signal with high frequency carries waves is called
+a. Rectification
+b. Amplification
+c. Modulation
+d. Magnification
+125. The ratio of volumetric strain to volumetric stress is called
+a. Compressibility
+b. Young’s modulus
+c. Bulk’s modulus
+d. Plastic modulus
+126. The substance which undergoes plastic deformation until it breaks is :
+a. Ductile substance
+b. Brittle substance
+c. Plastic substance
+d. All of these
+127. Choose the region of the spectrum which would be used to determine the structure of
+crystalline solids
+a. Visible
+b. Infrared
+c. X rays
+d. Ultraviolet
+128. The depletion region contains
+a. Electron
+b. Holes
+c. Electrons and holes
+d. No holes and electrons
+129. The process by which the potential barrier of the depletion region can be increased or
+decreased is called
+a. Amplification
+b. Biasing
+c. Modulation
+d. Doping
+130. The color of light emitted by light emitting diode depends upon
+a. Forward voltage
+b. Reverse current
+c. Forward current
+d. Type of semiconductors
+131. The combination of AND and NOT gate is called
+a. NAND gate
+b. NOR gate
+c. OR gate
+d. XOR gate
+132. If the temperature of the black body becomes double the intensity of radiation from it will
+become
+a. Double
+b. Four time
+c. Six times
+d. Sixteen time
+133. The scattering angle for which the Compton shift in wavelength is equal to Compton
+wavelength is
+a. Ө =90o
+b. Ө =0o
+c. Ө =45o
+d. Ө =180o
+134. The threshold frequency for a metal having work function 6.5e.V is
+a. 6.4 x 10-19 HZ
+b. 6.4 x 10-34 HZ
+c. 1.5 x 1015 HZ
+d. 1.5 x 10-15 HZ
+135. The uncertainty in energy of photon which is emitted from an atom radiating for 104 second is
+a. 4 x 10-7 joules
+b. 4 x 10-17 eV
+c. 6.6 x 10-20 eV
+d. 4 x 10 joule
+136. If an atom exists in the excited state n =5, the maximum number of transition takes place is
+a. 6
+b. 4
+c. 10
+d. 3
+137. When the voltage of the target in the x ray tube increases then the
+a. Penetrating power of x rays increase
+b. Intensity of x ray increases
+c. Wavelength of x ray increase
+d. All of these
+138. The frequency of light having wavelength 3 x 10-3
+a. 1x 106
+b. 1 x 107
+c. 10 x 1010
+d. 1 x 1013
+139. The situation in which then excited state i.e metastable state contains more number of
+electrons than the ground is called
+a. Ionized state
+b. Stimulation state
+c. Population state
+d. All of these
+140. The excited state which persists for unusually longer period of time is called
+a. Ground state
+b. Ionized state
+c. Metastable state
+d. Ordinary excited state
+141. %age of calcium in calcium carbonate is
+a. 80%
+b. 30%
+c. 40%
+d. 20%
+142. The empirical formula of the compound having 50% Sulphur and 50% oxygen by mass is
+a. SO
+b. S O
+2 3
+c. SO
+3
+d. SO
+2
+143. Bromine has two isotopeshaving the relative abundance as 75Br = 50.51% and 81Br = 49.49%.
+39 35
+the average atomic mass of bromine is
+a. 81
+b. 80
+c. 79.5
+d. 79
+144. Equilibrium constant has units if
+a. No. of moles of reactants and products are same
+b. Unequal no of moles
+c. Both
+d. None of these
+145. 1 mole of CH contains
+4
+a. 6.02 x 10 23 atoms of H
+b. 4 g-atom of hydrogen
+c. 1.81 x 1023 molecules of CH
+4
+d. 3.0 g of carbon
+146. How many moles of helium gas occupy 22.4 l at 0oC at 1 atm. Pressure
+a. 011
+b. 0.90
+c. 1.0
+d. 1.11
+147. The number of oxygen atoms in 4.4g of carbon dioxide is approximately?
+a. 1.2 x 10 23
+b. 6 x 10 22
+c. 6 x 10 23
+d. 12 x 10 23
+148. If N is Avogadro’s number, then number, then number of valence electrons in 4.2g of nitride
+A
+ions N3 – is
+a. 2.4 N
+A
+b. 4.2 N
+A
+c. 1.6 N
+A
+d. 3.2 N
+A
+149. Pure water is
+a. Poor conductor
+b. Very good conductor
+c. Slight conductance
+d. Neutral
+150. All of the following statements are incorrect for 20 moles of hydrogen per oxide except is has
+a. 80 mole of atoms
+b. 30 moles of Oxygen atoms
+c. 30 moles of hydrogen atoms
+d. 20 moles of hydrogen atoms
+151. Empirical formula and formula unit of an ionic compound
+a. Are always different
+b. Are always similar
+c. May be similar or different
+d. Ionic compound do not have any empirical formula
+152. When forward reaction and reverse reaction occur at the same time it is called
+a. Forward equilibrium
+b. Reverse equilibrium
+c. Chemical equilibrium
+d. None of above
+153. The largest number of molecules are present in
+a. 3.6g of water
+b. 4.4g of C H OH
+2 5
+c. 2.8g of CO
+d. 5.4g of N O
+2 2
+154. The presence of common ions --------- the solubility of a slightly soluble ionic compound.
+a. Decreases
+b. Increases
+c. Neither decrease nor increase
+d. None
+155. An X gram of calcium carbonate was completely burnt in air. The weight of the solid residue
+formed is 28 g. what is the value of X in grams
+a. 44
+b. 200
+c. 150
+d. 50
+156. What is the concentration of nitrate ions, if equal volumes of 0.1M AgNO and 0.1M NaCl are
+3
+mixed together?
+a. 0.1M
+b. 0.2M
+c. 0.05M
+d. 0.25M
+157. Buffer solutions are
+a. Which resist in change in PH and POH
+b. Only in PH
+c. Only POH
+d. Does not resist
+158. The volume in litters of CO liberated at STP when 10 grams of 90% pure limestone is heated
+2
+completely is
+a. 22.4
+b. 2.24
+c. 20.16
+d. 2.016
+159. An organic compound contains 49.3% carbon, 6.84% hydrogen and its vapors density is 73.
+Molecular formula of compound is
+a. C H O
+3 5 2
+b. C H O
+6 10 4
+c. C H O
+3 10 2
+d. C H O
+4 10 2
+160. The number of atoms in 0.004g of magnesium is close to
+a. 24
+b. 2 x1020
+c. 1020
+d. 6.02 x 1023
+161. The weight of 11.2 liters of CO at STP would be
+2
+a. 88g
+b. 44g
+c. 32g
+d. 22g
+162. Wt. of 112 ml of oxygen at STP on liquefaction would be
+a. 0.32g
+b. 0.64g
+c. 0.16g
+d. 0.96g
+163. Law of mass action determines
+a. Only products
+b. Composition of reacting substances and products
+c. Only reacting substances
+d. None of above
+164. 100g of CaCO is treated with 1 liter of 1 NHCl. What would be the weight of CO liberated
+3 2
+after the completion of the reaction
+a. 5.5g
+b. 11g
+c. 22g
+d. 33g
+165. If we consider that 1/6, in place of 1/12. Mass of carbon atom is taken to be the relative atomic
+mass unit, the mass of one mole of substance will
+a. Decrease twice
+b. Increase two fold
+c. Remains unchanged
+d. Be a function of the molecular mass of substance
+166. If 30mL of H and 20 mL of O reacts to form water, what is left at the end of the reaction?
+2 2
+a. 10mL of H
+2
+b. 5mL of H
+2
+c. 10mL of O
+2
+d. 5mL of O
+2
+167. How can we yield maximum ammonia from Haber’s process?
+a. High pressure, low temperature, continual removal of ammonia
+b. Low pressure, high temperature, increase the ammonia content
+c. High temperature and high pressure
+d. All of above
+168. An ideal gas obeying kinetic gas equation can be liquefied if
+a. Its temperature is more than critical temperature
+b. Its pressure is more than critical pressure
+c. Its pressure is more than critical pressure but temperature is less than critical
+temperature
+d. It cannot be liquefied at any value of P and T.
+169. Kinetic energy of one mole of an ideal gas at 300K in kj is
+a. 34.8
+b. 3.48
+c. 3.74
+d. 348
+170. Le Chaterlier’s principle discussed the effects of following on equilibrium
+a. Concentration, work, heat
+b. Volume, heat, pressure
+c. Concentration, pressure, temperature
+d. None
+171. The psychiatrist advised that on diet.
+a. I am going
+b. I am to go
+c. I should go
+d. I go
+172. The hotel manager suggested that they arrived on time for their reservation
+a. We arrive
+b. We should arrive
+c. We arrived
+d. Were arrive
+173. The college discipline committee requires that students _________college 165 days a year
+a. Are in
+b. Be in
+c. Were in
+d. Should in
+174. After the complete failure of the mission the leader of the guerrilla band realized that it was
+important that money ________ for the cause
+a. Has been collected
+b. Is collected
+c. Be collected
+d. Was collected
+175. I wish that______________ in Multan.
+a. I was living
+b. I has been living
+c. I were living
+d. I am living
+The public distribution system, which provides food at low prices, is subject if vital concern. There is a
+growing realization that though Pakistan has enough food to feed its masses three square meals a
+days, the monster of s starvation and food insecurity continues to haunt the poor in our country.
+Increasing the purchasing power of the poor through providing productive employment leading to rising
+income, and thus good standard of living is the ultimate objective of public policy. However, till then, there
+is a need to provide assured supply of food through a restructured more efficient and decentralized public
+distribution system (PDS).
+Although the PDS is extensive- it is one of the largest such systems in the world - it has yet to reach the
+rural poor and the far off places.it remains an urban phenomenon, with the majority of the rural poor
+still out of its reach due to lack of economic and physical access. The poorest in the cities and the migrants
+are left out, for they generally do not possess ration cards. The allocation of PDS supplies in big cities is
+larger than in rural areas. In view of such deficiencies in the system, the PDS urgently needs to be steam
+lined. In addition, considering the large food grains production combined with food subsidy on one hand
+and the continuing slow starvation and dismal poverty of the rural population on the other, there is strong
+case for making PDS target group oriented
+The growing salaried class is provided job security, regular income, and %age insulation against inflation.
+These gains of development have not percolated down to the vast majority of our working population.
+If one compares only dearness allowance to the employees in public and private sector and looks at its
+growth in past few years. The rising food subsidy is insignificant to the point of in equality. The food
+subsidy is a kind of D.A to the poor, the self-employed and those in the organized sector of economy.
+However, what is most unfortunate is that out of the large budget of the so-called food subsidy, the major
+part of it is administrative cost and wastages. A small portion of the above budget goes to real consumer
+and even lesser portion to the poor who are in real need.
+It is true that subsidies should not become a permanent feature, except for the destitute, disabled widows
+and the old. It is also true that subsidies often create a psychology of dependence and hence is habit-
+forming, killing the general initiative of the people. By making PDS target group oriented, not only the
+poorest and neediest would be reached without additional cost, but it will actually cut overall costs
+incurred on large cities and for better off localities. When the food and food subsidy are limited the rural
+and urban poor should have the priority in the PDS supplies. The PDS should be closely linked with PDS
+should be closely linked with programs of employment generation and nutrition improvement.
+176. Which of the following is the main reason for insufficient supply of enough food to the poorest?
+a. Mismanagement of food stocks
+b. Absence of proper public distribution system
+c. Production of food is less than the demand
+d. Governments apathy towards the poor
+177. What, according to the passage, is he the main purpose of public policy in the long run?
+a. Reducing the cost of living index by increasing supplies
+b. Providing enough food to all the citizens
+c. Good standard of living through productive employment
+d. Equalizing per capita income across different strata of society
+178. Which of the following is true of public distribution system?
+a. It has improved its effectiveness over the years.
+b. It has remained effective only in the cities
+c. It is the unique in the world because of its effectiveness
+d. It has reached the remotest corner of the country
+179. The word “square” as used in the passage means
+a. Rich
+b. Sumptuous
+c. Sufficient
+d. Quality
+180. Which of the following words is the same in meaning as “power” as used in the passage?
+a. Vigour
+b. Energy
+c. Influence
+d. Capacity
+181. RIB CAGE :LUNGS::
+a. Skull : brain
+b. Appendix : organ
+c. Sock : foot
+d. Skeleton :body
+182. Scientist : laboratory (analogy)
+a. Teacher : classroom
+b. Dentist : drill
+c. Lawyer : client
+d. Actor : playwright
+183. Brittle :fracture(analogy)
+a. Rain : umbrella
+b. Flammable : burn
+c. Perpetual : stop
+d. Ice :cold
+184. Gymnasium: exercise (analogy)
+a. Diseases :diagnose
+b. Birthday : celebrate
+c. Store : shop
+d. Army : discharge
+185. Compass: navigation
+a. Clock : dial
+b. Physician : disease
+c. Camera :photography
+d. Pilot :flight
+186. He is believed to be a very industrious worker: synonym
+a. Successful
+b. Sensible
+c. Punctual
+d. Diligent
+187. He had the nerve to suggest that I was cheating.(synonyms)
+a. Strength
+b. Capacity
+c. Audacity
+d. Courage
+188. Apathy(antonyms)
+a. Enemy
+b. Love
+c. Noble
+d. Temptation
+189. Outbreak (antonyms)
+a. Confined
+b. Smash
+c. Reliability
+d. Tumult
+190. Indulgent: (antonyms)
+a. Active
+b. Agile
+c. Squander
+d. Oppressive
+191. The dasu hydro power project is to be built on ________river
+a. Jhelum
+b. Chenab
+c. Ravi
+d. Indus
+192. The headquarter of Anjuman Tariqi-i-Urdu is located in _________
+a. Lahore
+b. Karachi
+c. Rawalpindi
+d. Multan
+193. The incumbent president of all Pakistan newspaper society (APNS) is
+a. Aslam Chelas
+b. Burhand Ud Din
+c. Furrukh Niazi
+d. Hameed Haroon
+194. When was earth hour observed?
+a. 1 April, 2014
+b. 22 March, 2014
+c. 29 March.2014
+d. 31 March, 2014
+195. Book titled the “Wrong Enemy America in Afghanistan 2001- 2014” has been written
+by__________
+a. Carlotta gall
+b. Henderson brooks
+c. Neville Maxwell
+d. None of these
+196. When is world water day celebrated annually?
+a. 22 March
+b. 5 March
+c. 13 March
+d. 20 March
+197. Who is author of the Book the “Sahara Testaments”?
+a. Tade Ipadeola
+b. Rebbeca Hunt
+c. Abdul Kalam
+d. Victoria Grassack
+198. Who is currently acting chairmen of the Competition Commission of Pakistan
+a. Rahat Kaunain
+b. Muhammad Zubair
+c. Nadeem ul Haq
+d. Dr. Joseph Wilion
+199. The incumbent P.M. of Italy is __________
+a. Mario monte
+b. Lamberto dini
+c. Enrico letta
+d. Matteo renzi
+200. Who won the cholistan jeep rally 2014?
+a. Ali Hassan Baloch
+b. Qasiar Khan Rind
+c. Nadir Ali Magsi
+d. Ayaz Latif Chandio
