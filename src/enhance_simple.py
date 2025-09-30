@@ -362,12 +362,12 @@ class SimpleEnhancer:
         print(f"Total questions enhanced: {stats['total_questions']}")
         
         if stats['successful'] > 0:
-            print("\n✅ All JSON files have been enhanced with:")
-            print("   • Topic classification")
-            print("   • Concept tags")
-            print("   • Real difficulty scores")
-            print("   • Correct answer flags")
-            print("   • Improved embedding text")
+            print("\nAll JSON files have been enhanced with:")
+            print("   - Topic classification")
+            print("   - Concept tags")
+            print("   - Real difficulty scores")
+            print("   - Correct answer flags")
+            print("   - Improved embedding text")
 
 
 def main():

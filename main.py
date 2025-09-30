@@ -98,24 +98,19 @@ def parse_questions():
         print(f"{'='*60}")
         
         try:
-            # Read text
             with open(text_file, 'r', encoding='utf-8') as f:
                 text = f.read()
             
-            # Parse questions
             questions = parser.parse_questions_from_text(text, text_file.name)
             
             if questions:
-                # Generate output path (maintain directory structure)
                 relative_path = text_file.relative_to(cleaned_dir)
                 output_path = output_dir / relative_path.parent / f"{text_file.stem}.json"
                 
-                # Save to JSON
                 if parser.save_to_json(questions, output_path):
                     print(f"✅ Extracted {len(questions)} questions")
                     print(f"   Saved to: {output_path}")
                     
-                    # Show summary
                     summary = parser.generate_summary(questions)
                     print(f"   Subjects: {summary['by_subject']}")
                     print(f"   With answers: {summary['with_answers']}/{len(questions)}")
@@ -123,20 +118,18 @@ def parse_questions():
                     
                     total_questions += len(questions)
                     successful += 1
-        else:
+                else:
                     print(f"❌ Failed to save JSON")
                     failed += 1
-    else:
+            else:
                 print(f"⚠️  No questions found")
                 failed += 1
-        
         except Exception as e:
             print(f"❌ Error: {e}")
             failed += 1
         
         print()
     
-    # Print final summary
     print("="*60)
     print("PARSING SUMMARY")
     print("="*60)
