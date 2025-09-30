@@ -13,22 +13,22 @@
         {
           "label": "A",
           "text": "Proper subset",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Improper subset",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Subset",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Equal set",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -55,22 +55,22 @@
         {
           "label": "A",
           "text": "An irrational number",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "A rational number",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "A whole number",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "A –ive number",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -97,22 +97,22 @@
         {
           "label": "A",
           "text": "Irrational number",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Whole number",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Natural number",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Rational number",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -139,22 +139,22 @@
         {
           "label": "A",
           "text": "A Rational number",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "An Irrational number",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "A Natural number",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "integer number",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -181,22 +181,22 @@
         {
           "label": "A",
           "text": "0",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "3",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -225,22 +225,22 @@
         {
           "label": "A",
           "text": "–(a + b)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "–a + b",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "a – b",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "none",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -267,22 +267,22 @@
         {
           "label": "A",
           "text": "0",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "-2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "½",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -309,22 +309,22 @@
         {
           "label": "A",
           "text": "(3 , 4)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "(3 ,-4)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "(-3 ,-4)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "(-3 , 4)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -351,22 +351,22 @@
         {
           "label": "A",
           "text": "Additive property",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Transitive property",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Multiplicative property",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Closure property",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -393,22 +393,22 @@
         {
           "label": "A",
           "text": "Q ∩( 𝑄−𝑅)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Q−( 𝑄∪𝑅)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Q−( 𝑄∩𝑅)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Q ∪( 𝑄−𝑅)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -435,22 +435,22 @@
         {
           "label": "A",
           "text": "X = -2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "X = 2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "X = -4",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "X = 4",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -477,22 +477,22 @@
         {
           "label": "A",
           "text": "Point (1 , 0)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Point (0 , 1)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Point (1 , 1)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Point (0 , 0)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -521,22 +521,22 @@
         {
           "label": "A",
           "text": "ab = ba",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "a( bc) = ( ab )c",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "a( a + b ) = ab +bc",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "(a + b)c = ac + bc",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -563,22 +563,22 @@
         {
           "label": "A",
           "text": "Commutative law of multiplication",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Multiplicative identity",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Associative law of multiplication",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Multiplicative inverse",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -605,22 +605,22 @@
         {
           "label": "A",
           "text": "(a + b) = ( c + d)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "(a + c) + i( b + d)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "(a - c) + i( c - d)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "(a - c) + i( b - d)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -647,22 +647,22 @@
         {
           "label": "A",
           "text": "( 0 , 0 )",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "( a , b )",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "( -a , -b )",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "( 1 , 1 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -689,22 +689,22 @@
         {
           "label": "A",
           "text": "(0 ,ac)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "(ac,0)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "(0,0)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "( a , c )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -731,22 +731,22 @@
         {
           "label": "A",
           "text": "( 4 , 4)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "(10 ,4)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "( 9 , -5 )",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "( 7 , 3 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -773,22 +773,22 @@
         {
           "label": "A",
           "text": "36 + (-32)i",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "-36 + 32i",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "6 + (-11)i",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "0, + (-12)i",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -815,22 +815,22 @@
         {
           "label": "A",
           "text": "( a , 0)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "( 0 , b)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "( a , b)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "( -a , -b)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -857,22 +857,22 @@
         {
           "label": "A",
           "text": "Forms a group w.r.t addition",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Non commutative group w.r.t multiplication",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Forms a group w.r.t multiplication",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Does not form group",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -901,22 +901,22 @@
         {
           "label": "A",
           "text": "i",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "-1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "–i",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "1",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -943,22 +943,22 @@
         {
           "label": "A",
           "text": "False",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "True",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Not valid",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Known",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -985,22 +985,22 @@
         {
           "label": "A",
           "text": "P is false",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Both p and q is true",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "One of P and q is true",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Q is false",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1027,22 +1027,22 @@
         {
           "label": "A",
           "text": "The set of natural Numbers N",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "The set of inters Z",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "The set of complex numbers C",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "The set of even integer E",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1072,22 +1072,22 @@
         {
           "label": "A",
           "text": "b  B",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "b < B",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "b  B",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "B  b",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1114,22 +1114,22 @@
         {
           "label": "A",
           "text": "Improper subset of A",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Proper submit of A",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Not a subset of A",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Not superset of A",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1156,22 +1156,22 @@
         {
           "label": "A",
           "text": "Empty set",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Singleton set",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Null set",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Solution set",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1198,22 +1198,22 @@
         {
           "label": "A",
           "text": "Only one",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "At least one",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "More than one",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Two",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1242,22 +1242,22 @@
         {
           "label": "A",
           "text": "Infinite set",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Finite set",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Empty set",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Null set",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1284,22 +1284,22 @@
         {
           "label": "A",
           "text": "Induction",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Proposition",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Deduction",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Aristotelian logic",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1326,22 +1326,22 @@
         {
           "label": "A",
           "text": "True",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "False",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Contingency",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1368,22 +1368,22 @@
         {
           "label": "A",
           "text": "Proposition",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Deduction",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Induction",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Knowledge",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1410,22 +1410,22 @@
         {
           "label": "A",
           "text": "Proposition",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Deduction",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Induction",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Knowledge",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1452,22 +1452,22 @@
         {
           "label": "A",
           "text": "Z",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "N",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "W",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "R",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1494,22 +1494,22 @@
         {
           "label": "A",
           "text": "PROPOSITION",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "DEDUCTION",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "NON Aristotelian logic",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Aristotelian logic",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1536,22 +1536,22 @@
         {
           "label": "A",
           "text": "P IS FALSE",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Both p and q are false",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "One of p and q is true",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Q is false",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1578,22 +1578,22 @@
         {
           "label": "A",
           "text": "1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "0",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1620,22 +1620,22 @@
         {
           "label": "A",
           "text": "Relation of A to B",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Relation from B to A",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Relation in A",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Relation in B",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1662,22 +1662,22 @@
         {
           "label": "A",
           "text": "Relation of A to B",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Relation from B to A",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Relation in A",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Relation in B",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1704,22 +1704,22 @@
         {
           "label": "A",
           "text": "0",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "-1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1746,22 +1746,22 @@
         {
           "label": "A",
           "text": "3/2 radians",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "2/3 radians",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "/4",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "180 radians",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1788,22 +1788,22 @@
         {
           "label": "A",
           "text": "150",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "300",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "450",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "600",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1830,22 +1830,22 @@
         {
           "label": "A",
           "text": "/2 m2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "/3 m2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "/6 m2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "1m2",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1872,22 +1872,22 @@
         {
           "label": "A",
           "text": "1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "-1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "±1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "0",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1914,22 +1914,22 @@
         {
           "label": "A",
           "text": "Less than 1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Equal to 1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Greater then 1,but less than 2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Greater than or equal to 2.",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1956,22 +1956,22 @@
         {
           "label": "A",
           "text": "1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "√2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "1/√2",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1998,22 +1998,22 @@
         {
           "label": "A",
           "text": "40",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "30",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "50",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "20",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2040,22 +2040,22 @@
         {
           "label": "A",
           "text": "Infinite set",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Singleton set",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Two points set",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2082,22 +2082,22 @@
         {
           "label": "A",
           "text": "1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "½",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "2.",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2124,22 +2124,22 @@
         {
           "label": "A",
           "text": "Circle",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Ellipse",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Parabola",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "hexagon",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2169,22 +2169,22 @@
         {
           "label": "A",
           "text": "Addition",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Multiplication",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Division",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Subtraction",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2213,22 +2213,22 @@
         {
           "label": "A",
           "text": "1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "-1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "±1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "0 e. Does not exist",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2255,22 +2255,22 @@
         {
           "label": "A",
           "text": "Addition",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Multiplication",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Subtraction",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2299,22 +2299,22 @@
         {
           "label": "A",
           "text": "Not a group",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "A group w.r.t, subtraction",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "A group w.r.t, division",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "A group w.r.t, multiplication",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2341,22 +2341,22 @@
         {
           "label": "A",
           "text": "Distance",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Impulse",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Energy",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "1",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2383,22 +2383,22 @@
         {
           "label": "A",
           "text": "Forms a group",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Does not room a group",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Contains no additive identity",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Conations on additive inverse",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2425,22 +2425,22 @@
         {
           "label": "A",
           "text": "Forms a group w.r.t addition",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Non commutative group w.r.t multiplication",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Forms a group w.r.t Multiplication",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Doesn’t form a group",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2469,22 +2469,22 @@
         {
           "label": "A",
           "text": "1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "4",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "8",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "12",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2511,22 +2511,22 @@
         {
           "label": "A",
           "text": "A",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "–a+ b",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "A-b",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "A+ b",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2553,22 +2553,22 @@
         {
           "label": "A",
           "text": "0",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "4",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2595,22 +2595,22 @@
         {
           "label": "A",
           "text": "0",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "±1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Does not exist",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2637,22 +2637,22 @@
         {
           "label": "A",
           "text": "0",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "±1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Does not exist",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2679,22 +2679,22 @@
         {
           "label": "A",
           "text": "Terminating",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Repeating only",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Neither repeating nor terminating",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Repeating and terminating ᶲ",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2721,22 +2721,22 @@
         {
           "label": "A",
           "text": "Even – multiple of right angle",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Odd of /2 multiple",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Both a and b",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None of these",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2763,22 +2763,22 @@
         {
           "label": "A",
           "text": "45",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "30",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "25",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "50",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2805,22 +2805,22 @@
         {
           "label": "A",
           "text": "Into function",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Onto function",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Bi-jective function",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "one – one function",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2847,22 +2847,22 @@
         {
           "label": "A",
           "text": "relation in B",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "range",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Domain",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Relation in A",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2889,22 +2889,22 @@
         {
           "label": "A",
           "text": "Onto function",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "One-one function",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Identity function",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Inverse function",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2931,22 +2931,22 @@
         {
           "label": "A",
           "text": "One –one function",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Constant function",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Onto function",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Identity function",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2973,22 +2973,22 @@
         {
           "label": "A",
           "text": "Circle",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Straight line",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Parabola",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Triangle",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3018,22 +3018,22 @@
         {
           "label": "A",
           "text": "Two",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "One",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "No",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Three",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3062,22 +3062,22 @@
         {
           "label": "A",
           "text": "Finite group",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "A group w.r.t addition",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "A group w.r.t multiplication",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Not a group",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3104,22 +3104,22 @@
         {
           "label": "A",
           "text": "Commutative group w.r.t addition",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Commutative group w.r.t multiplication",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Commutative group w.r.t division",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Non commutative group w.r.t addition",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3146,22 +3146,22 @@
         {
           "label": "A",
           "text": "Not a group",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "A group",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "No conclusion drawn",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Non commutative group",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3188,22 +3188,22 @@
         {
           "label": "A",
           "text": "Forms a group",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Does not form a group",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Has no identity element",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Infinite set although x is infinite",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3230,22 +3230,22 @@
         {
           "label": "A",
           "text": "Minimum",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Maximum",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Stationary point",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Constant point",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3272,22 +3272,22 @@
         {
           "label": "A",
           "text": "Binary relation",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Inverse relation",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Range at a relation",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Identity relation",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3314,22 +3314,22 @@
         {
           "label": "A",
           "text": "Column matrix",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Diagonal matrix",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Zero matrix",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Scalar matrix",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3359,22 +3359,22 @@
         {
           "label": "A",
           "text": "Square root",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Union of sets",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Addition",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Multiplication",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3401,22 +3401,22 @@
         {
           "label": "A",
           "text": "4/3 π radian",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "4/3 π steradian",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "4 π steradian",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "2 π steradian",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3443,22 +3443,22 @@
         {
           "label": "A",
           "text": "36.72435",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "36.724",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "36.72",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "36.7",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3485,22 +3485,22 @@
         {
           "label": "A",
           "text": "00",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "900",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "1200",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "1800",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3529,22 +3529,22 @@
         {
           "label": "A",
           "text": "-1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "0",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "2",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3571,22 +3571,22 @@
         {
           "label": "A",
           "text": "0",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "3",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "√3",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "1.72",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3613,22 +3613,22 @@
         {
           "label": "A",
           "text": "Force",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Moment of inertia",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Impulse",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Torque",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3657,22 +3657,22 @@
         {
           "label": "A",
           "text": "Mid-point",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Centre of gravity",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Optical center",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Pole",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3702,22 +3702,22 @@
         {
           "label": "A",
           "text": "Uniform acceleration",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Variable acceleration",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Uniform velocity",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Average velocity",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3744,22 +3744,22 @@
         {
           "label": "A",
           "text": "Regular arrangement",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Covalent arrangement",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Somewhat defective",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "All of them",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3786,22 +3786,22 @@
         {
           "label": "A",
           "text": "In front of him",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "In his hand",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Behind him",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Beside him",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3828,22 +3828,22 @@
         {
           "label": "A",
           "text": "Vertical component of the velocity of bomber",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Forces of gravity",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Acceleration of the bomber",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Horizontal component of the velocity of bomber",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3870,22 +3870,22 @@
         {
           "label": "A",
           "text": "Inertia of body",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Quantity of motion of body",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "acceleration of body",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "all of these",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3914,22 +3914,22 @@
         {
           "label": "A",
           "text": "power",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "impulse",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "couple",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "momentum",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3959,22 +3959,22 @@
         {
           "label": "A",
           "text": "rotation of earth",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "mass of body",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "radius of body",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "mass of earth",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4003,22 +4003,22 @@
         {
           "label": "A",
           "text": "one fourth",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "double",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "four times",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "half",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4047,22 +4047,22 @@
         {
           "label": "A",
           "text": "588N",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "294N",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "58.8N",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "882N",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4091,22 +4091,22 @@
         {
           "label": "A",
           "text": "Double",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Half",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "–ive",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "0",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4135,22 +4135,22 @@
         {
           "label": "A",
           "text": "Stationary W.R.T earth",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "rotating W.R.T earth",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "rotating very fast",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "rotating very slow",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4177,22 +4177,22 @@
         {
           "label": "A",
           "text": "Angular momentum",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Power",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Impulse",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Viscosity",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4219,22 +4219,22 @@
         {
           "label": "A",
           "text": "4.9m/s",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "9.8m/s",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "4.42m/s",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "3.75m/s",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4261,22 +4261,22 @@
         {
           "label": "A",
           "text": "Phase angle",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Angular frequency",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Path difference",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4305,22 +4305,22 @@
         {
           "label": "A",
           "text": "Velocity of waves",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Wavelength of wave",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Nature of the medium",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Frequency of waves",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4349,22 +4349,22 @@
         {
           "label": "A",
           "text": "Wavelength of light",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "speed of light",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Frequency of light",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Wavelength and speed of light",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4393,22 +4393,22 @@
         {
           "label": "A",
           "text": "Frequency of light",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Wavelength of light",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "speed of light",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "all of these",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4437,22 +4437,22 @@
         {
           "label": "A",
           "text": "interface",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "diffraction",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "polarization",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "dispersion",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4479,22 +4479,22 @@
         {
           "label": "A",
           "text": "0.5",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "10",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "20",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "0.05",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4521,22 +4521,22 @@
         {
           "label": "A",
           "text": "Double",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "one fourth",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "four times",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "half",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4565,22 +4565,22 @@
         {
           "label": "A",
           "text": "isobaric process",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "adiabatic process",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "isothermal process",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "isochoric process",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4607,22 +4607,22 @@
         {
           "label": "A",
           "text": "F= (1/k)(q1q2/r2)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "F= (k)(q1q2/r2)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "F= 4π Є (q1q2/r2)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "F= (k)(r2/ q1q2)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4651,22 +4651,22 @@
         {
           "label": "A",
           "text": "Photoelectric effect",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Compton effect",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Penetrating effect",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Diffraction",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4695,22 +4695,22 @@
         {
           "label": "A",
           "text": "240 NC-1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "24 NC-1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "2.4 NC-1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "2400 NC-1",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4739,22 +4739,22 @@
         {
           "label": "A",
           "text": "Potential gradient",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Electric potential energy",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Electric intensity",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Electric flux",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4783,22 +4783,22 @@
         {
           "label": "A",
           "text": "The same",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "One fourth",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Double",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "One half",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4827,22 +4827,22 @@
         {
           "label": "A",
           "text": "Temperature coefficient",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Resistance",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Conductance",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Conductivity",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4869,22 +4869,22 @@
         {
           "label": "A",
           "text": "Attract each other",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Repel each other",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Have no force of attraction or repulsion",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Remain stationary",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4913,22 +4913,22 @@
         {
           "label": "A",
           "text": "Nm/A",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Nm2/A1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "NA/ m1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "NA/ m2",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4959,22 +4959,22 @@
         {
           "label": "A",
           "text": "Proton",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Electron",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Both will suffer greater defection",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5004,22 +5004,22 @@
         {
           "label": "A",
           "text": "Increasing the number of turns per unit length",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Using soft iron core",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Increasing the current",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "All of these",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5049,22 +5049,22 @@
         {
           "label": "A",
           "text": "Gauss",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Weber",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Henry",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Tesla",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5091,22 +5091,22 @@
         {
           "label": "A",
           "text": "Restoring torque",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Deflection torque",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Back motor torque",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "All of these",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5133,22 +5133,22 @@
         {
           "label": "A",
           "text": "94.2 ohm",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "1.57 ohm",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "157 ohm",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "9.4 ohm",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5175,22 +5175,22 @@
         {
           "label": "A",
           "text": "Resistive circuit",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Capacitive circuit",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Inductive circuit",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Resonant circuit",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5219,22 +5219,22 @@
         {
           "label": "A",
           "text": "First law of thermodynamics",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Second law of thermodynamics",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Third law of thermodynamics",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None of these",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5263,22 +5263,22 @@
         {
           "label": "A",
           "text": "Rectification",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Amplification",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Modulation",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Magnification",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5308,22 +5308,22 @@
         {
           "label": "A",
           "text": "Compressibility",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Young’s modulus",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Bulk’s modulus",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Plastic modulus",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5350,22 +5350,22 @@
         {
           "label": "A",
           "text": "Ductile substance",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Brittle substance",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Plastic substance",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "All of these",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5392,22 +5392,22 @@
         {
           "label": "A",
           "text": "Visible",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Infrared",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "X rays",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Ultraviolet",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5434,22 +5434,22 @@
         {
           "label": "A",
           "text": "Electron",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Holes",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Electrons and holes",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "No holes and electrons",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5476,22 +5476,22 @@
         {
           "label": "A",
           "text": "Amplification",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Biasing",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Modulation",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Doping",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5518,22 +5518,22 @@
         {
           "label": "A",
           "text": "Forward voltage",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Reverse current",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Forward current",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Type of semiconductors",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5562,22 +5562,22 @@
         {
           "label": "A",
           "text": "NAND gate",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "NOR gate",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "OR gate",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "XOR gate",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5604,22 +5604,22 @@
         {
           "label": "A",
           "text": "Double",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Four time",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Six times",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Sixteen time",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5648,22 +5648,22 @@
         {
           "label": "A",
           "text": "Ө =90o",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Ө =0o",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Ө =45o",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Ө =180o",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5693,22 +5693,22 @@
         {
           "label": "A",
           "text": "6.4 x 10-19 HZ",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "6.4 x 10-34 HZ",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "1.5 x 1015 HZ",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "1.5 x 10-15 HZ",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5737,22 +5737,22 @@
         {
           "label": "A",
           "text": "4 x 10-7 joules",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "4 x 10-17 eV",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "6.6 x 10-20 eV",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "4 x 10 joule",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5782,22 +5782,22 @@
         {
           "label": "A",
           "text": "6",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "4",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "10",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "3",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5826,22 +5826,22 @@
         {
           "label": "A",
           "text": "Penetrating power of x rays increase",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Intensity of x ray increases",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Wavelength of x ray increase",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "All of these",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5870,22 +5870,22 @@
         {
           "label": "A",
           "text": "1x 106",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "1 x 107",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "10 x 1010",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "1 x 1013",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5916,22 +5916,22 @@
         {
           "label": "A",
           "text": "Ionized state",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Stimulation state",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Population state",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "All of these",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5960,22 +5960,22 @@
         {
           "label": "A",
           "text": "Ground state",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Ionized state",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Metastable state",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Ordinary excited state",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6004,22 +6004,22 @@
         {
           "label": "A",
           "text": "80%",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "30%",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "40%",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "20%",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6046,22 +6046,22 @@
         {
           "label": "A",
           "text": "SO",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "S O 2 3",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "SO 3",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "SO 2",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6090,22 +6090,22 @@
         {
           "label": "A",
           "text": "81",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "80",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "79.5",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "79",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6134,22 +6134,22 @@
         {
           "label": "A",
           "text": "No. of moles of reactants and products are same",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Unequal no of moles",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Both",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None of these",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6176,22 +6176,22 @@
         {
           "label": "A",
           "text": "6.02 x 10 23 atoms of H",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "4 g-atom of hydrogen",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "1.81 x 1023 molecules of CH 4",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "3.0 g of carbon",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6218,22 +6218,22 @@
         {
           "label": "A",
           "text": "011",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "0.90",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "1.0",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "1.11",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6260,22 +6260,22 @@
         {
           "label": "A",
           "text": "1.2 x 10 23",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "6 x 10 22",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "6 x 10 23",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "12 x 10 23",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6304,22 +6304,22 @@
         {
           "label": "A",
           "text": "2.4 N A",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "4.2 N A",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "1.6 N A",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "3.2 N A",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6348,22 +6348,22 @@
         {
           "label": "A",
           "text": "Poor conductor",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Very good conductor",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Slight conductance",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Neutral",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6390,22 +6390,22 @@
         {
           "label": "A",
           "text": "80 mole of atoms",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "30 moles of Oxygen atoms",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "30 moles of hydrogen atoms",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "20 moles of hydrogen atoms",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6432,22 +6432,22 @@
         {
           "label": "A",
           "text": "Are always different",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Are always similar",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "May be similar or different",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Ionic compound do not have any empirical formula",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6476,22 +6476,22 @@
         {
           "label": "A",
           "text": "Forward equilibrium",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Reverse equilibrium",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Chemical equilibrium",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None of above",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6520,22 +6520,22 @@
         {
           "label": "A",
           "text": "3.6g of water",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "4.4g of C H OH 2 5",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "2.8g of CO",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "5.4g of N O 2 2",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6562,22 +6562,22 @@
         {
           "label": "A",
           "text": "Decreases",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Increases",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Neither decrease nor increase",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6606,22 +6606,22 @@
         {
           "label": "A",
           "text": "44",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "200",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "150",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "50",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6648,22 +6648,22 @@
         {
           "label": "A",
           "text": "0.1M",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "0.2M",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "0.05M",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "0.25M",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6690,22 +6690,22 @@
         {
           "label": "A",
           "text": "Which resist in change in PH and POH",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Only in PH",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Only POH",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Does not resist",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6734,22 +6734,22 @@
         {
           "label": "A",
           "text": "22.4",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "2.24",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "20.16",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "2.016",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6776,22 +6776,22 @@
         {
           "label": "A",
           "text": "C H O 3 5 2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "C H O 6 10 4",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "C H O 3 10 2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "C H O 4 10 2",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6818,22 +6818,22 @@
         {
           "label": "A",
           "text": "24",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "2 x1020",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "1020",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "6.02 x 1023",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6862,22 +6862,22 @@
         {
           "label": "A",
           "text": "88g",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "44g",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "32g",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "22g",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6904,22 +6904,22 @@
         {
           "label": "A",
           "text": "0.32g",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "0.64g",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "0.16g",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "0.96g",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6946,22 +6946,22 @@
         {
           "label": "A",
           "text": "Only products",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Composition of reacting substances and products",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Only reacting substances",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None of above",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6990,22 +6990,22 @@
         {
           "label": "A",
           "text": "5.5g",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "11g",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "22g",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "33g",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7034,22 +7034,22 @@
         {
           "label": "A",
           "text": "Decrease twice",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Increase two fold",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Remains unchanged",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Be a function of the molecular mass of substance",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7078,22 +7078,22 @@
         {
           "label": "A",
           "text": "10mL of H 2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "5mL of H 2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "10mL of O 2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "5mL of O 2",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7122,22 +7122,22 @@
         {
           "label": "A",
           "text": "High pressure, low temperature, continual removal of ammonia",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Low pressure, high temperature, increase the ammonia content",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "High temperature and high pressure",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "All of above",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7164,22 +7164,22 @@
         {
           "label": "A",
           "text": "Its temperature is more than critical temperature",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Its pressure is more than critical pressure",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Its pressure is more than critical pressure but temperature is less than critical temperature",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "It cannot be liquefied at any value of P and T.",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7206,22 +7206,22 @@
         {
           "label": "A",
           "text": "34.8",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "3.48",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "3.74",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "348",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7248,22 +7248,22 @@
         {
           "label": "A",
           "text": "Concentration, work, heat",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Volume, heat, pressure",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Concentration, pressure, temperature",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7290,22 +7290,22 @@
         {
           "label": "A",
           "text": "I am going",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "I am to go",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "I should go",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "I go",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7332,22 +7332,22 @@
         {
           "label": "A",
           "text": "We arrive",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "We should arrive",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "We arrived",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Were arrive",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7374,22 +7374,22 @@
         {
           "label": "A",
           "text": "Are in",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Be in",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Were in",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Should in",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7416,22 +7416,22 @@
         {
           "label": "A",
           "text": "Has been collected",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Is collected",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Be collected",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Was collected",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7458,22 +7458,22 @@
         {
           "label": "A",
           "text": "I was living",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "I has been living",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "I were living",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "I am living The public distribution system, which provides food at low prices, is subject if vital concern. There is a growing realization that though Pakistan has enough food to feed its masses three square meals a days, the monster of s starvation and food insecurity continues to haunt the poor in our country. Increasing the purchasing power of the poor through providing productive employment leading to rising income, and thus good standard of living is the ultimate objective of public policy. However, till then, there is a need to provide assured supply of food through a restructured more efficient and decentralized public distribution system (PDS). Although the PDS is extensive- it is one of the largest such systems in the world - it has yet to reach the rural poor and the far off places.it remains an urban phenomenon, with the majority of the rural poor still out of its reach due to lack of economic and physical access. The poorest in the cities and the migrants are left out, for they generally do not possess ration cards. The allocation of PDS supplies in big cities is larger than in rural areas. In view of such deficiencies in the system, the PDS urgently needs to be steam lined. In addition, considering the large food grains production combined with food subsidy on one hand and the continuing slow starvation and dismal poverty of the rural population on the other, there is strong case for making PDS target group oriented The growing salaried class is provided job security, regular income, and %age insulation against inflation. These gains of development have not percolated down to the vast majority of our working population. If one compares only dearness allowance to the employees in public and private sector and looks at its growth in past few years. The rising food subsidy is insignificant to the point of in equality. The food subsidy is a kind of D.A to the poor, the self-employed and those in the organized sector of economy. However, what is most unfortunate is that out of the large budget of the so-called food subsidy, the major part of it is administrative cost and wastages. A small portion of the above budget goes to real consumer and even lesser portion to the poor who are in real need. It is true that subsidies should not become a permanent feature, except for the destitute, disabled widows and the old. It is also true that subsidies often create a psychology of dependence and hence is habit- forming, killing the general initiative of the people. By making PDS target group oriented, not only the poorest and neediest would be reached without additional cost, but it will actually cut overall costs incurred on large cities and for better off localities. When the food and food subsidy are limited the rural and urban poor should have the priority in the PDS supplies. The PDS should be closely linked with PDS should be closely linked with programs of employment generation and nutrition improvement.",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7500,22 +7500,22 @@
         {
           "label": "A",
           "text": "Mismanagement of food stocks",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Absence of proper public distribution system",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Production of food is less than the demand",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Governments apathy towards the poor",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7542,22 +7542,22 @@
         {
           "label": "A",
           "text": "Reducing the cost of living index by increasing supplies",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Providing enough food to all the citizens",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Good standard of living through productive employment",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Equalizing per capita income across different strata of society",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7584,22 +7584,22 @@
         {
           "label": "A",
           "text": "It has improved its effectiveness over the years.",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "It has remained effective only in the cities",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "It is the unique in the world because of its effectiveness",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "It has reached the remotest corner of the country",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7626,22 +7626,22 @@
         {
           "label": "A",
           "text": "Rich",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Sumptuous",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Sufficient",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Quality",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7668,22 +7668,22 @@
         {
           "label": "A",
           "text": "Vigour",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Energy",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Influence",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Capacity",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7712,22 +7712,22 @@
         {
           "label": "A",
           "text": "Skull : brain",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Appendix : organ",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Sock : foot",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Skeleton :body",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7754,22 +7754,22 @@
         {
           "label": "A",
           "text": "Teacher : classroom",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Dentist : drill",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Lawyer : client",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Actor : playwright",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7796,22 +7796,22 @@
         {
           "label": "A",
           "text": "Rain : umbrella",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Flammable : burn",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Perpetual : stop",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Ice :cold",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7838,22 +7838,22 @@
         {
           "label": "A",
           "text": "Diseases :diagnose",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Birthday : celebrate",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Store : shop",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Army : discharge",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7880,22 +7880,22 @@
         {
           "label": "A",
           "text": "Clock : dial",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Physician : disease",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Camera :photography",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Pilot :flight",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7922,22 +7922,22 @@
         {
           "label": "A",
           "text": "Successful",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Sensible",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Punctual",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Diligent",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7966,22 +7966,22 @@
         {
           "label": "A",
           "text": "Strength",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Capacity",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Audacity",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Courage",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -8010,22 +8010,22 @@
         {
           "label": "A",
           "text": "Enemy",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Love",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Noble",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Temptation",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -8052,22 +8052,22 @@
         {
           "label": "A",
           "text": "Confined",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Smash",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Reliability",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Tumult",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -8096,22 +8096,22 @@
         {
           "label": "A",
           "text": "Active",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Agile",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Squander",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Oppressive",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -8140,22 +8140,22 @@
         {
           "label": "A",
           "text": "Jhelum",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Chenab",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Ravi",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Indus",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -8182,22 +8182,22 @@
         {
           "label": "A",
           "text": "Lahore",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Karachi",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Rawalpindi",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Multan",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -8224,22 +8224,22 @@
         {
           "label": "A",
           "text": "Aslam Chelas",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Burhand Ud Din",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Furrukh Niazi",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Hameed Haroon",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -8266,22 +8266,22 @@
         {
           "label": "A",
           "text": "1 April, 2014",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "22 March, 2014",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "29 March.2014",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "31 March, 2014",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -8308,22 +8308,22 @@
         {
           "label": "A",
           "text": "Carlotta gall",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Henderson brooks",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Neville Maxwell",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None of these",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -8350,22 +8350,22 @@
         {
           "label": "A",
           "text": "22 March",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "5 March",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "13 March",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "20 March",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -8392,22 +8392,22 @@
         {
           "label": "A",
           "text": "Tade Ipadeola",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Rebbeca Hunt",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Abdul Kalam",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Victoria Grassack",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -8434,22 +8434,22 @@
         {
           "label": "A",
           "text": "Rahat Kaunain",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Muhammad Zubair",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Nadeem ul Haq",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Dr. Joseph Wilion",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -8478,22 +8478,22 @@
         {
           "label": "A",
           "text": "Mario monte",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Lamberto dini",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Enrico letta",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Matteo renzi",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -8520,22 +8520,22 @@
         {
           "label": "A",
           "text": "Ali Hassan Baloch",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Qasiar Khan Rind",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Nadir Ali Magsi",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Ayaz Latif Chandio",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,

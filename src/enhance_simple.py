@@ -195,10 +195,13 @@ class SimpleEnhancer:
         question['difficulty'] = self.get_difficulty_level(score)
         question['difficulty_score'] = score
         
-        # 3. Mark correct options
+        # 3. Mark correct options (only if answer is known)
         correct = question.get('correct_answer')
         for opt in question.get('options', []):
-            opt['is_correct'] = (opt['label'] == correct)
+            if correct:
+                opt['is_correct'] = (opt['label'] == correct)
+            else:
+                opt['is_correct'] = None  # Unknown answer
         
         # 4. Better embedding text
         parts = []

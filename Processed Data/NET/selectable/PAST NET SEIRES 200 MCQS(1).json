@@ -13,22 +13,22 @@
         {
           "label": "A",
           "text": "2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "12",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "3",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "6 ( NET 1 2015 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -58,22 +58,22 @@
         {
           "label": "A",
           "text": "1/3",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "1/6",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "2/9",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "3/12",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -102,42 +102,42 @@
         {
           "label": "A",
           "text": "4/36",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "16/216",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "6/216",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "8/64 (NET 1-2016) 4.` If e>1 theconic is called",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "A",
           "text": "Circle",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Parabola",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Ellipse",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Hyperbola",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -166,42 +166,42 @@
         {
           "label": "A",
           "text": "",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "( )̅ = ̅",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "( ̅) =",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "( ̅) = None of these 6 T(NhEeT r 2o0o1ts4 )of the equation ∨ −3∨−5 = 0are:",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "A",
           "text": "Real, irrational & equal",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Imaginary, unequal",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Rational unequal",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "A",
           "text": "None of these",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -228,22 +228,22 @@
         {
           "label": "A",
           "text": "S",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "G",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "(S,∗)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "(G,∗) t",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -270,22 +270,22 @@
         {
           "label": "A",
           "text": "Scalar",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Skew symmetric",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Symmetric",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Hermitian (NET-2013 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -314,22 +314,22 @@
         {
           "label": "A",
           "text": "0",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "4",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "It is not Arithematic Progression ( NET-2 2015 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -359,22 +359,22 @@
         {
           "label": "A",
           "text": "1/3",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "1/6",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "2/9",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "3/12 ( NET )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -403,22 +403,22 @@
         {
           "label": "A",
           "text": "1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "1/2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "0.2 ( NET-3 2015 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -448,22 +448,22 @@
         {
           "label": "A",
           "text": "Geometric",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Arithmetic",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Harmonic",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None of these (NET-1 2014)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -534,22 +534,22 @@
         {
           "label": "A",
           "text": "1.83r",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "2.1r",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "1.05r",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "1.25r",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -576,22 +576,22 @@
         {
           "label": "A",
           "text": "90",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "0",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "undefined/ infinity",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "none NET-3 (1-JUL-2014) or (NET-1 2016)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -618,22 +618,22 @@
         {
           "label": "A",
           "text": "e>0",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "e=0",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "e<0",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None ( NET-2015 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -660,22 +660,22 @@
         {
           "label": "A",
           "text": "2/36",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "1/36",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "3/6",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -705,22 +705,22 @@
         {
           "label": "A",
           "text": "12",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "45",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "60",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "72 ( NET-3 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -747,22 +747,22 @@
         {
           "label": "A",
           "text": "2/36",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "3/36",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "4/36",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "5/36 (NET 2014 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -792,22 +792,22 @@
         {
           "label": "A",
           "text": "4/36",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "16/216",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "6/216",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "8/64 ( NET 2013 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -837,22 +837,22 @@
         {
           "label": "A",
           "text": "sin θ/cos θ",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "1/cot θ",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "tan(180+ θ)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "All of these ( NET2013 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -879,22 +879,22 @@
         {
           "label": "A",
           "text": "cos x",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "1 / sec x",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "sin x",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "both a and b ( NET 2013 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -921,22 +921,22 @@
         {
           "label": "A",
           "text": "",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "[-1,1]",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "R R-(-1,1) (-1,1) ( NET 2013 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -963,22 +963,22 @@
         {
           "label": "A",
           "text": "pi",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "2 pi",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "pi/2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "none of these ( NET2013 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1005,22 +1005,22 @@
         {
           "label": "A",
           "text": "–sin(a)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "sin(a)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "–tan(a)/sec(a)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Both a and c ( NET 2013 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1047,22 +1047,22 @@
         {
           "label": "A",
           "text": "Tangent function and cotangent function",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Sine function and tangent function",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Cosine function and cotangent function",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Cosecant function and tangent function ( NET-3 2015 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1089,22 +1089,22 @@
         {
           "label": "A",
           "text": "0.07145",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "0.06250",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "0.06145",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "0.07135",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1131,22 +1131,22 @@
         {
           "label": "A",
           "text": "120",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "96",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "72",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "48 ( NET-1 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1173,22 +1173,22 @@
         {
           "label": "A",
           "text": "1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "3",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "4",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "8 ( NET 2012 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1215,22 +1215,22 @@
         {
           "label": "A",
           "text": "1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "-1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "1.732",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "0.577",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1257,22 +1257,22 @@
         {
           "label": "A",
           "text": "1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "-1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "0",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "All of them ( NET 2013 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1299,22 +1299,22 @@
         {
           "label": "A",
           "text": "cos 2α*cos α",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "4[cos^3](α)-3cos α",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "(1+cos α)/sin α",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Both a and b",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1341,22 +1341,22 @@
         {
           "label": "A",
           "text": "square",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "triangle",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "parallelogram",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "rectangle",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1383,22 +1383,22 @@
         {
           "label": "A",
           "text": "118",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "32",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "122",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "128 NET-3 (6-July-2014)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1425,22 +1425,22 @@
         {
           "label": "A",
           "text": "1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "3",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "4",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1467,22 +1467,22 @@
         {
           "label": "A",
           "text": "X =y",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "y=X",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "X axis",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "y axis",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1509,22 +1509,22 @@
         {
           "label": "A",
           "text": "1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "-1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "0",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "all of these",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1551,22 +1551,22 @@
         {
           "label": "A",
           "text": "1/secA",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "1/cosA",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "TanA",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "SinA-Cos (NET-2015)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1677,22 +1677,22 @@
         {
           "label": "A",
           "text": "5/11",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "50/11",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "0.5/11",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None of these ( NET )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1719,22 +1719,22 @@
         {
           "label": "A",
           "text": "9",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "10",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "11",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "12 ( NET 2013 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1761,22 +1761,22 @@
         {
           "label": "A",
           "text": "1/6",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "1/2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "1/4",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "1/3",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1807,22 +1807,22 @@
         {
           "label": "A",
           "text": "0 degree",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "90 degree",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "-90 degree",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "-1 is not in the domain of sin inverse",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1849,22 +1849,22 @@
         {
           "label": "A",
           "text": "Triangle",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Cube",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Cylinder",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Parallelepiped",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1891,22 +1891,22 @@
         {
           "label": "A",
           "text": "½",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "1/3",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "greater than 1 or less than 0",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1935,22 +1935,22 @@
         {
           "label": "A",
           "text": "Complex Number",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Real number",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Imaginary number",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None of these (NET-2) n n 1",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1979,22 +1979,22 @@
         {
           "label": "A",
           "text": "a1 = 2q/n–p",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "a1 = 2q/n",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "a1 = q/n + p",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "a1 = 2qn–2p",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2023,22 +2023,22 @@
         {
           "label": "A",
           "text": "55",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "110",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "450",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "24 ( NET-2014-2015 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2067,22 +2067,22 @@
         {
           "label": "A",
           "text": "1/13",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "4/13",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "13/52",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "4/52",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2111,22 +2111,22 @@
         {
           "label": "A",
           "text": "n!",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "(n+1)!",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "(n-1)!",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None of these ( NET 2012 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2153,22 +2153,22 @@
         {
           "label": "A",
           "text": "0",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "cos 26",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "sin 26",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2195,22 +2195,22 @@
         {
           "label": "A",
           "text": "Slopes are equal",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Slopes are opposite",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Product of slopes are-1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Both A & B",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2237,22 +2237,22 @@
         {
           "label": "A",
           "text": "1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "0",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "-1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "2",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2279,22 +2279,22 @@
         {
           "label": "A",
           "text": "Circle",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Parabola",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Hyperbola",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Ellipse",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2321,22 +2321,22 @@
         {
           "label": "A",
           "text": "–cos2x",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Cos2x",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "2Sin 2x",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "2cos2x",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2363,22 +2363,22 @@
         {
           "label": "A",
           "text": "8/√3",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "8√3/5",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "4√3",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "√3/8",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2405,22 +2405,22 @@
         {
           "label": "A",
           "text": "Jump",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Asymptotic",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Point",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Multipoint",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2447,22 +2447,22 @@
         {
           "label": "A",
           "text": "0",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "4",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Not an arithmetic sequence",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2492,22 +2492,22 @@
         {
           "label": "A",
           "text": "120 degree",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "180 degree",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "90 degree",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "0 degree",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2534,22 +2534,22 @@
         {
           "label": "A",
           "text": "5/11",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "50/11",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "0.5/11",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2576,22 +2576,22 @@
         {
           "label": "A",
           "text": "0.7145",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "0.0625",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "0.0345",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "0.7154",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2618,22 +2618,22 @@
         {
           "label": "A",
           "text": "2/36",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "2/4",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "4/36",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "5/36",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2662,22 +2662,22 @@
         {
           "label": "A",
           "text": "2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "X",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2704,22 +2704,22 @@
         {
           "label": "A",
           "text": "+2 , +8",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "+2 ,-8",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "+8 ,-2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "-2 ,-8",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2746,22 +2746,22 @@
         {
           "label": "A",
           "text": "X is greater than 3",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "X is less than 3",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "X is greater than or equal to 3",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "X is less than or equal to 3",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2788,22 +2788,22 @@
         {
           "label": "A",
           "text": "Rate change of f(x) w.r.t x",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Relevance rate of increase in f(x) w.r.t x",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Relevance rate decrease on f(x) w..r.t x",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2830,22 +2830,22 @@
         {
           "label": "A",
           "text": "Implicitdifferentiation",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Product rule",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Chain rule",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Cannot be solved",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2872,22 +2872,22 @@
         {
           "label": "A",
           "text": "One focus two directrices",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Two foci two directrices",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Two focus one directrices",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2914,222 +2914,222 @@
         {
           "label": "A",
           "text": "Cos inverse 4/5",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Sec inverse 4/5",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Cosec inverse 5/3",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "All 71 (DNiEffTe-r2e0n1t4i)ate ln (e) with respect to ‘x’.",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "A",
           "text": "1/e",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "0",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "1/x",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "e 72 E(NvEaTlu-2a0te1:5 c)os x * sin x * tan x * cot x * csc x",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "A",
           "text": "cos x",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "1/sec x",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Both A and B",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "sin x 73 (ENvEaTl-u2a0t1e2: )w^-23+w^-28",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "A",
           "text": "-1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "w",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "w^2 74 T(NhEeT d-2e0r1iv5a)te of f(x) with respect to ‘x’ is defined as:",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "A",
           "text": "The rate of change in f(x) with respect to ‘x’",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "The increase in the relevance rate of f(x) with respect to ‘x’",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "The decrease in the relevance rate of f(x) with respect to ‘x’",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None of these 75 (WNEhTi-c2h0 o1n3e) of the following is the additive inverse for 2+sqrt(3)?",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "A",
           "text": "sqrt(3)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "-2+sqrt(3)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "-2-sqrt(3)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "2+sqrt(3) 76 W(NhETat-2 a0r1e3 t)he angles of an equilateral triangle?",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "A",
           "text": "45 degrees, 45 degrees and90 degrees",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "45 degrees, 90 degrees and 45 degrees",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "120 degrees, 30 degrees and 30 degrees",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "60 degrees, 60 degrees and 60 degrees 77 I(Nf aE Ts-q2u0a1r3e) has a side of 2 units, then what is the length of its diagonal?",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "A",
           "text": "2*sqrt(2)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "8",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "4",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "16 78 In an ellipse, what is the name for the line through the focus and p(NeErpT-e2n0d1i4c)ular to the major axis ending at the ellipse?",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "A",
           "text": "Focal chord",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Minor axis",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Latus rectum",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Vertical asymptote 79 The length of all the sides of a square andan equilateral triangle is 5 units.What is the ratio of the a(NreEaT -o2f0 t1h2e) square to the area of the triangle?",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "A",
           "text": "8/sqrt(3)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "[8*sqrt(3)]/5",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "4/sqrt(3)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "sqrt(3)/8 80 T(NwEoT )figures having the same shape but different sizes are called:",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "A",
           "text": "Congruent figures",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Similar figures",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Equal figures",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "All of these NET – PHYSICS SECTION",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3156,22 +3156,22 @@
         {
           "label": "A",
           "text": "Lesser than R1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "More than R1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Lesser than R3",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Betwee R1 and R3 (NET 2013)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3200,22 +3200,22 @@
         {
           "label": "A",
           "text": "1/4 times",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "4 times",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Half",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Twice (NET 2013)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3244,22 +3244,22 @@
         {
           "label": "A",
           "text": "C/V",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "CV",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Q/V",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "QV (NET 2013)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3286,22 +3286,22 @@
         {
           "label": "A",
           "text": "Current will flow",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Current will not flow",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Depends on the dielectric",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "May or may not flow (NET 2013)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3331,22 +3331,22 @@
         {
           "label": "A",
           "text": "0.866 EA",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "0.5 EA",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "0.707 EA",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "EA/3 (NET 2013)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3375,22 +3375,22 @@
         {
           "label": "A",
           "text": "they are both uncharged",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "they are both charged",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "either (a) or (b) is true",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "neither (a) nor (b) is true (NET 2013) 2",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3419,22 +3419,22 @@
         {
           "label": "A",
           "text": "Charge",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Capacitance",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Voltage",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Energy (NET 2012)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3461,22 +3461,22 @@
         {
           "label": "A",
           "text": "63%",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "37%",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "83%",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None of these (NET 2013)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3507,22 +3507,22 @@
         {
           "label": "A",
           "text": "V/m",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "N/m",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "V/C",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None ofthese (NET 2013) 2",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3551,22 +3551,22 @@
         {
           "label": "A",
           "text": "Charge",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Capacitance",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Voltage",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Energy (NET 2013)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3593,22 +3593,22 @@
         {
           "label": "A",
           "text": "Yes",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "No",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "First passes then stops",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None of these (NET 2013)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3638,22 +3638,22 @@
         {
           "label": "A",
           "text": "Oil",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Air",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Vacuum",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Distilled water (NET 2013)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3682,22 +3682,22 @@
         {
           "label": "A",
           "text": "1/4 times",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "4 times",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Half",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Twice (NET 2013)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3726,22 +3726,22 @@
         {
           "label": "A",
           "text": "C/V",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "CV",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Q/V",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "QV (NET 2013)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3768,22 +3768,22 @@
         {
           "label": "A",
           "text": "Current will flow",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Current will not flow",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Depends on the dielectric",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "May or may not flow (NET 2013)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3813,22 +3813,22 @@
         {
           "label": "A",
           "text": "0.866 EA",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "0.5 EA",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "0.707 EA",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "EA/3 (NET 2013)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3857,22 +3857,22 @@
         {
           "label": "A",
           "text": "they are both uncharged",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "they are both charged",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "either (a) or (b) is true",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "neither (a) nor (b) is true",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3901,22 +3901,22 @@
         {
           "label": "A",
           "text": "deflect downwards",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "deflect upwards",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "go straight",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "none of these",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3945,22 +3945,22 @@
         {
           "label": "A",
           "text": "F",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "2F",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "F/2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "0 (NET 2011)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3989,22 +3989,22 @@
         {
           "label": "A",
           "text": "Air",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Wax",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Iron",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "all of the above",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4034,22 +4034,22 @@
         {
           "label": "A",
           "text": "3600",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "1/3600",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "250",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "1/60 (NET 2013)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4078,22 +4078,22 @@
         {
           "label": "A",
           "text": "C/V",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "V/C",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "J/C",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None of these",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4120,22 +4120,22 @@
         {
           "label": "A",
           "text": "F",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "F/2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "2F",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None of these ( NET 2012 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4164,22 +4164,22 @@
         {
           "label": "A",
           "text": "Resistance of conductor",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Potential difference across conductor",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Power of conductor",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Conductance of Conductor ( NET 2012 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4206,22 +4206,22 @@
         {
           "label": "A",
           "text": "500 w",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "40w",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Both will offer same resistance",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None of these ( NET 2012 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4250,22 +4250,22 @@
         {
           "label": "A",
           "text": "60 J",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "3600 J",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "360000 J",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "0J",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4294,22 +4294,22 @@
         {
           "label": "A",
           "text": "Lesser than R1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "More than R1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Lesser than R3",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Betwee R1 and R3 ( NET 2012 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4338,22 +4338,22 @@
         {
           "label": "A",
           "text": "6Nk2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "12N",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "0N",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None of these",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4382,22 +4382,22 @@
         {
           "label": "A",
           "text": "2pm",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "2m/p2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "p2/m",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "2/2m",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4426,22 +4426,22 @@
         {
           "label": "A",
           "text": "q",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "q/2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "q/3",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "q/4 NET-1 (21-DEC-2014)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4468,17 +4468,17 @@
         {
           "label": "A",
           "text": "Area of coil is changed.",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Coil is rotated",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Magnet which was placed at a distance is moved closer to it . NET-1(2D9.- NJUoNnEe-2014)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4505,22 +4505,22 @@
         {
           "label": "A",
           "text": "Isothermal Process",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Adiabatic Process",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Isobaric Process",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Isochoric Process",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4549,22 +4549,22 @@
         {
           "label": "A",
           "text": "Vel",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Acceleration",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Momentum",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "KE",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4594,22 +4594,22 @@
         {
           "label": "A",
           "text": "work",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "impulse",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "energy",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "force ( NET 2012 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4639,22 +4639,22 @@
         {
           "label": "A",
           "text": "Newton",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Plank",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Maxwel",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Einstein ( NET 2012 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4683,22 +4683,22 @@
         {
           "label": "A",
           "text": "100",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "50",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Both",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None ( NET 2013)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4727,22 +4727,22 @@
         {
           "label": "A",
           "text": "0.1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "10",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "100",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "1.5 ( NET 2013)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4769,22 +4769,22 @@
         {
           "label": "A",
           "text": "Equal to Campton wavelength",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Zero",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Maximum",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Minimum",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4813,22 +4813,22 @@
         {
           "label": "A",
           "text": "Becomes Double",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Not Effected",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "reduces to half",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "reduces to 1/8 ( NET 2013)or (2014)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4857,22 +4857,22 @@
         {
           "label": "A",
           "text": "Space",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Space shuttle",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Satellite",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Both b & c ( NET 2012 ) or (2014)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4899,22 +4899,22 @@
         {
           "label": "A",
           "text": "Increases by 1000 times",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Decreases By 1000 times",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Not effected",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4943,22 +4943,22 @@
         {
           "label": "A",
           "text": "1.15.*10^10m/s",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "7.29.*10^6m/s",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "2.8.*10^8m/s",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "8.9.*10^5m/s ( NET 2012 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4988,22 +4988,22 @@
         {
           "label": "A",
           "text": "leading the voltage",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "lagging the voltage",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "in phase with the voltage",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "both a and b ( NET 2013)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5033,22 +5033,22 @@
         {
           "label": "A",
           "text": "not equal",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "approximately equal",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "equa",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "both b & c",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5075,22 +5075,22 @@
         {
           "label": "A",
           "text": "g+a",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "g-a",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "-2.*a",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None ( NET 2014)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5119,22 +5119,22 @@
         {
           "label": "A",
           "text": "Self-adjusting",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Pseudo",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Fake",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None (NET 2013)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5164,22 +5164,22 @@
         {
           "label": "A",
           "text": "Half",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Double",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "1.4",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Quadruped",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5206,22 +5206,22 @@
         {
           "label": "A",
           "text": "F",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "f/2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "2f",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "0 ( NET 2014)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5250,22 +5250,22 @@
         {
           "label": "A",
           "text": "Stone",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Water",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Wood",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Glass ( NET 2014)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5294,22 +5294,22 @@
         {
           "label": "A",
           "text": "Oil",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Distilled Water",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Vacuum",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Air ( NET 2014)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5338,22 +5338,22 @@
         {
           "label": "A",
           "text": "Length Contraction",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Time Dialation",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Mass Variation",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Compton Effect",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5380,22 +5380,22 @@
         {
           "label": "A",
           "text": "Q",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "q/2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "q/3",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "q/4 ( NET 2015)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5422,22 +5422,22 @@
         {
           "label": "A",
           "text": "Lymann",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Balmer",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Pfund",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Brackett ( NET 2015)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5466,22 +5466,22 @@
         {
           "label": "A",
           "text": "Light interference",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Light diffraction",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Light scattering",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Light polarization ( NET 2015)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5508,22 +5508,22 @@
         {
           "label": "A",
           "text": "intensity of light",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "frequency of light",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "both",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "none",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5552,22 +5552,22 @@
         {
           "label": "A",
           "text": "2C",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "C/2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "C/4",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "4C ( NET 2015)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5596,22 +5596,22 @@
         {
           "label": "A",
           "text": "Half",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Doubled",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "No effect",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None ( NET 2013)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5638,22 +5638,22 @@
         {
           "label": "A",
           "text": "Reduced to half",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Increase two time",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "1.4 time reduced",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "increases four time ( NET 2015)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5680,22 +5680,22 @@
         {
           "label": "A",
           "text": "Half",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Increase by 2 times",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "4 times increase",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "1/4 ( NET 2015)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5724,22 +5724,22 @@
         {
           "label": "A",
           "text": "1sec",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "2sec",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Pi sec",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None NET – CHEMISTRY SECTION ( NET 2013 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5768,42 +5768,42 @@
         {
           "label": "A",
           "text": "to measure atomic masses",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "to measure atomic number",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "both",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "none of these ( NET 2013 ) 142, 1 amu isequal to?",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "A",
           "text": "1.66 x 10^-27 kg",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "1.602 x 10^-27 kg",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "1.66 x 10^-31 kg",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None of these ( NET 2013 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5832,22 +5832,22 @@
         {
           "label": "A",
           "text": "solid form",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "liquid form",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "vapor form",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "no ionization ( NET 2013 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5876,22 +5876,22 @@
         {
           "label": "A",
           "text": "electrons",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "neutrons",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "protons",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "nucleons ( NET 2013 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5920,22 +5920,22 @@
         {
           "label": "A",
           "text": "only atomic mass",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "only atomic number",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "atomic mass and atomic number respectively",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "atomic number and atomic mass respectively ( NET 2015)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5962,22 +5962,22 @@
         {
           "label": "A",
           "text": "maximum",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "minimum",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "intermediate",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "none ( NET 2015)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6006,22 +6006,22 @@
         {
           "label": "A",
           "text": "He",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Ne",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Kr",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Ar ( NET 2014)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6048,17 +6048,17 @@
         {
           "label": "A",
           "text": "Water",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Nitrogen",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Neon",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6087,22 +6087,22 @@
         {
           "label": "A",
           "text": "Ag",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Cu",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Au",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Ti ( NET 2014)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6129,22 +6129,22 @@
         {
           "label": "A",
           "text": "Sp3 hybrdize",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Sp2hybirdize",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Sp hybridize",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None ( NET 2014)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6171,22 +6171,22 @@
         {
           "label": "A",
           "text": "Organic",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Inorganic",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Acidic",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Basic ( NET 2014)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6213,22 +6213,22 @@
         {
           "label": "A",
           "text": "Carbolic acid",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Phenol",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Alcohol",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None ( NET 2014)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6258,22 +6258,22 @@
         {
           "label": "A",
           "text": "Solute",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Solvent",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Both",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None ( NET 2012)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6300,22 +6300,22 @@
         {
           "label": "A",
           "text": "Methane",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Ethane",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Propane",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "All ( NET 2014)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6342,22 +6342,22 @@
         {
           "label": "A",
           "text": "alkali metals",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "alkalineearth metals",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "halogens",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "coinage metals",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6386,22 +6386,22 @@
         {
           "label": "A",
           "text": "anode to cathode through external circuit",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "cathode to anode through external circuit",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "anode to cathode through salt bridge",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "cathode to anode through salt bridge ( NET 2014)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6430,22 +6430,22 @@
         {
           "label": "A",
           "text": "alpha",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "beta",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "gamma",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "All ( NET 2013)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6472,22 +6472,22 @@
         {
           "label": "A",
           "text": "Kw=Ka/Kb",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Kw=Ka-Kb",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Kw=Kb-Ka",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Kw=Kb/Ka",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6514,22 +6514,22 @@
         {
           "label": "A",
           "text": "Red Phosphorus",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Black Phosphorus",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "White Phosphorus",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Grey Phosphorus ( NET 2014)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6556,22 +6556,22 @@
         {
           "label": "A",
           "text": "Lower hydrocarbon",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Higher hydrocarbon",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Alcohols",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Alkyl halide ( NET 2015)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6598,22 +6598,22 @@
         {
           "label": "A",
           "text": "Al",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Na",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Ka",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Cu ( NET 2013)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6640,22 +6640,22 @@
         {
           "label": "A",
           "text": "strong oxidizing agent",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "weak oxidizing agent",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "strong reducing agent",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "weak reducing agent (NET 2014)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6682,22 +6682,22 @@
         {
           "label": "A",
           "text": "Chlorine",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Bromine",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Iodine",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Fluorine ( NET 2013)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6724,22 +6724,22 @@
         {
           "label": "A",
           "text": "blue crystalline solid",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "not soluble in water",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "strong oxidizing agent",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "used in formation of lead chromate ( NET 2013)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6766,22 +6766,22 @@
         {
           "label": "A",
           "text": "orthoboric acid",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "nano boric acid",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "meta boric acid",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "pyro boric acid ( NET 2013)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6810,22 +6810,22 @@
         {
           "label": "A",
           "text": "1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "3",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "4 ( NET 2013)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6854,22 +6854,22 @@
         {
           "label": "A",
           "text": "7-8",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "8-9",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "10-11",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "9-10 ( NET 2013)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6898,22 +6898,22 @@
         {
           "label": "A",
           "text": "Mg(OH)2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "KOH",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Mg(ClO4)2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None ( NET 2013)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6940,22 +6940,22 @@
         {
           "label": "A",
           "text": "nuclear charge",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "shielding effect",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "atomic radius",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "All ( NET 2013)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6982,22 +6982,22 @@
         {
           "label": "A",
           "text": "Alkane",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Alkene",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Alkyne",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None NET – ENGLISH SECTION ( NET 2013)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7024,22 +7024,22 @@
         {
           "label": "A",
           "text": "Brunt",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Pressure",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "trouble some",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "( NlEivTe 2ly0 1s3p)irited",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7066,17 +7066,17 @@
         {
           "label": "A",
           "text": "Impulsive",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Dashing",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Key D(. NeEvTo )lve",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7103,42 +7103,42 @@
         {
           "label": "A",
           "text": "Excess",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Leveled",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Steal",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "bought ( NET ) 174.Choose the correct spelling:",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "A",
           "text": "presamble",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "misible",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "presible",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "permissible ( NET )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7165,22 +7165,22 @@
         {
           "label": "A",
           "text": "Prejudice",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Jeduce",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "dejuice",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "diceju( NET-2013)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7207,22 +7207,22 @@
         {
           "label": "A",
           "text": "artist:MUSEUM",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "cashier:check",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "waiter:restaurant",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "mourner:funeral ( NET-2014)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7249,22 +7249,22 @@
         {
           "label": "A",
           "text": "puck:hockey",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "serve:tennis",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "outing:hiking",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "round:boxing ( NET )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7293,22 +7293,22 @@
         {
           "label": "A",
           "text": "ounce:weight",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "fathom:volume",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "mass:energy",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "time:leng(thNET )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7337,22 +7337,22 @@
         {
           "label": "A",
           "text": "harvey:biology",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "bohr:periodic table",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": ")moseley:chemistry",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "aristotle(: gNrEeTe k)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7379,22 +7379,22 @@
         {
           "label": "A",
           "text": "shoes:laces",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "shirt:cotton",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "pant:zip",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "geometry:pen ( NET-2015)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7421,22 +7421,22 @@
         {
           "label": "A",
           "text": "Wealthy",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Rich",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Poor",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "None of (thNeEsTe-2013 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7463,22 +7463,22 @@
         {
           "label": "A",
           "text": "In",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Chic",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Function",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "archaic ( NET-3 2015)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7505,22 +7505,22 @@
         {
           "label": "A",
           "text": "Mathimatics",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Mathemaitics",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Mithamatics",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Mathematics ( NET )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7547,22 +7547,22 @@
         {
           "label": "A",
           "text": "Triple",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Motivate",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Discourage",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "move ( NET )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7591,22 +7591,22 @@
         {
           "label": "A",
           "text": "Doubts",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Quark",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Worries",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "apprehension ( NET )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7633,22 +7633,22 @@
         {
           "label": "A",
           "text": "deciper",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "dehcipher",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "desipher",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "decipher ( NET-2014 )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7675,22 +7675,22 @@
         {
           "label": "A",
           "text": "Allot",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Gather",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Dispense",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Deive( rNET )",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7719,22 +7719,22 @@
         {
           "label": "A",
           "text": "Immoral",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Unethical",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Enigmatic ( NET-2013)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Unaccountable",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7761,22 +7761,22 @@
         {
           "label": "A",
           "text": "privately",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "magnanimously",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "inconspicously ( NET-2013)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "ignominousl",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7803,22 +7803,22 @@
         {
           "label": "A",
           "text": "Send the letter at my new address",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Send the letter to my new address",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Send the letter from my new address",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Send the letter of my new address NET – IQ SECTION (From NET 2013)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7845,22 +7845,22 @@
         {
           "label": "A",
           "text": "March",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "July",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "September",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "October (From NET 2013)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7887,22 +7887,22 @@
         {
           "label": "A",
           "text": "Trunk",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Tree",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Leaf",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Flower (NET 2013, NET 2014)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7929,22 +7929,22 @@
         {
           "label": "A",
           "text": "Learn",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Read",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Knowledge",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Write",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7971,22 +7971,22 @@
         {
           "label": "A",
           "text": "89",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "92",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "128",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "120",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -8015,22 +8015,22 @@
         {
           "label": "A",
           "text": "132",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "264",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "112",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "198",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -8059,22 +8059,22 @@
         {
           "label": "A",
           "text": "11",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "17",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "19",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "23 (NET 2013)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -8101,22 +8101,22 @@
         {
           "label": "A",
           "text": "Natural gas",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Gasoline",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Coal",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Biogas (NET 2013, NET 2014)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -8143,22 +8143,22 @@
         {
           "label": "A",
           "text": "Brinjal",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Potato",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Tomato",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Cucumber",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -8185,22 +8185,22 @@
         {
           "label": "A",
           "text": "FODPNUQ",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "FOBPNXS",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "FOBPNXQ",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "FODPNUS",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -8227,22 +8227,22 @@
         {
           "label": "A",
           "text": "DKDSHG",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "AOCGTY",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "DKCMEG",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "EMGCKD GOOD LUCK FOR TEST Follow us on FACEBOOK PAGE",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,

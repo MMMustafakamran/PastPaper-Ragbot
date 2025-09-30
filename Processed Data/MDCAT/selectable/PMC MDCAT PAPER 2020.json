@@ -13,22 +13,22 @@
         {
           "label": "A",
           "text": "Double",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "One half",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Four times",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "One fourth",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -59,22 +59,22 @@
         {
           "label": "A",
           "text": "Linear motion",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Circular motion",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Random motion",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Osciallation",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -101,22 +101,22 @@
         {
           "label": "A",
           "text": "Interference",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Reflection",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Diffraction",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Polarization",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -145,22 +145,22 @@
         {
           "label": "A",
           "text": "345.2 m/s",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "340 m/s",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "350 m/s",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "330 m/s",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -187,22 +187,22 @@
         {
           "label": "A",
           "text": "Beats",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Interference",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Super position principle",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Doppler effect",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -229,22 +229,22 @@
         {
           "label": "A",
           "text": "0.5 ms-1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "1 ms-1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "1.5 ms-1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "2 ms-1",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -274,22 +274,22 @@
         {
           "label": "A",
           "text": "Isochoric process",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Isoharic process",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Isothermal process",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Adiabatic process",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -318,22 +318,22 @@
         {
           "label": "A",
           "text": "Decrease",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Increase",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Becomes zero",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Remain constant",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -363,22 +363,22 @@
         {
           "label": "A",
           "text": "2v",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "1v",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "0.5v",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "3v",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -407,22 +407,22 @@
         {
           "label": "A",
           "text": "Increase",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Decrease",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Increase exponentially",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Remain same",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -451,22 +451,22 @@
         {
           "label": "A",
           "text": "Negatice",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Positive",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Zero",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Maximum",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -493,22 +493,22 @@
         {
           "label": "A",
           "text": "14o",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "20o",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "20o",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "40o",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -535,22 +535,22 @@
         {
           "label": "A",
           "text": "9.8 t2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "4.9 t2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "0.49 t2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "98 t2",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -579,22 +579,22 @@
         {
           "label": "A",
           "text": "Work",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Power",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Impulse",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Momentum Hint: impulse = J=Ft J= Newton second",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -621,22 +621,22 @@
         {
           "label": "A",
           "text": "2125 J",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "2500 J",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "50 J",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "1225 J",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -665,22 +665,22 @@
         {
           "label": "A",
           "text": "3.16 ms-1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "10 ms-1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "100 ms-1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "50 ms-1",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -709,22 +709,22 @@
         {
           "label": "A",
           "text": "½",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "¼",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "1/8",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "1/6",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -751,22 +751,22 @@
         {
           "label": "A",
           "text": "Frictional force",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Gravitational force",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Electric force",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Elastic spring force",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -795,22 +795,22 @@
         {
           "label": "A",
           "text": "24 hours",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "18 hours",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "6 hours",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "12 hours",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -837,22 +837,22 @@
         {
           "label": "A",
           "text": "57.1o",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "57.2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "57.3’’",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "57.4o",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -879,22 +879,22 @@
         {
           "label": "A",
           "text": "Increasing current",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Decreasing current",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Increasing resistance",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Increasing voltage",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -921,22 +921,22 @@
         {
           "label": "A",
           "text": "150 Hz",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "100 Hz",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "50 Hz",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "25 Hz",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -965,22 +965,22 @@
         {
           "label": "A",
           "text": "Positive inverse charge",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Power integrated voltage",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Peak inverse voltage",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Peak integrated voltage",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1007,22 +1007,22 @@
         {
           "label": "A",
           "text": "1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "3",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "4",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1049,22 +1049,22 @@
         {
           "label": "A",
           "text": "Visible light",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "X-rays",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Radio waves",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Infraref",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1094,22 +1094,22 @@
         {
           "label": "A",
           "text": "Blue",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Violet",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Red",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Green",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1138,22 +1138,22 @@
         {
           "label": "A",
           "text": "Balmer series",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Pascher series",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Lyman series",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Bracaket series",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1180,22 +1180,22 @@
         {
           "label": "A",
           "text": "Frequency",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Wave length",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Energy",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Origin",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1222,22 +1222,22 @@
         {
           "label": "A",
           "text": "400",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "200",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "50",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "25 Hint: first half life: 400200 Second half life 200100 Third half life 10050",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1267,22 +1267,22 @@
         {
           "label": "A",
           "text": "Carbon",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "235 uranium",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Thorium",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Iodine-131",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1439,22 +1439,22 @@
         {
           "label": "A",
           "text": "16R",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "4R",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "1/16R",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "1/4R",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1525,22 +1525,22 @@
         {
           "label": "A",
           "text": "Non linear",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Curve",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Linear",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Curvilinear",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1569,22 +1569,22 @@
         {
           "label": "A",
           "text": "Strong",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Weak",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Remains constant",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Infinite",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1614,22 +1614,22 @@
         {
           "label": "A",
           "text": "0o",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "90o",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "180o",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "45o",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1660,22 +1660,22 @@
         {
           "label": "A",
           "text": "Current",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Voltage",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Energy",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Power",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1702,22 +1702,22 @@
         {
           "label": "A",
           "text": "Maximum current",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Minimum current",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "No current",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Intermediate value of current",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1746,22 +1746,22 @@
         {
           "label": "A",
           "text": "SN1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "SN2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "E1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "E2",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1790,22 +1790,22 @@
         {
           "label": "A",
           "text": "",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "CH3 CI",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1832,22 +1832,22 @@
         {
           "label": "A",
           "text": "R-OH",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "ROR",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "R-X-OH",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "RH",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1876,22 +1876,22 @@
         {
           "label": "A",
           "text": "2-Methyl-3-Hexanone",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "2,6 – Himethyl cyclohexanone",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "3 – Methyl cyclohexanone",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "4 – Methyl – 3- hexanone",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1918,22 +1918,22 @@
         {
           "label": "A",
           "text": "Carpolic acid",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Carbonylic acid",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Carbolic acid",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Carbolylic acid",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -1960,22 +1960,22 @@
         {
           "label": "A",
           "text": "Delocalization of negative charge in the OH group",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Delocalization of positive charge on the carbon atom in ring",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Delicalization of negative charge in the ring",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Delocalization of positive charge on the OH group",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2004,22 +2004,22 @@
         {
           "label": "A",
           "text": "α – methyl – Y – chloropropinaldehyde",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "β – chloro – a – methyl propionaldehyde",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "β – chloro – a – methyl propionaldehyde",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "β – methyl – a – chloropropionaldehyde",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2046,22 +2046,22 @@
         {
           "label": "A",
           "text": "HCN",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "BrMgCH3",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "NaHSO3",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "H2O",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2088,22 +2088,22 @@
         {
           "label": "A",
           "text": "",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2132,22 +2132,22 @@
         {
           "label": "A",
           "text": "Propanic acid",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Flouroethanoic acid",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Trichloroethanoic acid",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Nitroethanoic acid",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2218,22 +2218,22 @@
         {
           "label": "A",
           "text": "Anhydride >acylchloride> ester",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Ester > anhydride >acylchloride",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Amide >acylchloride> ester",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Acychloride> anhydride > Ester",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2262,22 +2262,22 @@
         {
           "label": "A",
           "text": "Simple proteins",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Compound proteins",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Derived proteins",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "All of the above",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2306,22 +2306,22 @@
         {
           "label": "A",
           "text": "Hormonal protein",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Structural protein",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Transport protein",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Genetic protein",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2350,22 +2350,22 @@
         {
           "label": "A",
           "text": "Jaundice",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Blood cancer",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Rickets",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Heat disease",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2392,22 +2392,22 @@
         {
           "label": "A",
           "text": "Peroxide",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Superoxide",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Suboxide",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Normal oxide",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2434,22 +2434,22 @@
         {
           "label": "A",
           "text": "Mg2N2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Mg3N2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "MgN2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "MgN",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2476,22 +2476,22 @@
         {
           "label": "A",
           "text": "Weak intermolecular forces",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Large atomic volume",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Smaller size",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": ".ns1 configuration",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2520,22 +2520,22 @@
         {
           "label": "A",
           "text": "Cr3+",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Ti3+",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "V3+",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Zn+2",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2562,22 +2562,22 @@
         {
           "label": "A",
           "text": "[Ar] 3d4 4S2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "[Ar} 3d5 4S2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "[Ar] 3d5 4S1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "[Ar] 3d6 4S2",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2606,22 +2606,22 @@
         {
           "label": "A",
           "text": "Cu",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Sc",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Zn",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Cr",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2648,22 +2648,22 @@
         {
           "label": "A",
           "text": "CH =CH 2 2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "CH -o-CH 3 3",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "CH □ NH2 3",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "C H 6 6",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2690,22 +2690,22 @@
         {
           "label": "A",
           "text": "Functional group",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Position",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Chain",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Metamerism",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2732,22 +2732,22 @@
         {
           "label": "A",
           "text": "",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2774,22 +2774,22 @@
         {
           "label": "A",
           "text": "n 2n+2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "C H n 2n C H",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "n 2n+1 C H",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "n 2n-2",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2818,22 +2818,22 @@
         {
           "label": "A",
           "text": "HSO- 4",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "H SO 2 4",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "SO 3",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "HSO - 3",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2862,22 +2862,22 @@
         {
           "label": "A",
           "text": "2,3 – tetramethyl butane",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "2,2,3,3 – tetramethyl pentane",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "3,3,4,4 – tetramethyl butane",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "3,4 – bis (dimethyl butane)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2904,22 +2904,22 @@
         {
           "label": "A",
           "text": "Alkylation",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Acylation",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Halogenation",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Nitration",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2948,22 +2948,22 @@
         {
           "label": "A",
           "text": "Sp3",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Sp",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "SP2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Dsp",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -2992,22 +2992,22 @@
         {
           "label": "A",
           "text": "Good Electrophile",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Good nucleophile",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Resonance hybrid",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Extraordinary stable",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3036,22 +3036,22 @@
         {
           "label": "A",
           "text": "2NO + Cl2 = 2NOCi",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "2SO2 + O2 = 2SO3",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "2NOCi = 2No + Cl2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "N2 + 3H2 = 2NH3",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3080,22 +3080,22 @@
         {
           "label": "A",
           "text": "Contact process",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Haber’s process",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Solvay process",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Avagadro’s law",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3122,22 +3122,22 @@
         {
           "label": "A",
           "text": "Zero order reaction",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "First order reaction",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Second order reaction",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Third order reaction",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3166,22 +3166,22 @@
         {
           "label": "A",
           "text": "Thermodynamics",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Stoichiometry",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Electrochemistry",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Chemical kinetics",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3210,22 +3210,22 @@
         {
           "label": "A",
           "text": "Negative order reaction",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "First order reaction",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Zero order reaction",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Second order reaction",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3254,22 +3254,22 @@
         {
           "label": "A",
           "text": "1st order reaction",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "2nd order reaction",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Negative order of reaction",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Zero order of reaction",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3298,22 +3298,22 @@
         {
           "label": "A",
           "text": "Enthalpy",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Internal energy",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Heat capacity",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Work done",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3342,22 +3342,22 @@
         {
           "label": "A",
           "text": "Molecular solids",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Metallic solids",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Ionic solids",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Covalent solids",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3384,22 +3384,22 @@
         {
           "label": "A",
           "text": "4.18 KJ",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "4.18",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "0.418 KJ mol",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "0.418 KJ",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3426,22 +3426,22 @@
         {
           "label": "A",
           "text": "+4",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "+6",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "-2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "+2",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3470,22 +3470,22 @@
         {
           "label": "A",
           "text": "-1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "+1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "-2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "0",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3514,22 +3514,22 @@
         {
           "label": "A",
           "text": "Decreases",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Increases",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Remains constant",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Both A&B",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3558,22 +3558,22 @@
         {
           "label": "A",
           "text": "1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Br",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Cl",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "F",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3602,22 +3602,22 @@
         {
           "label": "A",
           "text": "Sp3 – hybrid orbital",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Sp2 – hybrid orbital",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Sp – hybrid orbital",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Dsp2 – hybrid orbital",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3644,22 +3644,22 @@
         {
           "label": "A",
           "text": "Na",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Mg",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Al",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "K",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3686,22 +3686,22 @@
         {
           "label": "A",
           "text": "Theoretical yield",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Actual yield",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "%yield",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Maximum yield",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3730,22 +3730,22 @@
         {
           "label": "A",
           "text": "H2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "N2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "O2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Both H2 & N2",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3774,22 +3774,22 @@
         {
           "label": "A",
           "text": "C H O 6 12 16",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "CHO",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "CH O 2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "CH O 2 2",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3816,22 +3816,22 @@
         {
           "label": "A",
           "text": "N = 1-1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "I = n-2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "I = n-1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "N = 1-2",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3860,22 +3860,22 @@
         {
           "label": "A",
           "text": "N=2, I=1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "N=1, I=2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "N=1, I=0",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "N=2, I=0",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3904,22 +3904,22 @@
         {
           "label": "A",
           "text": "Li, Fe",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Na & Cr",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "K &Mn",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "H & He",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3948,22 +3948,22 @@
         {
           "label": "A",
           "text": "Li+2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "H +1",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "He",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Be",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -3990,22 +3990,22 @@
         {
           "label": "A",
           "text": "Pressure",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Temperature",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Molar mass of the gas",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "All of the above",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4032,22 +4032,22 @@
         {
           "label": "A",
           "text": "2 atm",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "4 atm",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "6 atm",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "8 atm",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4074,22 +4074,22 @@
         {
           "label": "A",
           "text": "High electronegativity of S",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Greater size of SO 2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "SO is polar and CO is non-polar 2 2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "SO is more acidic than CO 2 2",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4118,22 +4118,22 @@
         {
           "label": "A",
           "text": "Diethyl ether",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Chloroform",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Carbon tetrachloride",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Water",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4160,22 +4160,22 @@
         {
           "label": "A",
           "text": "Bromine",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Sulphur",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Phosphorus",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Carbon dioxide",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4202,22 +4202,22 @@
         {
           "label": "A",
           "text": "Enegy of affinity",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Bond energy",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Crystal energy",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Potential energy",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4244,22 +4244,22 @@
         {
           "label": "A",
           "text": "The values of Kp and Kc are different",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "The values of Kp is greater than Kc",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "The values of Kc is greater than Kp",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "The values of Kp and KC are the same",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4288,22 +4288,22 @@
         {
           "label": "A",
           "text": "Lawa of mass action",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Hess’s law",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Common ion effect",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Henry’s law",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4330,22 +4330,22 @@
         {
           "label": "A",
           "text": "To",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "On",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Over",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "From",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4372,22 +4372,22 @@
         {
           "label": "A",
           "text": "Exantuated",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Axantuated",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Accenchuated",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Accentuated",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4414,22 +4414,22 @@
         {
           "label": "A",
           "text": "Cotioned",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Cautioned",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Causchuned",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Coschuned",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4456,22 +4456,22 @@
         {
           "label": "A",
           "text": "Eccentric",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Eccentric",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Akcantric",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Accentric",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4498,22 +4498,22 @@
         {
           "label": "A",
           "text": "Definite",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Definite",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Dafanite",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Definite",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4540,22 +4540,22 @@
         {
           "label": "A",
           "text": "Wants",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Is wanting",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Was wanting",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Want",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4582,22 +4582,22 @@
         {
           "label": "A",
           "text": "Has",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Have",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Had",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Are",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4624,22 +4624,22 @@
         {
           "label": "A",
           "text": "I hope this letter will find you in good of high spirits",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "I hope this letter finds you in best of your spirit",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "I hope letter finds you in the best of spirits",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "I hope the letter found you in greatest of spirite",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4666,17 +4666,17 @@
         {
           "label": "A",
           "text": "Gulliver travels was written to swift",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Gulliver’s travels was written by swift",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Gulliver’s travel was written by swift",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4703,22 +4703,22 @@
         {
           "label": "A",
           "text": "The",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "A",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "An",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "No article required",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4745,22 +4745,22 @@
         {
           "label": "A",
           "text": "I wish I have been a millionare",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "I wish I am beaing a millionaire",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "I wish I were a millionaire",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "I wish I was millionaire",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4787,22 +4787,22 @@
         {
           "label": "A",
           "text": "No start is brighter than the moon",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "No star is more bright than the moon",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "No start is brighter then the moon",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "No star is brighter than moon",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4829,22 +4829,22 @@
         {
           "label": "A",
           "text": "Had he lived in England he would miss his family",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Had he lived in England, he would have missed his family",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Had he lives in England he had missed his family",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Had he live in England he will missed his family",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4873,22 +4873,22 @@
         {
           "label": "A",
           "text": "Present tense",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Past simple",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Past perfect",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Present perfect",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4918,22 +4918,22 @@
         {
           "label": "A",
           "text": "Know",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Have known",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Knows",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Knew",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -4960,22 +4960,22 @@
         {
           "label": "A",
           "text": "His first inning’s consists of four 6 and three 4",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "His first innings consist of four 6’s and three 4’s",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "His first innings consist of four 6’s and three 4’s",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "His first inning’s consist of four 6’s and three 4’s",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5002,22 +5002,22 @@
         {
           "label": "A",
           "text": "What a fall was there, my countrymen! Long live the king!",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "What a fall was there! My countrymen. Long live the King!",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "What a fall was there, my countrymen, Long live the king.",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "What a fall was there, my countrymen, Long live the king.",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5046,22 +5046,22 @@
         {
           "label": "A",
           "text": "He and I was playing",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "He and I were playing",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "He and I were being playing",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "He and I was being playing",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5088,22 +5088,22 @@
         {
           "label": "A",
           "text": "Every one of the prisons are full",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Every one of the prisons had full",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Every one of the prisons have full",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Every one of the prisons is full",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5130,22 +5130,22 @@
         {
           "label": "A",
           "text": "Has called",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Have called",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Have been called",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Has been called",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5172,22 +5172,22 @@
         {
           "label": "A",
           "text": "Vasoconstriction",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Vasodilation",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Shivering",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Raising body hairs",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5216,22 +5216,22 @@
         {
           "label": "A",
           "text": "Glomerular capsule",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Proximal convoluted tubule",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Loop of henle",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Distal convoluted tubule",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5258,22 +5258,22 @@
         {
           "label": "A",
           "text": "Kidneys",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Brain",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Lungs",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Liver",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5302,22 +5302,22 @@
         {
           "label": "A",
           "text": "Detoxifies many chemical poisions",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Produces ammonia for excretion by the kidneys",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Produces uring and uric nitrogen of amino acids",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "All of the above",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5344,22 +5344,22 @@
         {
           "label": "A",
           "text": "Aldosterone",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Thyroxine",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "ADH",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Cortisone",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5386,22 +5386,22 @@
         {
           "label": "A",
           "text": "Smooth muscles",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Crdiac muscles",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Skeletal muscles",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Glandular muscles",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5428,22 +5428,22 @@
         {
           "label": "A",
           "text": "Glandular muscles",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Cardiac muscles",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Skeletal muscles",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Smooth muscles",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5470,22 +5470,22 @@
         {
           "label": "A",
           "text": "Sarcolemma",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Plasma membrane",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Sarcoplasm",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Myofibrils",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5515,22 +5515,22 @@
         {
           "label": "A",
           "text": "Epinephrine",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Serotonin",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Dopamine",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Endorphins",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5557,22 +5557,22 @@
         {
           "label": "A",
           "text": "Labor contractions",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Body temperature",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Insuliln production",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Thyroxin release",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5599,22 +5599,22 @@
         {
           "label": "A",
           "text": "A cell which contains a nucleus",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "A thick myelin heath",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Presence of node of Ranvier",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Presence of Schwann cells",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5641,22 +5641,22 @@
         {
           "label": "A",
           "text": "Axons",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Dendrited",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Myelin sheath",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Schwann cells",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5685,22 +5685,22 @@
         {
           "label": "A",
           "text": "Impulse",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Synapse",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Axon",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Cleft",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5727,22 +5727,22 @@
         {
           "label": "A",
           "text": "Ovulation",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Menstrual cycle",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Uterine cycle",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Embryo formation",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5769,22 +5769,22 @@
         {
           "label": "A",
           "text": "Tuberculosis",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "AIDs",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Dengue fever",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Cholera",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5811,22 +5811,22 @@
         {
           "label": "A",
           "text": "Follicle stimulating bormone and estrogen",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Luteinizing hormone and estrogen",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Follicle stimumating hormone and luteinizing hormone",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Estrogen and progesterone",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5853,22 +5853,22 @@
         {
           "label": "A",
           "text": "X-linked dominant trait",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Y-linked recessive trait",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Y-linked inheritance",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Pseudosutosomal trait Note: none of these is correct",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5895,22 +5895,22 @@
         {
           "label": "A",
           "text": "X linked recessive",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "X linked dominant",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Autosomal dominant",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Autosomal recessive",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5937,22 +5937,22 @@
         {
           "label": "A",
           "text": "Dominant",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Recessive",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Multiple",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Co-dominant",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -5981,22 +5981,22 @@
         {
           "label": "A",
           "text": "Heterozygous",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Genotype",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Homozygous",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Phenotype",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6026,22 +6026,22 @@
         {
           "label": "A",
           "text": "Plant cells",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Fungal cells",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Bacterial cells",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Liver cells",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6070,22 +6070,22 @@
         {
           "label": "A",
           "text": "Algae",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Protozoans",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Fungi",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Bacteria",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6114,22 +6114,22 @@
         {
           "label": "A",
           "text": "Hydrophobic",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Globular",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Hydrophilic",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Filamentous",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6159,22 +6159,22 @@
         {
           "label": "A",
           "text": "Cristae",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Cisternae",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Tonoplast",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Vacuolar membrane",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6204,22 +6204,22 @@
         {
           "label": "A",
           "text": "Metabolism of lipids",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Transmission of impulses",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Transport of materails",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Processing og glycoproteins",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6246,22 +6246,22 @@
         {
           "label": "A",
           "text": "Endoplasmic reticulum",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Golgi complex",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Lysosomes",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Peroxisomes",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6291,22 +6291,22 @@
         {
           "label": "A",
           "text": "Specific heat capacity",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Hydrogen bonding",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Cohesion and adhesion",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Hydrophobic exclusion",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6333,22 +6333,22 @@
         {
           "label": "A",
           "text": "Heat of vaporization",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Hydrogen bonding",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "High polarity",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Cohesion and adhesion",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6375,22 +6375,22 @@
         {
           "label": "A",
           "text": "High proportion of oxygen",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "High C-O ratio",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Low proportion of carbon",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "High proportion of C-H",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6417,22 +6417,22 @@
         {
           "label": "A",
           "text": "Oleic acid",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Palmitic acid",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Butyric acid",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Acetic acid",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6461,22 +6461,22 @@
         {
           "label": "A",
           "text": "C (H O)n n 2",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "C(H O) 2 n",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "C (H O) 2 2 n",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "C2(H O) 2 n",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6505,22 +6505,22 @@
         {
           "label": "A",
           "text": "Mononucleotide",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Dinucleotide",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Tri nucleotide",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Tetra cucleotide",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6547,22 +6547,22 @@
         {
           "label": "A",
           "text": "Enzymes are unbiased for the substrate",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Enzymes are restricted to one reaction type",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Enzymes are restricted to one reaction type",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "An enzyme can catalyze variety of reactions",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6589,22 +6589,22 @@
         {
           "label": "A",
           "text": "30oC",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "40oC (close to exact range i.e 36.1 to 37.8)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "50oC",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "20oC",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6633,22 +6633,22 @@
         {
           "label": "A",
           "text": "Kinetic energy",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Activation energy",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Heat energy",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Potential energy",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6675,22 +6675,22 @@
         {
           "label": "A",
           "text": "3-phosphoglycerate",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Glyceraldehyde 3-phosphatse",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "1,3 bisphosphoglyceratae",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Ribulose biphosphate",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6717,22 +6717,22 @@
         {
           "label": "A",
           "text": "Intermediate in photosynthesis",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Respirator fuel",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Intermediate in cellular respiration",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Component of DNA and RNA",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6759,22 +6759,22 @@
         {
           "label": "A",
           "text": "Alcohol dermentation",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Calvin cycle",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Aerobic respiration",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Lactic acid dermentation",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6803,22 +6803,22 @@
         {
           "label": "A",
           "text": "Plastoquinone",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Cytochrome-C",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Plastocyanin",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Ferrodoxin",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6847,22 +6847,22 @@
         {
           "label": "A",
           "text": "Primary electron acceptor (PEA) to plastoquinone",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Plastoquinone (Pq) to cytochromes",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Cytochromes to plastocyanin",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Plastocyanin (Pc) to photosystem 1 (PS-I)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6891,22 +6891,22 @@
         {
           "label": "A",
           "text": "The each pari of alleles assort independent of other pairs of alleles during gamete formation",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "That allele fo each pair of constrasting trait have unequal probability to assort with the alleles of other pairs",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "That that coexisting alleles for each trait segregate (separate) from each other at meiosis so that each gamete receives only one of the two alleles",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "That pertain to inheritance of single trait (monohybrid cross)",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6933,22 +6933,22 @@
         {
           "label": "A",
           "text": "The genetic complement ie the genes in an individual for a particulartrait",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Partner of gene pair",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "The form of appearance of a trait",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "The position of a gene on the chromosome",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -6975,22 +6975,22 @@
         {
           "label": "A",
           "text": "Differendt alleles of a gene are both expressesed in heterozygous condition",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "One alleles (R) is completely dominant over the other (r) and the presence of recessive allele is functionally hidden the heterozygote (Rr) has the same sound phenotype (RR) heterozygote",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "The phenotype of the heterozygote is intermediate between phenotypes of the homozygotes",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Gene mutation may produce many different alleles of a gene",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7017,22 +7017,22 @@
         {
           "label": "A",
           "text": "Double helical structure",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Ribose sugar",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Thymine",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Sugar- phosphate backbone",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7061,22 +7061,22 @@
         {
           "label": "A",
           "text": "Somatic cells",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Reproductive cells",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Muscle fibers",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "White blood cells",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7105,22 +7105,22 @@
         {
           "label": "A",
           "text": "DNA polymerases",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "RNA polymerase",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "DNA transcriptase",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "RNA trnscriptase",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7149,22 +7149,22 @@
         {
           "label": "A",
           "text": "Genotype",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Phenotype",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Karyotype",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Allele",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7193,22 +7193,22 @@
         {
           "label": "A",
           "text": "Linkage",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Synapsis",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Pairing",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Crossing over",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7237,22 +7237,22 @@
         {
           "label": "A",
           "text": "Prophase",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Interphase",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Anaphase",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Telophase",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7281,22 +7281,22 @@
         {
           "label": "A",
           "text": "It produces aminon acids",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "It produces messenger RNA",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "It results in increased DNA synthesis",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "It is a semi conservative process",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7323,22 +7323,22 @@
         {
           "label": "A",
           "text": "Darwin’s theory of evolution",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Lamarckism",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Neo-darwinsm",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Endosymbiont theory",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7368,22 +7368,22 @@
         {
           "label": "A",
           "text": "Analogous organs",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Homologous organs",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Convergent evolution",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Divergent evolution",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7410,22 +7410,22 @@
         {
           "label": "A",
           "text": "Fitness",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Evolution",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Crossing over",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Artificial selection",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7454,22 +7454,22 @@
         {
           "label": "A",
           "text": "Plasmid",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Combined DNA",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Vector",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Recombinant DNA",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7496,22 +7496,22 @@
         {
           "label": "A",
           "text": "Gel electrophoresis",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Polymerase chain reaction",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "DNA extraction",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Recombination",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7538,22 +7538,22 @@
         {
           "label": "A",
           "text": "DNA is broken up at specific sits",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "DNA fragments are joined together",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "DNA replication occurs",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "DNA transcription occurs",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7580,22 +7580,22 @@
         {
           "label": "A",
           "text": "Gene of interest",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Molecular scissors",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Molecular glue and expression system",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "All of the above",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7622,22 +7622,22 @@
         {
           "label": "A",
           "text": "Employed by forensic scientists to assist in the identification of the individuals by their respective type of DNA",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Collect all the genes found in one complete set of chromosomes",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Is a technique to separate different size fragment of charge bearing polymers (proteins, RNA or DNA)",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Grows single cells of a group of cells in a glass ware on artificial medium under aseptic conditions",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7664,22 +7664,22 @@
         {
           "label": "A",
           "text": "Havae a foreigh gene inserted into them",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Have an important role in the large scale production of medicinal products",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Are considered beneficial to humans",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "All of the above",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7706,22 +7706,22 @@
         {
           "label": "A",
           "text": "dATP",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "primers",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "DNA fragments",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Ribonucleotides",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7748,22 +7748,22 @@
         {
           "label": "A",
           "text": "Ethanol and carbon dioxide",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Lactate",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Pyruvate",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Acetyl CoA",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7793,22 +7793,22 @@
         {
           "label": "A",
           "text": "They survive for a short time",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Their envelop is sensitive to sunlight",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "They are tolerant to antidotes",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Envelop is derived from host",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7835,22 +7835,22 @@
         {
           "label": "A",
           "text": "Measles",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Influenza",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Hepatitits A",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "AIDS",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7877,22 +7877,22 @@
         {
           "label": "A",
           "text": "Venome",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Genome",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Virion",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Capsid",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7919,22 +7919,22 @@
         {
           "label": "A",
           "text": "It is retrovirus",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "It is surrounded by an envelop",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "It does not cause AIDS",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "It causes the deficiency of the human immune system",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -7961,22 +7961,22 @@
         {
           "label": "A",
           "text": "Steam",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Filtration",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Dry heat",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Radiation",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -8005,22 +8005,22 @@
         {
           "label": "A",
           "text": "It has a cell wall",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "It has cytoplasm",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "It has genetic material",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "All of the above",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -8047,22 +8047,22 @@
         {
           "label": "A",
           "text": "Making coral reefs",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Forming limestone deposits",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Making fertilizers",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Forming chalk deposits",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -8089,22 +8089,22 @@
         {
           "label": "A",
           "text": "They havae flagella",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "They are multicellular",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "They do not cause any disease in humans",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "They move by forming specialized cytoplasmic projections called pseudopodia",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -8131,22 +8131,22 @@
         {
           "label": "A",
           "text": "Tropism",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Orientation",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Taxis",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Non orientation",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -8173,22 +8173,22 @@
         {
           "label": "A",
           "text": "Stroma",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Granum",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Inner membrane",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Outer membrane",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -8215,22 +8215,22 @@
         {
           "label": "A",
           "text": "Snake",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Frog",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Parrot",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Crocodile",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -8257,22 +8257,22 @@
         {
           "label": "A",
           "text": "Plasmodesmata",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Cortex",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Endodermis",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Pith",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -8299,22 +8299,22 @@
         {
           "label": "A",
           "text": "Atria",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Pulmonary valvea",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Ventricles",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Aortic valve",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -8341,22 +8341,22 @@
         {
           "label": "A",
           "text": "Femoral",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Pulmonary",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Renal",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Iliac",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -8383,22 +8383,22 @@
         {
           "label": "A",
           "text": "Monocytes",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Neutrophils",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Lymphocytes",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Thrombocytes",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -8427,22 +8427,22 @@
         {
           "label": "A",
           "text": "Aorta",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Pulmonary arteries",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Pulmonary veins",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Vena cava",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -8469,22 +8469,22 @@
         {
           "label": "A",
           "text": "Self against antigens",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Antigens against self",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Self against self",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "Antigens self-dstroyed",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -8511,22 +8511,22 @@
         {
           "label": "A",
           "text": "The superior Vena Cava",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "The inferior Vena Cava",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "The coronary sinus",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "The four pulmonary veins",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
@@ -8553,22 +8553,22 @@
         {
           "label": "A",
           "text": "T lymphocytes",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "B",
           "text": "Red blood cells",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "C",
           "text": "Platelets",
-          "is_correct": false
+          "is_correct": null
         },
         {
           "label": "D",
           "text": "B lymphocytes",
-          "is_correct": false
+          "is_correct": null
         }
       ],
       "correct_answer": null,
