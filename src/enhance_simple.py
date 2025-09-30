@@ -100,16 +100,13 @@ class SimpleEnhancer:
         
         return best_topic, all_tags[:5]  # Max 5 tags
     
-    def calculate_difficulty_score(self, question_text: str, options: List[dict],
-                                   has_formulas: bool, has_calculations: bool) -> float:
+    def calculate_difficulty_score(self, question_text: str, options: List[dict]) -> float:
         """
         Calculate difficulty score (1-10)
         
         Args:
             question_text: Question text
             options: List of options
-            has_formulas: Whether question has formulas
-            has_calculations: Whether question has calculations
             
         Returns:
             Difficulty score (1-10)
@@ -124,6 +121,11 @@ class SimpleEnhancer:
             score += 1.5
         elif q_len < 50:
             score -= 0.5
+        
+        # Detect formulas and calculations
+        import re
+        has_formulas = bool(re.search(r'[=+\-*/^√∫∑∆πλθαβγ]|\\frac|\\sqrt', question_text))
+        has_calculations = bool(re.search(r'\d+\s*[+\-×÷*/]\s*\d+|=\s*\d+', question_text))
         
         # Formula & calculations
         if has_formulas:
@@ -188,9 +190,7 @@ class SimpleEnhancer:
         # 2. Calculate real difficulty
         score = self.calculate_difficulty_score(
             question['question_text'],
-            question.get('options', []),
-            question.get('has_formulas', False),
-            question.get('has_calculations', False)
+            question.get('options', [])
         )
         question['difficulty'] = self.get_difficulty_level(score)
         question['difficulty_score'] = score

@@ -29,13 +29,7 @@ class Question:
     topic: Optional[str] = None
     difficulty: str = "medium"
     
-    # Features
-    has_formulas: bool = False
-    has_calculations: bool = False
-    has_multiline: bool = False
-    
     # Source info
-    source_file: str = ""
     exam_type: str = ""
     year: Optional[int] = None
     
@@ -391,11 +385,6 @@ class QuestionParser:
         # Classify subject
         subject = self.classify_subject(question_text, options)
         
-        # Detect features
-        has_formulas = bool(self.formula_indicators.search(question_text))
-        has_calculations = bool(self.calculation_indicators.search(question_text))
-        has_multiline = '\n' in question_text or any('\n' in opt['text'] for opt in options)
-        
         # Generate embedding text
         embedding_text = self.generate_embedding_text(
             question_text, options, subject, correct_answer
@@ -414,10 +403,6 @@ class QuestionParser:
             correct_answer=correct_answer,
             solution=solution,
             subject=subject,
-            has_formulas=has_formulas,
-            has_calculations=has_calculations,
-            has_multiline=has_multiline,
-            source_file=source_file,
             exam_type=exam_type,
             year=year,
             embedding_text=embedding_text,
@@ -539,7 +524,6 @@ class QuestionParser:
             'by_exam_type': {},
             'with_answers': 0,
             'with_solutions': 0,
-            'with_formulas': 0,
             'avg_options': 0
         }
         
@@ -558,8 +542,6 @@ class QuestionParser:
                 summary['with_answers'] += 1
             if q.solution:
                 summary['with_solutions'] += 1
-            if q.has_formulas:
-                summary['with_formulas'] += 1
             
             total_options += len(q.options)
         

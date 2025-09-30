@@ -75,7 +75,7 @@ def parse_questions():
     output_dir = Path("Processed Data")
     
     if not cleaned_dir.exists():
-        print(f"❌ Cleaned text directory not found: {cleaned_dir}")
+        print(f"[ERROR] Cleaned text directory not found: {cleaned_dir}")
         print("   Run 'python main.py clean' first")
         return False
     
@@ -83,7 +83,7 @@ def parse_questions():
     text_files = list(cleaned_dir.rglob("*.txt"))
     
     if not text_files:
-        print(f"❌ No text files found in {cleaned_dir}")
+        print(f"[ERROR] No text files found in {cleaned_dir}")
         return False
     
     print(f"Found {len(text_files)} text files to parse\n")
@@ -108,7 +108,7 @@ def parse_questions():
                 output_path = output_dir / relative_path.parent / f"{text_file.stem}.json"
                 
                 if parser.save_to_json(questions, output_path):
-                    print(f"✅ Extracted {len(questions)} questions")
+                    print(f"[SUCCESS] Extracted {len(questions)} questions")
                     print(f"   Saved to: {output_path}")
                     
                     summary = parser.generate_summary(questions)
@@ -119,13 +119,13 @@ def parse_questions():
                     total_questions += len(questions)
                     successful += 1
                 else:
-                    print(f"❌ Failed to save JSON")
+                    print(f"[FAILED] Failed to save JSON")
                     failed += 1
             else:
-                print(f"⚠️  No questions found")
+                print(f"[WARNING] No questions found")
                 failed += 1
         except Exception as e:
-            print(f"❌ Error: {e}")
+            print(f"[ERROR] Error: {e}")
             failed += 1
         
         print()
@@ -137,7 +137,7 @@ def parse_questions():
     print(f"Successful: {successful}")
     print(f"Failed: {failed}")
     print(f"Total questions extracted: {total_questions}")
-    print(f"\n✅ JSON files saved to: {output_dir}")
+    print(f"\n[SUCCESS] JSON files saved to: {output_dir}")
     
     return successful > 0
 
@@ -170,16 +170,16 @@ def run_pipeline():
     ]
     
     for step_name, step_func in steps:
-        print(f"\n▶ Starting: {step_name}")
+        print(f"\n[STARTING] {step_name}")
         success = step_func()
         
         if not success:
-            print(f"❌ Pipeline stopped at: {step_name}")
+            print(f"[FAILED] Pipeline stopped at: {step_name}")
             return False
         
-        print(f"✅ Completed: {step_name}")
+        print(f"[SUCCESS] Completed: {step_name}")
     
-    print("\n🎉 Pipeline completed successfully!")
+    print("\n[SUCCESS] Pipeline completed successfully!")
     return True
 
 
@@ -207,10 +207,10 @@ Examples:
   python main.py extract --verbose
 
 Current Status:
-  ✅ Step 1: PDF Extraction - READY
-  ✅ Step 2: Text Cleaning - READY
-  ✅ Step 3: Question Parsing - READY
-  ✅ Step 4: Metadata Enhancement - READY
+  [READY] Step 1: PDF Extraction
+  [READY] Step 2: Text Cleaning
+  [READY] Step 3: Question Parsing
+  [READY] Step 4: Metadata Enhancement
 """)
 
 
@@ -243,7 +243,7 @@ def main():
     elif command == "help" or command == "-h" or command == "--help":
         print_help()
     else:
-        print(f"❌ Unknown command: {command}")
+        print(f"[ERROR] Unknown command: {command}")
         print("Run 'python main.py help' for usage information")
 
 

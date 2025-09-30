@@ -371,7 +371,7 @@ class TextCleaner:
                         'stats': clean_stats
                     })
                     
-                    logger.info(f"✓ Removed {clean_stats['chars_removed']:,} chars "
+                    logger.info(f"[+] Removed {clean_stats['chars_removed']:,} chars "
                               f"({clean_stats['removal_percentage']:.1f}%) and "
                               f"{clean_stats['lines_removed']} lines")
                 else:
@@ -402,7 +402,7 @@ class TextCleaner:
         print(f"Failed: {stats['failed']}")
         
         if stats['successful'] > 0:
-            print(f"\n✅ Cleaned text saved to: {self.output_dir}")
+            print(f"\n[SUCCESS] Cleaned text saved to: {self.output_dir}")
             print(f"\nTotal removed:")
             print(f"  • {stats['total_chars_removed']:,} characters")
             print(f"  • {stats['total_lines_removed']:,} lines")
@@ -412,18 +412,18 @@ class TextCleaner:
                 if file_info['status'] == 'success':
                     file_name = Path(file_info['file']).name
                     file_stats = file_info['stats']
-                    print(f"  ✓ {file_name}")
+                    print(f"  [+] {file_name}")
                     print(f"    - {file_stats['chars_removed']:,} chars removed "
                           f"({file_stats['removal_percentage']:.1f}%)")
                     print(f"    - {file_stats['lines_removed']} lines removed")
         
         if stats['failed'] > 0:
-            print("\n❌ Failed files:")
+            print("\n[FAILED] Failed files:")
             for file_info in stats['files']:
                 if file_info['status'] != 'success':
                     file_name = Path(file_info['file']).name
                     status = file_info.get('error', file_info['status'])
-                    print(f"  ✗ {file_name}: {status}")
+                    print(f"  [-] {file_name}: {status}")
 
 
 def main():

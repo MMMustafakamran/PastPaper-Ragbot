@@ -31,7 +31,7 @@ class PDFExtractor:
     def find_pdfs(self) -> List[Path]:
         """
         Find all PDF files in input directory recursively
-        
+            
         Returns:
             List of PDF file paths
         """
@@ -131,7 +131,7 @@ class PDFExtractor:
     def extract_all(self) -> dict:
         """
         Extract text from all PDFs in input directory
-        
+            
         Returns:
             Dictionary with extraction statistics
         """
@@ -199,21 +199,21 @@ class PDFExtractor:
         print(f"Failed: {stats['failed']}")
         
         if stats['successful'] > 0:
-            print(f"\n✅ Extracted text saved to: {self.output_dir}")
+            print(f"\n[SUCCESS] Extracted text saved to: {self.output_dir}")
             print("\nSuccessfully processed files:")
             for file_info in stats['files']:
                 if file_info['status'] == 'success':
                     pdf_name = Path(file_info['pdf']).name
                     chars = file_info['chars']
-                    print(f"  ✓ {pdf_name} ({chars:,} characters)")
+                    print(f"  [+] {pdf_name} ({chars:,} characters)")
         
         if stats['failed'] > 0:
-            print("\n❌ Failed files:")
+            print("\n[FAILED] Failed files:")
             for file_info in stats['files']:
                 if file_info['status'] != 'success':
                     pdf_name = Path(file_info['pdf']).name
                     status = file_info['status']
-                    print(f"  ✗ {pdf_name} ({status})")
+                    print(f"  [-] {pdf_name} ({status})")
 
 
 def main():
