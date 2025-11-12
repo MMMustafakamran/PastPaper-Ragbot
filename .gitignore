@@ -41,8 +41,10 @@ embeddings/
 config.ini
 secrets.json
 .env.local
+halogen-pride-464806-v9-03b3379c294e.json
 
 # Temporary files
 temp/
 tmp/
 *.tmp
+

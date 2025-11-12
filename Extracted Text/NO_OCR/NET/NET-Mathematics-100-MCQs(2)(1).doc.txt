@@ -1,0 +1,538 @@
+NET Mathematics MCQs
+1) If a die is rolled twice then what is the probability that the sum of the number of
+dots shown is 8?
+A. 5/36 (Correct)
+B. 4/36
+C. 1/12
+D. 1/2
+2) What is the sine inverse of sin(pi/2)?
+A. 1
+B. pi/2 radians
+C. 90 degrees
+D. Both B and C (Correct)
+3) What is the derivative of the inverse cosecant function?
+A. (-1)/[|x|*sqrt(x^2-1)] (Correct)
+B. (-1)/[|x|*sqrt(x^2+1)]
+C. 1/[|x|*sqrt(x^2-1)]
+D. 1/sqrt(x^2-1)
+4) What is the domain of the inverse cosecant function?
+A. [-1,1]
+B. R
+C. R-(-1,1) (Correct)
+D. (-1,1)
+5) Evaluate: [sin^-1][3/4]+[sin^-1][sqrt(7)/4]
+A. [cos^-1](0)
+B. [sin^-1](1)
+C. [tan^-1](infinity)
+D. All of these (Correct)
+6) How many hours are there in 360 degrees?
+A. 21600
+B. 360 (Correct)
+C. 60
+D. 3.14
+7) How many terms are there in the expansion of (1+x)^n; considering that ‘n’ is
+positive?
+A. n+1 (Correct)
+B. n
+
+C. Infinite
+D. n-1
+8) What is the derivative of 2t^3 with respect to 3t^2?
+A. 2t^3
+B. t (Correct)
+C. t^2
+D. 1/t
+9) 1, 1/3, 1/5, 1/7... is a/an ________ sequence.
+A. Fibonnaci
+B. Harmonic (Correct)
+C. Geometric
+D. Arithmetic
+10) What is the difference between the arithmetic mean and the geometric mean
+of 5 and 7?
+A. 0.8
+B. 0.08 (Correct)
+C. 0.008
+D. 0.0008
+11) What is the real component of the complex number (4-i)^2?
+A. -8
+B. 17
+C. 15 (Correct)
+D. Missing information
+12) Which one of the following properties of sets is said to be the commutative
+property?
+A. AUB=BUA (Correct)
+B. A=B
+C. AU(BUC)=(AUB)UC
+D. A’=U-A
+13) If x^4-3x^2+4=0 then its roots are:
+A. 2, -2, i and –i (Correct)
+B. 1, -1, i and -i
+C. iota only
+D. Impossible to determine
+14) What are the cube roots of unity?
+A. 1, -1, i and -i
+B. 1, -1 and i
+
+C. There doesn’t exist such entities in mathematics
+D. 1, [-1+sqrt(3)*i]/2 and [-1-sqrt(3)*i]/2 (Correct)
+15) If 4x/(x-1)(x+1)=A/(x-1)+B/(x+1) then the values of ‘A’ and ‘B’ are:
+A. 2 and 2 (Correct)
+B. 2 and -2
+C. 1 and -1
+D. Impossible to determine
+16) What is the nth term of the sequence: 1, 3, 5, 7…?
+A. 2n-1 (Correct)
+B. 2n+3
+C. 2n
+D. It is impossible to find the nth term for such a sequence
+17) What are the two numbers whose sum is 20 but their product is minimum?
+A. 10, 10
+B. 15, 5
+C. 0, 20 (Correct)
+D. 1, 19
+18) The set of points P(x,y) in which x and y both are less than zero, lie in which
+quadrant?
+A. I
+B. II
+C. III (Correct)
+D. IV
+19) What is the same as sin(-a)?
+A. –sin(a)
+B. sin(a)
+C. –tan(a)/sec(a)
+D. Both A and C (Correct)
+20) What is the domain of the function f(x)=1/sqrt(x^2+3x+2)?
+A. (-1,+infinity)U(-2, +infinity) (Correct)
+B. (-1,-2)
+C. Set of real numbers
+D. (-infinity, +infinity)
+21) If f(x)=x^3, then what is its inverse?
+A. x^(1/3)
+B. 3^x
+C. [x^(2/3)]^0.5
+D. Both A and C (Correct)
+
+22) If in a triangle, a=200, b=120 and γ=150 degrees, then what is the area of the
+triangle?
+A. 10932
+B. Impossible to determine
+C. 7050
+D. 6000 (Correct)
+23) Use analytical geometry to determine to classify the quadrilateral ABCD with
+vertices A(-1,0), B(3,3), C(6,-1), and D(2,-4).
+A. Parallelogram
+B. Square (Correct)
+C. Rhombus
+D. Trapezium
+24) Tell the relationship between x and y.
+x 0 1 2 3 4 5 6 7 8
+y Undefined 0 0.693 1.099 1.386 1.609 1.792 1.946 2.079
+A. y=ln x (Correct)
+B. y=log x
+C. y=1/x
+D. y=e^x
+25) The feasible solution which maximizes or minimizes the objective function is
+called:
+A. Optimal solution (Correct)
+B. Feasible solution
+C. Linear solution
+D. Quintic solution
+26) Evaluate: (sin(θ)-1)^2+(sin(θ)+1)^2
+A. 2[1+[sin^2](θ)] (Correct)
+B. 1+[sin^2](θ)
+C. 1
+D. 2+(sin^2)(θ)
+27) If one of the lengths of the sides of an equilateral triangle is 10, then what is
+the area of the triangle?
+A. 25*sqrt(3)
+B. 43.30
+C. Both A and B (Correct)
+D. Missing information
+28) Iota expressed in the form of coordinates is:
+A. (0,1) (Correct)
+
+B. (1,0)
+C. (0,0)
+D. It is impossible to express a complex number in the form of coordinates
+29) What is the sum of angles in a quadrilateral?
+A. 120
+B. 180
+C. 270
+D. 360 (Correct)
+30) What is the power of fourth power of ‘x’ in the sixth power of (2-x)?
+A. 24 (Correct)
+B. 10
+C. 6/4
+D. 2
+31) What is the sum of the first 50 real numbers?
+A. 500
+B. 1275 (Correct)
+C. 1200
+D. 8900
+32) Orders of some matrices are given in the following. Which one of them
+cannot be multiplied?
+A. mxn, nxp where m, n and p are all positive integers
+B. axb, bxc where a, b and c are all positive integers
+C. 1x2, 2x6
+D. 3x5, 4x1 (Correct)
+33) sin (pi/3) is equal to?
+A. 0.866 (Correct)
+B. 0.500
+C. 0.707
+D. 0.966
+34) What is the formula for tan θ?
+A. sin θ/cos θ
+B. 1/cot θ
+C. tan(180+ θ)
+D. All of these (Correct)
+35) What is the formula for cos 2θ?
+A. [1-[tan^2](θ)]/[1+[tan^2](θ)]
+B. 1-2sin^2(θ)
+C. Both A and B (Correct)
+
+D. None of these
+36) Evaluate: cos θ+tan θ*sin θ
+A. sec θ
+B. 1/cos θ
+C. sqrt[1-sin^2(θ)]
+D. All of these (Correct)
+37) Solve: (22/7)*sqrt(3)
+A. 5.44 (Correct)
+B. 5.20
+C. 5.85
+D. 5.69
+38) What is the cosine inverse of cos(0.5)?
+A. 1/6
+B. 1/2 (Correct)
+C. 1/3
+D. 1/4
+39) Probability of any event cannot have the value of:
+A. 1/5
+B. 1/8
+C. 1/2
+D. 3/2 (Correct)
+40) If A={1,2,3}, B={0,4,5} and U={0,3,6}, then find n(AUB).
+A. 64 (Correct)
+B. 8
+C. 16
+D. 32
+41) When both nappes of a double-napped cone are intersected by a plane (not
+passing through the vertex), the cross section produces a/an:
+A. Hyperbola (Correct)
+B. Circle
+C. Ellipse
+D. Parabola
+42) Find the value of cos[(tan^-1)(-1)].
+A. 0.766
+B. 0.707 (Correct)
+C. 0.500
+D. 0.087
+
+43) Evaluate: tan (θ/2)
+A. sqrt[(1-cos θ)/(1+cos θ)]
+B. 1/cot (θ/2)
+C. tan(180+θ/2)
+D. All of these (Correct)
+44) Evaluate: [tan^-1][1/sqrt(3)]
+A. pi/6 radians
+B. pi/3 radians
+C. 13pi/6 radians
+D. Both A and C (Correct)
+45) Find the distance AB between the two points: A(3,1) and B(-2,-4).
+A. sqrt(50) (Correct)
+B. sqrt(26)
+C. sqrt(34)
+D. sqrt(10)
+46) What are three AMs between -18 and 4?
+A. 12.5, 7 and 1.5
+B. AM can’t be found between a negative and a positive number
+C. -12.5, -7 and -1.5 (Correct)
+D. 1, 2 and 3
+47) Find the sum: 1+3+5…+(2n+1)
+A. n^2 (Correct)
+B. ln e^2
+C. 2^n
+D. n^e
+48) What is the domain of tan x?
+A. R – (2n+1)(pi/2) where ‘n’ cannot be zero
+B. R – (2n+1)(pi/2) where ‘n’ can be zero (Correct)
+C. R – n(pi) where ‘n’ cannot be zero
+D. R
+49) Which one of the following pairs has the same period?
+A. Tangent function and cotangent function (Correct)
+B. Sine function and tangent function
+C. Cosine function and cotangent function
+D. Cosecant function and tangent function
+50) 30 degrees, 45 minutes and 47 seconds are equal to _____ degrees:
+A. 30.56
+B. 30.66
+
+C. 30.67
+D. 30.86 (Correct)
+51) Tickets numbered 1 to 20 are mixed up and then a ticket is drawn at random.
+What is the probability that the ticket drawn has a number which is a multiple of 3
+or 5?
+A. 1/2
+B. 2/5
+C. 8/15
+D. 9/20 (Correct)
+52) If α and β are the roots of the equation x^2-x+1=0, then find 2α and 2β.
+A. 1+sqrt(3)*i, 1-sqrt(3)*i (Correct)
+B. only i
+C. Impossible to determine
+D. i and -i
+53) If A={a,b,c} then the number of possible subsets is:
+A. 3
+B. 8 (Correct)
+C. 6
+D. None of these
+54) How many 6-digit numbers can be formed without repeating any digit from
+the digits 0, 1, 2, 3, 4 and 5?
+A. 120
+B. 720 (Correct)
+C. 96
+D. 4920
+55) If a parabola has an equation of y^2=4x, then find its focus.
+A. (1,0) (Correct)
+B. (0,1)
+C. (4,0)
+D. (0,4)
+56) Any line parallel to x-axis has a slope of:
+A. 0 (Correct)
+B. infinity
+C. 1
+D. -1
+57) The product of all the three cube roots of unity is:
+A. 1 (Correct)
+B. -1
+
+C. -1+sqrt(3)*i
+D. 0
+58) 2/3 is a/an ________ number.
+A. Irrational
+B. Rational
+C. Positive
+D. Both B and C (Correct)
+59) How many radians are there in a degree?
+A. 0.07145 (Correct)
+B. 0.06250
+C. 0.06145
+D. 0.07135
+60) Which one of the following things a hyperbola has?
+A. One focus and two directrices
+B. Two foci and two directrices (Correct)
+C. Two foci and one directrix
+D. None of these
+61) A line segment that touches two points on the outside of the circle but doesn't
+pass through the center is called:
+A. Chord (Correct)
+B. Diameter
+C. Radius
+D. None of these
+62) In a right-angled triangle, if a median drawn from the right angle to the
+hypotenuse has a length of 6 meters, then what is the length of the hypotenuse?
+A. 12 meters (Correct)
+B. 6 meters
+C. 3 meters
+D. 36 meters
+63) If we have a function f(x,y)=c, then we differentiate it using the method of:
+A. Chain Rule
+B. Implicit differentiation (Correct)
+C. Product Rule
+D. Newton’s method
+64) The sum of coefficients in the expansion of (x+y)^5 is:
+A. 128
+B. 64
+C. 32 (Correct)
+
+D. 16
+65) If the sum of two consecutive integers is ‘x’, then what is the product of
+them?
+A. (x^2-1)/4 (Correct)
+B. (x^2-1)/2
+C. x^2-1
+D. None of these
+66) What fraction is the result of the sum of the series: 0.2+0.02+0.002…
+A. 1/3
+B. 1/6
+C. 2/9 (Correct)
+D. 1/7
+67) Differentiate ‘sin 2x’ with respect to x.
+A. 2cos 2x
+B. 2sin 2x
+C. 2[1-2[sin^2](x)]
+D. Both A and C (Correct)
+68) Men and women are in a ratio of P:Q. What is the percentage of men?
+A. P/P+Q (Correct)
+B. Q/P+Q
+C. 100/P+Q
+D. 50/50
+69) Which of the following is the biggest number?
+A. 1
+B. 2*sqrt(2)
+C. 3*sqrt(3)
+D. 4*sqrt(4) (Correct)
+70) What is the geometric mean of 32 and 64?
+A. 32*sqrt(2)
+B. sqrt(32*64)
+C. Geometric mean of positive numbers isn’t possible to determine
+D. Both A and B (Correct)
+71) Differentiate ln (e) with respect to ‘x’.
+A. 1/e
+B. 0 (Correct)
+C. 1/x
+D. e
+
+72) Evaluate: cos x * sin x * tan x * cot x * csc x
+A. cos x
+B. 1/sec x
+C. Both A and B (Correct)
+D. sin x
+73) Evaluate: w^-23+w^-28
+A. -1 (Correct)
+B. 1
+C. w
+D. w^2
+74) The derivate of f(x) with respect to ‘x’ is defined as:
+A. The rate of change in f(x) with respect to ‘x’ (Correct)
+B. The increase in the relevance rate of f(x) with respect to ‘x’
+C. The decrease in the relevance rate of f(x) with respect to ‘x’
+D. None of these
+75) Which one of the following is the additive inverse for 2+sqrt(3)?
+A. sqrt(3)
+B. -2+sqrt(3)
+C. -2-sqrt(3) (Correct)
+D. 2+sqrt(3)
+76) What are the angles of an equilateral triangle?
+A. 45 degrees, 45 degrees and 90 degrees
+B. 45 degrees, 90 degrees and 45 degrees
+C. 120 degrees, 30 degrees and 30 degrees
+D. 60 degrees, 60 degrees and 60 degrees (Correct)
+77) If a square has a side of 2 units, then what is the length of its diagonal?
+A. 2*sqrt(2) (Correct)
+B. 8
+C. 4
+D. 16
+78) In an ellipse, what is the name for the line through the focus and
+perpendicular to the major axis ending at the ellipse?
+A. Focal chord
+B. Minor axis
+C. Latus rectum (Correct)
+D. Vertical asymptote
+79) The length of all the sides of a square and an equilateral triangle is 5 units.
+What is the ratio of the area of the square to the area of the triangle?
+A. 8/sqrt(3)
+
+B. [8*sqrt(3)]/5
+C. 4/sqrt(3) (Correct)
+D. sqrt(3)/8
+80) Two figures having the same shape but different sizes are called:
+A. Congruent figures
+B. Similar figures (Correct)
+C. Equal figures
+D. All of these
+81) Evaluate: cos(-θ)*cos(-θ)*[-cos(θ)]*cos(θ)*[-cos(-θ)]
+A. [cos^5](θ) (Correct)
+B. -[cos^5](θ)
+C. [cos^3](θ)
+D. cos (θ)
+82) Evaluate: [sin^-1][3/5]
+A. [cos^-1][4/5]
+B. [sec^-1][5/4]
+C. [csc^-1][5/3]
+D. All of these (Correct)
+83) What is the period of sin 3x?
+A. (2*pi)/3 (Correct)
+B. 2*pi
+C. 3*pi
+D. (3*pi)/2
+84) What is the formula of cos 3α?
+A. cos 2α*cos α
+B. 4[cos^3](α)-3cos α (Correct)
+C. (1+cos α)/sin α
+D. Both A and C
+85) Differentiate 3^2x with respect to ‘x’.
+A. 2*ln 2*(3^2x) (Correct)
+B. ln 2*(3^2x)
+C. 3^2x
+D. 2x/3
+86) Find the integral with respect to x: e^x/(e^x+1)
+A. ln |e^x+1|+c (Correct)
+B. ln |e^x|+c
+C. Impossible to determine
+D. e^x+c
+
+87) If two coordinates of a rectangle are present in the first quadrant, then which
+one of the following coordinates is NOT to be of that rectangle?
+A. (2, 8)
+B. (2, -8)
+C. (8, -2)
+D. (-2, -8) (Correct)
+88) Calculate the exact value of the decimal 0.4545…
+A. 5/11 (Correct)
+B. 50/11
+C. 500/11
+D. 5000/11
+89) What is the cosine inverse of cos(-1/2)?
+A. -1/2 (Correct)
+B. 1/2
+C. 1/4
+D. (2*pi)/3 radians
+90) An equation of a parabola is (x-2)^2=4(y+2), then its vertex is:
+A. (2, -2) (Correct)
+B. (-2, 2)
+C. (0, 0)
+D. Missing information
+91) If ‘x’ is real, then which one of the following is an odd function?
+A. –sin (x) (Correct)
+B. –cos (x)
+C. |x|
+D. (e^x-1)/(e^x-1)
+92) If cos θ = 1, then what is the possible value of θ?
+A. 0 degrees
+B. 360 degrees
+C. 720 degrees
+D. All of these are possible (Correct)
+93) If an equation of hyperbola is: x^2/4-y^2/9=1, then find its eccentricity.
+A. sqrt(13)/4 (Correct)
+B. 9/4
+C. sqrt(5)/4
+D. sqrt(9)*sqrt(5)
+94) Every homogenous second degree equation ax^2+2hxy+by^2 represents a
+pair of lines through the origin. When are these lines coincident?
+
+A. (a*b) < h^2
+B. h^2 = 0
+C. h^2 < (a*b)
+D. h^2 = a*b (Correct)
+95) Which one of the following is the real part of the complex number: 6(2-3i)?
+A. 2
+B. 12 (Correct)
+C. -3
+D. 6
+96) Simplify: (1+tan x)/(1-tan x)
+A. tan(45+x) (Correct)
+B. Can’t be further simplified
+C. tan(45-x)
+D. tan(x+1)
+97) If in a triangle, α=49 degrees, b=5 inches and c=7 inches, then what is the
+length of ‘a’?
+A. 5.29 (Correct)
+B. 7.31
+C. 12.07
+D. 9.65
+98) The equation which doesn’t change by replacing ‘x’ with ‘1/x’ is called:
+A. Linear
+B. Quadratic
+C. Proportional
+D. None of these (Correct)
+99) Differentiate tan[sqrt(x)] with respect to ‘x’.
+A. [sec^2][x]/[2sqrt(x)]
+B. [sec^2][sqrt(x)]/[2sqrt(x)]
+C. [sec^2][sqrt(x)]/[2sqrt(x)] (Correct)
+D. None of these
+100) Which one of the following is the same as sin (75)?
+A. [sqrt(3)+1]/sqrt(8) (Correct)
+B. It is impossible to determine
+C. [sqrt(3)-1]/sqrt(8)
+D. [sqrt(3)+1]/8

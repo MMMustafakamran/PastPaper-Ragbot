@@ -4,7 +4,7 @@ PyPDF2==3.0.1  # PDF text extraction and table parsing library
 
 # OCR Processing
 google-cloud-vision==3.4.5  # Google Cloud Vision API for OCR
-pdf2image==1.17.0  # Convert PDF pages to images for OCR
+PyMuPDF==1.24.0  # Convert PDF pages to images for OCR (no external dependencies)
 Pillow==11.3.0  # Image processing library
 
 # Data Processing

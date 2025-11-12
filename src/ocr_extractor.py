@@ -6,17 +6,22 @@ Extracts text from scanned/image-based PDFs
 import logging
 import os
 from pathlib import Path
-from typing import List, Tuple, Optional
+from typing import List, Tuple, Optional, TYPE_CHECKING
 import json
+
+if TYPE_CHECKING:
+    from PIL import Image
 
 try:
     from google.cloud import vision
-    from pdf2image import convert_from_path
+    import fitz  # PyMuPDF
     from PIL import Image
     import io
 except ImportError as e:
     logging.warning(f"OCR dependencies not installed: {e}")
     vision = None
+    Image = None
+    fitz = None
 
 logger = logging.getLogger(__name__)
 
@@ -59,9 +64,9 @@ class GoogleVisionOCR:
             logger.error(f"Failed to initialize Google Cloud Vision client: {e}")
             raise
     
-    def _convert_pdf_to_images(self, pdf_path: Path) -> List[Image.Image]:
+    def _convert_pdf_to_images(self, pdf_path: Path) -> List:
         """
-        Convert PDF pages to PIL Images
+        Convert PDF pages to PIL Images using PyMuPDF
         
         Args:
             pdf_path: Path to PDF file
@@ -70,19 +75,38 @@ class GoogleVisionOCR:
             List of PIL Image objects (one per page)
         """
         try:
+            if fitz is None:
+                raise ImportError("PyMuPDF (fitz) not installed")
+            
             logger.info(f"Converting PDF to images: {pdf_path.name}")
-            images = convert_from_path(
-                str(pdf_path),
-                dpi=300,  # High DPI for better OCR accuracy
-                fmt='PNG'
-            )
+            
+            # Open PDF with PyMuPDF
+            pdf_document = fitz.open(str(pdf_path))
+            images = []
+            
+            # Convert each page to image
+            for page_num in range(len(pdf_document)):
+                page = pdf_document[page_num]
+                
+                # Render page to image (300 DPI for better OCR)
+                mat = fitz.Matrix(300/72, 300/72)  # 300 DPI scaling
+                pix = page.get_pixmap(matrix=mat)
+                
+                # Convert to PIL Image
+                img_data = pix.tobytes("png")
+                img = Image.open(io.BytesIO(img_data))
+                images.append(img)
+                
+                logger.debug(f"  Converted page {page_num + 1}/{len(pdf_document)}")
+            
+            pdf_document.close()
             logger.info(f"Converted {len(images)} pages to images")
             return images
         except Exception as e:
             logger.error(f"Failed to convert PDF to images: {e}")
             raise
     
-    def _image_to_bytes(self, image: Image.Image) -> bytes:
+    def _image_to_bytes(self, image) -> bytes:
         """
         Convert PIL Image to bytes
         

@@ -203,31 +203,37 @@ class SimpleEnhancer:
             else:
                 opt['is_correct'] = None  # Unknown answer
         
-        # 4. Better embedding text
-        parts = []
-        
-        # Add subject and topic context
-        if question['subject']:
-            context = question['subject'].title()
-            if topic:
-                context += f" {topic.replace('_', ' ')}"
-            parts.append(f"{context}:")
-        
-        # Add question text
-        parts.append(question['question_text'])
-        
-        # Add concepts/tags
-        if tags:
-            parts.append(f"Concepts: {' '.join(tags)}")
-        
-        # Add answer if available
-        if correct:
-            correct_text = next((o['text'] for o in question.get('options', []) 
-                               if o['label'] == correct), None)
-            if correct_text:
-                parts.append(f"Answer: {correct_text}")
-        
-        question['embedding_text'] = ' '.join(parts)
+        # 4. Enhanced embedding text (400+ chars)
+        try:
+            from src.enhancers import EnhancedEmbeddingGenerator
+            generator = EnhancedEmbeddingGenerator()
+            question['embedding_text'] = generator.generate_comprehensive_embedding(question)
+        except ImportError:
+            # Fallback to simple embedding
+            parts = []
+            
+            # Add subject and topic context
+            if question['subject']:
+                context = question['subject'].title()
+                if topic:
+                    context += f" {topic.replace('_', ' ')}"
+                parts.append(f"{context}:")
+            
+            # Add question text
+            parts.append(question['question_text'])
+            
+            # Add concepts/tags
+            if tags:
+                parts.append(f"Concepts: {' '.join(tags)}")
+            
+            # Add answer if available
+            if correct:
+                correct_text = next((o['text'] for o in question.get('options', []) 
+                                   if o['label'] == correct), None)
+                if correct_text:
+                    parts.append(f"Answer: {correct_text}")
+            
+            question['embedding_text'] = ' '.join(parts)
         
         return question
     

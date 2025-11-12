@@ -53,6 +53,7 @@ class PDFExtractor:
     def find_pdfs(self) -> List[Path]:
         """
         Find all PDF files in input directory recursively
+        Excludes MDCAT papers (only process solved papers: NET and FAST)
             
         Returns:
             List of PDF file paths
@@ -62,8 +63,19 @@ class PDFExtractor:
             return []
         
         pdf_files = list(self.input_dir.rglob("*.pdf"))
-        logger.info(f"Found {len(pdf_files)} PDF files")
-        return pdf_files
+        
+        # Filter out MDCAT papers (only process NET and FAST)
+        filtered_files = []
+        for pdf_path in pdf_files:
+            path_str = str(pdf_path).upper()
+            # Skip MDCAT papers
+            if 'MDCAT' in path_str:
+                logger.debug(f"Skipping MDCAT paper: {pdf_path.name}")
+                continue
+            filtered_files.append(pdf_path)
+        
+        logger.info(f"Found {len(filtered_files)} PDF files (excluded {len(pdf_files) - len(filtered_files)} MDCAT files)")
+        return filtered_files
     
     def _should_use_ocr(self, pdf_path: Path) -> bool:
         """

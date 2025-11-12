@@ -203,6 +203,7 @@ class QuestionParser:
     def parse_questions_from_text(self, text: str, source_file: str = "") -> List[Question]:
         """
         Parse all questions from text
+        Uses format-specific parsers when available
         
         Args:
             text: Cleaned text content
@@ -211,6 +212,30 @@ class QuestionParser:
         Returns:
             List of Question objects
         """
+        # Try format-specific parser first
+        try:
+            from src.parsers import ParserFactory
+            factory = ParserFactory()
+            parser = factory.get_parser(text, source_file)
+            
+            # Use format-specific parser
+            questions = parser.parse_questions(text, source_file)
+            
+            if questions:
+                logger.info(f"Used format-specific parser: {parser.__class__.__name__}")
+                # Try to parse answer key and match
+                answer_key = parser.parse_answer_key(text)
+                if answer_key:
+                    from src.answer_key_matcher import AnswerKeyMatcher
+                    matcher = AnswerKeyMatcher()
+                    questions = matcher.match_answers_to_questions(questions, answer_key)
+                return questions
+        except ImportError:
+            logger.warning("Format-specific parsers not available, using generic parser")
+        except Exception as e:
+            logger.warning(f"Format-specific parser failed: {e}, falling back to generic parser")
+        
+        # Fallback to generic parser
         lines = text.split('\n')
         questions = []
         
