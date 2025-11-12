@@ -1,0 +1,50 @@
+FAST ENTRY TEST PAST PAPERS PLS POT
+
+FAST PAST PAPER 2
+
+[diagram of a double-well parabola with x-axis and y-axis labeled]
+
+A. 0
+B. 1
+
+43. The value of k so that difference between the roots of 5x^2 − kx + 1 = 0 is unity, is
+A. 2√2
+B. 4√2
+C. 3√5
+D. 7√7
+
+44. The nature of the roots of the quadratic equation x^2 − 2 cot θ x − 1 = 0 are
+(Note: θ ≠ πn, n ∈ Z)
+A. real and equal
+B. complex and equal
+C. real and irrational
+D. real and rational
+
+45. If a, b, c are odd integers then the quadratic equation ax^2 + bx + c = 0
+A. cannot have rational roots
+B. cannot have irrational roots
+C. have equal roots only
+D. have complex roots only
+
+46. If 2 + i√3 is a root of the equation x^2 + px + q = 0, where p and q are real numbers then (p, q) is
+A. (−4, 7)
+B. (4, −7)
+C. (−4, −7)
+D. (4, 7)
+
+47. If one root of a quadratic equation x^2 + bx + c = 0 is (2 + i a) then other root is
+A. −b + 2 + i + a
+B. b − 2 − i − a
+C. b − 2 − i − a
+D. −b − 2 i − a
+
+48. sin(−248π/11) is equal to
+A. −1
+B. 0
+C. 1
+D. ∞
+
+Page 21
+www.markhorwrites.blogspot.com
+
+[End of page]

@@ -1,0 +1,60 @@
+```
+FAST ENTRY TEST PAST PAPERS PLS POT
+
+                      FAST PAST PAPER 1
+
+12. r² = g² + f² - c represents:
+    a. Circle                       c. None
+    b. Point circle                 d. Ellipse
+
+13. If a = x + y and b = x - y then the value of ab =?
+    a. x² - y²                    c. xy
+    b. x² + y²                    d. x² + y² - 2xy
+
+14. What is the probability of getting a red card from an ordinary deck of cards?
+    a. 1                      c. 1
+    b. 26                     d. 9
+
+15. If a curve is given by x² - y²/5 = 1, find the coordinates of foci
+    a. (±√3, 0)                c. (±1, 0)
+    b. (±√5, 0)                d. (±√6, 0)
+
+16. ∫ cos x/sin x dx =?
+    a. √sin x + c              c. 2√sin x + c
+    b. 2/sin x + c             d. 1/√sin x + c
+
+17. d/dx e^x =?
+    a. e^x                      c. 3x² e²x
+    b. 3x² e³x                  d. x² e^x
+
+18. Find the sum of first ‘n’ odd integers:
+    a. n²                       b. (2n + 1)
+    c. (2n + 1)/2              d. n(n + 1)/2
+
+19. Evaluate:
+    | x  y²  z²  |
+    | x  z   y  |
+    | y  z   x  |
+    | x  y  z   |
+
+    a. 0                        b. 1
+    c. x²y²²²(x² - y²)(z² - z²)  d. x²y² + y²² + x²x² - y⁴ - z⁴
+
+20. How many tangents can be drawn to circle if a point lies outside the circle?
+    a. 1                      c. 0
+    b. 2                      d. None
+
+21. sin 15° =?
+    a. √6 - √2
+       4
+    b. √6 + √2
+       4
+    c. -√6 + √2
+       4
+    d. -√6 + √2
+       4
+
+22. ∫ x² e^x dx =?
+
+                              Page 2
+```

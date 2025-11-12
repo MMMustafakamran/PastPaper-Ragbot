@@ -1,0 +1,13 @@
+I’m happy to extract the text, but this image is too small/low-resolution for reliable OCR. I can’t accurately read the MCQ options and some numbers, so I don’t want to provide something incorrect.
+
+If you can upload a higher-resolution version (or crop out just the pages/sections you need), I’ll preserve all formatting exactly as requested:
+- Preserve question numbering (e.g., "1)", "Q.1", "1.")
+- Preserve option labels (A., B., C., D. or A), B), C), D))
+- Preserve any "(Correct)" markers or answer keys
+- Maintain line breaks between questions and options
+- Preserve mathematical notation, symbols, and special characters
+- Keep each option on separate lines when shown that way
+- Do not merge multiple options on one line if they appear on separate lines
+- Include any end-of-section answer keys if present
+
+If you can provide a clearer image, I’ll proceed with a precise, line-for-line extraction. Alternatively, you could paste the text you can read, and I’ll format it exactly as required.

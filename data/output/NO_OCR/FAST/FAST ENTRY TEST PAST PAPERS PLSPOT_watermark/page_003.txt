@@ -1,0 +1,74 @@
+```
+FAST ENTRY TEST PAST PAPERS PLSPOT
+
+                          FAST PAST PAPER 1
+
+a.  e*(x² - 2x + 2) + c                              c.  e*(2x + 1) + c
+b.  e*(2x² - 1) + c                                  d.  2x*e*x² + c
+
+23. If the focus of parabola is (0, –3) then it is:
+        a.  Cup up parabola
+        b.  Cup down parabola
+
+24.  \(\frac{1}{1-\sin\theta} + \frac{1}{1+\sin\theta} = ?\)
+        a.  \(\frac{1+\sin\theta}{2}\)
+        b.  \(\frac{1-\sin\theta}{2}\)
+        c.  \(\frac{2}{1-\sin\theta}\)
+        d.  \(\frac{1}{1+\tan^2\theta}\)
+
+25.  \(\frac{d}{dx}\tan^2 x = ?\)
+        a.  \(2\tan x\sec^2x\)
+        b.  \(\sec^2x\)
+        c.  \(\tan x\sec^2x\)
+        d.  \(2\tan^2 x\sec^2x\)
+
+26.  \(\int_0^1 x^2e^{3x} = ?\)
+        a.  \(\frac{1}{2}(e^4 - 1)\)
+        b.  \(9e^{3x^2}\)
+        c.  \(e^{3x^2}(e^4 - 2)\)
+        d.  \(e^{3x^2}\)
+
+27. Find the distance between (2, –6) and (6, 0):
+        a.  25
+        b.  4
+        c.  5
+        d.  16
+
+28. Slope of line \(\frac{5x}{2} + \frac{7y}{10} = 49\) is:
+        a.  6
+        b.  \(-\frac{5}{7}\)
+        c.  \(\frac{7}{5}\)
+        d.  11
+
+29. Standard equation of hyperbola if centre is at (0,0):
+        a.  \(\frac{x^2}{a^2} - \frac{y^2}{b^2} = 1\)
+        b.  \(\frac{x^2}{b^2} - \frac{y^2}{a^2} = 1\)
+        c.  \(\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1\)
+        d.  \(\frac{x^2}{a^2} - \frac{y^2}{b^2} = 1\)
+
+30. Find the equation of tangent to the curve \(3x^2 - 4y^2 = 12\) at (4, -3):
+        a.  \(x + y = 1\)
+        b.  \(x - y = -1\)
+        c.  \(x + y = -1\)
+        d.  \(x - y = 1\)
+
+31.  \(\frac{d}{dx}[f(x)g(x)] = ?\)
+        a.  \(f(x)g(x)^2\)
+        b.  \(2f(x)g(x)[f'(x)g(x)] + g(x)\frac{d}{dx}(f(x))\)
+        c.  \([f(x), g(x)]^{-1}\)
+        d.  \([f(x)g(x)] \frac{d}{dx}(f(x))\)
+
+32. If \(z = -7 + \sqrt{3}i\) then find \( (z - \bar{z})^3\):
+        a.  343
+        b.  -343
+        c.  -12\sqrt{3}i
+        d.  -24\sqrt{3}i
+
+33. If \(f(x) = x^3 + \cos x\) then \(f(x)\) is?
+        a.  An odd function
+        b.  An even function
+        c.  Neither odd nor even
+        d.  A constant function
+
+Page 3
+```

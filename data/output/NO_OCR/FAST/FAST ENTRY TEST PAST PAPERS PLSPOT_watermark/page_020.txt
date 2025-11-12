@@ -1,0 +1,74 @@
+a) 6
+b) 8
+c) 10
+d) 12
+
+25. Three arithmetic means between 15 and 7 are
+a) 13,10,4
+b) 13,9,11
+c) 13,11,9
+d) 13,10,8
+
+26. If the sum of n natural numbers is 325 then n is
+a) 20
+b) 30
+c) 15
+d) 25
+
+27. The product of (2, 3) and (-2, -3) is
+a) (5, 12)
+b) (5, -12)
+c) (-5, -12)
+d) (-5, 12)
+
+28. A coin is tossed twice. The probability of getting at least one head is
+a) 1/2
+b) 3/4
+c) 1/4
+d) 1
+
+29. In the expansion of (x−1/x)^10, the term independent of x is the rth term. Find r?
+a) 6
+b) 5
+c) 7
+d) 8
+
+30. How many different words can be formed using three letters of the word "TABLE"?
+a) 15
+b) 50
+c) 60
+d) 120
+
+31. The equation 2x^2+3y^2-4x = 0 represents
+a) A point
+b) ellipse
+c) Parabola
+d) circle
+
+32. The length of latus rectum of the parabola y^2 + 12x = 0 is
+a) 12
+b) -12
+c) 3
+d) -3
+
+33. Distance of point (3 . -2) from the line 3x + 4y + 10 = 0 is
+a) 11/5
+b) 10
+c) 11/17
+d) 2
+
+34. The limit of e^(3x) - 1 / x as x tends to zero is
+a) 0
+b) 3
+c) 2
+d) 1
+
+35. Second derivative of e^(2x+1) at x = 1 is
+a) e^3
+b) 2e^3
+c) 4e^3
+d) 5e^3
+
+36. The derivative of secx^2 w.r.t 'x' is
+a) sec^2x
+b) sec^2x tanx

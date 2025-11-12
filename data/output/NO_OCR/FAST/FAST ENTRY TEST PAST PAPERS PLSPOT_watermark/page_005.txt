@@ -1,0 +1,60 @@
+```
+FAST ENTRY TEST PAST PAPERS PLSPOT
+
+                        FAST PAST PAPER 1
+
+34. lim         3x² - 7x + 6
+   x->3        x² - 8x + 15  =  
+   a.  0                             c.  ∞
+   b.  11                           d.  -11/2
+
+35. Find f'(x), if f(x) = sin²x
+   a.  3 sin x cos x
+   b.  3 sin² x cos² x
+   c.  3sin x cos x
+   d.  ½ sin² x cos² x
+
+36. If dy = lnx dx and the slope at (x, y) is same as when it is parallel to x axis find x?
+   a.  0                           d.   1/e
+   b.  1                           c.  e
+
+37. The derivative of cos² 3x 
+   a.  -6 cos³x sin x
+   b.  6 cos³x sin x
+   c.  -2 cos 3 x sin x
+   d.  None
+
+38. Curve y = x² - 8 has:
+    I. Maximum value                  II. Minimum value                III. No extreme value
+   a.  I only                        b.  II only                       c.  I and II only
+   d.  III only
+
+39. The equation of the line which is parallel to x axis and 5 units above it is?
+   a.  y = 5                        c.  x = -5
+   b.  y = -5                       d.  x = 5
+
+40. The derivative of the function y = cos x is equal to?
+   a.  sin x                        c.  -sin x
+   b.  -tan x                       d.  cos x
+
+41. If α, β are the roots of x² - 2x + 1 = 0, then (α + β)² is equal to
+   A. -2                        C. 2
+   B. 1                          D. 4
+
+42. The possible number of root(s) of the equation x³ = 9 is/are
+   A. one.                    C. no roots.
+   B. two.                    D. infinite many roots.
+
+43. The real quadratic equation whose coefficients are rational and whose one root is √z + √9, is
+   A. x² - 7x - 11 = 0        C. -x² + 2x - 1 = 0
+   B. x² - 6x + 7 = 0        D. x² - 13x - 15 = 0
+
+44. ω being the complex cube roots of unity then consider the following statements
+    I. ω² = 1/2
+    II. ω³ = 1/2, n ∈ integer
+    III. ωn + ωn+1 + ωn+2 = 0; n ∈ integer
+   A. I only                 C. I and II
+   B. II only                D. I and III
+
+                                                             Page 4
+```

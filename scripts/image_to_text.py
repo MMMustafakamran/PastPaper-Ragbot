@@ -82,25 +82,28 @@ def extract_text_from_image(client, image_path, model="gpt-5-nano"):
     print(f"  └─ Base64 encoded size: {format_size(base64_size)} ({base64_size:,} bytes)")
     
     print(f"  └─ Sending request to OpenAI API (model: {model})...")
+    print(f"  └─ ⏳ This may take 10-30 seconds for high-resolution images...")
     api_start = time.time()
     
     # Call OpenAI API with vision capabilities - GPT-5 nano ONLY
     # Note: gpt-5-nano uses max_completion_tokens instead of max_tokens
-    response = client.chat.completions.create(
-        model=model,
-        messages=[
-            {
-                "role": "user",
-                "content": [
-                    {
-                        "type": "text",
-                        "text": """Extract all text from this exam paper image. This is a past paper containing multiple-choice questions (MCQs).
+    # Set timeout to 120 seconds (2 minutes) for large images
+    try:
+        response = client.chat.completions.create(
+            model=model,
+            messages=[
+                {
+                    "role": "user",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": """Extract all text from this exam paper image. This is a past paper containing multiple-choice questions (MCQs).
 
 CRITICAL REQUIREMENTS:
 1. Preserve question numbering exactly as shown (e.g., "1)", "Q.1", "1.")
 2. Preserve option labels exactly (A., B., C., D. or A), B), C), D))
 3. Preserve answer markers if present:
-   - "(Correct)" markers after options (NET format)
+   - "(Correct)" markers after options
    - Answer keys at the end of sections
 4. Maintain line breaks between questions and options
 5. Preserve mathematical notation, formulas, and special characters
@@ -114,18 +117,23 @@ FORMAT PRESERVATION:
 - Maintain spacing and indentation that helps identify question boundaries
 
 Return the extracted text exactly as it appears, preserving all structural elements needed for parsing questions, options, and correct answers."""
-                    },
-                    {
-                        "type": "image_url",
-                        "image_url": {
-                            "url": f"data:image/png;base64,{base64_image}"
+                        },
+                        {
+                            "type": "image_url",
+                            "image_url": {
+                                "url": f"data:image/png;base64,{base64_image}"
+                            }
                         }
-                    }
-                ]
-            }
-        ],
-        max_completion_tokens=4096
-    )
+                    ]
+                }
+            ],
+            max_completion_tokens=8192,  # Increased from 4096 to handle large text extraction
+            timeout=120.0  # 2 minute timeout
+        )
+    except Exception as e:
+        api_time = time.time() - api_start
+        print(f"  └─ ✗ API call failed after {api_time:.1f}s")
+        raise
     
     api_time = time.time() - api_start
     
@@ -135,9 +143,32 @@ Return the extracted text exactly as it appears, preserving all structural eleme
         raise ValueError(f"ERROR: Expected GPT-5 nano but received model '{model_used}'. Aborting.")
     
     # Extract text from response
-    text = response.choices[0].message.content
-    text_length = len(text)
-    text_words = len(text.split())
+    # Debug: Check response structure
+    if not response.choices:
+        raise ValueError("API response has no choices")
+    
+    choice = response.choices[0]
+    finish_reason = choice.finish_reason if hasattr(choice, 'finish_reason') else None
+    
+    message = choice.message
+    text = message.content if hasattr(message, 'content') else None
+    
+    # Check finish reason
+    if finish_reason == "length":
+        print(f"  └─ ⚠ WARNING: Response was truncated (hit token limit)")
+    elif finish_reason:
+        print(f"  └─ Finish reason: {finish_reason}")
+    
+    # Check if response is empty or None
+    if text is None:
+        text = ""
+        print(f"  └─ ⚠ WARNING: API returned None content")
+    elif not text.strip():
+        print(f"  └─ ⚠ WARNING: API returned empty content")
+        print(f"  └─ Debug: finish_reason={finish_reason}, text length={len(text) if text else 0}")
+    
+    text_length = len(text) if text else 0
+    text_words = len(text.split()) if text else 0
     
     # Get API response details
     tokens_used = response.usage.total_tokens if hasattr(response, 'usage') and response.usage else "N/A"
@@ -196,11 +227,13 @@ def create_output_path(input_path, output_root):
     return output_path
 
 
-def process_images(limit=None):
+def process_images(limit=None, skip=0, filter_path=None):
     """Main function to process all images
     
     Args:
         limit: Maximum number of images to process (None for all)
+        skip: Number of images to skip from the beginning
+        filter_path: Filter images by path pattern (e.g., "NET/497992392" to process only NUST NET images)
     """
     overall_start = time.time()
     start_datetime = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -231,46 +264,8 @@ def process_images(limit=None):
     print("  └─ ✓ OpenAI client initialized")
     print()
     
-    # Verify model exists
-    print("Verifying model availability...")
-    try:
-        models = client.models.list()
-        available_models = [model.id for model in models.data]
-        
-        print(f"  └─ Found {len(available_models)} available model(s)")
-        
-        # Check if gpt-5-nano exists
-        model_name = "gpt-5-nano"
-        model_found = False
-        matching_models = []
-        
-        for model_id in available_models:
-            if model_name.lower() in model_id.lower():
-                model_found = True
-                matching_models.append(model_id)
-        
-        if model_found:
-            print(f"  └─ ✓ Model '{model_name}' found:")
-            for model_id in matching_models:
-                print(f"      • {model_id}")
-        else:
-            print(f"  └─ ⚠ Model '{model_name}' not found in available models")
-            print(f"  └─ Available vision models:")
-            vision_models = [m for m in available_models if 'vision' in m.lower() or 'gpt-4' in m.lower() or 'gpt-3.5' in m.lower()]
-            if vision_models:
-                for model_id in vision_models[:10]:  # Show first 10
-                    print(f"      • {model_id}")
-            else:
-                print(f"      (No obvious vision models found)")
-                print(f"  └─ First 10 available models:")
-                for model_id in available_models[:10]:
-                    print(f"      • {model_id}")
-        
-        print()
-    except Exception as e:
-        print(f"  └─ ⚠ Could not verify models: {str(e)}")
-        print(f"  └─ Continuing anyway...")
-        print()
+    # Skip model verification to speed up processing
+    # Model verification already confirmed gpt-5-nano is available
     
     # Set directories
     input_dir = Path("data/images")
@@ -283,21 +278,42 @@ def process_images(limit=None):
     # Find all images
     print("Scanning for images...")
     images = find_all_images(input_dir)
+    
+    # Filter by path if specified
+    if filter_path:
+        filter_lower = filter_path.lower()
+        images = [img for img in images if filter_lower in str(img).lower()]
+        print(f"  └─ 🔍 Filtering by path: '{filter_path}'")
+        if len(images) == 0:
+            print(f"  └─ ✗ No images found matching filter '{filter_path}'")
+            return
+    
     total_found = len(images)
     
     if total_found == 0:
         print(f"  └─ ✗ No PNG images found in {input_dir} directory")
         return
     
+    # Apply skip if specified
+    if skip > 0:
+        images = images[skip:]
+        print(f"  └─ ⏭ Skipping first {skip} image(s)")
+    
     # Apply limit if specified
     if limit:
         images = images[:limit]
         total = len(images)
         print(f"  └─ ✓ Found {total_found} PNG image(s) total")
-        print(f"  └─ ⚠ TEST MODE: Processing first {total} image(s) only")
+        if skip > 0:
+            print(f"  └─ Processing images {skip+1} to {skip+limit} ({total} images)")
+        else:
+            print(f"  └─ ⚠ TEST MODE: Processing first {total} image(s) only")
     else:
-        total = total_found
-        print(f"  └─ ✓ Found {total} PNG image(s)")
+        total = len(images)
+        if skip > 0:
+            print(f"  └─ ✓ Processing {total} image(s) starting from image {skip+1}")
+        else:
+            print(f"  └─ ✓ Found {total} PNG image(s)")
     
     # Group images by folder for display
     folders = {}
@@ -329,6 +345,17 @@ def process_images(limit=None):
     models_used = {}
     
     for i, image_path in enumerate(images, 1):
+        # Create output path to check if already processed
+        output_path = create_output_path(image_path, output_dir)
+        
+        # Skip if output file already exists and has content
+        if output_path.exists() and output_path.stat().st_size > 0:
+            print(f"[{i}/{total}] {'=' * 60}")
+            print(f"Image: {image_path.name}")
+            print(f"  └─ ⏭ SKIPPED: Already processed (output exists: {output_path.name})")
+            print()
+            continue
+        
         print(f"[{i}/{total}] {'=' * 60}")
         print(f"Image: {image_path}")
         print(f"Relative path: {image_path.relative_to(input_dir)}")
@@ -447,16 +474,28 @@ if __name__ == "__main__":
         "--limit",
         type=int,
         default=3,
-        help="Limit the number of images to process (default: 3 for testing, use --limit 0 or --limit None for all)"
+        help="Limit the number of images to process (default: 3 for testing, use --limit 0 for all)"
+    )
+    parser.add_argument(
+        "--skip",
+        type=int,
+        default=0,
+        help="Number of images to skip from the beginning (default: 0)"
+    )
+    parser.add_argument(
+        "--filter",
+        type=str,
+        default=None,
+        help="Filter images by path pattern (e.g., 'NET/497992392' to process only NUST NET images)"
     )
     
     args = parser.parse_args()
     
-    # Handle special case: --limit 0 or --limit None means process all
+    # Handle special case: --limit 0 means process all
     limit = None if args.limit == 0 else args.limit
     
     try:
-        process_images(limit=limit)
+        process_images(limit=limit, skip=args.skip, filter_path=args.filter)
     except KeyboardInterrupt:
         print("\n\nProcess interrupted by user")
     except Exception as e:

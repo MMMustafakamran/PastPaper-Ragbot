@@ -1,0 +1,44 @@
+FAST ENTRY TEST PAST PAPERS PLSPOT
+
+WWW.PakLearningSpot.com
+Download More MCQs from Website
+
+FAST PAST PAPER 2
+
+c) 2x sec x² tanx
+d) 2 sec tanx
+
+37. The derivative of (x²+1)/x w.r.t 'x' is
+a) 2
+b) 1 + 1/x
+c) 1 − 1/x
+d) 1 − 1/x²
+
+38. For the curve y = 2x − x², x = 1 is a point of
+a) Minima
+b) Maxima
+c) Inflection
+d) None
+
+39. If A = {4,5,6,7,8,9,10}, B = {1,2,3,4,5,6} then A − B =
+a) {7,8,9,10}
+b) {4,5,6,7}
+c) {1,2,3,5}
+d) {1,2,3}
+
+40. ∫ sin x e^(cos x) dx =
+a) e^(sin x) + C
+b) e^(cos x) + C
+c) − e^(cos x) + C
+d) − e^(sin x) + C
+
+41. The nature of roots of the quadratic equation shown in the diagram is / can
+A. real and equal.
+B. real and different.
+C. not be determined.
+D. complex and imaginary.
+
+42. The number of real roots of the curve in the given diagram is/are
+
+Page 20
+www.markhorwrites.blogspot.com

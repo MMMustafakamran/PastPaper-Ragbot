@@ -19,7 +19,7 @@ except ImportError:
     logger.warning("OCR extractor not available. Install pytesseract for OCR support.")
 
 if OCR_AVAILABLE:
-    logger = logging.getLogger(__name__)
+logger = logging.getLogger(__name__)
 
 
 class PDFExtractor:
