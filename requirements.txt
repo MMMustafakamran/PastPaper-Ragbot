@@ -2,6 +2,11 @@
 pdfplumber==0.11.7  # PDF text extraction and table parsing library
 PyPDF2==3.0.1  # PDF text extraction and table parsing library
 
+# OCR Processing
+google-cloud-vision==3.4.5  # Google Cloud Vision API for OCR
+pdf2image==1.17.0  # Convert PDF pages to images for OCR
+Pillow==11.3.0  # Image processing library
+
 # Data Processing
 pandas==2.2.0  # Data manipulation and analysis library
 numpy==1.26.3  # Numerical computing library

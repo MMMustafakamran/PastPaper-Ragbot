@@ -1,6 +1,7 @@
 """
 PDF Text Extractor
 Extracts text from PDF files and saves to text files
+Supports both text extraction (pdfplumber) and OCR (Google Vision API)
 """
 
 import logging
@@ -8,22 +9,43 @@ from pathlib import Path
 from typing import List, Tuple, Optional
 import pdfplumber
 
-logger = logging.getLogger(__name__)
+# Try to import OCR extractor (optional)
+try:
+    from src.ocr_extractor import GoogleVisionOCR
+    OCR_AVAILABLE = True
+except ImportError:
+    OCR_AVAILABLE = False
+    logger = logging.getLogger(__name__)
+    logger.warning("OCR extractor not available. Install google-cloud-vision for OCR support.")
+
+if OCR_AVAILABLE:
+    logger = logging.getLogger(__name__)
 
 
 class PDFExtractor:
     """Extract text from PDF files"""
     
-    def __init__(self, input_dir: str = "Past Papers", output_dir: str = "Extracted Text"):
+    def __init__(self, input_dir: str = "Past Papers", output_dir: str = "Extracted Text", 
+                 credentials_path: Optional[str] = None):
         """
         Initialize PDF extractor
         
         Args:
             input_dir: Directory containing PDF files
             output_dir: Directory to save extracted text
+            credentials_path: Path to Google Cloud Vision credentials (for OCR)
         """
         self.input_dir = Path(input_dir)
         self.output_dir = Path(output_dir)
+        self.credentials_path = credentials_path
+        
+        # Initialize OCR extractor if available
+        self.ocr_extractor = None
+        if OCR_AVAILABLE:
+            try:
+                self.ocr_extractor = GoogleVisionOCR(credentials_path=credentials_path)
+            except Exception as e:
+                logger.warning(f"OCR extractor initialization failed: {e}. OCR will be skipped.")
         
         # Create output directory if it doesn't exist
         self.output_dir.mkdir(parents=True, exist_ok=True)
@@ -43,7 +65,21 @@ class PDFExtractor:
         logger.info(f"Found {len(pdf_files)} PDF files")
         return pdf_files
     
-    def extract_text_from_pdf(self, pdf_path: Path) -> Tuple[str, bool]:
+    def _should_use_ocr(self, pdf_path: Path) -> bool:
+        """
+        Determine if OCR should be used for this PDF
+        
+        Args:
+            pdf_path: Path to PDF file
+            
+        Returns:
+            True if PDF is in OCR folder, False otherwise
+        """
+        # Check if "OCR" is in the path parts
+        path_parts = pdf_path.parts
+        return "OCR" in path_parts
+    
+    def extract_text_from_pdf(self, pdf_path: Path) -> Tuple[str, bool, str]:
         """
         Extract text from a single PDF file
         
@@ -51,14 +87,28 @@ class PDFExtractor:
             pdf_path: Path to PDF file
             
         Returns:
-            Tuple of (extracted_text, success)
+            Tuple of (extracted_text, success, method_used)
+            method_used: "ocr" or "text"
         """
+        # Check if OCR should be used
+        if self._should_use_ocr(pdf_path):
+            if self.ocr_extractor:
+                logger.info(f"[OCR] Processing {pdf_path.name}")
+                text, success = self.ocr_extractor.extract_text_from_pdf(pdf_path)
+                return text, success, "ocr"
+            else:
+                logger.warning(f"[OCR] OCR requested but not available for {pdf_path.name}")
+                logger.warning(f"      Falling back to text extraction...")
+                # Fall through to text extraction
+        
+        # Use text extraction (pdfplumber)
+        logger.info(f"[TEXT] Processing {pdf_path.name}")
         try:
             text_content = []
             
             with pdfplumber.open(pdf_path) as pdf:
                 total_pages = len(pdf.pages)
-                logger.info(f"Processing {pdf_path.name} ({total_pages} pages)")
+                logger.info(f"  Pages: {total_pages}")
                 
                 for page_num, page in enumerate(pdf.pages, 1):
                     page_text = page.extract_text()
@@ -73,14 +123,14 @@ class PDFExtractor:
             
             if not full_text.strip():
                 logger.warning(f"No text extracted from {pdf_path.name}")
-                return "", False
+                return "", False, "text"
             
             logger.info(f"Successfully extracted {len(full_text)} characters from {pdf_path.name}")
-            return full_text, True
+            return full_text, True, "text"
             
         except Exception as e:
             logger.error(f"Failed to extract text from {pdf_path.name}: {e}")
-            return "", False
+            return "", False, "text"
     
     def get_output_path(self, pdf_path: Path) -> Path:
         """
@@ -150,6 +200,10 @@ class PDFExtractor:
             'total_pdfs': len(pdf_files),
             'successful': 0,
             'failed': 0,
+            'ocr_files': 0,
+            'text_files': 0,
+            'ocr_successful': 0,
+            'text_successful': 0,
             'files': []
         }
         
@@ -159,7 +213,13 @@ class PDFExtractor:
             logger.info(f"{'='*60}")
             
             # Extract text
-            text, success = self.extract_text_from_pdf(pdf_path)
+            text, success, method = self.extract_text_from_pdf(pdf_path)
+            
+            # Update method counts
+            if method == "ocr":
+                stats['ocr_files'] += 1
+            else:
+                stats['text_files'] += 1
             
             if success and text:
                 # Get output path
@@ -168,23 +228,31 @@ class PDFExtractor:
                 # Save text
                 if self.save_text(text, output_path):
                     stats['successful'] += 1
+                    if method == "ocr":
+                        stats['ocr_successful'] += 1
+                    else:
+                        stats['text_successful'] += 1
+                    
                     stats['files'].append({
                         'pdf': str(pdf_path),
                         'output': str(output_path),
                         'status': 'success',
+                        'method': method,
                         'chars': len(text)
                     })
                 else:
                     stats['failed'] += 1
                     stats['files'].append({
                         'pdf': str(pdf_path),
-                        'status': 'failed_to_save'
+                        'status': 'failed_to_save',
+                        'method': method
                     })
             else:
                 stats['failed'] += 1
                 stats['files'].append({
                     'pdf': str(pdf_path),
-                    'status': 'failed_to_extract'
+                    'status': 'failed_to_extract',
+                    'method': method
                 })
         
         return stats
@@ -198,6 +266,11 @@ class PDFExtractor:
         print(f"Successfully extracted: {stats['successful']}")
         print(f"Failed: {stats['failed']}")
         
+        if stats.get('ocr_files', 0) > 0 or stats.get('text_files', 0) > 0:
+            print(f"\nExtraction Methods:")
+            print(f"  OCR files: {stats.get('ocr_files', 0)} ({stats.get('ocr_successful', 0)} successful)")
+            print(f"  Text files: {stats.get('text_files', 0)} ({stats.get('text_successful', 0)} successful)")
+        
         if stats['successful'] > 0:
             print(f"\n[SUCCESS] Extracted text saved to: {self.output_dir}")
             print("\nSuccessfully processed files:")
@@ -205,7 +278,8 @@ class PDFExtractor:
                 if file_info['status'] == 'success':
                     pdf_name = Path(file_info['pdf']).name
                     chars = file_info['chars']
-                    print(f"  [+] {pdf_name} ({chars:,} characters)")
+                    method = file_info.get('method', 'unknown')
+                    print(f"  [+] {pdf_name} ({chars:,} chars, {method.upper()})")
         
         if stats['failed'] > 0:
             print("\n[FAILED] Failed files:")
@@ -213,7 +287,8 @@ class PDFExtractor:
                 if file_info['status'] != 'success':
                     pdf_name = Path(file_info['pdf']).name
                     status = file_info['status']
-                    print(f"  [-] {pdf_name} ({status})")
+                    method = file_info.get('method', 'unknown')
+                    print(f"  [-] {pdf_name} ({status}, {method.upper()})")
 
 
 def main():

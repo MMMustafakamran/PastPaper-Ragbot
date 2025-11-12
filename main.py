@@ -33,7 +33,7 @@ def extract_pdfs():
     print()
     
     extractor = PDFExtractor(
-        input_dir="Past Papers",
+        input_dir="PastPapers/Solved_PastPapers",
         output_dir="Extracted Text"
     )
     
