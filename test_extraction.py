@@ -94,15 +94,16 @@ def test_extraction():
     # Test OCR extraction
     if ocr_files:
         print("="*60)
-        print("TESTING OCR EXTRACTION (Google Vision API)")
+        print("TESTING OCR EXTRACTION (Tesseract OCR)")
         print("="*60)
         print()
         
         if not extractor.ocr_extractor:
             print("  [WARNING] OCR extractor not available")
             print("  Make sure:")
-            print("  1. google-cloud-vision is installed: pip install google-cloud-vision")
-            print("  2. Google Cloud credentials are set in keys.json or GOOGLE_APPLICATION_CREDENTIALS env var")
+            print("  1. Tesseract OCR is installed: https://github.com/UB-Mannheim/tesseract/wiki")
+            print("  2. pytesseract is installed: pip install pytesseract")
+            print("  3. Tesseract is in PATH or set TESSERACT_CMD in keys.json")
             print()
         else:
             for pdf_path in ocr_files:

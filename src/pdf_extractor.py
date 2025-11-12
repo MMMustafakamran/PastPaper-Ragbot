@@ -11,12 +11,12 @@ import pdfplumber
 
 # Try to import OCR extractor (optional)
 try:
-    from src.ocr_extractor import GoogleVisionOCR
+    from src.ocr_extractor import TesseractOCR
     OCR_AVAILABLE = True
 except ImportError:
     OCR_AVAILABLE = False
     logger = logging.getLogger(__name__)
-    logger.warning("OCR extractor not available. Install google-cloud-vision for OCR support.")
+    logger.warning("OCR extractor not available. Install pytesseract for OCR support.")
 
 if OCR_AVAILABLE:
     logger = logging.getLogger(__name__)
@@ -43,7 +43,17 @@ class PDFExtractor:
         self.ocr_extractor = None
         if OCR_AVAILABLE:
             try:
-                self.ocr_extractor = GoogleVisionOCR(credentials_path=credentials_path)
+                # Try to get tesseract path from keys.json if available
+                tesseract_path = None
+                if credentials_path is None:
+                    keys_path = Path(__file__).parent.parent / "keys.json"
+                    if keys_path.exists():
+                        import json
+                        with open(keys_path, 'r') as f:
+                            keys = json.load(f)
+                            tesseract_path = keys.get('TESSERACT_CMD', None)
+                
+                self.ocr_extractor = TesseractOCR(tesseract_cmd=tesseract_path)
             except Exception as e:
                 logger.warning(f"OCR extractor initialization failed: {e}. OCR will be skipped.")
         

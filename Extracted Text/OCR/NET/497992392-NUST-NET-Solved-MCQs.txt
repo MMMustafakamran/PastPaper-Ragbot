@@ -1,0 +1,1746 @@
+NET Past Papers httos://edumanias.com/ EDU https://www.facebook.com/EduManias
+oe .. Objective Type Questions |
+[Unit -1 (FunetionsandLimit) =
+. TYPE~-1: [Multiple Choice Questions (ML. C. Qs) ]. 7
+_ Each question has four possible answersTick ( v) the correct one.
+‘1. The function I(t)'= x is called : ». oe
+| (a) A linear function y (b) An identity function —
+— (c).. A quadratic function Ww (d) A cubic function
+2. Ify is expressed initerms of a variable x as y = f (x), then y is called: . —
+(a) An explicit function =) — (b) An implicit function
+| (ce) A linear function ) 7 a, (d) An identity function
+3. Cossh’x- sinh’x= ? oe oO oe
+(a) . -1 0  @1 (d) none ofthese
+dee cosechx is equal to -_ Vo . . |
+an Lim xa? 9 . | :
+< — ka X-D - } a ;
+—\@) undefingd =) Se? = @ a? MO” |
+XO 6. 20 (l+ x¥ =? | a
+~~» er G a -db)e . (&) 2 (d) undefined
+. 7. The notation : y = f(x) was invented by oe oo,
+(a) Leibnitz (0) Euler (c) Newton (4) Lagrange
+8. I fG)=a-2c+1,thenfQ=? | ,
+(a) at @) 0 Ol + @2
+NET Past Papers , https://edumanias.com/ - : https://www.facebook.com/EduManias
+
+NET Past Papers . https://edumanias.com/ EDU | https://www.facebook.com/EduManias
+EA MANIAS — |
+, iL. - 7 Objective Type Questions _ ee
+9. When we say that f is a function from set Xto set Y, then set X is called
+(a) “Domain of f nn(')) Range off — | oe
+(c) Codomain of f °° *  @) none of these . -
+10. The term’ “ function ” was recognised by -— to describe the .
+, dependence of one quantity on another :
+, (a) Leibnite ) Euler (c) Newton (4) Lagrange
+i If fe) = x2 then range of fis : — > : |
+a) [O06 +) #01 © J0e0f (a) +¥e real numbers
+12. EK F® = 37 then domain of f : NS oe
+(a) Allreal numbers _ (b) All real numbers except 0
+an (c) ‘All real numbers except 3 22 = (d) only +ve real numbers .
+| 13. Ifa graph expressés a funetion, then a vertical line must cut the graph
+(a) One point only | — (b) Two points .
+| , (c) More than two points _ (d) No point
+ua fw ={,7y when 0 § #1). then domain of fis:
+pS (a) 10.21 ©) 2) © [1,2] ~@ all real numbers
+“15, The graph of a linear equation is always a . .
+(a) straight line. oo ~ (b) parabola
+© ere) = —( s=~—SsSs«S cube a
+ca 16, The domain and range of the identity function , 1: X —> X is: | | .
+: (a) X _ . (b) +ve real number oe
+(c))\—ve real number = (d). integer © | ae. ,
+17, The hnéar function f (x) ax +b is constant function if - ,
+(a) #0,b=1  @aetjbe0 2
+(ce) a=1,b=1 @as0 ° es
+18. The linear function f (x) = ar + bis identity function if
+(a) a#0b=1 (b) a=1,b =0 |
+ @astjb=1 | @az0 a
+NET Past Papers htips:/edumanias.com/ -  httes:/www.facébook.com/EduManias
+
+NET Past Papers» htps:!fedumanias.com/ 9 MALIKS tps: www facebook com/EduManias
+19. If y = 00s +, domain = R, then range is | )
+(a) KL) 41) @) R-E4-@R-H
+20. If y = tans, domain ={ xixeR x# Cn + 1) z, n integer }, then
+. range is _ ‘ . Ot
+(a) HI, IL) F-1,.1) () R-(+1,1) (@) all real numbers i
+21. Ify = sec x. domain = { xixeR, x #(2n + ve n integer}, then |
+_ Tange is . a as » ae
+| (a) He) E41) @R-L QM @RARAIL.
+; 22, If y = cot t, domain = { x | ne R24 nt ,Minteger f, then range is .
+(a) yely<-1 (b) ysly2-4.. | ,
+a o y<ly3s-1 - ; a) all real numbers eS >
+«28. Ef ye cose’ x. donfiiad { {x éRxe nh Mn integer}, thin range 2
+(a) y2Lys-1 Ss (b) ys hy2=2 oo :
+. ¢) y<iyo-t — (d) all real numbers : -
+. Mee if x= a’, then y = log, ¢ is called logarithmic function when 2.
+(a) acd) a=0 (2) a>0 @d)a>Qae1 , —
+25. If cosh x : ae , then. its domain is set of all real numbers and
+- range is - , “ON Se : ;
+At (a) set of all real numbers -- b) set of +ve real numbers -
+NX | “OU,°)  & - (d) {-%, 1] ) . ,
+26. In logarithmic form, sinh~!y can be written as - |
+—@ inet) sn (+ GT) -
+ae () n(z-Vest) .@ In(x- Ve~T) :
+; 27. In logarithmic. form, cosh”4z can be written as a } :
+| (a) In(x+ Vel) - ~ (b) In (x4 \2-1)
+NET Past Papers https://edumanias.com/ | https://www.facebook.com/EduManias
+
+NET Past Papers https ://edumanias.com/ nH EDU. https://www.facebook.com/EduManias
+° * - Q MANIAS :
+| OA | ___ Objective Type Questions _ a . ;
+28. In logarit)mic form, tanh7!x canbe written as
+@) 5 n( Ae) ict yn (Sf) et ct
+1 Vio) et Ve ,
+| (c) in(= +——*) ,O<xe1 @ in(=+ ry ), 220. |
+29. In logarithmic form, coth~/y can be. written as - . .
+| 1 l+x _ | 1 ‘x41
+— @ ah (SE), Ine w) 5 ne ), iel<t
+| an) in (+>) ,0sxs1, -~ @ in (ee ), 240
+30. In logarithmic form, sech7+x can be written as . .
+rs cr aeT: _q 4 pret |
+; , a) 9 in(s*), Ix le] | b) 5 in(—), ft
+@ n(-++¥ ; ‘)gosxs1 - @) In(= Tal ) 240
+31. In logarithmic form, cosech™ x can be written as
+7 a ars: oy 1 pxtly .,..
+(@) slog (722) Inl <i om) glee (27>); Isl <1
+@ © log (5 + = ) Osxst | (d) tog ( = Pie ), #0
+‘ 82. x? +xy 4a? =2 is an example of | | . , 7
+| (a) linear function oo (b) quadratic function
+| (c) explicit function = _@). implicit funetion .
+83. x= at’, y = 2at are the parametric equations of a
+Ma) circle .(b) parabola (c) ellipse (d) hyperbola
+34, x=a@00s6, y=a sin 6 are the parametric equations of .
+, “Ey a)citcle © (6) parabola (c) ellipse (d) hyperbola |
+35. x=acos0 »yab sin 0 are the parametric equations of
+(a) ‘circle (b) parabola (c) ellipse ‘(d) hyperbola =
+' 86. x=asec 6, y=b tan Oare the parametric equations of | /
+So (a) circle  (b) parabola (c) ellipse ‘(@)_ hyperbola - .
+NET Past Papers https://edumanias.com/ oo htips://www facebook. com/EduManias
+
+NET Past Papers _https:/edumanias.gom/_ ERs , nto: facebook com/EduManias
+= __ Objective Type Questions . ry a ,
+37. The function , f (x)= 8x4 4 7-22 is | - a
+(a) even (b) odd (c) neither (d) none of these a
+| 38. The function, f (x)= sinr+cosx is
+: (a) even = (b) odd = (¢) neither (d) none of these — oe - |
+"99. If fz) = Ox41, gix)=a2—1,then (fog) =? ,
+(a) W2-1  ) aPedr 44d @ eee
+0, If f(x) = 2043, g(x) =2°, then (gof)(x) = 7 - - |
+8 @) BP 1 (hdd (det | ae
+41, If f(x) = on +3, g(t) =22, then (fof Ye) =¥ _ .
+(a) 22-1) ted COMB me
+42, If f(x) = 2x+3, g(x) =22, then (gog)\) = 9 i ,
+(a) 22~1 () da? vde (0) HB) tae?
+. 43. The inverse of a function exists only if it is a *
+(a) an into function ~~ (by('an onto function 7
+. a) (1-1) and onto function (d) trigonometric function oo 7
+44 TE FG) = 24ve-1, then domain offt =? -
+(a) J2,0f Rl Olof -@ Jef Ss .
+wi 45. If f(z) = 2+Vz-1, then range f7! =? - ; 7 _ .
+| — (a) J2, ef t) el. (c) [lof @ If
+46. _< one ifandonlyif Oo on
+"i (a) xis an obtuse angle (b) xis aright angle | ;
+, BS (e) O<n<r 7 7 (d) xe (-5,0) and(0, 5) ; |
+47. Afunetion f(x) isisaid to be continuous atx =e, if I
+eM Pedexists —) fisdefined ,
+(c) iy F=f) — (a) Allofthese 9, :
+48, fe) = ar+b withae0is 7 Oo
+; @) A linear function (b) A quadratic function .
+| , Poe constant function =~ =——st*«*Y A identity function
+NET Past Papers _https://édumanias.cort/ oe “iitps iwi fecebook.comvEdutanias
+
+NET Past Papers https://edumanias.com/ ny EDU https://www.facebook.com/EduManias
+a EF MANIAS. -
+Lo $ __ Objective Type Questions _ ,
+_ 49. Tf f: ¥ > Y is a function, then the subset of Y containing all the images is
+. called : I ; 7
+, . (a) domain off — (b) range of f (c) co. domain of f (a) subset of X So
+50... The graph of 2x - 10 = 0 is a line oe oo So
+| (a) . parallel to x-axis '(b) parallel to y-axis . . ;
+- (c) inclined at angle Q (d) through Ts and and quadrants _
+| 51. cosechx is equal to - ae » Ss . ;
+7 ex-e* ex tex 2 2.) . .
+. eotbe _g . ;
+52. 509, 1 lt ae "
+oot g-be is equa 0 , 4 7 |
+(a) sinh 2x = (B) cosh2x  (c) tanh Qe @) coth yn
+| 53. The function f Q)= a is discontinuous at x = | \
+| @1 => OO ~— @all real nuinbers -
+. 54. If f(x)= 3 — 2x2 + 4x ~ 1, then, fC)= 7 . ) .
+— @ es ®-8 @©0 @6 - |
+7 55. The quantity which is used asa variable as well as constant iscalled =~
+a) Parameter . (b) Constraint (c) Real number (d) Non of these oo,
+a 86. Tf f@y= | , x#—-4, then range of fis . —
+A) Refi ) R-€-4} @) R~(0} dal real numbers
+Nat lim#®@=— tt, oe a
+. Pagra j , . : - ; ;
+®t) @e®- ©, @1 a
+| , ~ . sind :
+(a) 1 y+ tb). © () “3 @-3 —
+ns ; sina FT
+ @i mo © MS mo. | oo
+- 60. f(x)ax? +x is: . Oo
+| (a) Even (b) Nejther even nor odd (c) Odd_—_{d) None-of these 7
+NET Past Papers https://edumanias.com/ https:/Avww.facebook.com/EduManias
+
+NET Past Papers https://edumanias.com/ ny EDU https://www.facebook.com/EduManias
+a _ MANIAS. oO .
+oo a Objective Type Questions | VE -
+61. im (1+X)* isequalto: - ee .
+0) , ; , ; : .
+fave ets (c) 0 (d)1 7 oe
+62. If-f£:X —> Yisa function ,then elements of x are called a .
+.’, (a) Images ‘(b) Pre-images (c)Constants (d)Ranges
+| 68 LIM TSS : . | |
+aye | (bbe! -. .(e)e- (a) Je . Lo
+64. If the degree of a polynomial function is 1. then it is a. re
+(a) Identity functior (b) Constant function.“
+(c}Lineay function — _.. . (@) Exponential function :
+, 65. f(x) =Sinx+ Cos xis: | mo Jo ‘ee
+. , (a) Even function 2 | __ (b) Odd function ; >
+(c) Even & odd function : (d) Neither even nox odd function
+66. Cosh? x+Sinh?x= 7 _ _. . ae
+(a) 1 (b) Cos h 2x ()Sinh2x Wo ..-
+; _ 67. [ff (x) =x? - 2x4 1 then f (0) = .
+(a)- 1 (b)O (yb “ \d)2 4 _ eo .
+68. lim———isequalto _
+: - (ad "(by 1 (c)-1 (d) Undefined : . ;
+69.. The function of the form,.x =a cos 0%. <—
+_ (a) Odd function —(b) Explicit fanetion (c) Parametric function ~(d) Even —
+70. Iff(x)=y¥x+2 then range offlis: . .
+. (a) [=2,+0) ()[2,+%) @(-%,%) @[L+o) |
+. 71. ‘lim —= is equal to:. . —_ 7.
+- (a)0 -. (@)-0 (c)+ 0 (a) Not exists oO ,
+’ 072. The volume V of a cube-as a function of the area A of its base is:
+(AP VA Ae @ avd 3
+Qn er as ce . i | co ae
+73. lim ———isequalt« _ - a a
+THe (a) logex | (b) logax . Oa’ 7 (d) logea a oe
+74, lim —~— is equal to : : . : .
+Ky oto = wi :
+75. If f(x)=xSecxthenf(7)= oe Co a
+(a)-20 )-4 OT Coy
+Unit -2(Differentiation) _ ; . — ;
+TYPE - 1: [Multiple Choice Questions (M.C.Qs)].
+. Lay tan 3x = 7 | os a | | -
+NET Past Papers https://edumanias.com/ a hitps://(www.facebook.céom/EduManias
+
+NET Past Papers - https://edumanias.com/ rep EDU https://www.facebook.com/EduManias
+a 8 a _Objective Ty pe Questions ee
+(a)3sec? 3x (b) zee 8x (c) cot 8x (d) -sec®x-
+a , .
+@) oe gy BO (2 nd . @-2 |
+. a” In 2 i s .
+| (a) =) De®) 4) 16
+— =? 7
+(a) n(a"—le +b) (b) lax + bY Ag @pn(a"tee@) natax + by! |
+| 5. The change in variable x is called increment of x. It is denoted by dx -
+which is - » 7 | a,
+—— (a) +ve only (b) -ve only (0) +Ve or -ve (d) none ofthese
+6. The notation dz dn ® used y | — — ;
+; (a) ‘Leibnitz (b) Newton ~(c) Lagrange (d) Cauchy 7
+1. _ The notation f (x)is usedby = = . | .
+(a) Leibnitz (b) Newton _ (c) Lagrange (d) Cauchy 7
+8. The notation f’ (x) or y’ is used by a oo )
+(a) Leibnitz (b) Newton (c) - Lagrange (d) ‘Cauchy. So
+_ 9. The notation Df (x) or Dy is used by . | So 7
+; ~~ (a) Leibnitz (b) Newton (c) Lagrange (d). Cauchy: 7
+Note, The symbol Qs is used for derivative of y want. “x, Here it is not
+___thé.quotient ofdy and dr. So So
+. 29a 4x-a oa ; |
+FEY PO. = =— © FO = @fa@-a
+11. dx we) = na id called : - . ,
+a (a) powerrule -(b) product rule
+_. (c) quotient rule ~(@ constant rule oe
+NET Past Papers https://edumanias.com/ . https://www.facebook.com/EduManias
+
+NET Past Papers https://edumanias.com/ ERs httgs://www.facebook.com/EduManias
+oe _ Objective Type Questions. , OO
+2 £ (ax + byt = nalar+by'-} is valid only when nmustbe:
+
+7 (a) arealnumber | (b) ‘a rational number a
+() an imaginary number (d) anirrational number = == tiy
+13, F; (sina) = ? _ — , a
+(a) cosa . 6) acsa (c)0 ° £°-(d)-acsa © |
+uo Zip@ee@l=% > Qa ££
+(a) f'@+ee)  &) f@O-8@) | ;
+| ©) fF) ex) +f") g(x) @) fF a)ig'(x)— fx) g(x)
+15. [fae G@]’=? _ Ge aa
+@) fA+® 6 Wf We) _ ay
+. ©) fa) gW+P'@ ge) 67 @ fe.e@)-f'@) ee)
+Remember that [fodeo]’= 5 [A@em].
+Ug VW. VIE f@ = = , then f”(@) = 7 Oo > . , _
+(a) -3 (b) “2 - () a (d) ae .
+18. UY) =? a Oo
+@) Rg Fee) oe
+_ » 9 Fe &))g°@) (d) cannot be calculated =
+Remember that (fogy (x) = é K fog)’ (x) |. ae oo
+od y oO , | |
+ag a" =? re ,
+fa ag | b) lg Pg) ot
+© ne@Pte@)  @ war te@®
+NET Past Papers htpsy/edumanias.com’ a . ___ https://Awww.facebook.com/EduManias
+
+NET Past Papers ~ https://edumarias.com/ rep EDU https://www.facebook.com/EduManias
+an. oO oo
+; ro Objective Type Questions | :
+d , Oo | a
+>_ ly =? , ;
+, 20. ay Sec" x ? ; , _
+1 : -=1 .
+—————— | b) =
+- ‘a Ixl Vx? = 1 . Ixtvx?-1 0°. | .
+deh VDE? . ' lel 1422 - a
+21, é cosec"! x = ? a x 7 oo
+(a) ——_—=—— == .
+. “dal Vx? = 1 _ eli? — 1 |
+(————se Q)——===— .
+Ix ¥lex? . IxtW¥lex2
+- 22, The function f(x) =a*, a >0, a.#0, and x is any real number is called
+(a) Exponential function (b) logarithmic function’ moe
+(c) algebraic function + _«(d) composite function .
+98. «If a>0,a #1, andx=ay , then the fuinction defined by y = loggx
+_.. (> 0) is a logarithmic function with base ,
+(a) 10 Me (a @)x
+24. ‘log,a = 2. > pe : oo,
+(a) 1 ba @at ——@)_ not defined
+25. de B10" =? a WG ,
+Nees Fs logt0 > x1n 10 tc) xing @ ing . _
+(a) f (x) _ bb) Inf (x) (c) f(x) (d) f(x) f(y) |
+. 8T. y= sinhy if and only if x = sinh ) is valid when oe ae
+- (a) 2>0,9>0° b)x<Oy<0
+| () eR,y >0- a @azeR,ye R oo
+- 28. y= cosh™y if and only if x = cosh y is valid when _ ) .
+(a) xe [1~), ye (Qo) +. . Ore (Lol ye (0)
+. - (c) x<0,¥<0 a - (d) xeR,ye Ro SO |
+NET Past Papers ‘https://edumanias.com/ : httos:/;Avww.facebook.com/EduManias
+
+NET Past Papers’ https://edumanias.com/: ny. EDU .... https://www.facebook.com/EduManias
+_ Z Objective Type Questions od I _ | - :
+_ 29. y= tanh! if and only if x = tanh yis valid when oo
+a) teR,yeR sO) rE HLL ye R :
+| (xel-ltlyeR | @ x>yr0
+80. y= coth x if and only if x ='coth y is valid when we . .
+ay re Rsye R _. @)rebylbye RO nr
+© @rel-hi¥jye Re) xo, 9S
+81. y= sech'x if and. only if x= sech y is valid when
+' (a) xeR,ye R a (b) ela, Liye R an |
+| @ xel-tiLyeR _q@re (0, 1NVe (0, -} :
+82. ys cosech™'y if and only if = cosech y is valid when _ >
+(a) eeRsyeR > ~~ ) x€R-(,ye Ro)
+| : () xe [-1, 1),yeR > - (@) xe (0,11, y¢ [0,00] S
+a 33. If y= sinh hart) ren dy =? | —e a .
+- (a) cosh ~ (ax + b) Oe 2 (:) =
+| a ~VitGx+ bP Se,
+0— 1) acosh (x46) 0: -
+V¥14+ (ax + 6)? op a ; _
+34. if y = cosh a (see); then = 9 ae | . :
+s fa)ocosex seen, a
+‘© -Si (secs) (d) -~sinh~ (sec x). tan 2 a
+! 35, If yse™ ,then'y. = ? ae a a :
+36, If y=e7* “= = 9 . oo
+~~ yee (a Mae | o ;
+fa) se? th) - ae?) ated) gtertar
+87. ys coslar+b),thnyss?
+(c). -a? cos (ax +) da? cos (ax +b).
+8B P= FO +e fw) + FO) + + TIM O+... iscalled
+(a) Maclaurin’s series expansion (b) Taylor’s series expansion =
+a " (c) Taylor’s Theorem § . __. (d)_-convergerint series ae
+NET Past Papers https://edumanias.com/ ) SO fitips /www.facebsok.com/EduManias
+
+NET Past Papers _https://edumanias.com/ ro EDU — _hittes:/www.tacebook.com/EduManias
+: YA MANIAS ws
+oO Id | Objective Type Questions a ; _ a
+89, texte eert- =? oo, pF
+(a) -s — os (c) + -  @) oh,
+| | [ Hint: Use So= so, witha=1,r=-x ] SS ogtt re ,
+‘0. ae | cayy Preens , a ‘ | ,
+| . ‘ (a) increments of x and y at (x1,41) (b) slope of tangent at, (x1, 1)
+| | (c) slope of normal at (x1, 91) (d) slope of horizontal line at (x, wos
+41. f is said to be increasing on la, b[ if forstigte € la, bf : a
+| (a) f (x) S f(x; ) whenever. nah Y So -
+- | (b) f(xy ) > f (x; ) whenever xy < xj - @& ... -
+(©) fle) < fle) whenbyer sp>r, ._
+eo (d) flv.) < fy ) whenever A < xf > : - . - . " -
+42. f is said to be decreasing ori Ja, df ifforx,,mel,bf 9 7
+(a) f (2) > f(x ) whenever Mo > Hy a a -
+7 _(b) f (ty ) > f (x, ) whenever Xo <%y _— > . oo .
+* ©) f (te) < fly whenever xy > x, a . — ,
+ow (d) flrs) < flr, ) whenever Xy <Xy Le, coe .
+: 43. Wf a@function f is increasing within Ja, 6 [, then slope of the tangent to
+its graph within.Jo, 6 { remains FO , ,
+v (a) positive ; (b) negative ; (c) zero (d) undefined — |
+AA, Tf a function f is decreasing within: Ja, b {, then slope of the tangent to _ |
+-_ its graph within la, d{remains . 7 ,
+. OAT: positive ) negative © zero - (d) undefined oe |
+45. A point where Ist detivative of a funcion is zero, is called _ BO :
+. (a) stationary point _. (b) corner point oo a
+- (c) point of concurrency (d) common point ae
+~ (a) linear -finction | . ; (b) odd function |
+~ (¢). even function - dd) identity function oe | . oe
+NET Past Papers https://edumanias.com/ a https: www feéebook.com/EduManias
+
+NET Past Papers https://edumanias.com/ ny EDU https://www.facebook.com/EduManias
+— : MANIAS. _- ,
+oo, an | Objective Type Questions 13 So
+
+A. The maximum value of the function : f (x)=x2=x-Dig ,
+
+_ @-> W-G @-1 @o- ,
+| A8. ax ‘(cos x) "~ 4 (‘sin x) = ? | - - | ; /
+2 sin x (b) 2cos # (OO . « (d) -2 sin x |
+49. TE f(y = x3 +2v49) then fa) =? . |
+
+_ (—) 32 +2) 8 ROM
+(a) 1908+ ~  &) 108% cose In 10
+) 109" nog? NG) 108 nO
+BL OTR f@e sin ‘x, then fi (cos! 3x) =? . 7 y
+2 (a) cos x 7 by 4 oe (d) 3x
+52. a \e-s] ee Vind |
+Ole OIG Oy wo
+
+5B. Atx= 0, the function f(x) = 1-x3 has | : - .
+
+: » (a) maximum value () minimum value
+
+Ar SS © point of inflection ..  (@) noconclusion — -
+
+\ 54. Ify= Sin Vx , then “i equal to: Bo .
+ae“ Coe . Cos fan : Cosx 7
+| a yy Coe (Cos vx +d) —= 7
+
+55. Let fhe differentiable function in neighborhood of c and. f "(c) = 0,
+Oo then / (x) has relative maxima atc if: vo :
+
+os  @SO>0 WS/O<0 Of'O=0 @f@r0 —
+
+6. sy = (x¥ has the value: . . )
+
+og _ (a) Minimum at x =e (b) Maximum. at x =e . 7
+
+- . (c)Minimumatx=— (d) Maximum at x= ~ so
+NET Past Papers | https://edumanias.com/ ~ —_ - hitps:/Awwiw.facebook.com/EduManias
+
+NET Past Papers https://edumanias.com/ ny EDU https://www.facebook.com/EduManias
+ee 14. Objective Type Questions as
+dx \ Cot x . | : ae oo
+_ (a)-Cosec?x (b)Sec?x (ce) Sectx, - = (d) Sec? x so
+- §8. Iff()=e*,then f” = | oe oo oo
+d any; no : :
+59, —e isequalto . ot .
+- . (a) ets Sec? x . (b) etane (c)e™x InSeckx (d)ewrintany .
+60 BS (In2xy= , ee
+: (a)x? - — (b) 2x? © | (ce) 3x? ~~ p(d).6x? Oo
+61... — (5%) equal: . ; , .
+* (a) 2 6) — (ce) Sin 50 (d)58 .
+62. If y=e, then ys equal: a a a
+(a) 16e  (b)8e% a) ae*™ (d)2e% a
+63. If f'(c) =0, then/ has relative maximum value at x=c, if} _
+— @ f'@>0 “OS"O<0 Of'@=0 None
+64. ~ Cosec x)isequalto ~~. — ha . ,
+(a) Cosec x Cot.x - (b) Cosec x. tan x» (c)~CosecxCotx (d)Tanx .
+_ 66, A function /f is neither increasing nor decreasing at a point, provided =~
+roN that, f(x) = 0 at ‘that point , then it is called : re
+(a) Critical point . (b) Stationary point .
+—._. (¢) Maximum point a) Minimum. point oe
+66. —~ (x-2) is equahto - ; eT
+OS (a) 298 (be 2x? (c)-2x-3 dy -2x oo
+67, —(cds-! ¥) is equal to on Dts
+“She oat oe. wow -
+Wie vent ve H1 vee
+; 68, The function f (x)= ax? + bx +c has minimum value if: | os
+i (aja . (b)a<0- @a=0 (dja=~1 .
+. 69. lim —— is equal to: oe, a
+. ‘ (a) 1 (b) Not exists (¢)-1 (d) Zero oN ee,
+NET Past Papers https://edumanias.com/ | tiffpé-/www.facebook.com/EduManias
+
+os
+NET Past Papers https://edumanias.com/ EDU https://www.facebook.com/EduManias
+; , MANIAS: oa ;
+- Objective Type Questions IO.
+10. l-xtx- x8 +x! to, + (ly +.,..is-the expansion of:
+(a) —— b)—- — o> sd) .
+.  l=n ler vl~x vl+x . .
+. 71. Derivative of y= —x +—Y is: i oO
+; (a) (fe) (b)3x3 + 2x? (ce) 3.8 (d) None of these
+2 72 If f'@)=0..f7 WSO atapointP, thenPisealled =
+)  .-(a)-Relativemaxima . | ' (b) Relative minima ==
+(c) point of inflection —- — (d)None ofthese ye
+73. lf / be a real valued function, continuous in the interval Jx,x,{eDe ©
+then the quotient — is called
+Co ' (a) Derivative of f (b) Differential of f - i
+. a (c) Average rate of change off. (d) Instantaneous change of f ~ .
+. TOU f bea real valued function. contintious in the interval } x, x, [eDp °.
+- and if xox —a 2 AY exists then the quotient is eee . ;
+: ) 4a) Derivative off eC (b) Differential of f oe
+(c) Average rate of change off (d) Actual change of f °
+| 75. TE PQ) = xt +273 +2, then fOr | . |
+a) 0 4 dd), a
+<@ 76. If g is differentiable function atthe point x and f is differentiable at
+ae point g(x), then (fog) (x) or dx (foghx) =
+| (af @agiay (fo goa ©) f'(gin.g'w. af’ (g' :
+tw. If y=sinh _ Oe ) : then dx 7 . :
+‘ 8) A ee == = \d@) = .
+. UN « ”) Viex Vive © Viex
+. 78. ifxand A are two independent quantities and f(x +h) canbeexpanded
+. * imaseending powers of h as an infinite series. then _ .
+ww : wy h2 ne . ht (71) ‘ | | :
+fer i= firth fat so fw tt mi 7 (x) +. is-called
+~ (a) Power series (b) Maclarine series (c) Taylor series (d)all of these .
+99. A function fix}is stich that, ata pointx=c, f (x) > 0 at x=c,then - ,
+SO - fissaidtobe - oe rn an )
+(a) Increasing (b) decreasing —(¢) constant - (d) 1-1.function .
+NET Past Papers https://edumanias.com/ | De — https://www.facebook.com/EduManias
+
+NET Past Papers https://edumanias.com/ , EDU https://www.facebook.com/EduManias
+: : MANIAS ,
+oe :__ 16 : Objective Type Questions —_ oo
+: 80. | Afunction /(x).is'such that. ata pointrse, f" ia < 6 at x=cthen
+- fis said tobe ne
+; (a) Increasing’ (b) decreasing (ec) constant (d) 1-J function
+81. A function /(x) is such that, at a pointx=c, f’(Q)= 0 at x=c. then
+_ fis said to be , es
+(a) Increasing _(b) decreasing — (c) constant (d) 1-1 function |
+82. A point where f is neither increasing nor decreasing is called ——
+iprovided that f'..) =Qatthat points . . ,
+. +, fay.stationary pomt. | (b> turning point DS
+oe {c) critical point _ ~~ (djypoint of inflection .
+83. A stationary point is called ——.if itis either a maximum point or a .
+- minimum peint.. a | —_ —_ ~
+(a) stationary pomt “ .-  — (b) turning point. -
+(0) critical point @ > ~~ (dj(point of inflection
+- 84. Tf f'(c) =0 or fe) isatndefined, then the number cis calledcritical
+_ ~ value and the corresponding poirtt 18 called ———_ . .
+, ~~ (a) stationary pomr— 6. (b) turning point * ce
+— (c) critical point: ; (d) point of inflection .
+85. If f "(c) does not change sign before and after x = ¢. then this point is
+called ~~. wae :¢
+(a) stationary point _ . (bh) turningpoint
+0) critical point (a) point of inflection =
+: |Note. “Everyestationary point is also called ‘critical point but the converse|
+| may or may not be true. See 7 |
+—-, §86. Let f bea differentiable function such that f "(c) =0,then, if f{'@
+_ ) changes sign from positive to negative. i.e., before and after x = c. then
+— ifteecurs velatives——atx=c; 5 | a Se
+> (ayznakimum, (b) minimum (c) point-of inflection d) non
+- 87, Let f bé a differentiable furiction such that. f' (¢) =0, then, if f (x)
+. changes sign from negative to positive, 1e:, before and after x =c, then |
+. : it occurs relative —— at x =e. . a
+, (a) maximum -(b). minimum: (c) paint of inflection (d) non
+88. Let f be a differentiable function such that f’ (c)=0,, then, if f' (x) .
+does not change sign ie., before and after x =c, then it occurs ---at x =c.
+NET Past Papers https://edumanias.com/ | https:/www.facebook.com/EduManias
+
+NET Past Papers httos://edumanias.com/ ny EDU https://www.facebook.com/EduManias
+. oo MANIAS . Jot
+wae , Objective Type Questions 7 _ . —
+a (a) maximum (b) minimum (¢) point of inflection (d) non -
+89. If f= Nel then f” (0) = mo |
+et be mC @ IR
+a 90. f. (tan x—cot-Iyy = - 7 oe 7 . ;
+So — View bie ©20 @) -The }
+91. If ((2) = tan, then f’'(4)=, , a . Sas .
+(a) @? (b) -7*. ge) T- dd)
+a) 0. (b) f(@)- “Of @f@ -
+98. If f @)=4 , then a critical point of f is. SS ,
+a (a}0 -  () 1: (c) -1 @) no point :
+<) ‘TYPE 1: [Multiple Choice Questions (M. C. Qs) I an
+ae if yEf (0. then differential ofyis . | Oc ,
+lady =f' GQ), (b) dy=f' (x) de (0) dy=f (x)dx @) Gy |
+2 Tf [f(x dx =6@) +e, then / (x) is called
+- (a) integral (b) differential (c) derivative (d) integrand -
+| 3. Tf ni Ande flax +b)" dx'= a, ; co . LO
+| | n(ax + pyri (ax + byt (ax + pyntd - (ax + pyntl
+(a) Qo. (b) n (c) n+l (d) a(n + 1) eS
+4, fsin(axtb)de =? 0 a . | |
+(a) — 3 cos (ax + 6) — &) Gg cos(axtb)
+, a (c) acos (ax +b). oe (d) -acos (ax + 6)
+NET Past Papers hitps‘//edumanias.com/ , . . . nttps:/vww.tacebook.comv/EduManias
+
+NET Past Papers https://edumanias.com/ ny EDU . https://www.facebook.com/EduManias
+; | . MANIAS. ) |
+__ Ie ; Objective Type Questions _ |
+a fede ee
+ey te | FA @
+6 fade = 2 ee oe
+os ght - Ax ght :
+a @ oP ©) ing ©. GG o@a® rina
+7 SLAG Fade 2
+@ GE wre © @arer
+. ee Ae ©) Injf{), @) my fey
+. 9 a can be evaluated if : ; ON : -
+_ (a) x>0,a>0 -(b) x£<0,a50(0) x<0,a<0() x>0;a<0 ©
+10. [== dx =? Sy |
+a) V243- ) -yx2 +3 © NEES (d) 5 V2+3 oo
+oll. ja” xdx =? =: “ . a OS |
+=a) Ina Oona © e dna @) ©) )
+Ta fe [a f@)+ fA) }dx = ? oT
+@ A FQ) OXF) © ae*f@ Mae fay
+“a3. J eX | sin x+ 0s x] dx = ? OO a
+fa) “et sin ~(b) e% cosx (ce) -e* sinx d) -e% cosx
+14. - Td determine the area under a curve by the use of integration, the idea
+was given by | yo : Co
+(a) Newton (b) Archimedes (¢) Leibnitz (d) Taylor =
+'. -15., The order of the differential equation : x oy + a —2x=Ois— .
+@ 0 () 1 -©2 .@ morethan2
+NET Past Papers https://edumanias.com/ | oo OO https://www.facebook.com/EduManias
+
+NET Past Papers https://edumanias.com/ ny EDU. https://www.facebook.com/EduManias
+a a Objective Type Questions J SN ee
+oe 16. The equation yax 2s +c represents (-c being 4 parameter )
+my (a) one parabola : Oo (b). family of parabolas :
+(c) family of lines’ (a) two parabolas
+et. feSiN® cose de = 2 : oe |
+SO , . an esin x -. gsin x
+, Xo cos . —_—_ » gun
+-(a) eine (b) e / © sinx (d) COSX .
+1B. S (2x4 3)1/2 dx =? a oe
+0 (a) g (2x + 3)° -  () 3 (2x +3). = (©) 3 (2x +3) “(d)None 4
+19. J x’ dx = T+]. is true for all values of n except a
+(ce) n=-1- oe > . , (d). n= any fractional value = -
+ee ; owlatea). —.. (a= =a) ‘ my
+a) @-aina OG “Toga (@?=a)Ing.
+oo _ eTan=lx soe. a oe
+pi (a) ‘Seo tx +c (b) Tan! x +c (¢) Cott xte - (d) Sin7! x +¢
+: DB [sin dxdxisequalto: = So - .
+mae - Cossx 2°. Cos3x oe ;
+mw (a) eee (b) “a Fe (c) 3 Cos 3.x+ce (d) -3 Cos 3x
+OTE | P(x)dx = 5, [g(xar=4. then’ [3/ (x)de— [2g(x)dv SO
+7 . falnfix)te. hpef+e / (c) In I (a) +e {d) ete oo
+NET Past Papers https://edumanias.com/ ne ~ https://www.facebook.com/EduManias
+
+NET Past Papers https://edumanias.com/ ny _ EDU https://www.facebook.com/EduManias
+, ; ae 20 Objective Type Questions So “
+- tay—Sinx+c (by Sina +c (ce) -Cosx+e (d) Cos xte. . 0
+27. Ifa>OQanda # 1 then, Ja‘dx = os oe ) a ;
+Oe (aja* +e - (b) a* Ina +c (c) —+c . (d) ——+¢ ne
+- (a)tanx+e (b)tantaxt C (c) Cot x +e. (d) Cot! xtc y
+(ane (by ln f(x) eotchin FW @) f'@) Inf) |
+30. [—- is equal to: ° -
+- (a)in yte (b) te (c)In(lnxte (d) In (n(n y)tc |
+31. [sec xdx is equal to: > — a ' .
+- ) (a) In (sec x + tam) +¢ J (b) In (cosec.x—cot xy+e > ,
+.# (ey I isec av = tan a) hc (dj -In (cosec x — cot x) +c
+cosvdy —— oe
+. 32. | —-—_—— is equal to: : a
+sin.v.Insiny ; a : oe
+(a) In (In (cos x)) +. (b) In In (sin x) + ¢ (c) Insinx +c (d) In cos x+c¢ -
+; 33. The solution of differential equation - = sec? x is co
+> (a) y=cosx+e (b) y=tanx+c ‘()y=sinxt+e(d) y=cotxte
+Bd. “f Bedris equal to + 7 : oe
+, ao m7. 4  —@O Pg
+; (a) =>>-Aa sin bx.- b cos bx) + ¢ | (b) ———~.(b sin bx + a cos bx)
+(c) ==> (a sin bx +.b cos bx) (d):—,—~ (6 sin bx - a. cos 6x) ,
+GO. _(b) [reards yo © [foyer (d) [rend ;
+NET Past Papers https://edumanias.com/ ae htips://www.facebook.com/EduManias
+
+NET Past Papers https://edumanias.com/ ny EDU https://www.facebook.com/EduManias
+) Z Objective Type Questions — ae a
+37. |-——~dx equals; . .
+(a)—In|ax+b| = (b) In Jax+bl. oar - (d)inix+d]
+38. In (@ —a°)” dx,, the substitution is: .
+| (a) x=atan 0 (b) x.=a sec 6 © x=asin9 (d) x=2asin0 -
+39. [x cos x dx is equal to: + . . q : re
+~ (a) sin x + coax” (b)cosx~sinx (c)xsinx+cosx (d)None' 7
+40. feos 1 dt = 7 . mo | — 7 a
+= (a)—--— . (b) —+=—. () ---— _ (d) None ~~
+41. Solution of differential equation Th =2i-7 is: .
+(ajc=P- 7H +c: (b) B+ Tt Hel) v=t-  - ()v=#-Tt+e
+42. Inverse of ee iss | >. |
+| yd : A — @d/ @ as ,
+OY Oa OY yD My
+am 43. The suitable substitution for fv 2ax~x° dx is: , os .
+oy @) x-a=acsd = () x-a=asin 8. . .
+ @Oata=asngd «=. © ~ d) x+a=acos.0
+(44, { u. dy. equals to: ON ;
+\ ~ (a) v.du = uu _(b) uu + fv du (c) us Jv du (d)u.dut [odu
+46. in x dx equals to: : : - a oO
+~~ B26 -0)0 . @2 (d) 1 . .
+_, 46. The general solution of differential equation dxa 7 y 8h
+. , @yre b)r=e (ce) xy =e (atytse
+2 oo fayingxt+ 1) @)In(xt+D-x = (©xtIn(x+1) | @) None
+NET Past Papers https://edumanias.comn/ a an - "--Rttps:/4www.facebook.com/EduManias
+
+NET Past Papers . HS o' ERs | TPS iwnwnnr Facebook com/=aulvanias
+: 22 | Objective Type Questions eo .
+48. fsin’ x cos x dx / a 7 a | |
+(a) sin’x  @) sin?x ©. | int (d) sin? an
+—_—— — gi -- , = ;
+49. fx e dx - | fC
+(a) xet +x (hk) xev=e* (0) ex oo (d) None of these .
+. a b)—.: @©-— (d) None of these
+| OF a) 2 , &
+_ 51. Solution of differential equation x 1s:
+(a) yrcex — (b)y =cet  (e) aye 7 (d). None of these '
+62S f@.g' dr = | y CD og .
+——@ fdgt)-fe@hfcad> © fO)g)+ [gS Gd
+OS ODBC) - [eM Odr @ fx).g'@)+ fe@Of@dr
+oa feqtaitydrs
+ @et wee @etinx  @-emy
+om 4. J sind = —- a
+(a) 2 (b) - 2 (c) 0" ‘@)-1l ce
+! ar (b)- — > _ d) — :
+| {a) _ )-5 7 (c) 2 (a) 7
++ 56. tf f (x) dx = 6, b g (x) d= 4, then { [2f(@@)+3e@)]dx=
+80 23 @2 c,
+57. . J (4xt+h) dx = 2, then k= | 8
+ae (a) 8 (b)-4 @0 @)-2 So
+NET Past Papers , https://edumanias.com/ - a htipa/wwnw facebook.com/EdiManias
+
+NET Past Papers https://edumanias.com/ ny EDU https://www.facebook.com/EduManias
+co Objective Type Questions 2h tt |
+ME Ge Ta ae) = Gea pe ten? | J mep o |
+
+(a) = . (b)-> * ©) = - dy
+59. Je 2 SCX goo vtan xdx = - ; 7
+ta) | asccx (bye 2 8x ~ (c) ¢ SC " 4) I e sec x oT
+60. Solution. of the differential equation : dx <> is :
+(a) y=sin” x+c (bt) y=cos'x+c@ipmtan' xe (d)Non
+xpi &% - ,
+61, J e (5 - y de = oo »
+(a) e* — (b)-e"-—¢ ~~ ac) e* Inxs () -e*
+Unit - 4 (Introduction to AnalyticGeometry) a |
+.TYPE-1: [Multiple Choice Questions (M. C. Qs) J. 4 | BS
+| Each question has four possible answers. Tick ( \ ) the correct one. oe
+oA If x< 0, ¥<0 then the point P(x, y) liesin the quadrant, | . ;
+| @lo) H- @M @NWe. so.
+2.0 The point. P ina plane that corresponds to the ordered pair (x, -y) is
+called . ~~ > ON ;
+cy } (a) graph of (x, ) . . > (b). mid-point of x,y. .
+»  —-{¢) abscissa of x, y 7 —-d) ordinate of x,y + :
+3 If x<0, y>0 then the point P(—x, ~ y) lies in the quadrant
+. (al ‘or om @w oe
+- 4. The straight line which passes through one vertex and through the mid-
+point of the opposite side is called _ -
+(a) median ~ (b)altitude ‘(c) perpendicular bisector (d) normal 7 -
+5.‘ The straight line which paases through one vertex and perpendicular too:
+the upposite side is valled | oe
+- (a) median (b)altitude  (c) perpendicular bisector (@) normal
+NET Past Papers https://edumanias.com/ ; https://www.facebook.com/EduManias
+
+NET Past Papers ‘https://edumanias.com/ rep EDU https://www.facebook.com/EduManias
+a, ae Objective Type Questions. = tC
+» * 6. The point where the medians of a triangle intersect is called —— of the =
+(a)centroid ._. (b) centre _(c) orthocentre (d) circumcentre
+" . 7. "The point where the’ altitudes of a triangle intersect is called ~——ofthe
+; triangle = Be op
+; . (a) centroid (b) ‘centre (c) orthocentre — (d) circumcentie
+8. The centroid of a triangle divides each median in thelratio of. a
+fy 2 b) 1:2 @- 4:1 + (dj mOne ofthese
+_ 9.’ The point where the angle bisectors ofa triangle intersect 1s called —
+vo , of the triangle : a -h—C<i—<~‘C OF re i
+: (a) centroid - © (b) inventre y (c) cireumeentre (d) orthocentre.
+“10. Ifxand-y have opposite sighs then: the point P(r, 5) lies in quadrants ~~
+— @) T&L OY I&Ub OP N&IV @I&IV
+AL. A line bisecting the 2nddnd 4th quadrants has inclination :
+a) OO) 35) we oo
+12 y =xisthe straight line ' oN . -
+oo ~ (a) bisecting the Ist and 3rd quadrants (b) parallel to x - axis
+-  @)(c) . bisecting the 2nd and 4th quadrants. dd) parallel toy-axis
+$3) if all the.sides of a four-sided polygon are equal but the four angles are
+. — yeeetot equal to 90° each then it is a -_ .
+7 (a) Kit ‘(b) rhombus _ (© parallelogram (d) trapezoid . °
+14. If ais the inclination of a line / then jt must be true that SO
+\{a) Osa<9 Do —— (b) 2 <a<7 . : :
+—  ( Osacm dy OS a< Qn a
+“115. > The slope-sfitercept form of the equation ofa straight lineis
+pata ys te -  (b) yyy = m(x- x) .
+(c) 7 + ; =>J -.: (d) xcosat+ysina=p -
+16. The twosintercepts form of the equation of a straight line is i
+a (a) y=mxte Se . 0) ‘yay = me 4}) a aa
+. we He = 1 mo (a), xcosat+ysina=p a
+NET Past Papers https://edumanias.com/ - a “https.//www facebook.com/EduManias
+
+NET Past Papers _https://edumanias.eom/ 9 MaKA 5 https:/www.facebook.com/EduManias
+: | | Objective Type Questions _ 2 oo
+. 17. _ The normal form of the equation ofa straight line is ‘" an
+7 (a y=mxte oo (b) Y—Jy = M(x - x) _
+. (c) 2 + =] oo . ~-@) xcosa+ysina=p |
+| 18. Inthe normal: form x cos 0 + y sin a =p the value of pis | | |
+. (a) positive (b) negative () positive or negative (d) zero -
+19. If ois the inclination of the line | then a r (say)
+: me COR SIMA |
+is called a > ' 7
+(a) point-alope form _ “@) normal form . . , :
+, (c) Symmetric form. (d) fone of these : ; a
+7 20. The slope of the line ax-+ by +¢=0 is - . a oO
+@f o- Note o-% |
+"21 The slope of the line pérpendiéular to ax + by +c =Ois . | : ,
+22. The General Equation of the straight line in two variables x and y is , . :
+(a) ax+by +e=0 ; ~ (b) G2 by +c=0 Oo
+(c) ax+by2+c=0 . (d)' ax? + by? +c=0 sc
+23.~ The x-intercept 4+ 6y = Wis es
+Oe (ne @2
+7 24. The lines 2x +y+2=0 and 6x+-3y ~8 =Oare |. —
+. (a) parallel (b).perpendicular (©) neither (d) non coplanar - oe
+25.2 The point 2, 4) lies ——— the line 2x + 5y~-3=0 , - a
+(a) above (b) below (c) on , (d) none of these a
+“926. | If three lines pass through one common point then the lines are called |
+(a) parallel (b) coincident © concurrent (d) congruent )
+QT, Oxtyt k=0 ( k-being a parameter) represents . Coe -
+. (a) one line’ | | my (b) two lines | .
+- () family of lines Oo (d) intersecting lines _
+28. If the equations of the sides ofa triangle are given then the intersection
+. of any two lines in pairs gives —— the triangles. - . .
+(a) vertices. (b) centre (c) mid-points of sides , (d) centroid |
+NET Past Papers ) https://edumanias.com/) se, httpsi/hmww facebook com/EduManias
+
+NET Past Papers _https://edumanias.com/ 9 EDU — _hitos:/www.tacebook.com/EduManias
+: MANIAS Zs
+: 26 Objective Type Questions oe _ wae
+29. A four-sided polygon ( quadrilateral) having two parallel and two non.
+parallel sides is called’ -—_——. ”
+oe (a) square _(b) rhombus (c) trapezium (d) parallelogram a
+30. ~ Equation of vertical line through (- 5, 3)is : - oan
+a (a) x-5=0 (b) x+5=0 “{0) y=3=0 (d) y+3=0 _
+Bh. Equation of horizontal line through i 5, 5) is. . » . | _
+) fa) e-320° tb) xt5=0 (c) y-3=0 ~ (d) ytB=0 . | y .
+$2. Equation of line through (- 8. 5) and having slope undefinedis ws
+ay xt8 20. “yx-8=0 @yBe0 @Myts=0
+33. If be the angle between two lines 1, and 1, with slopes m, and m,,then = >
+angle from /; to l, 1s given by 7 se ~_
+OO Nk, — mn, +’ : rn Se .. my - my ~» :
+(a) tang= 1+ my + <b) tan d= T+ mm, q >. :
+| (c) tan d=. Tym; : “(d) tan = Tomy oe
+34. If @ be the acute angle between two lines 1, and; with slopes ni and
+ m,, then acute angle from |, to Jyis given by — - an
+~ (e) wip |e dd) tang= fe Se
+‘35. Two lines l, and l, with slipes m, and my, are parallel if |
+UX a) my - my= 0 (bj Mm) + m,=0 (c) my my=1 (d) m, My =-l "
+: 36. Two lines hy and J9 with slopes my and mo, are perpendicular if co :
+~ (ayng= ng Ab) m +m, =0 (c)nt, m,=0 (a) mym, =~1 7 .
+37. Fora homogeneous equation of degree n,n must be — :
+; . (ajan integer ) positive integer (c) rational number d) real number |
+38. The equation 102 - 23.ry -5y* = Dis homageneous of degree .
+-  @ 0) HL 2 A) morethan2
+- 39. Every homogeneous equation of and degree in two variables represents )
+| 7 (a) a line: (b) two lines (c) two lines through origin (d) family of lines | .
+NET Past Papers , httpS:/ledumanias.com/ | . https://www.facebook:com/EduManias
+
+NET Past Papers _https://edumanias.com/ 9 EDU https://www.facebook.com/EduManias
+MANIAS
+oe Objective Type Questions - 21 ee
+40. Two lines represented by ax2 + Qhty + by2 = 0 are real and distinct fo |
+, (a) A2-ab<0 (b) h2-ab=0 (©) h2-ab>0 W@A=O )
+41; Two lines represented by ax? + ghey + by2 = 0 are coincident if oe
+~ @), h2-ab<0 ; (b) h2—-ab=0 © h2-ab>0. @h=0°
+42. Two lines represented by ax + 2hxy + by? =0 are imaginary if oo |
+- @) h2-ab<0 0) A2~ab=0. (-) A2-ab>0 Ph = 0 -
+43. The equation 10x2 — 23xy - 5y* = O representaa pair of lines which are
+| | (a) real and distinct _@ > &) real and coincident .
+, (c) imaginary (d) parallel ; |
+44. Two lines represented by ax” + 2hap+ by = 0 are ape Malar if ;
+—  @) a=b )) *@ ach Mash @)asb
+; 45. If A(-2, 3), BC4, 1) and C(35) be the vertices of a triangle then its
+' centroidisgivenby “We q oo
+- (a) ( = ; ) ~. (b) G1, 3) . (c) 3, 4) d). none of these
+. 7 46, » The lines 3y = 2x+5 and 3x + 2y ~8= 0 intersect at an angle of
+VY @F oF @ @o
+7 47. The equation 10x2 — 2aay —5y2 =0 represents . 7: , a
+;  @ ‘a circle a ; by ‘a straight line , |
+: (c) a pair of lines a (d) a pair of circles -
+. ~ 48. The point P(x, y) is in the 2nd quadrant if | | 7 - SO
+>, (a) 20/5 <0 | ) x<0,y<0 © <0, y>0 (a) >0,y>0
+| 49 The slopé of y-axis is 7 _ ; | a
+: (a) ©) undefined (©) tan 180". (@) tan 45°
+"60. The equation y*—16 =0 represents two lines’ a . )
+x (a) parallel to maxis 7 (b) parallel to yeaxis: Ta,
+. : (a) not parallel to x-axis a (b) not parallel to y-axis ’
+51. The perpendicular distance of the line 3x + 4y +. 10=0 from the origin is
+. ft) 0 QL @2 @3 7
+NET Past Papers _https://edumaihias.com/ ~ : " _ Attps:7Awww:facebdok.com/EduManias
+
+NET Past Papers https://edumanias.com/ ny EDU https://www.facebook.com/EduManias
+_ a” . . MANIAS | 7
+28 Objective Type Questions _. ~—
+52. The lines represented by ax? +2hxy + by2 = 0 are orthogonalif.
+— (a) a-b=0 —.(b) a+b=0 (cd at+b>0. (d) a~b<0° a
+53. The lines lying in the same plane are called . ) : :
+an (a) collinear (b) coplanar () non-collinear (d). non-coplanar * a
++54.” The distance of the point (3, 7) from the x - axis is os
+(a)-7 o-7, ©38 © @B . |.
+55. -Two lines a,x t by +e, =0 and a,x + b,y +i, = 0 are parallel if | | €
+7 ay by a} "ag. by b2 Qe O°
+(a) a3 ~ by @ by ~ by © C] (eg (d) C} 2 ; |
+56. Every homogeneous equation of second degree axe + Qhxy + by2= 0 —
+represents two straight lines , . Se
+(a) through the origin 4 (b) not through the origin . ) .
+- ()’_-two parallel lines (a) two perpendicular lines
+57. The distance of the, point (8,7) from the y-axisis — ae .
+| THATS OB MB
+_ 58. The point-slope form of the equation of a straight line is | a
+am y=mxte | (db) y= 9 = m(x- x) oe
+. Oo +421 —  (d) xcosatysina=p a
+59. The equation OX + 24xy + 16y2 =0 represents a pair of lines which are_
+NG (a): real and distinct | (b) real and coincident ,
+a © imaginary _ — @ perpendicular - | 1
+> 60. Let p(xiy.y1) be a point in plane not lying on £ -ax + by +c=0, then point +’
+9p, ‘Plies above (iff a os :
+(aan + By, +e=0 - (b)am + byte # 0 }
+a (chan tot c<0 oo @an+tbnte>0 7 i
+61. Ifmiand mare the slopes two orthogonal lines then: | ,
+oe (a)mi.m2=1 ((b)mi.me=-1 ()mi.meso (d)mi==m:2 .
+_ 62. The lines represented by the equation ax*+2hxy+ by? =0, are coincident if.
+(ada+b=0 (b)A?~ab=0 (c)A?+ab=0 (d) None mS
+| 63. Equationofx-amisiss ©. + Se
+(ajx=0 sb) y=0 . x=] d)y=1 . i
+NET Past Papers httos://edumanias-com/ ~— -—__— -—https-/www-facebeetceom/EduManias
+
+NET Past Papers https://edumanias.com/ ny EDU . _ https:/Awww.facebook.com/EduManias
+a | Objective Type Questions
+64. The equation of y- axis is: oo. . , .
+(ax =. (b)3=0 0 © (e)x=l -(djytlo oo. . .
+66. The tines f,:aixt+ br y' tc =0 and / +2 a2x + by y+ c2 =O are . se
+perpendicular iff © po! oO
+. iajaiby - a2b,=0 (b) aby + a2b1= 0° soe
+ay ay — bbe = 0 -  A)aiaz + bibs= 0 a
+66. } 2 une & intersects x-axis at a point (3, 0), thefi the x-intercept of the
+oo 67. Altitudes of a triangle are; » a 7 |
+{aj Parallel (b) perpendicular —_(c) Comeurrent, )y(d)/Non concurrent
+68. The perpendicular distance of a point Pix: , yifrom the line —
+— fraxtbytco=Ois _
+lay by tol ON fax, tby, te)
+| @) d=. re | 0) dé! toy ee | a
+a . ax, +by,+e)0 fax; +by, +¢| >  —
+(oa= Metal ey ff @ d=
+69. Second degree homogeneous equation is: ae a
+: —(ajaxrt+bxtc=0° ..°. (bl ax8+ bx? +ex+d=0 .
+- (axt+by+c=0 | (d)-ax? + 2hxy + by? =0- _
+' 70. Ifa straight line is parallel to x -axis then its slope is: OS :
+. (a)-1 b)0 . .@1 _(d) Undefined | a
+. 71. The distance between(1,2)and(2,1)is: — a |
+~ @ 2  ©2  @rvs
+72. Intercept form of equationofline is; © = . oy .
+(a) 420 w27+2=0 E2221 @ ~+2%21 |
+~ 4 by ~~ a b ab ab.
+78, The perpendicular distance of a line 12x + 5y = 7 from (0 , 0) is:
+oe Na). o- © (djl .
+~_»974. Line passes through the point of intersection of two lines £,and £, is: }
+aire = kel, (b) £t+kl,=0 (0) 4, +k£,=2 (d) Both () and (©) .
+75. The coordinate axes divide the whole plane into—— equal parts
+2 4 8s @) infinity many
+76. Ifbis positive, then the liney=blies — BO
+_ (a) above the x-axis , (b) above the y-axis
+. _ (c) below the x-axis _ - (d) below the-y-axis os
+77. A linex=a ison the right of y-axis ifa= | 2
+a (a) positive (b) negative a (c) 0 (d) any real number i
+NET Past Papers ~ hittos://eduinanias.com/ _ https://www.facebook.com/EduManias
+
+| | tf EDU . |
+NET Past Papers ; https iledumanias.com/ 9" MANIAS "tpsilww fagebook.com/EduManias
+Be | : _ Objective Type Questions oe os
+78. If Ie+5y+h=0 and kx+10y#3=0 are parallel lnes thep k = |
+/ (a) 25 25 @2 ad) 3 oO :
+Unit - 5 (Linear Inequalities) _ - a | .
+_. TYPE-1: [Multiple Choice Questions (Mi. C. Qs) J. :
+Each question has four possible answers. Tick (V) the correct one.
+‘1. The solution of ax + by <e is a > . —
+-  (a)closed half plane |, ~ 0) open half plane | ,
+» {c) circle a (d) parabola | F
+2. A function which is to be maximized or minimized iscalled .
+. (a) subjective function 7 , ~~. (b) objective function — ,
+. (c) qualitative function | (d) Guantitative function ,
+‘3. The number of variables in ax+by<e ‘are. oN - .
+7 @1) ha ws “@4
+4. (0.0) Is the solution of the inequality —_ . - )
+(a) Tx + Qy >0 (b) ayy >0 (c) x+y20. _ (d) . 3x4 5y <0 . |
+Bef .0) is satisfied by - | 7 , . | :
+/ (a) x-y<10 , (b) 2x4 By > 10 (¢) x-y> 13 (d) None |
+_ 6. sThe point where two. boundary lines of a shaded region intersect is |
+called. ye | So
+- > _ fa) boundary point . . (b) corner point i
+Se ‘(c) stationary pomp (d): feasible point | .
+Sr eb then So a
+NS @ 8 mid r<b Mab
+8. | The symbols used for inequality are oe _ oo
+ @ TR Os  @4 ,
+ . 9 Alinear inequality contains at least _ variables
+(a) one — b)two : (c) three (d) more than three _
+, 10. An inequality with one or two variables has —— solutions a .
+(a). one. (b) two (c) more thantwo (qd) infinitely many
+NET Past Papers ~_https://edumanias.com/ “ httpsi/iwww. facebook com/EduManias
+
+NET Past Papers https://edumanias.com/ rat EDU . _https://www.facebook.com/EduManias
+a 7 Objective Type Questions . 3b
+ll. axtby<e is not a linear inequality if ” .
+| @)a=0.b=0 ) a#0.b40 © a=0,5#0 (A) a0, 6-0, c=0
+42. The graph of a linear equation of the form ax + by =c is a line which :
+‘divides the whole plane into —— disjoint parts oo |
+(a) two (b) four (c) more than four (d) infinitely many -
+13. The graph of corresponding linear equation of the linear inequality is a
+- ‘line called ———. = = ; i ,
+(a) boundary line ‘ ~-() horizontal lite -
+ e) ‘vertical line . _ (@) inclined line G@
+14... The graph of the inequality. x <_bsis — ee
+| (a) upper half plane "4 (b) lower half plane — .
+| ~~ (© lefthalfplane @°  (@) tight half plane. \°-
+15. The graph of the inequality, y < b-is Q »
+(a) .upper halfplane’ => (b) lowerhalfplane
+. (left half plane) (d) right half plane :
+16. The graph of the inequality ax + by < c is —sideoflineax+by=c
+. ‘ (a) - origin side —(b) non-origin side (right -(d) lower |
+17. The graph of the inequality ax+by > ¢ is—— side of line ax + by =¢
+o~ >» (a) origin side. (v) non-origin side (c)upper (d) left | ; ;
+8. ) The feasible solution which maximizes or minimizes ‘the objective
+| 7 function is.called . oo
+. (a) exactsolution . ; (b) optimal solution
+(©) final solution yO (d) objective solution .
+, 19. Solution space consisting of all feasible solutions of system of linear in
+> inequalities is called: . - .
+~ {a)F easible solution _ (b) Optimal solution
+‘(c)Feasible region _ (d) General solution oe
+20. Corner point is also called: ".
+(a) Origin (b) Focus (c) Vertex. (d) Test point .
+: 21. For feasible region: .
+(ax2,y20b)xs,yS0 ©x2,750 © (djxS,y2 0.
+22. x=0 is in the solution of the inequality: | 7
+(a)x<O (b)x+4<0 (c)2x+3>0 dj 2x+3<0
+23. linear inequality 2x —7v> dis satisfied by the point ml ,
+. (a) 5, 1) © {b)(-5,-1) ©) 0,9) (d) (1, -1) |
+NET Past Papers https://edumanias.com/ . oo ~Hittps://www.facebook.com/EduManias
+
+NET Past Papers https://edumanias.com/ ny EDU https://www.facebook.com/EduManias
+; ; MANIAS ©.:
+: lon Objective Type Questions |
+: 24, The non-negative constraints are also called:
+- (a) Decision variable - _(b) Convex variable — ,
+a (c) Decision constraints . (d) Concave variable — .
+25. If the line segment obtained by joining any two points of a-region lies |
+entirely within the region, then the region is called ; , a
+- (a) Feasible region (b) Convex region . /
+- -  (c) Solution region . — + ~— (d) Concave region
+_ Note that. . a |
+. Not convex - Genvex |
+[Unit -6 (Conic Section) —_. him _ |
+_TYPE-1: {Multiple Choice. Questions (M..C. Qs) ]. y .
+. ‘Each question has four possible answers. Tick (\ ) the correct one.
+1, The locus of a revolving lineqwith one end fixed and other endonthe )
+-.-—_- Gireumfererice:of a circle is called —— a .
+| a (a) a sphere (b) acircle - = ()'acone . (d) a conic
+. 2, Let A be any fixed point. All the lines through A and the points on the .
+circumference of a circle generate. . a
+—<&  (a)asphere —  (b)acirle § (@acone (@) a conic .
+_ 8. A line which is perpendicular to base of a cone and passés through the
+~~ vertex ofthe ¢oneiscalled  ° ~~ | | a,
+\. ~ (a) ruling ‘, &) nap (c) vertex  (d) axis”
+4, “A point where rulings ( generators) of a cone becomes common is called
+(a) centre ~ (b) nap . (©). vertex (d) axis -
+5. yo lfa cone is‘cut by a@plane perpendicular to the axis of the cone. then the. _
+| conicsectionis oe, /
+. (a) cirele  (b) parabola _—(c) ellipse (d) hyperbola |
+6. If a cone is cut by a plane passing through the vertex of the cone and
+perpendicular to the axis of the cone, then the conic section is 7
+~ (a) point-circle (b) parabola (c) ellipse (d) hyperbola
+NET Past Papers https://edumanias.com/ ; woe https://www.facebook.com/EduManias
+
+NET Past Papers https://edumanias.com/ Hy EDU https://www.facebook.com/EduManias
+oe . ‘ MANIAS —=.-. ,
+eo! oo Objective Type Questions | - BS
+Gf the cutting plane is shghtly tilted such that the plane is not -
+perpendicular to the axis of the cone. then the conic section 1s. ;
+x -(ap errcle ch) parabola - (c) ‘ellipse rm (a) hyperbola
+_ »  & ‘Ifthe cutting plane is parallel ‘to the generator of the cone but cut only
+. ore nap of the-cone,’then the conic section is BS
+4a) circle ws by) ‘parabola __-{e) ellipse (d) hyperbola.
+, oO if the cutting plane -is parallel to the generator of the cone and cutting
+so ~~ both the naps is called «| Ae oe a » . .
+(ay circle .*<(b) parabola E “(c) ellipse. (d) hyperbola |
+10. The set of points ‘which ‘are at equal tistance from/a fixed point is”
+(a) circle . - (b) parabola (c) ellipse (d) hyperbola
+11. The circle whose radiusds zero is called yp . .®& . @&
+| (a) unit circle b) point circle © ‘circumcircle (d) in -circle | - ;
+_ ne Oe The circle whose ‘vadins is] is.called — — _ . .
+- (a) unit circle (b) point circle (c) “¢circumcircle (d) in -circle Oo
+13. The equation x2 + y2 + Qgx + 2fy +c = 0 represents the circle with —
+
+- _ centres wf : - :
+14. The equation x2 + y2 + Igx + fy tc = 0 tepresents the ‘circle with
+radius (ON an . a oO
+
+a) Vet? -c &) Yeti —c ©) Vet +P -c Vert te”
+15. The second degree equation having each of x* and y* with equal
+yA coefficients alongwith no product term is oo ee ;
+: | ‘@ ‘eircle - -() ellipse . (c) parabola (da) hyperbola
+“16. The equation of the circle having A(x1, yj) and B(xg, yg).as the ends of —
+. its diameter is © ce sO : mo, : |
+(a) @= xy - x2) +. -y1)y = y2) = 0 an
+6) (v= xy)(e- x9) - = y9—y9) = 0 . te
+— &) = xpO-y1)-@-x2)0-y2)F 00 .
+—  @) @=xpO-yD) +22) O-y2) = 0 fe
+NET Past Papers https://edumanias.com/  ~- _ me https’/Avww.facebook.com/EduManias
+
+NET Past Papers https://edumanias.com/ lo EDU https://www.facebook.com/EduManias
+; “ 34 | ; Objective Type Questions en
+17. The angle inscribed in asemi-circle is. . ; oe
+a5 - ib) 3 (ei a | (d)}: canniot bé determined ;
+| | IS, The circle which tauches both the axes with radius a lying in. the I]
+a quadrant. has centre as) , :
+a a a) @) Ce) @ Cory
+19. The straight line which touches a curve without cutting it is called
+a (a) chord | (b) tangent. , (c) normal . (d) bisector 7
+20‘ The straight line perpendicular to the tangent at the point of contact is d
+| ; tal chord sy ab) tangent 7 (c) normal - vai bisector
+21. The number of tangents that can be drawn from a point P(x}, MN to a
+. 7 ‘cireleare | = a an | iy |
+, (a) one 6) two (c) more than two (d) infinitely many :
+22. Two tangents drawn from a pointitoa circle are real and distinct if |
+ae ‘P(x,. ¥,) hes -—— the circle . —
+. . (a) outside — (b) inside (c) on > (d) none of these
+23, Two tangents drawn: from a point to a circle are real and coincident if
+P(x). ¥,) lies —— the circle , mm oe .
+“ | (a) outside (b) ‘inside “ (c) on ~ (a) none oe
+24. Two tangents drawn‘from a point to a circle are imaginary if P(x, y,) :
+Yigg —— the circle © - . . | |
+| (a) outside , (b) inside. . (c) on . | (a) none |
+\25. If the point P(x}. y,) lies inside the circle then tangential distance (or
+Me, length oftangent)is = ns , | a
+AS a) ‘zero , een) nositive . .(c) imaginary ey) negative |
+. 26. _A line’segment. whose end points lie on a-circle is called ; | ; , oe
+_ (a) chord — - (b) tangent (" normal (d) radius . |
+gt. Congruent chords of a circle are equi-distant from the .
+yO (a) centre. ‘(b) origi (3) radius . (d) tangent
+28. ‘The measure of the central angle of a minor arc is _——' the measure of |
+) : the angle subtended in the corresponding major arc ; .
+NET Past Papers https://edumanias.com/ , ; https:/Www facebook.com/EduMantas
+
+NET Past Papers . _https://edumanias.com/ rep EDU * https://www.facebook.com/EduManias
+Objective Type Questions 35 CO
+(a) half “(b) equal (c) double. .  (d) triple 3
+29. The perpendicular at the outer end of a radial segment is —— of the |
+circle. . ,
+: (a) tangent (b) normal ‘(c) chord (d) diametre
+30. * The mid-point of the hypotenuse of a right triangle is —— of ‘the me
+triangle . i .
+| _ fa) m-centre | (b) circumcentre (c) orthocentre (d) e-centre
+~ 31. ° Perpendicular dropped from any point of the circleion a diametre is the ;
+| ‘mean proportion between the segments into which it divides the
+. (a) diametre » (b) any. chord . (c) radius (d) circle .
+32. The set of points in a plane whose distance froma fixed point and from °
++ a fixed line remains the same is called . .
+. (a) parabola ; _ (b) ellipse a
+(c) hyperbola _ (d) réctangular hyperbola .
+33. The.set of points which bears a constant ratio ( e) equal to 1 from a -
+fixed point to a fixed line is called’ = . :
+| (a) ellipse > (b) parabola , , |
+(c) hyperbola 7 | (d) rectangular hyperbola
+34, The set of points which bears a constant ratio (e):0<e < ] from a.
+@fixed point to a fixed line is called = of ;
+> (a) ellipse , (b) parabola .
+(@phyperbola oN —@) rectangular hyperbola.
+35. , The set of poifits which bears a constant ratio (e):e>1 from a fixed |
+point to 4 fixed line is called
+—@) ellipse | -* (b) parabola a :
+(c) hyperbola (d) ‘rectangular hyperbola |
+36, For any parabola in, the standard form, if the directrix is x = a, then its .
+equationis = | So
+(a) y2=dax =) y2=-4ax (0) x2 =4ay 2-day
+37. For, any parabola in the standard form, if the directrix is x =—a, then.
+_  itsequationis a .
+| } (a) ‘y2 = dax -(b) y2= — 4ax ()-x2 =4ay (a) x2 =~ day
+NET Past Papers https://edumanias:com/ .. - - | https:/Avww.facebook.com/EduManias
+
+NET Past Papers _https://edumanias.com/ g EDU https://www.facebook.com/EduManias
+. MANIAS )
+36 _ Objective Type Questions a
+38. For any parabola in the standard form, if the directrix is y = a, then its -
+. equation 1s Do, mi
+(a). v2 =dax  (b) y2=-4ax x2 = day (a) x2 =H 4ay |
+39. For any parabola in the standard form, if the directrix is y = ~a, then |
+_, itgequationis oo | _
+: . (a) yas 4ax . (b) ye = Jax () x= day (a) nls 4ay —
+«40. 4A line segment whose end points he on a parabola _ ofthe parabola -
+(a) chord (b) focal chord  (c) latus rectum, (d) diametre
+4). A line segment. passing through the focus and peMpdicular to the
+directrix is calléd ——- of the parabola =
+' (a) chord ~ (b) “focal chordeli(@paxis (d) latus rectum,
+42. | Aline segment passing through the focus and perpendicular to the axis
+- ° , 48 called -—— of the conic ,
+oo ‘(a) chord 7 6) focal chord) @axis = d) latus rectum
+. 43. Aline segment passing throughhe focus is called —— of the conie |
+(a) chord - “ Q) focalchord (¢) axis -(d) latus rectum ~
+za - 44. A line segment passing through the focus and perpendicular to the
+| directrix is called ——~ of the ellipse ; 7 nn
+) (a) chord (b) focal chord (c) major axis @ latus rectum a
+—  <%. The point where the axis ofa parabola meets the parabola is called | 7
+: (a), centre 6) vertex : (c) focus (a) directrix
+46. x= al? , y = Qat arethe parametric equations of 7 7
+> (@) parabola () circle (@) ellipse (@) hyperbola
+S 47. x=a cost, y =o sint are the parametricequationsof . oo
+& (a) parabola )() circle - ().ellipse (4) hyperbola
+, 48. x >a,cost, y =b sin t are the parametric equations of , .
+| (@) (pafabdla_ > (b) circle (c) ellipse (4) hyperbola
+49. x=a sec i, v=btant are the parametric equations of | . .
+—. (@) parabola () circle - (©) ellipse (@) hyperbola
+§0. x=acosht, y=b sinh ¢ are the parametric equations of - -
+a (a). parabola (b) circle . ©) ellipse (d) hyperbola
+NET Past Papers _https://edumanias.com/ oo https://www.facebook.com/EduManias
+
+NET Past Papers https://edumanias.com/ 9 EDU https://www.facebook.com/EduManias
+7 a MANIAS og
+. . Objective Type Questions. a?) a 7
+SL The second degree equation ax2 + by2 + Qgx + 2fy +c =0 with either
+-- » a= Qor 6=0 but not both zero represents — .
+- (a), parabola (b) circle 6) ellipse (d) hyperbola
+32. The parabola y2 =- 12x opens oe
+(a) downwards (b) upwards | (c) rightwards (d) leftwards | 7
+53. In the case of an ellipse it is always true that | |
+, ay g2>B2 hy a2 BZ i) a2 = BR a<db<d0 |
+“M.oIna conic section, if pe 0. then it 1s called | re . oe
+ay parabola _ (b) circle ———_ {e) ellipse (d) hyperbola , '
+a 35. The mid-point of the foci of an ellipse is Gilied oO |
+(a) focus oo (b) latus rectum (c) centien (d) covertices _
+| 56. The distance between centre and either vertex of an ellipse is length of |
+(a)’ major axis y > “(b) \semi-inajor axis
+| (c) minor axis wy 7 (d) semi-minor axis | >» / ,
+- 57. The mid point of the verticasof a hyperbola is called: . |
+| (a) focus (b) latus rectum (c) centre : (d) covertices
+’  §8:. The mid point ofthe foci of a hyperbola is called a ; a
+. ee (:)) focus (b) latus rectum (¢) contre ~’ (d). covertices - a
+59. The distance between centre Bad either sortex of a hyperbola is length ,
+: (a) transvérsenaxis - (b) imaginary axis i
+é hye () semi-focal axis | (d) latus rectum: OT ,
+60. The distance between two vertices of an ellipse is the length of |
+\ (a) major axis (b) minor axis (c)} transverse axig, (d) conjugate axis
+61. The distance between covertices of an ellipse is called | a | oO
+on a) ant axis (b)- minor axis.” . a |
+. (c) focal axis a _ (d) latus rectum 7 .
+62. The distance between vertices of a hyperbola is called . , *
+8 (ay major axis = i 2 (b) minor axis. : .
+. (c) focal axis Ce “@) conjugate axis . } .
+NET Past Papers https://edumanias. con 7 , https://www_facebook.com/EduManias
+
+NET Past Papers https://edumanias.com/ ny EDU https://www.facebook.com/EduManias
+. MANIAS .
+oo i ___ Objective Type Questions _
+63. The length of latus rectum of a hyperbola is. oo
+| (a) 4a 7 -(b) 7 (c) a (d) aX.e*.
+64. The iength of semilatus rectum of a hyperhola is '
+(a) ta. ib) Iq (c) ‘a (a) 3. oe :
+) 65. The length of latus rectum of an ellipse is a |
+a) da () =F © () D (d) ater. .
+«66. | The length of semi-latus rectum offanellipséis = . ¥ |
+_ fa) da tb) 9G re
+| . 67. The length of semi-latus rectum of a parabola is » N ¥
+. | Ce. - og ON
+, . (a) 4a (b) 2a | (©) a (d) 30
+68. y? = daris symmetric about the on _ | .
+ @) graxis ——() y-axis. - ' ©) both axes (d) liney=x |
+69. “2 + 5 = 1 issymmetricaboutthe — .
+: a b
+y “ (a) x-axis _ ~ (b) y-axis (c) both axes (d) line y=x
+70. =o a} =)1 is symmetric about the ~
+a b ;
+. ~~. (a) x-axis (b) y-- axis (c) bothaxes (d) liney=x
+Note. The symmetry ofacurue. ~— Bo
+~ Ni@ If we get the same equation by replacing x by -x the curve is symmetric
+about the y-axis. ) a Co
+; ‘\(i) ~~ If we get the same equation by replacing y by ~y the curve is symmetric
+about the x~axis. oe .
+(ii) If we get the same equation by replacing x by ~x and y by —y the curve
+_ is symmetric about the origin or about both the axes. - a
+~ [(iv) If we get the same equation by interchanging x and y . the curve is: ,
+_  |__ symmetric about the liney=x.
+NET Past Papers https://edumanias.com/ | https://www.facebook.com/EduManias
+
+NET Past Papers nttps://edumanias.com/ ° ny EDU https://www:facebook.com/EduManias
+oe MANIAS |
+_ : Objective Type Questions 3 _
+| 71. The directrix of the parabola y2 = 4ax is a —_
+(a) xa @)x=-a © y=a  @)y=-a
+72. The directrices of the clipse +e 2] are
+. ‘ a b2 ; .
+_ qa. a oe o
+(a) x= 47 (b) y=*> (©) x=4e d) y=te . |
+73. The directrices of the ellipse7> + "5 = 1 are | mo,
+; . b a , ; |
+a) ee te b) y= +> Ogu= te ald) y= +c .
+74. The eccentricity of the hyperbdla > ~ 9/51 38
+| — @ e= 5 <1 bes a>} (eso =ld@e=o = 0 / .
+75. _ For the hyperbola “> “= 2 = 1 which of the following is true ?
+(a) a>db (bt) a<b~ = (a= @) allofthese
+76. .Asymptotes of the hyperbola “> - 9 =1 are a ;
+. ae — 4b =. Oo oe
+yy (@) y= tx (b) y= + bx. (c) y= tax @)y=+ 5%
+77. Ifthe distance between a straight line and a curve approaches zero but .
+never intersectsit, then the straight line is called —
+Oe (a) tangent (b) normal (c) chord ~ (d) asymptote « ,
+ie An ellipse and a hyperbola have a common name —___ (as
+_ each has)a centre of symmetry) a ) |
+, “(a) degenérate conic ===. ~~) centralconic -
+(c) . symmetrical conic F (d) circular conic
+79. Ife = (65 ; b=7 , a= 4, then the ecceniricity of the hyperbola is
+eee | 8 7 | ;
+©, @) vs Ob) a6 (c) ves @ go.
+80. The equation of the tangent t6 the hyperbola 2 7 p2 = 1 atthe
+point (x17) is a ° ae
+NET Past Papers https://edumanias.com/ https://www.facebook:com/EduManias
+
+NET Past Papers https://edumanias.com/ ny EDU https://www.facebook.com/EduManias
+- SEMANIAS — . ; ;
+40 oe ' , | a
+Objective Type Questions ; Lo
+, (a) a2 + RS 1 | -0) 2 1 oe
+- 81. - The equation of the tangent to the ellipse 3 + 2 = 1 atthe
+7 | a
+point (2, - 3) is . . an ,
+oe By oe By |
+a) yj - 75 = 1 “a t =1
+. dx By . 2x dy
+| © ig mp at, Sa a ,
+' 82: The straight line y = mx + cisjtangent to the ellipse “5 + ) -= Lif:
+, : a of -_
+~~ (a) ‘c= Va2mt 62 4 4 ) (b) es + Va2b% m2 >»
+© c=# Vat+ be me — @e=e \Va2m2 — 52 :
+- 83. The straight line y = mx +c¢ is tangent to the hyperbola 3 7 2 1,if oc
+|) cee Vabm+b2" yo = Va me
+() c= Vae+ b2 m2 ~ @ic= + arm? — 62
+‘  84e—The equation of the tangent to the parabola y2 = 4ax at the point
+(a) = 4a(x - x3) (b) -yy1.= 4a(x + xy) 4
+NO yy = 2a) (A) yyy = -2a(e+ oy) |
+| _ 85. Two conics will always intersect each other in——— points =
+d -. (a) no (b) one —- (¢) two (d) four *. |
+| 86. “Two conics are said to touch each other if they: intersect in —— |
+| coincident point/s - oe, | :
+| (a) one) two. (c) more than two (d)twoormore
+_ 87. ‘If the origin O(0, 0) is shifted to some other point O'(h, &) such thatthe
+| new coordinate axes remain parallel to the original ones, then this
+' process is called . sO . 8
+. _ (a) translation ofaxes 0b) rotation of axes . . _
+’ (c). shifting of origin > ~ (d) ‘transfer of axes 7
+NET Past Papers https://edumanias.com/ https://www.facebook.com/EduManias
+
+NET Past Papers https://edumanias.com/ ny EDU https://www.facebook.com/EduManias
+| __ Objective Type Questions _ Al i
+- 88, Centre of the circle (x- b)? + (y- a)? = re ig . oa .
+‘ar (bay tb) B=) fe) (ab) td) Ga 8)
+89. The equation. 42 + fv? _ 16x + 24y~ 117 = 0 represents : ae
+iad circle | ‘ib) parabola ic) ellipse (dy hyperbola — pO
+90. If the major jaxis of an ellipse is.of length 12 and minor axis of 6, then ;
+equation of the ellipseis OS co
+ @ Bt eg =} oo b) Get Fost |
+91. _ In an ellipse, the foci ue on a | y oo
+(a) , major axis: (b) aninor axis. Xe) idivectrix ia) Z-axis ; ,
+92. . The foci of the hyperbola 2 - ro = 1 are — .
+(a) (40,0) . ()-@20 © (40,0) @ Ota)
+, : 93. The-centre of the circle 45x2 + 45y2 -60x+367+19= 0-18 - /
+94, The value of a for which the parabola y2 =4ax passes through (2, 3) .
+is — —_ _ _
+4 Qu 8 1 ee [
+Noa 0) 5 Ong @-3 |
+95. The.eccentricity of the ellipse Ter 7 =lis .
+» ia) 2 | ib) T (¢) 16 dd) 9° -
+96. The vertices ofthe hyperbola “FZ -- p2 = 1 are
+(a). (4,0) @) @ +a) © (#ae,0) @ O4ae)
+97. If Gar — we = 1 is the hyperbola with centre (h, k) then |
+. *_ the equation of directrices are " 7 -
+NET Past Papers . httos://edumanias.com/ . ue | -https://www.facebook.com/EduManias
+
+NET Past Papers https://edumanias.com/ ny EDU https://www.facebook.com/EduManias
+, . 42... Objective Type Questions Z
+(@) xee0 byysad. @eeehth @ yas +h
+_ 98. Ifthe discriminant h2 —ab< 0, then the conic will be: ; . Ss
+, (a) ellipse-( or circle) (b) parabola . :
+| (c) hyperbola _ oo 7 ~ (d) degenerate conic - |
+. 99, If the discriminant h2 -ab =0, then the conic will be . .
+, - (a) ellipse (or circle) -(b) parabola 7 ‘
+“(© hyperbola. ; (a) “degenerate conie '
+- 100. If the discriminant h2 —ab > 0 then the ednic willbe | ie .
+- (a) ellipse (or circle) . » (b) parabola | ¥ —
+(c) hyperbola y y (d) degenerate conic . |
+~ 101. For parabola x? = day. Its Vertex isto. ; a 7
+(a) (a, 0) (h) 40) =e) a,0)  — (d)(0,a)
+_ 102. The length of major axis of anellipse is equal to:
+(aj2a (b) 2b (c)a_ (d) 4a?
+-103.. For hyperbola >" z =1,the centre isthe point: _
+oe aD .
+: (a) @, 0) (b) © , a) ()O@,0)  d)@,-a) oe
+104. The centre of the circle x? + y? + 2fyte=Ois: — vo os
+, (a) ff, 0) (}@.f) @Cf,0). @o,-f .
+105. The line y = mx +c, intersects the circle x? + y= a?, if: .
+I @) ct=a? (1+m) (bo) 2 <a? (1+mi2) (cc? >a? (1+ m2) (d) None
+106. The focal chord perpendicular to the axis of parabola is called:
++ (a) diretrix ‘(b)Axig ss Latus-rectum (d) None
+107.” For the €ccentricity of the ellipse: .
+ee fage<O © | (b)0<e<1 (e=1  @erl. |.
+108. “Radius of the circle x? +9 —6x + 4y + 13 = Ois: , oS
+BO NID 6S wR
+“109: Co vertices of the ellipse at =lare- | | ,
+ae (a) (La, GO) (b)@, ta). () (40,9) (d) (0, ‘+ 5)
+110. Length of transverse axis of the hyperbola— ~ a Tiss -
+(a) Qa — a - “() 2b db. .
+_- 111. x°+)2=P? represents an equation of a circle with centre at: ,
+~ (ah, k) (b) (0, 0) (c) (1, 1) — @(1,%)
+_ 112. The line through the focus and perpendicular to directrix is called °
+- (a) Direcrix (b) latusrectum =.
+_ (c) Axis of parabola (d) Tangent at the vertex . ” a
+NET Past Papers https://edumanias.com/ Oe https://www.facebook.com/EduManias
+
+NET Past Papers https://edumanias.com/ ny EDU https://www.facebook.com/EduManias
+| - eee MANIAS) |
+Objective Type. Questions
+113. For the ellipse —- + a =1 (a >b) equation of latus rectum is;
+(ajx= it (bix=te (c)x=t —~ (dd) y=Hte
+114. .The hyperbola ares =] is symmetrical about:.
+(a)x-axis »  (b) y-axis (c) Both axis (@))z-axis
+115.. General equation of the circle is: ;
+a (a) x¢+ 2y? + 2gxt Afytc=0.  * (b) Way? + ex + 2y+c=0
+a, (Cc) +5? + Qe t Qhytc=0  . (d) yt ext dfy +c=0
+116. The vertex of the parabola (x + 1)2.=18fy 22) is: _ , ) .
+. ‘(a)(1,2) {b) (- 1, 2) (c) (2,-T)) (A)(-2.1) |
+117. 4X =Na>byare y a > mo
+. * (a) (ta, 0) (b) (0, ta) () (£5, 0) (d) (0, £6) - P
+118. The eccentricity e of the hyperbola is.always such that: ~ _
+(fajex 0 + b)OSe<1 (el Merv. 2
+119. The radius of the circle (x - 1)? + (y+ 3)?=3is Do
+. @v3 ° 0 3 @3¥3  @o
+7 120. The directrix of the parabola y2=8ris: 9 SO
+(a)x+2=0 (b)x-2=0 © (@yt2=0 @)y-2=0
+121) Transverse axis of hyperbola = — > lis 7
+fa) x=- b)y= —-—  . }y=0  @x=0 -. |
+‘122. Equation of the circle with centre at the origin and radius V5 is:
+NN ets VS bt y2=5  @xtty2=25  @Nome
+_ 123: The centre of the circle having equation x? + y? + 12x - 10y = Ois: . |
+a) (6,5) )(-6 -5) © C6 ,5) (d)(6,-5)
+124. Theend points of the major axis of the ellipse are called its;
+~- .. (a) Fociv:/ (b) Vertices' -__ (c) Covertices. _(d) Directices
+- 125. “Vertices ofthe hyperbola ar’ =] are:
+(ERB). 0,42. -O(44,0) @OtN |
+. 126. The equation of tangent to the parabola xw=4day: || : Oe
+: : or 2 ; a
+0 )y=mxt— (b)y=mx-am?  (c)y=mxtam?  (d)y=mx+— -
+127. ‘Transverse axis of 2---— =} en JO
+- (a) liesonxaxis = = .. (b) lies on y-axis . to.
+(©) pass through (4, 7) ~.._. (d) pass through (7, 4) :
+NET Past Papers https://edumanias:comt+ ———— > -—_— rps WtaceDooKcOMVEdUManias
+
+7 EDU
+NET Past Papers https://edumanias.com/ https://www.facebook.com/EduManias
+. , | 9 MANIAS .
+A Objective Type Questions J
+128. The length of the tangent drawn from the pomt (1,1) to the circle
+ety - 3x4 Ov + 8=O0is: i . oe ; -
+fa) bh v6 AR 7
+129. The equation ax? + by? + 2gy + 2fy + ¢=0 with eithe »=Gorb=O but. ,
+not both zero represents: — ; os ,
+(a) Circle * . (b) Parabola’ (ec) Elhpse © (dj Hyperbola. oo
+130. The length of semi latus rectum of an ellipse is: = a
+ta) da tb) — (c) 2b (dy =) me
+131. The foci of hyperbola alwayshieon: = 7 Se
+— (a)x-axis — (b) Transverse axis (c) y-axis (d) Conjugate axis
+* 132. Tangent line to the curve x? + v! = a? at the pommt (01. yi) iss 0s :
+(ajurrtyyrzae 0 Cb tee ae oa , '
+: (ce) xy: + yxy = a? (d) None. = —_
+133. The line through P; perpendietlar ta the tangent to the curve at P-is bo
+"- (a)Normal at Po" @ _@(b) TangentatP = > Ne
+—- (e)SlopeatP _ (d) Chord at P a >
+134, If foci of an ellipse are (4, 1) and (0) 1) then its centre is .
+(a) (4, 2) - (b) (2, mg (c) (2,0). (d) (1, 2) 7 _
+; 135. The second degree equation of the form Ax + By2 +Get+Fyt+C=0f |
+; A=B# 0 represents = .-. ‘ = | .
+fa) parabohy / (b) circle —-(e). ellipse | (4) hyperbola |
+136. The second degree equation-of the form Ax2 +-By2 + Gx+ Fy + = 0 uf
+> A+ Band both have same sign represents ——— . oe
+“(a) parabola °° (b) “circle | ‘(c) ellipse {ad hyperbola °
+137. The second degree equation of the form Ax2*+ By2 + Gxt ¥y +C=0 jf .
+\. A# Band both have opposite sign.represents |
+(a) parabola (Bycircle ~— (@) ellipse _ (d) hyperbola _
+\ 138. The ingst general second degree equation - - ee )
+ax? + 2hxy + by2 + Bex + ofy +c=0 represents a conic. ‘The quantity =
+‘ (a) Diseriminant © : . _ (b) apair of lines ~~ 7 | :
+(c) degenetate conic .. _(d) conicsection _
+_ 139. Under certain conditions, the equation axe+ 2hxy + by242gx +2fy+ c=0
+- does not represent any, conic, then it represents
+. (a) central conic -. Sb) point circle . a Se
+7 (c) degenerate conic  (d) pair of lines through (0,0)
+NET Past Papers https://edumanias.com/ https://www.facebook.com/EduManias
+
+NET Past Papers https ://edumanias.com/ rep EDU https://www.facebook.com/EduManias
+a ee SEE MANIAS. [acebookccomEeuNian
+ea -Objective Type Questions | 45
+
+_ + INOTE. One of the degenerate cortic is a pair of straight lines. The necessary
+7 and sufficient condition of the pair of straight lines is
+: ah gl. oo —
+4 eB fecloos a a :
+my - OF. abe + 2fgh - af 2 - bg? =ch2 =0- ~ - .
+. . Remark. This is a well-known determinant, its expansion should also be
+memorised. .
+oe | . ‘e.g. to check whether 2x2 — xy + bx — By +2 = 0 represents a pair of
+| lines: oo. , yy
+| - Here, on comparing with at + 2hxy + by?) + Igx + 2fy + c=0,
+| 1 OF 2, h=-5, b=0. g= 5, p= — 1052 , :
+fe feb fle | “Biy@ mE |. Bxpand by Re, then
+g foc Ff 5 , ,
+| = Fl -1+5) +1(-2+7) = 474 = 0)
+! . Hence the given equation represents a pair of straight lines’
+| TYPE-1: [ Multiple Choice Questions (M. C.Qs)].
+| \ Each question has four possible answers. Tick ( Y ) the correct one.
+S | 1.\. The vector whose magnitude is lis called re
+2) L —. (a) ntil vector (b) unit vector (c) free vector (d) scalar’ .
+~|_ 2. Sf the términabpoint B of the vector AB coincides with its initial point
+| A, thhen | AB| = | BB| =? vs BC
+“@mi- MO (c) 2 (da) undefined .
+| °. 3. Two vectors are said to be negative of each other if they have the same |
+ae magnitude and —— direction oS |
+| -{a) same opposite — (c) negative . - paralle SO
+| (a) (b) opposite ~ (c) negative . (d)- parallel —
+i ‘| “4, ~ Parallelogram law of vecor addition to describe the combined action of |
+. | two forces, was used by .
+NET Past Papers 7 (a)... Cattebyyias coméb) Aristotle (co) Alkhwarzm), (d),Leibmite co uvjanias
+
+NET Past Papers _https://edumanias.com/ 9 EDU https://www.facebook.com/EduManias
+oe a MANIAS .
+| 46 ____ Objective Type Questions 3 _
+5. | The vector whose initial point is at the origin and terminal point is P,is - | :
+called co oo oe oo .
+(a) null vector : ; (b) unit vector 7 .
+; _ (©) position vector —* @) normal vector - , oe :
+6. If R be the set of real numbers, then the Cartesian plane is defined as . ,
+— @) R= E25) oy € R} (b) R2={ (xy) :a,9 € R } , os
+R= fGy):ay eR YE-y} OR =(Gy) ye Rez}
+| ' 7,  .The element (x, y) € R2. represents a > a ¥
+! a, (a) space . > (b) point (c) vectom, (d) line :
+| 8. The set of all ordered pairs [x y)_of om numbers together with the
+| rules of addition and scalar multiplication is called the set of
+! (a) . vectors in R | t.N »(b) vectors in R? - — ;
+, (c) vectors in space ) . — -d) all vectors |
+9 fw =(x,y]inRthendul = 2 \ Ae
+—  @ ty HP @ a2? @ 2-2 fh
+10. If Juj = vfx2 +92 = 0, then it must be true that ,
+| (a) x2 0,20 (b) x5 0y<0 © x2 0,ys0@) x= 0,y=0 |
+i 11. Bach vector [ x,y] in R* can be De icucly represented ae: 7 . | :
+NW a Watt Wty @NPR
+. . ' 12. The lines joining the mid-points of any two sides of a triangle is always ) |
+——<tothethirdside | }
+~~) Equal (b) parallel (©) perpendicular (a) base oo, |
+| 13. ‘A point Pin space has —— coordinates ee oo 7 |
+\ @s ® 2 © 3. (@) infinitely many | co |
+s 4 The set of All ordered triples [x, »,2] of real numbers, together with. |
+1 ~ the rulés of addition and scalar multiplication is called a set of -
+7 ‘{a) vectors in R Oo ~ (b) vectors in R? © . , | ,
+(c) vectors in RS @ all vectors , .
+15. In space the vector i can be written as ae a. |
+— @ 409 019 O60) @O0 —|
+NET Past Papers htips://edumanias.com/ i hiips’//wiw facebook.com/EdulManias
+
+NET Past Papers https:/Hedumanias.com/ lo ERs | htps:/wi facebook. com/EduManias
+ree —_ Objective Type Questions a 47
+6. In space the vector jcan be written as . : oo
+a (a) (1,0.0). , ) 1.0) ° 4) O01) 1)”.
+. 17. In space the vector k can ‘be written as ; . ae ,
+- fa) (1.0.0) b) G10: ©600 “d ©00 9 |.
+Iku di +3) +k v= -6i-9j—3k are anion vottors i
+: fa) parallel (b) perpendicular (c) reciprocal « (d) négative .
+"19. The angles a 8 and y , which a non-zero vect® pmakes with x-axis,
+. - y-axis. and 2-axis respectively are called ——— of r ~
+a (a) , direction cosines — , - . _ (b) direction ratios a
+____(¢)_ direction arigles - . . (dq) inclimationss = |
+| 20. Measure of direction angles a B andy ave ' — ¥
+a) 1 0.BS0yS0 Was Bocps2 osysS
+| | (a> 0,820,720 (a) Osa n-0<Bén ,Osy<, y , .
+21. Ifu= 3i—j + 2k, then 13. 42) are called ——- of u | “ . yf” “
+- (a) direction cosines - | (b) direction ratios ; ; -
+| (c) “direction angles . ; 7 ; (d) elements _ v f . |
+‘ 22. . Which of the following can be the directoon angles of gome.vector |
+DL &@ 45607 & 30°, 45°, 60° (©) 45°, 60°; 60° (a) none ofthese
+7 23. | Measure.of angle 6 between two vectors is always oe 7
+NN @ 00cm &) ogo © o<d<n @) obtuse 7
+24. If the dot produet of two vectors is zero, then the vectors must be !
+q a) pot allel ; (b) orthogonal ©) reciprocal (d) equal Se!
+85. If the cross product of two vectors is zero, then the vectors must be ,
+| - (a) parallel ; b) orthogonal © reciprocal (d) non-coplanar _
+26. [f@ be the angle between two vectors a and 6, then cos e=?
+@ 2xh oy). 22 an) ab @ fe
+at) aby Jah a
+NET Past Papers https://édumanias.com/ 7 ee ntioss/iauwwr fageboolecomEdulvanias
+
+NET Past Papers _https://edumanias.com/ lo EDU https://www.facebook.com/EduManias
+. - MANIAS
+ot 48 “! Objective Type Questions i. | _ |
+27, Tf @ be the angle between two vectors a and b. then projection of 6
+along @ 4s | :
+28. If @.be the angle between two vectors-a- and b ‘then projection of a
+along bis. | . oO
+ow wm ee oe ga
+- Jalil ajo] fal al
+28. Let u = ai+bj + ck, then projection ofu along iis ae
+ @) a bo) Oe Ma
+30. Let us ai + bj + ck, then praiéetion of u Along j on _
+| 31. Let u= ai + dj + ole then projection of ¥u along k is ‘ » *
+32. | In any triangle ABC, the Law of Cosines is —— - : oo,
+—@ a= p24 e2-2becosA (bd) a=beosC+ceosB ,
+() a +b+c=0 a - (d) cos(a.~ 8) =cos a cos B - sin a sin B
+oe 33. ; In any triangle ABC, the Law of Projection is | oo a
+b (a) a= b2+ 2-26 c08A ‘ ©) a= bcos C +0008 B | |
+@a.b=0 —  @a-b=0
+: 34. | If mis.a vector such that wi =0, u.j=0 and u k= 0, then uis .
+(a) unitvector * (6) null vector (© [ijk] » @ none of these
+NA “35. Crom onvector product.is defined | a |
+(a) in plane only (b) in space only ‘(c) everywhere (d) in a vector field
+36. It u afidv be any vectors, thenuxvisavector ee
+(a) paralleltowandy ; (b) parallel to u | | —
+ & iePrendicular touandv. — (d). orthogonal to u Oo |
+. | 37. If ‘wand v be any vectors, along the adjacent sides of a parallelogram .
+then the area of the parallelogram is = oe |
+Coe @ uxv (b) fu x v{ a cu x v) (d). ; juxvl
+NET Past Papers _https://edumanias.com/ - hiftps:/www.facebook.com/EduManias
+
+NET Past Papers https://edumanias.com/ ny EDU https://www.facebook.com/EduManias
+MANIAS - oe
+Co Objective Type Questions At:
+_ 38.. Ifuand v be any vectors, along the adjacent sides of a triangle then-
+‘the area of the triangle is ~ SO
+(a) uxv- (b) Juxvi © g(uxv) @) 9 lux
+39° The scalar triple product of a,b ande is denoted by .
+: . (a) a.b.c . (b) axbe  (c) a.bxe (d) (a.b)xe ©
+40. The vector triple product of a, b ande is denoted by |
+| (a) atb x oo (b) a. be (c) axb.e (d) a (6 X ¢)
+41. Notation for scalar triple product ofa,b andc is . 7
+(@) a.bxe (bh) axb.c 0) (a 6 @} Gallofthese | |
+42. If the sealar triple product of three vectors is zero, then vectors are | | .
+. (a) collinear _(b) coplanar “(c) non-coplanar .(d) non-collinear
+. 43. Tf u=(xy]. v= [x, ¥,]¢ then u-yv is ~wD .
+(a) [etx y-¥)] a> ) [x-x,, y-H] |
+.  (@) fx-x, yty,] “OF (@) [x+x, 99)
+_44.- If Aand B have the same.direction, then A.B =? |
+(a) AB (bt) -AB’ ss @) ABsin@ (@) ABtan® -
+— 45.. Foravector A A.A=? ._ Vo an
+ye A ® A A ULM
+_ 46. Tf Aand B have the opposite direction, then A.B = 2 |
+- () AB) @) -AB_ ss @)~ABsin@ @) ABten@
+“an The angle in a semi-circle isequalto: . =
+= MaM~O— ~~ War °—  . Oo
+_ 48. Tow nonzero vectors # and v are 1 arifft ae
+@ucw=¥ -O)u.v#1 @u-v40 @)u.v=0 | |
+49. If'any two vectors of triple scalar product are equal. Then its value is. .
+- equal to: co .
+f@) 1 oe (b) 0 {c) -1 — @2., .
+50. Ifa and b are orthogonal, then: ' - a
+(a)a.b=ab (b)a.b=-ab (0) a.b=abSin@ (@).a.b =O
+51. If # is a unit vector perpendicular to the plane containing aand b, ° (
+then: ot i
+NET Past Papers https://edumanias.com/ 7 https://www.facebook.com/EduManias
+
+NET Past Papers https://edumanias.com/ Hy EDU https://www.facebook.com/EduManias
+oe EA MANIAS 7
+, 3° ___ Objective Type Questions oo ,
+en iaxb| . axb 7% —
+a) fae? aa! (| i=S =. @ fzaxb
+| ab Ob Jaxbl .
+52. If i =[x hve key] then u-Y is oe '
+(a)[xtu,y-y} (b) fx¥- 21, y- 91]
+(c) [x- x; y+) (d) [xt ar, y+ yi] ae
+«53. If a,p +¥ are the direction angles of a vector r. then Lo. . .
+. Cos? a + Cos? B.+Cos?y = - . '
+(a3 (b) 2 (co) 1 (d)0 - 4
+_ 54. The position vector of any point in xy -plane is: . 7
+(a) xut+yer + (b) r =yyrak .
+(0) r =xi +2k. . . erat + yj ak a
+55. Ifthe vectors 21-6)~7k and =21+6j+ xk are perpendicular, .
+. then x equal — 4
+(a) - 40/7 (b) 40/7», * (c) --7 (d) 7 . .
+* 56. Ifu =-21+ j-3k then | 4 | equal to: a, _—™ w~ a
+a IA -12 M4 |
+__ 57. Area of triangle is whose u& v are adjacent vectors: eS .
+@lux vi Ob) Flux @slu-vl @u.v .
+58. If a and 6 are perpendicular to each other, then a. b= a
+| (a) ab — (b)}-ab © (c) ab sin 0 — GO © as
+59°A vector perpendicular to each of vectors 2i andk is: - —
+Ss . @i (b) +2) @-%3 = @k-
+60. The product of vectors u.(YxW) represents: ee
+~‘@)Area of parallelogram _-—S—(b) Volume of parallelepiped
+. (c) Heightof parallelepiped (d) None of these
+61. For the vectors a=2i+ 4j-k and b =2i+6) +xk; if ais
+| perpendicular to b ), then x = co : ee
+Wee (a)-—1 & (b) 1 (c) 28 ‘(d) -28 ,
+_ 62. Thecross productisalso called: = : re
+__. (a) Scalar product ‘(b) Dot product (c) Vector product (d)None
+63. The positionvector of any point in yz -plane-is: . .
+falta =r re aytzk a,
+Oe (ec) r =xi +2k (d) r=xit yitzk .
+_. 64. The position vector of any point in xz ‘plane iss ,
+: (a) xUF yar (b) rFytzR
++ (ce) r =xt +2k . @ r=xit+ yi+z2k )
+NET Past Papers https://edumanias.com/ 7 https:/www_facebook.com/EduManias
+
+NET Past Papers https ://edumanias.com/ rep EDU https://www.facebook.com/EduManias
+Objective Typ e Questios SI
+! ANSWERS . ,
+' |Unit-1 © ANSweRs ee
+Type 1. (M.C.Qs) . ® :
+Lb ha 3c 4c 5b 6b Kb Be Wa 1a }
+Hoa Ic Ia Ida 1a 16a 17.0518 b AD b 20d —
+Med 2d Ba Wed 25.b 26a Mb Wa 2b 30,c
+3d 32d 33b 34a 35 36d 37a 38c 3%a 4b
+Hoc 4d 43,.c 44. bO45.c 46Md did 4B a 49.b 50. b-
+81d S24 53d Shb 55a Sha Sic 58¢ S%.a 60.
+Gla 62.b 63.b 64.6 65.4066, b 67.¢ 6b 62. ¢ Ta
+Mea The 3d. a 75. b. po
+Unit -2 ANSWERS nf
+Wac 3c 4d Bc Ba Db Be Xd 10d
+tea IRD Te ta 1.6 1d Ind Be 1.6 Wa |
+“21. b 22.4 23. db24.a 25.b 26.c 27d 2a Wb We
+31,32. Be SAD 38.c 36a 3c 3a 3a 40d
+Alea 40/4. a 44d 45a 4b 47d Bc 49%.c¢ Sb
+Bled Sh W536 $4.0 55.d S60 Sc Sic 5a 6b
+6l.c 6ha 635 64d 65.6. 66.c' 67d 68a 6c Tb
+1b hd 73. Tha 75b 76. 77d 78%¢ 79a 80.6
+Bic 8a 83.b 84.c 85d 86.2 87.b BBC 8%c 90.b
+Ob 9nd 9a |
+NET Past Papers " https://edumanias.com/ “https:/Awww.facebook.com/EduManias
+
+NET Past Papers https ://edumanias.com/ re . https:/www.facebook.com/EduManias
+HS 54 ee Objective Typ 6 Questios. Bo
+‘Unit -3 ANSWERS i ssti‘—S:*=~SY
+Type. (MLC.Qs) oo
+lb 2d Bd 4a Bd Be De Be Ba Wa
+«Wb Wa 18a 1b 15. ¢ 16. b Ia 18. a 19 ¢ 20.b
+21d 2 a BB b 2d a 2. b 2. a 27. c 2. b 2. b 30.c
+81, a 82. BB. b BA c 35. a 36.d 37. a SBAb 39 c 40. a
+41d 42a 43. b 44. ¢ 45.c 46.¢ 47. ¢ 48, bM9. b 50. b ~
+«BL a 52a 58, c 54a 55, d 56d S¥hc 58d 59, a 60. a
+61. a co a »~ Oo
+[Unit ~4 < ANSWERS) sis | ,
+“Type 1. (MC. QS) _— *
+1. c. a 3d 4.4? 5. b Ga 7, ¢ 8. a 9%&b 10. ¢
+llc 12a 13.b 14.c 15. a 16c 17. d 18.2 19. c 20. b
+OL. eae 23.¢ 24a 25, a-26. c 27, ¢ 28. 29.°c 30. b-
+— $f. ¢ 32, 2 BR b 34.-b 35. a 36. d 37. b 38. c 39. c 40. c
+= VA. b 42. a 48. a 44. b 45. b 46. a 47. c 48. ¢ 49. b 50. a
+© B52. b 53. b 54Sa 55. a 56. a 57-c 58. b 59. b 60. d
+61. b 62, B63) b 64. a 658a 66. ¢ 67. c 68. c 69. d 70. b
+Nib 72.4 7B), 74. b 75. b 76.8 77a 78a
+[ait 357 owes SS]
+ype MRS) GN a
+Lb wD BD be ‘Be Gb id &d Ba Wd |
+la 12a 18, a 14. ¢ 15. b 16..a 17,6 18 b19%¢ 2c |
+Ba 20 Bd Ba Bb , a
+NET: Past Papers - https://edunianias.com/ . , https://www.facebook.com/EduManias
+
+NET Past Papers https ://edumanias.com/ EDU https://www.facebook.com/EduManias
+| ta MANIAS : |
+‘ Z 7 | Objective Type Questios _ 23
+| Unit - 6 ANSWERS - | | 7
+Type L (MC.Qs) : . ,
+ie &@e Bd oe Ba Ba Te Bb Y d 10. a |
+11. b 12a 18d 14.¢ 15. a 16a 17. a 18. e919 b 20. |
+21. b 22. a 23.c 24. 25: ¢ 26. a 27. a 28.c ra 30. b
+«81, a 82. a 33. b 34. a 85. ¢ 86.6 87. a 38d 89%040a
+41. ¢ 42. d 43. b 44. ¢ 45. b 46.2 47. b 48.c 49/d 50d
+‘BL. a 52. d 88.a 54. b 55. c 56.0 87. e058 c 59.c Ga
+61. b 62..¢ 63.c 64.¢ 65. @6.c 67.b 68a 6%c70.c>
+71. b 72. a 73.-b 74, b 750d 76. do77. d 78. b 79. a80.b
+81. a 82. a 83. d 84. of 85. d086. d 87, a 88 a 89.290b
+91a 92. a 93. b 94.095, 2 964b 97. c 98.0 99.b100.c
+101. b 102. a 108. c 104, d'105,.a106. c 107. b 108.b 109.110. a |
+111.b 112.¢ 118.b 114, a115.c 116.b 117. b118.d 119.a120.d |
+121. ¢ 122. b 123.¢ 124. b 125.¢ 126.c 127.b128.¢129.b 130.d
+— 181,b)182, a 1383. a 134, b 135. b 136. ¢187, d138. a 139.0
+Type 1. (MC. Qs) | ; a -
+“1b 2b 3b 4b’ c Bb 7b &b %b 100d
+‘I. b 12>) 18,¢ 14, ¢ 15. a° 16. b 17. c 18. a 19..c 20.d
+“TRL, b 22, 6834 240d 25. a 26.b 27-¢ 28d 2.0 80.b
+81. ¢ 82, al86.B 84. b 35. b 36. c 37. b 38d 3%.c 40d
+41. d 42. b 43. b 44. 9 45. b 46.b 47048 d49.b 50d
+«Slee 52. b 58. ¢ 54a 55. d 56. b 57. b 58d 59c 6b
+— GLic 62. ¢ 68. b 64. ¢ : So
+NET Past Papers httos:#/edumanias.com! ” | “httos:/www.tacebook.com/EduManias

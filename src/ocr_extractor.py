@@ -1,5 +1,5 @@
 """
-OCR Text Extractor using Google Cloud Vision API
+OCR Text Extractor using Tesseract OCR
 Extracts text from scanned/image-based PDFs
 """
 
@@ -7,61 +7,64 @@ import logging
 import os
 from pathlib import Path
 from typing import List, Tuple, Optional, TYPE_CHECKING
-import json
 
 if TYPE_CHECKING:
     from PIL import Image
 
 try:
-    from google.cloud import vision
+    import pytesseract
     import fitz  # PyMuPDF
     from PIL import Image
     import io
 except ImportError as e:
     logging.warning(f"OCR dependencies not installed: {e}")
-    vision = None
+    pytesseract = None
     Image = None
     fitz = None
 
 logger = logging.getLogger(__name__)
 
 
-class GoogleVisionOCR:
-    """Extract text from PDFs using Google Cloud Vision API"""
+class TesseractOCR:
+    """Extract text from PDFs using Tesseract OCR"""
     
-    def __init__(self, credentials_path: Optional[str] = None):
+    def __init__(self, tesseract_cmd: Optional[str] = None):
         """
-        Initialize Google Vision OCR client
+        Initialize Tesseract OCR
         
         Args:
-            credentials_path: Path to Google Cloud service account JSON key file
-                           If None, uses GOOGLE_APPLICATION_CREDENTIALS env var
+            tesseract_cmd: Path to tesseract executable (if not in PATH)
+                          On Windows, usually: 'C:\\Program Files\\Tesseract-OCR\\tesseract.exe'
         """
-        if vision is None:
+        if pytesseract is None:
             raise ImportError(
-                "google-cloud-vision not installed. "
-                "Install with: pip install google-cloud-vision pdf2image Pillow"
+                "pytesseract not installed. "
+                "Install with: pip install pytesseract"
             )
         
-        # Set credentials
-        if credentials_path:
-            os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = credentials_path
-        elif 'GOOGLE_APPLICATION_CREDENTIALS' not in os.environ:
-            # Try to load from keys.json
-            keys_path = Path(__file__).parent.parent / "keys.json"
-            if keys_path.exists():
-                with open(keys_path, 'r') as f:
-                    keys = json.load(f)
-                    creds_path = keys.get('GOOGLE_CLOUD_VISION_CREDENTIALS_PATH', '')
-                    if creds_path and Path(creds_path).exists():
-                        os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = creds_path
+        # Set tesseract command path if provided
+        if tesseract_cmd:
+            pytesseract.pytesseract.tesseract_cmd = tesseract_cmd
+        else:
+            # Try to find tesseract in common Windows locations
+            if os.name == 'nt':  # Windows
+                common_paths = [
+                    r'C:\Program Files\Tesseract-OCR\tesseract.exe',
+                    r'C:\Program Files (x86)\Tesseract-OCR\tesseract.exe',
+                ]
+                for path in common_paths:
+                    if os.path.exists(path):
+                        pytesseract.pytesseract.tesseract_cmd = path
+                        logger.info(f"Found Tesseract at: {path}")
+                        break
         
-        # Initialize client
+        # Test Tesseract installation
         try:
-            self.client = vision.ImageAnnotatorClient()
-            logger.info("Google Cloud Vision client initialized successfully")
+            version = pytesseract.get_tesseract_version()
+            logger.info(f"Tesseract OCR initialized successfully (version: {version})")
         except Exception as e:
-            logger.error(f"Failed to initialize Google Cloud Vision client: {e}")
+            logger.error(f"Tesseract not found or not working: {e}")
+            logger.error("Install Tesseract from: https://github.com/UB-Mannheim/tesseract/wiki")
             raise
     
     def _convert_pdf_to_images(self, pdf_path: Path) -> List:
@@ -120,28 +123,30 @@ class GoogleVisionOCR:
         image.save(img_byte_arr, format='PNG')
         return img_byte_arr.getvalue()
     
-    def _extract_text_from_image(self, image_bytes: bytes) -> str:
+    def _extract_text_from_image(self, image: Image.Image) -> str:
         """
-        Extract text from image using Google Vision API
+        Extract text from image using Tesseract OCR
         
         Args:
-            image_bytes: Image bytes
+            image: PIL Image object
             
         Returns:
             Extracted text
         """
         try:
-            image = vision.Image(content=image_bytes)
-            response = self.client.document_text_detection(image=image)
+            if pytesseract is None:
+                raise ImportError("pytesseract not installed")
             
-            if response.error.message:
-                raise Exception(f"API Error: {response.error.message}")
+            # Use Tesseract to extract text
+            # PSM 6: Assume a single uniform block of text
+            # PSM 11: Sparse text (for documents with multiple columns)
+            text = pytesseract.image_to_string(
+                image,
+                lang='eng',  # English language
+                config='--psm 6'  # Page segmentation mode
+            )
             
-            # Extract text from response
-            if response.full_text_annotation:
-                return response.full_text_annotation.text
-            else:
-                return ""
+            return text.strip()
         except Exception as e:
             logger.error(f"Failed to extract text from image: {e}")
             raise
@@ -173,11 +178,8 @@ class GoogleVisionOCR:
             for page_num, image in enumerate(images, 1):
                 logger.info(f"  OCR Page {page_num}/{total_pages}...")
                 
-                # Convert image to bytes
-                image_bytes = self._image_to_bytes(image)
-                
-                # Extract text
-                page_text = self._extract_text_from_image(image_bytes)
+                # Extract text directly from PIL Image
+                page_text = self._extract_text_from_image(image)
                 
                 if page_text:
                     text_content.append(page_text)
@@ -210,28 +212,28 @@ def main():
     )
     
     if len(sys.argv) < 2:
-        print("Usage: python ocr_extractor.py <pdf_path> [credentials_path]")
+        print("Usage: python ocr_extractor.py <pdf_path> [tesseract_path]")
         return
     
     pdf_path = Path(sys.argv[1])
-    creds_path = sys.argv[2] if len(sys.argv) > 2 else None
+    tesseract_path = sys.argv[2] if len(sys.argv) > 2 else None
     
     if not pdf_path.exists():
         print(f"PDF not found: {pdf_path}")
         return
     
     try:
-        ocr = GoogleVisionOCR(credentials_path=creds_path)
+        ocr = TesseractOCR(tesseract_cmd=tesseract_path)
         text, success = ocr.extract_text_from_pdf(pdf_path)
         
         if success:
-            print(f"\n✅ Successfully extracted {len(text)} characters")
+            print(f"\n[SUCCESS] Successfully extracted {len(text)} characters")
             print(f"\nFirst 500 characters:")
             print(text[:500])
         else:
-            print("\n❌ Failed to extract text")
+            print("\n[FAILED] Failed to extract text")
     except Exception as e:
-        print(f"\n❌ Error: {e}")
+        print(f"\n[ERROR] Error: {e}")
 
 
 if __name__ == "__main__":
