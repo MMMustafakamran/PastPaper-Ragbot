@@ -33,8 +33,8 @@ def extract_pdfs():
     print()
     
     extractor = PDFExtractor(
-        input_dir="PastPapers/Solved_PastPapers",
-        output_dir="Extracted Text"
+        input_dir="data/input/Solved_PastPapers",
+        output_dir="data/extracted"
     )
     
     stats = extractor.extract_all()
@@ -51,8 +51,8 @@ def clean_text():
     print()
     
     cleaner = TextCleaner(
-        input_dir="Extracted Text",
-        output_dir="Cleaned Text"
+        input_dir="data/extracted",
+        output_dir="data/cleaned"
     )
     
     stats = cleaner.clean_all()
@@ -71,8 +71,8 @@ def parse_questions():
     from pathlib import Path
     
     parser = QuestionParser()
-    cleaned_dir = Path("Cleaned Text")
-    output_dir = Path("Processed Data")
+    cleaned_dir = Path("data/cleaned")
+    output_dir = Path("data/processed")
     
     if not cleaned_dir.exists():
         print(f"[ERROR] Cleaned text directory not found: {cleaned_dir}")
@@ -150,7 +150,7 @@ def enhance_metadata():
     print()
     
     enhancer = SimpleEnhancer()
-    stats = enhancer.enhance_all("Processed Data")
+    stats = enhancer.enhance_all("data/processed")
     enhancer.print_summary(stats)
     
     return stats['successful'] > 0

@@ -21,9 +21,12 @@ if sys.platform == 'win32':
 
 def load_config():
     """Load API key from config.json"""
-    config_path = Path(__file__).parent / "config.json"
+    # Try config/config.json first, then fallback to config.json in parent
+    config_path = Path(__file__).parent.parent / "config" / "config.json"
     if not config_path.exists():
-        raise FileNotFoundError(f"config.json not found at {config_path}")
+        config_path = Path(__file__).parent.parent / "config.json"
+    if not config_path.exists():
+        raise FileNotFoundError(f"config.json not found. Expected at: {config_path}")
     
     with open(config_path, 'r') as f:
         config = json.load(f)
@@ -82,6 +85,7 @@ def extract_text_from_image(client, image_path, model="gpt-5-nano"):
     api_start = time.time()
     
     # Call OpenAI API with vision capabilities - GPT-5 nano ONLY
+    # Note: gpt-5-nano uses max_completion_tokens instead of max_tokens
     response = client.chat.completions.create(
         model=model,
         messages=[
@@ -90,7 +94,26 @@ def extract_text_from_image(client, image_path, model="gpt-5-nano"):
                 "content": [
                     {
                         "type": "text",
-                        "text": "Extract all text from this image. Return only the text content, preserving the structure and formatting as much as possible."
+                        "text": """Extract all text from this exam paper image. This is a past paper containing multiple-choice questions (MCQs).
+
+CRITICAL REQUIREMENTS:
+1. Preserve question numbering exactly as shown (e.g., "1)", "Q.1", "1.")
+2. Preserve option labels exactly (A., B., C., D. or A), B), C), D))
+3. Preserve answer markers if present:
+   - "(Correct)" markers after options (NET format)
+   - Answer keys at the end of sections
+4. Maintain line breaks between questions and options
+5. Preserve mathematical notation, formulas, and special characters
+6. Keep option text on separate lines when possible
+7. Do NOT combine multiple options on one line unless they appear that way in the image
+
+FORMAT PRESERVATION:
+- If options appear inline (e.g., "A) text1. C) text2."), preserve that format
+- If options appear on separate lines, keep them separate
+- Preserve any answer key sections at the end
+- Maintain spacing and indentation that helps identify question boundaries
+
+Return the extracted text exactly as it appears, preserving all structural elements needed for parsing questions, options, and correct answers."""
                     },
                     {
                         "type": "image_url",
@@ -101,7 +124,7 @@ def extract_text_from_image(client, image_path, model="gpt-5-nano"):
                 ]
             }
         ],
-        max_tokens=4096
+        max_completion_tokens=4096
     )
     
     api_time = time.time() - api_start
@@ -146,14 +169,23 @@ def create_output_path(input_path, output_root):
     # Get relative path from OCR_Images
     input_path = Path(input_path)
     
-    # Find OCR_Images in the path
+    # Find data/images in the path
     parts = input_path.parts
     try:
-        ocr_index = parts.index("OCR_Images")
-        # Get path after OCR_Images
-        relative_parts = parts[ocr_index + 1:]
-    except ValueError:
-        # If OCR_Images not in path, use entire relative path
+        # Look for "images" folder (could be data/images or just images)
+        images_index = None
+        for i, part in enumerate(parts):
+            if part == "images":
+                images_index = i
+                break
+        if images_index is not None:
+            # Get path after images folder
+            relative_parts = parts[images_index + 1:]
+        else:
+            # If images not in path, use entire relative path
+            relative_parts = input_path.parts
+    except (ValueError, IndexError):
+        # Fallback: use entire relative path
         relative_parts = input_path.parts
     
     # Create output path
@@ -176,7 +208,9 @@ def process_images(limit=None):
     print("=" * 70)
     print("IMAGE TO TEXT CONVERTER - GPT-5 Nano")
     if limit:
-        print(f"TEST MODE: Processing first {limit} images only")
+        print(f"TEST MODE: Processing first {limit} image(s) only")
+    else:
+        print("PROCESSING ALL IMAGES")
     print("=" * 70)
     print(f"Start time: {start_datetime}")
     print()
@@ -197,9 +231,50 @@ def process_images(limit=None):
     print("  └─ ✓ OpenAI client initialized")
     print()
     
+    # Verify model exists
+    print("Verifying model availability...")
+    try:
+        models = client.models.list()
+        available_models = [model.id for model in models.data]
+        
+        print(f"  └─ Found {len(available_models)} available model(s)")
+        
+        # Check if gpt-5-nano exists
+        model_name = "gpt-5-nano"
+        model_found = False
+        matching_models = []
+        
+        for model_id in available_models:
+            if model_name.lower() in model_id.lower():
+                model_found = True
+                matching_models.append(model_id)
+        
+        if model_found:
+            print(f"  └─ ✓ Model '{model_name}' found:")
+            for model_id in matching_models:
+                print(f"      • {model_id}")
+        else:
+            print(f"  └─ ⚠ Model '{model_name}' not found in available models")
+            print(f"  └─ Available vision models:")
+            vision_models = [m for m in available_models if 'vision' in m.lower() or 'gpt-4' in m.lower() or 'gpt-3.5' in m.lower()]
+            if vision_models:
+                for model_id in vision_models[:10]:  # Show first 10
+                    print(f"      • {model_id}")
+            else:
+                print(f"      (No obvious vision models found)")
+                print(f"  └─ First 10 available models:")
+                for model_id in available_models[:10]:
+                    print(f"      • {model_id}")
+        
+        print()
+    except Exception as e:
+        print(f"  └─ ⚠ Could not verify models: {str(e)}")
+        print(f"  └─ Continuing anyway...")
+        print()
+    
     # Set directories
-    input_dir = Path("OCR_Images")
-    output_dir = Path("output")
+    input_dir = Path("data/images")
+    output_dir = Path("data/output")
     
     print(f"Input directory: {input_dir.absolute()}")
     print(f"Output directory: {output_dir.absolute()}")
@@ -211,7 +286,7 @@ def process_images(limit=None):
     total_found = len(images)
     
     if total_found == 0:
-        print("  └─ ✗ No PNG images found in OCR_Images directory")
+        print(f"  └─ ✗ No PNG images found in {input_dir} directory")
         return
     
     # Apply limit if specified
@@ -371,14 +446,17 @@ if __name__ == "__main__":
     parser.add_argument(
         "--limit",
         type=int,
-        default=None,
-        help="Limit the number of images to process (useful for testing)"
+        default=3,
+        help="Limit the number of images to process (default: 3 for testing, use --limit 0 or --limit None for all)"
     )
     
     args = parser.parse_args()
     
+    # Handle special case: --limit 0 or --limit None means process all
+    limit = None if args.limit == 0 else args.limit
+    
     try:
-        process_images(limit=args.limit)
+        process_images(limit=limit)
     except KeyboardInterrupt:
         print("\n\nProcess interrupted by user")
     except Exception as e:

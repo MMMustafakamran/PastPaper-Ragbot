@@ -46,7 +46,9 @@ class PDFExtractor:
                 # Try to get tesseract path from keys.json if available
                 tesseract_path = None
                 if credentials_path is None:
-                    keys_path = Path(__file__).parent.parent / "keys.json"
+                    keys_path = Path(__file__).parent.parent / "config" / "keys.json"
+                    if not keys_path.exists():
+                        keys_path = Path(__file__).parent.parent / "keys.json"
                     if keys_path.exists():
                         import json
                         with open(keys_path, 'r') as f:

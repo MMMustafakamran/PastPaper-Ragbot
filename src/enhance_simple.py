@@ -302,7 +302,7 @@ class SimpleEnhancer:
         
         return stats
     
-    def enhance_all(self, processed_dir: str = "Processed Data") -> dict:
+    def enhance_all(self, processed_dir: str = "data/processed") -> dict:
         """
         Enhance all JSON files in processed directory
         

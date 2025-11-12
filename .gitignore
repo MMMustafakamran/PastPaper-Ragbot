@@ -42,6 +42,9 @@ config.ini
 secrets.json
 .env.local
 halogen-pride-464806-v9-03b3379c294e.json
+config/config.json
+config/*.json
+!config/keys.json.example
 
 # Temporary files
 temp/
