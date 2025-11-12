@@ -1,0 +1,11 @@
+I can extract the text, but the image you provided is too low-resolution to read reliably. For an exact, line-for-line transcription that preserves all formatting (including numbering, option labels, and any answer markers), I need a sharper image (preferably 300–600 dpi) or a clean PDF scan.
+
+If you can provide a higher-resolution version, I will extract the text exactly as it appears, preserving:
+- Question numbering (e.g., “70.”, “71.”, “Q.1”, etc.)
+- All option labels (A., B., C., D. or A), B), C), D))
+- Any (Correct) markers or answer keys
+- Line breaks, spacing, and separate lines for each option
+- All mathematical notation and special characters
+- Any answer key sections at the end of sections
+
+In the meantime, I can offer a best-effort transcription of the clearly legible parts, but please note it may contain inaccuracies due to the image quality. If you’d like that, say “best effort” and I’ll proceed with what I can read.

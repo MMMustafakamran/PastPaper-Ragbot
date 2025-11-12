@@ -1,0 +1,14 @@
+I’m ready to extract the text, but this image is too low-resolution for a reliable, exact transcription of all items. Some parts (especially questions 16–25) are not legible enough to preserve the precise wording, symbols, and option labels exactly as shown.
+
+If you can provide:
+- a higher-resolution version of the page, or
+- separate crops of each question block (16–25)
+
+…I can give you an exact transcription that preserves:
+- numbering (e.g., "1)", "Q.1")
+- option labels (A., B., C., D. or A), B), C), D))
+- any (Correct) markers or end-of-section answer keys
+- line breaks and formatting that indicate question boundaries
+- all mathematical notation, formulas, and special characters
+
+Alternatively, I can provide a best-effort transcription of the clearly legible parts now, with placeholders or bracketed notes for the uncertain sections. Let me know which you prefer.

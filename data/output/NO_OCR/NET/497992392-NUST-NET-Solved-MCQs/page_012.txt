@@ -1,0 +1,49 @@
+12 Objective Type Questions
+
+39. 1 - x + x^2 - x^3 + x^4 - ... = ? 
+(a) 1/(1 + x)
+(b) 1/(1 - x)
+(c) -1/(1 + x)
+(d) 1/(x - 1)
+
+40. dy/dx |_(x1,y1) represents
+(a) increments of x and y at (x1, y1)
+(b) slope of tangent at (x1, y1)
+(c) slope of normal at (x1, y1)
+(d) slope of horizontal line at (x1, y1)
+
+41. f is said to be increasing on α, b [ if for x1, x2 ∈ α, b [
+(a) f(x2) > f(x1) whenever x2 > x1
+(b) f(x2) > f(x1) whenever x2 < x1
+(c) f(x2) < f(x1) whenever x2 > x1
+(d) f(x2) < f(x1) whenever x2 < x1
+
+42. f is said to be decreasing on α, b [ if for x1, x2 ∈ α, b [
+(a) f(x2) > f(x1) whenever x2 > x1
+(b) f(x2) > f(x1) whenever x2 < x1
+(c) f(x2) < f(x1) whenever x2 > x1
+(d) f(x2) < f(x1) whenever x2 < x1
+
+43. If a function f is increasing within α, b, then slope of the tangent to its graph within α, b remains
+(a) positive
+(b) negative
+(c) zero
+(d) undefined
+
+44. If a function f is decreasing within α, b, then slope of the tangent to its graph within α, b remains
+(a) positive
+(b) negative
+(c) zero
+(d) undefined
+
+45. A point where 1st derivative of a function is zero, is called
+(a) stationary point
+(b) corner point
+(c) point of concurrency
+(d) common point
+
+46. f(x) = sin x is
+(a) linear function
+(b) odd function
+(c) even function
+(d) identity function

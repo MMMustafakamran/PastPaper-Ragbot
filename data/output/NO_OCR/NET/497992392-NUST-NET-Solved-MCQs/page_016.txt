@@ -1,0 +1,30 @@
+NET Past Papers      https://edumanias.com/      https://www.facebook.com/EduManias
+       EDU MANIAS
+
+16 Objective Type Questions
+
+80. A function f(x) is such that, at a point x=c, f'(x) < 0 at x=c, then f is said to be
+(a) Increasing (b) decreasing (c) constant (d) 1-1 function
+
+81. A function f(x) is such that, at a point x=c, f'(x) = 0 at x=c, then f is said to be
+(a) Increasing (b) decreasing (c) constant (d) 1-1 function
+
+82. A point where f is neither increasing nor decreasing is called _____ provided that f'(x) = 0 at that point.
+(a) stationary point (b) turning point (c) critical point (d) point of inflection
+
+83. A stationary point is called _____ if it is either a maximum point or a minimum point.
+(a) stationary point (b) turning point (c) critical point (d) point of inflection
+
+84. If f'(c) = 0 or f''(c) is undefined, then the number c is called critical value and the corresponding point is called _____
+(a) stationary point (b) turning point (c) critical point (d) point of inflection
+
+85. If f'(c) does not change sign before and after x=c, then this point is called _____.
+(a) stationary point (b) turning point (c) critical point (d) point of inflection
+
+Note. Every stationary point is also called critical point but the converse may or may not be true.
+
+87. Let f be a differentiable function such that f'(c) = 0, then, if f'(x) changes sign from positive to negative, i.e., before and after x=c, then it occurs relative --- at x=c.
+(a) maximum (b) minimum (c) point of inflection (d) none
+
+88. Let f be a differentiable function such that f'(c) = 0, then, if f'(x) does not change sign i.e., before and after x=c, then it occurs -- at x=c.
+(a) maximum (b) minimum (c) point of inflection (d) non

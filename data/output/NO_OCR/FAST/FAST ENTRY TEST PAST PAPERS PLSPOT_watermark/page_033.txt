@@ -1,0 +1,45 @@
+I can extract the legible text from the image, but some parts are not readable due to the resolution. Here is what I can reliably transcribe, along with a request for a higher‑resolution crop of the unreadable parts (especially the circle-number puzzle in Question 17):
+
+Legible header and site information
+- FAST ENTRY TEST PAST PAPERS PLSPOT
+
+- WWW.PakLearningSpot.com
+- Download More MCQs from Website
+
+Main header
+- FAST PAST PAPER 2
+
+Question prompt (puzzle)
+- Which letter replaces the question mark and completes the puzzle?
+
+Puzzle diagram (as seen)
+- D   G   D
+-    H   L
+-      Y
+-    R   L
+-  S   K   ?
+
+Additional line (part of the page near the puzzle, text is faint)
+- E, M, N, .B
+
+Question 16 (text and options)
+- QUESTION 16
+- Joe and John are playing marbles. If Joe loses one marble to John, they will both have the same number of marbles, but if John loses one marble to Joe, Joe will have twice the number of marbles as John. How many marbles do the two boys currently have?
+
+- A. JOE HAS 7 JOHN HAS 5
+- B. JOE HAS 5 JOHN HAS 7
+- C. JOE HAS 3 JOHN HAS 6
+
+Question 17
+- QUESTION 17
+- Which number replaces the question mark and completes the puzzle?
+
+[Circle-number puzzle diagram]
+- (The numbers inside the circles are not clearly readable in the provided image.)
+
+End of page information
+- Page 32
+- www.markhorwrites.blogspot.com
+
+Request for best results
+- To produce an exact, line-by-line faithful transcription, please provide a higher-resolution crop or scan of the page (especially the Question 17 circle-number diagram), so I can capture all numbers inside the circles and any other tiny text accurately.

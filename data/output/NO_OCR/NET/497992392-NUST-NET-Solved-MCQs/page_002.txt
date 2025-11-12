@@ -1,0 +1,64 @@
+NET Past Papers   https://edumanias.com/   https://www.facebook.com/EduManias
+Objective Type Questions
+
+2.
+
+9. When we say that f is a function from set X to set Y, then set X is called
+(a) Domain of f
+(b) Range of f
+(c) Codomain of f
+(d) none of these
+
+10. The term "function" was recognised by ---- to describe the dependence of one quantity on another :
+(a) Leibnitz
+(b) Euler
+(c) Newton
+(d) Lagrange
+
+11. If f(x) = x^2 then range of f is :
+(a) [0,∞[
+(b) -∞,0]
+(c) ]0, ∞ [
+(d) +ve real numbers
+
+12. If f(x) = x/(x^2 - 4) then domain of f is :
+(a) All real numbers
+(b) All real numbers except 0
+(c) All real numbers except -2, 2
+(d) only +ve real numbers
+
+13. If a graph expresses a function, then a vertical line must cut the graph at
+(a) One point only
+(b) Two points
+(c) More than two points
+(d) No point
+
+14. If f(x) = { x, when 0 ≤ x ≤ 1 ; x - 1 , when 1 < x ≤ 2 }, then domain of f is :
+(a) [0,2]
+(b) (0,2)
+(c) [1,2]
+(d) all real numbers
+
+15. The graph of a linear equation is always a
+(a) straight line
+(b) parabola
+(c) circle
+(d) cube
+
+16. The domain and range of the identity function , I : X → X is :
+(a) X
+(b) +ve real number
+(c) -ve real number
+(d) integer
+
+17. The linear function f(x) = ax + b is constant function if
+(a) a ≠ 0, b = 1
+(b) a = 1, b = 0
+(c) a = 1, b = 1
+(d) a = 0
+
+18. The linear function f(x) = ax + b is identity function if
+(a) a ≠ 0, b = 1
+(b) a = 1, b = 0
+(c) a = 1, b = 1
+(d) a = 0

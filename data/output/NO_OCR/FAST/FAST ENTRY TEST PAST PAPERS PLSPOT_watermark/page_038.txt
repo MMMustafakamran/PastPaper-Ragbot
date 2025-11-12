@@ -1,0 +1,7 @@
+I can do that, but the current image is quite small and a bit blurry, which makes exact transcription of every question, option label, and any (Correct) markers risky. To preserve the formatting exactly, I need a higher-resolution image (or a zoomed-in version of the page).
+
+Options:
+- If you can upload a clearer image (or crop just the page with higher resolution), I’ll extract and preserve all text, including numbering, option labels, and any answer keys.
+- If you can’t provide a higher-res image, I can attempt a best-effort transcription from this image and clearly mark any parts that are uncertain or likely misread.
+
+How would you like to proceed? If you want me to proceed now with best effort, say “Proceed with best effort,” and I’ll start.

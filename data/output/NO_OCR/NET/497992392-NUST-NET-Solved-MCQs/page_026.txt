@@ -1,0 +1,81 @@
+NET Past Papers   https://edumanias.com/   https://www.facebook.com/EduManias
+EDU MANIAS
+
+26 Objective Type Questions
+
+29. A four-sided polygon ( quadrilateral) having two parallel and two non-parallel sides is called ________
+
+(a) square
+(b) rhombus
+(c) trapezium
+(d) parallelogram
+
+30. Equation of vertical line through (−5, 3) is
+
+(a) x − 5 = 0
+(b) x + 5 = 0
+(c) y − 3 = 0
+(d) y + 3 = 0
+
+31. Equation of horizontal line through (−5, 3) is
+
+(a) x − 5 = 0
+(b) x + 5 = 0
+(c) y − 3 = 0
+(d) y + 3 = 0
+
+32. Equation of line through (−8, 5) and having slope undefined is
+
+(a) x + 8 = 0
+(b) x − 8 = 0
+(c) y − 5 = 0
+(d) y + 5 = 0
+
+33. If θ be the angle between two lines l1 and l2 with slopes m1 and m2, then angle from l1 to l2 is given by
+
+(a) tan φ = (m1 − m2) / (1 + m1 m2)
+(b) tan φ = (m2 − m1) / (1 + m1 m2)
+(c) tan φ = (m1 + m2) / (1 − m1 m2)
+(d) tan φ = (m2 − m1) / (1 − m1 m2)
+
+34. If θ be the acute angle between two lines l1 and l2 with slopes m1 and m2, then acute angle from l1 to l2 is given by
+
+(a) tan φ = |m1 − m2| / (1 + m1 m2)
+(b) tan φ = |m2 − m1| / (1 + m1 m2)
+(c) tan φ = |m1 + m2| / (1 − m1 m2)
+(d) tan φ = |m2 − m1| / (1 − m1 m2)
+
+35. Two lines l1 and l2 with slopes m1 and m2 are parallel if
+
+(a) m1 − m2 = 0
+(b) m1 + m2 = 0
+(c) m1 = m2
+(d) m1 m2 = −1
+
+36. Two lines l1 and l2 with slopes m1 and m2 are perpendicular if
+
+(a) m1 − m2 = 0
+(b) m1 + m2 = 0
+(c) m1 m2 = 0
+(d) m1 m2 = −1
+
+37. For a homogeneous equation of degree n, n must be
+
+(a) an integer
+(b) positive integer
+(c) rational number
+(d) real number
+
+38. The equation 10x^2 − 23xy − 5y^2 = 0 is homogeneous of degree
+
+(a) 0
+(b) 1
+(c) 2
+(d) more than 2
+
+39. Every homogeneous equation of 2nd degree in two variables represents
+
+(a) a line
+(b) two lines
+(c) two lines through origin
+(d) family of lines

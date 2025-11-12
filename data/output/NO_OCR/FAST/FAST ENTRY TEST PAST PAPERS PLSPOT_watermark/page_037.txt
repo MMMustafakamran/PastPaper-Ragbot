@@ -1,0 +1,3 @@
+I can extract the text, but the image is a bit small for a perfect, line-for-line transcription of all options (some parts are unclear). I can do a best-effort transcription now and mark uncertain items, or you can upload a higher-resolution version and I’ll extract it more precisely.
+
+Would you like me to proceed with a best-effort transcription right away (noting any unclear parts), or would you prefer you upload a higher-res image for a more exact extraction?

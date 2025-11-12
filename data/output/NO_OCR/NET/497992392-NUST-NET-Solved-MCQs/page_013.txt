@@ -1,0 +1,67 @@
+NET Past Papers  https://edumanias.com/  https://www.facebook.com/EduManias
+
+Objective Type Questions
+
+13
+
+17. The maximum value of the function : f(x) = x^2 - x - 2 is
+(a) 9/2
+(b) -9/4
+(c) -1
+(d) 0
+
+48. d/dx (cos x) - d^2/dx^2 (sin x) = ?
+(a) 2 sin x
+(b) 2 cos x
+(c) 0
+(d) -2 sin x
+
+49. If f(x) = x^3 + 2x + 9, then f''(x) = ?
+(a) 3x^2 + 2
+(b) 3x^2
+(c) 6x
+(d) 2x
+
+50. d/dx ( 10 sin x ) = ?
+(a) 10 cos x
+(b) 10 sin x cos x ln 10
+(c) 10 sin x ln 10
+(d) 10 cos x ln 10
+
+51. If f(x) = sin x, then f'(cos^-1 3x) = ?
+(a) cos x
+(b) sqrt(1 - x^2)
+(c) sqrt(1 - 9x^2)
+(d) 3x
+
+52. d/dx ( sqrt(x - 1) / sqrt{x} )^2 = ?
+(a) 1 - 1/(2x)
+(b) 1 - 1/x^2
+(c) 1/x^2 + 1
+(d) 0
+
+53. At x = 0, the function f(x) = 1 - x^3 has
+(a) maximum value
+(b) minimum value
+(c) point of inflection
+(d) no conclusion
+
+54. If y = sin √x, then dy/dx is equal to:
+(a) Cos √x / (2√x)
+(b) Cos √x / √x
+(c) Cos √x
+(d) Cos x / (2√x)
+
+55. Let f be differentiable function in neighbourhood of c and f'(c) = 0, then f'(x) could have relative maxima at c if:
+(a) f''(c) > 0
+(b) f''(c) < 0
+(c) f''(c) = 0
+(d) f''(c) ≠ 0
+
+56. y = (x) has the value:
+(a) Minimum at x = e
+(b) Maximum at x = e
+(c) Minimum at x = 1/e
+(d) Maximum at x = 1/e
+
+NET Past Papers  https://edumanias.com/  https://www.facebook.com/EduManias

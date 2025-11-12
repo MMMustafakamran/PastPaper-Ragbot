@@ -1,0 +1,59 @@
+NET Past Papers
+https://edumanias.com/
+https://www.facebook.com/EduManias
+
+OBJECTIVE TYPE QUESTIONS
+
+Unit -1 ( Functions and Limits)
+
+TYPE-1 : [ Multiple Choice Questions (M. C. Qs). ]
+
+Each question has four possible answers. Tick ( √ ) the correct one.
+
+1. The function I(x) = x is called :
+(a) A linear function
+(b) An identity function
+(c) A quadratic function
+(d) A cubic function
+
+2. If y is expressed in terms of a variable x as y = f(x), then y is called :
+(a) An explicit function
+(b) An implicit function
+(c) A linear function
+(d) An identity function
+
+3. Cosh2x – sinh2x = ?
+(a) -1
+(b) 0
+(c) 1
+(d) none of these
+
+4. cosechx is equal to
+(a) 2/(e^x + e^-x)
+(b) 1/(e^x + e^-x)
+(c) 2/(e^x - e^-x)
+(d) 1/(e^x - e^-x)
+
+5. Lim x→ a (x^3 - a^3)/(x - a) = ?
+(a) undefined
+(b) 3a^2
+(c) a^2
+(d) 0
+
+6. Lim x→0 (1 + x)^x = ?
+(a) 1
+(b) e
+(c) e^2
+(d) undefined
+
+7. The notation : y = f(x) was invented by
+(a) Leibniz
+(b) Euler
+(c) Newton
+(d) Lagrange
+
+8. If f(x) = x^2 - 2x + 1, then f(0) = ?
+(a) -1
+(b) 0
+(c) 1
+(d) 2

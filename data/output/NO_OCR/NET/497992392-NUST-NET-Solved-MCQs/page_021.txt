@@ -1,0 +1,49 @@
+I can extract the text, but the provided image is a low-resolution scan with a large watermark, which makes several items unclear (especially questions 37, 40–42, and parts of 43). To preserve your requested formatting exactly, I need a higher-resolution version of the page (or at least a clearer crop of the questions).
+
+If you’d like, I can proceed with a best-effort transcription of the clearly legible parts (and clearly-marked options) now, and clearly mark any uncertain sections for you. Please let me know which approach you prefer.
+
+What I can confirm with reasonable certainty from the legible portions (and I can format exactly as in the image) is:
+
+- 38. In ∫(x^2 − a^2)^(1/2) dx, the substitution is:
+  (a) x = a tan θ
+  (b) x = a sec θ
+  (c) x = a sin θ
+  (d) x = 2a sin θ
+
+- 39. ∫ x cos x dx is equal to:
+  (a) sin x + cos x
+  (b) cos x − sin x
+  (c) x sin x + cos x
+  (d) None
+
+- 43. The suitable substitution for ∫ √(2x − x^2) dx is:
+  (a) x − a = a cos θ
+  (b) x − a = a sin θ
+  (c) x + a = a sin θ
+  (d) x + a = a cos θ
+
+- 44. u · dv equals to:
+  (a) v du − ∫ v du
+  (b) uv + ∫ v du
+  (c) uv − ∫ v du
+  (d) u du + ∫ v du
+
+- 45. ∫ sin x dx equals to:
+  (a) −cos x
+  (b) 0
+  (c) 2
+  (d) 1
+
+- 46. The general solution of the differential equation dy/dx = −y/x is:
+  (a) x/y = c
+  (b) y/x = c
+  (c) xy = c
+  (d) x^2 y^2 = c
+
+- 47. ∫ (x + 2)/(x + 1) dx:
+  (a) ln(x + 1)
+  (b) ln(x + 1) − x
+  (c) x + ln(x + 1)
+  (d) None
+
+If you upload a clearer image (or specify a higher-res crop), I’ll deliver a full, exact transcription preserving all numbering, option labels, any (Correct) markers, answer keys, line breaks, and any mathematical notation as they appear.

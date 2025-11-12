@@ -1,0 +1,8 @@
+I can extract the text, but the current image is too low in resolution for reliable transcription of all questions and options (the details of Q5–Q15 and their answer choices are not clearly legible). To preserve the exact formatting you require (including numbering, option labels, and any (Correct) markers), please provide one of the following:
+
+- A higher-resolution image (preferably 300–600 dpi) or a clearer scan/PDF of the page.
+- A text/PDF version of the exam page, if you have one.
+
+If you can’t provide a sharper image, I can still attempt a best-effort transcription from the current image and clearly indicate places where the text is uncertain (e.g., [unclear] or similar), but the result may not meet the “exactly as shown” requirement.
+
+How would you like to proceed?

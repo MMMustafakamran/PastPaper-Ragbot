@@ -1,0 +1,10 @@
+I’m happy to extract the text, but this image is too low-resolution for reliable OCR. Many details (question numbers, exact option labels, and any answer markers) aren’t clearly legible, and I don’t want to guess incorrectly.
+
+If you can provide one of the following, I’ll reproduce the text exactly with formatting preserved:
+- A higher-resolution scan or photo of the page (ideally 150–300 dpi or higher, straight and cropped to the page).
+- A sharper crop that focuses on the text (you can paste or attach separate images for each section).
+- The text manually typed out (I can format it to match your requirements exactly).
+
+Alternatively, if you can confirm specific parts you need (e.g., just Q18–Q20 and their options), I can try to reconstruct those with the best guess from the image, but it may not be perfectly accurate.
+
+Would you like to try uploading a clearer image?

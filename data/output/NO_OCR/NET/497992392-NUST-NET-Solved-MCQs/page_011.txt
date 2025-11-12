@@ -1,0 +1,61 @@
+Objective Type Questions
+
+29. y = tanh-1 x if and only if x = tanh y is valid when
+(a) x ∈ R , y ∈ R
+(b) x ∈ [-1,1], y ∈ R
+(c) x ∈ [-1,1], y ∈ R
+(d) x > 0, y > 0
+
+30. y = coth-1 x if and only if x = coth y is valid when
+(a) x ∈ R , y ∈ R
+(b) x ∈ [-1,1], y ∈ R
+(c) x ∈ [-1,1], y ∈ R
+(d) x > 0, y > 0
+
+31. y = sech-1 x if and only if x = sech y is valid when
+(a) x ∈ R , y ∈ R
+(b) x ∈ [-1,1], y ∈ R
+(c) x ∈ [-1,1], y ∈ R
+(d) x ∈ (0,1], y ∈ (0,∞)
+
+32. y = cosech-1 x if and only if x = cosech y is valid when
+(a) x ∈ R, y ∈ R
+(b) x ∈ R - {0}; y ∈ R - {0}
+(c) x ∈ [-1,1], y ∈ R
+(d) x ∈ (0,1], y ∈ (0, ∞)
+
+33. If y = sinh-1(ax + b), then dy/dx = ?
+(a) cosh-1 (ax + b)
+(b) 1 / √(1 + (ax + b)²)
+(c) a / √(1 + (ax + b)²)
+(d) a cosh-1 (ax + b)
+
+34. If y = cosh-1 (sec x), then dy/dx = ?
+(a) cos x
+(b) sec x
+(c) - sin (sec x)
+(d) - sinh-1 (sec x) tan x
+
+35. If y = e-ax, then y2 = ?
+(a) - a e-ax
+(b) - a² e-ax
+(c) a² e-ax
+(d) a² e-ax
+
+36. If y = e-ax, then dy/dx = ?
+(a) - a e-2ax
+(b) - a e2ax
+(c) a² e-ax
+(d) a e-ax
+
+37. If y = cos (ax + b), then y2 = ?
+(a) a² sin (ax + b)
+(b) - a² sin (ax + b)
+(c) - a² cos (ax + b)
+(d) a² cos (ax + b)
+
+38. f(x) = f(0) + x f'(0) + x²/2! f''(0) + ... is called
+(a) Maclaurin’s series expansion
+(b) Taylor’s series expansion
+(c) Taylor’s Theorem
+(d) convergent series

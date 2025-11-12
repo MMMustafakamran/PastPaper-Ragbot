@@ -1,0 +1,7 @@
+I can extract the text, but the provided image is quite blurred and has a watermark that makes many parts hard to read reliably. To preserve the exact formatting you requested, I’d need a clearer copy (higher resolution) of the exam page. 
+
+Options:
+- If you’d like, I can do a best-effort transcription of the clearly readable parts now, and mark uncertain areas where the text is illegible. 
+- Or, please upload a higher-resolution version (preferably 300–600 dpi or a sharper scan) and I’ll extract the full content exactly as it appears, including question numbers, options, and any answer markers.
+
+Would you like me to proceed with a best-effort transcription of the clearly legible sections and flag the rest, or wait for a clearer image?

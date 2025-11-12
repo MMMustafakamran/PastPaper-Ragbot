@@ -1,0 +1,72 @@
+FAST ENTRY TEST PAST PAPERS PLS POT
+
+www PakLearningSpot.com
+Download More MCQs from Website
+
+FAST PAST PAPER 3
+
+20. Area under the curve x^2 + y^2 = 4 between the ordinates x = 1/2 and x = 3/2
+a) 32
+b) 16
+c) 25
+d) none of them
+
+21. The centre of 4x^2 + 4y^2 − 12x + 4y − 15 = 0 is
+a) (1/2, 3/5)
+b) (1/5, 3/2)
+c) (3/2, −1/2)
+d) (4/5, 6/5)
+
+22. The parametric equation of a circle with radius ‘a’ are
+a) X= a cos θ, Y= a sin θ
+b) X= r cos θ, Y= r sin θ
+c) X= r cos θ, Y= r sin θ
+d) X= r tan θ, Y= r sec θ
+
+23. The radius of the circle 4x^2 + 4y^2 − 12x + 4y − 15 = 0 is
+a) 5/4
+b) 5/2
+c) 5/6
+d) 5/3
+
+24. The length of the tangent from (−4, 6) to 2x^2 + 2y^2 − 3 = 0 is
+a) 18.3
+b) 5.2
+c) 7.1
+d) 5/3
+
+25. Equation of the parabola whose vertex is (0,0) and focus is (0, −3) is
+a) y = x^2
+b) x^2 = −12y
+c) y^2 = 12x
+d) x^2 = 12y
+
+26. (x + 3i)^2 = 2yi then (x, y) is
+a) (−3, −9)
+b) (3, 7)
+c) (0, 0)
+d) none of these
+
+27. A unit matrix of order 3x3 is
+a) [ [0 0 0]
+     [0 0 0]
+     [0 0 0] ]
+b) [ [0 0 1]
+     [0 0 0]
+     [1 0 0] ]
+c) [ [1 0 0]
+     [0 1 0]
+     [0 0 1] ]
+d) [ [0 1 0]
+     [0 0 1]
+     [1 0 0] ]
+
+28. If | y^2    y  |
+       | 8     4  10 | = 60 then y = ?
+a) 4
+b) 4,5
+c) 3,4
+d) 2,7
+
+Page 38
+www.markhorwrites.blogspot.com

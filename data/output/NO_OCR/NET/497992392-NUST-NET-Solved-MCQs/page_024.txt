@@ -1,0 +1,66 @@
+24 Objective Type Questions
+6) The point where the medians of a triangle intersect is called _____ of the triangle
+(a) centroid
+(b) centre
+(c) orthocentre
+(d) circumcentre
+
+7) The point where the altitudes of a triangle intersect is called _____ of the triangle
+(a) centroid
+(b) centre
+(c) orthocentre
+(d) circumcentre
+
+8) The centroid of a triangle divides each median in the ratio of
+(a) 2 : 1
+(b) 1 : 2
+(c) 1 : 1
+(d) none of these
+
+9) The point where the angle bisectors of a triangle intersect is called _____ of the triangle
+(a) centroid
+(b) incentre
+(c) circumcentre
+(d) orthocentre
+
+10) If x and y have opposite signs then the point P(x, y) lies in quadrants
+(a) I & II
+(b) I & III
+(c) II & IV
+(d) I & IV
+
+11) A line bisecting the 2nd and 4th quadrants has inclination
+(a) 0°
+(b) 45°
+(c) 135°
+(d) 180°
+
+12) y = x is the straight line
+(a) bisecting the 1st and 3rd quadrants
+(b) parallel to x - axis
+(c) bisecting the 2nd and 4th quadrants
+(d) parallel to y - axis
+
+13) If all the sides of a four-sided polygon are equal but the four angles are not equal to 90° each then it is a
+(a) kite
+(b) rhombus
+(c) parallelogram
+(d) trapezoid
+
+14) If α is the inclination of a line l then it must be true that
+(a) 0 ≤ α < π
+(b) π/2 ≤ α < π
+(c) 0 ≤ α < 2π
+(d) 0 ≤ α < 2π
+
+15) The slope-intercept form of the equation of a straight line is
+(a) y = mx + c
+(b) y − y1 = m(x − x1)
+(c) x / a + y / b = 1
+(d) x cos α + y sin α = p
+
+16) The two-intercepts form of the equation of a straight line is
+(a) y = mx + c
+(b) y − y1 = m(x − x1)
+(c) x / a + y / b = 1
+(d) x cos α + y sin α = p

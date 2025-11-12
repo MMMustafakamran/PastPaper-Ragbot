@@ -282,10 +282,15 @@ def process_images(limit=None, skip=0, filter_path=None):
     # Filter by path if specified
     if filter_path:
         filter_lower = filter_path.lower()
-        images = [img for img in images if filter_lower in str(img).lower()]
+        # Convert to Path objects for better matching
+        images = [img for img in images if filter_lower in str(img).lower() or filter_lower in str(img.relative_to(input_dir)).lower()]
         print(f"  └─ 🔍 Filtering by path: '{filter_path}'")
         if len(images) == 0:
             print(f"  └─ ✗ No images found matching filter '{filter_path}'")
+            print(f"  └─ Available paths (first 5):")
+            sample_paths = [str(img.relative_to(input_dir)) for img in find_all_images(input_dir)[:5]]
+            for path in sample_paths:
+                print(f"      • {path}")
             return
     
     total_found = len(images)

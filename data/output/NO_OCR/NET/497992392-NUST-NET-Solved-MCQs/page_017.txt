@@ -1,0 +1,59 @@
+I’ve done my best to transcribe the visible text from the image. Some parts are a bit unclear due to the image quality, so I’ve marked or inferred where possible. If you can provide a higher-resolution image, I can refine the transcription further.
+
+89. If f(x) = e^{√(x - 1)}, then f'(0) =
+(a) e^{-1}
+(b) e
+(c) ∞
+(d) 1/2
+
+90. d/dx (tan^{-1} x − cot^{-1} x) =
+(a) 2 / √(1 + x^2)
+(b) 2 / (1 + x^2)
+(c) 0
+(d) −2 / (1 + x^2)
+
+91. If f(1/x) = tan x, then f'(1/x) =
+(a) π^2
+(b) −π^2
+(c) 1
+(d) −1/π^2
+
+92. lim_{h→0} [f(a + h) − f(a)] / h = 
+(a) 0
+(b) f(a)
+(c) f'(a)
+(d) f'(a)
+
+93. If f(x) = 1/x, then a critical point of f is
+(a) 0
+(b) 1
+(c) −1
+(d) no point
+
+Unit - 3 (Integration)
+
+TYPE-1: [Multiple Choice Questions (M. C. Qs.)]
+
+1. If y = f(x) then differential of y is
+(a) dy = f'(x) dx
+(b) dy = f' (x) dx
+(c) dy = f(x) dx
+(d) dy/dx
+
+2. If ∫ f(x) dx = φ(x) + c, then f(x) is called
+(a) integral
+(b) differential
+(c) derivative
+(d) integrand
+
+3. If n ≠ 1, then ∫ (ax + b)^n dx = ?
+(a) (ax + b)^{n−1} / [a(n−1)]
+(b) (ax + b)^{n+1} / n
+(c) (ax + b)^{n+1} / [a(n+1)]
+(d) (ax + b)^{n+1} / [a(n+1)]
+
+4. ∫ sin(ax + b) dx = ?
+(a) −(1/a) cos(ax + b)
+(b) (1/a) cos(ax + b)
+(c) a cos(ax + b)
+(d) −a cos(ax + b)
