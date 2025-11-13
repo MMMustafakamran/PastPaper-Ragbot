@@ -1,0 +1,11 @@
+I can do this, but the attached image is too blurry/low-resolution for a reliable, exact transcription that preserves all numbering, option labels, and any answer markers.
+
+If you can upload a higher-resolution scan or a PDF of the exam paper, I will extract the text exactly as it appears, preserving:
+- question numbers (e.g., 98, 99, 100, 101, …)
+- option labels (A., B., C., D. or A), B), C), D))
+- any "(Correct)" markers or answer keys at the end
+- line breaks between questions and options
+- all mathematical notation and formatting
+- keeping options on separate lines as they appear
+
+If a higher-res image isn’t available, I can attempt a best-effort transcription of the clearly legible parts (likely starting with questions 98–112) and mark parts that are uncertain due to image quality. Let me know which you prefer.

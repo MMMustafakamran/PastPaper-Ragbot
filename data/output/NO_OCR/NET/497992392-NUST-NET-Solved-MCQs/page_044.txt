@@ -1,0 +1,75 @@
+44 Objective Type Questions
+
+128. The length of the tangent drawn from the point (1, 1) to the circle
+x^2 + y^2 − 3x + 9y + 8 = 0 is :
+(a) 1
+(b) √6
+(c) 4
+(d) 12
+
+129. The equation ax^2 + by^2 + 2gy + 2fy + c = 0, with either a = 0 or b = 0 but not both zero represents:
+(a) Circle
+(b) Parabola
+(c) Ellipse
+(d) Hyperbola
+
+130. The length of semi latus rectum of an ellipse is:
+(a) la
+(b) 2b^2 / a
+(c) 2b
+(d) b / a
+
+131. The foci of hyperbola always lie on:
+(a) x-axis
+(b) Transverse axis
+(c) y-axis
+(d) Conjugate axis
+
+132. Tangent line to the curve x^2 + y^2 = a^2 at the point (x1, y1) is:
+(a) x x1 + y y1 = a^2
+(b) x1 x + y1 y = a^2
+(c) xy1 + yx1 = a^2
+(d) None
+
+133. The line through P, perpendicular to the tangent to the curve at P is called
+(a) Normal at P
+(b) Tangent at P
+(c) Slope at P
+(d) Chord at P
+
+134. If foci of an ellipse are (4, 1) and (0, 1) then its centre is
+(a) (4, 2)
+(b) (2, 1)
+(c) (2, 0)
+(d) (1, 2)
+
+135. The second degree equation of the form Ax^2 + By^2 + Gx + Fy + C = 0, if A = B ≠ 0 represents
+(a) parabola
+(b) circle
+(c) ellipse
+(d) hyperbola
+
+136. The second degree equation of the form Ax^2 + By^2 + Gx + Fy + C = 0, if A ≠ B and both have same sign represents
+(a) parabola
+(b) circle
+(c) ellipse
+(d) hyperbola
+
+137. The second degree equation of the form Ax^2 + By^2 + Gx + Fy + C = 0, if A ≠ B and both have opposite sign represents
+(a) parabola
+(b) circle
+(c) ellipse
+(d) hyperbola
+
+138. The most general second degree equation
+ax^2 + 2hxy + by^2 + 2gx + 2fy + c = 0 represents a conic. The quantity h^2 − ab is called
+(a) Discriminant
+(b) a pair of lines
+(c) degenerate conic
+(d) conic section
+
+139. Under certain conditions, the equation ax^2 + 2hxy + by^2 + 2gx + 2fy + c = 0 does not represent any conic, then it represents
+(a) central conic
+(b) point circle
+(c) degenerate conic
+(d) pair of lines through (0, 0)

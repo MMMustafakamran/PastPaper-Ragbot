@@ -1,0 +1,60 @@
+Here is my best-effort transcription of the text from the image. Some parts are unclear due to the image quality; I have marked uncertain areas where appropriate. If you can provide a higher-resolution image, I can refine this further.
+
+Text extracted (best effort)
+
+Objective Type Questions
+45
+
+NOTE. One of the degenerate cotic is a pair of straight lines. The necessary and sufficient condition of the pair of straight lines is
+
+| a   h   g |
+| h   b   f | = 0
+| g   f   c |
+
+or, abc + 2fgh - af^2 - bg^2 - ch^2 = 0 .
+
+Remark. This is a well-known determinant, its expansion should also be memorised.
+
+e.g. to check whether 2x^2 - xy + 5x - 2y + 2 = 0 represents a pair of lines:
+
+Here, on comparing with ax^2 + 2hxy + by^2 + 2gx + 2fy + c = 0,
+
+a = 2, h = -1/2, b = 0, g = 5/2, f = -1, c = 2
+[Some matrix/expansion diagram in the image]
+
+Hence the given equation represents a pair of straight lines.
+
+Unit - 7 (Vectors)
+TYPE - 1 : [ Multiple Choice Questions (M. C. Qs) ]
+
+Each question has four possible answers. Tick (√) the correct one.
+
+1. The vector whose magnitude is 1 is called
+(a) null vector
+(b) unit vector
+(c) free vector
+(d) scalar
+
+2. If the terminal point B of the vector AB coincides with its initial point A, then |AB| = ?  |BB| = ?
+(a) 1
+(b) 0
+(c) 2
+(d) undefined
+
+3. Two vectors are said to be negative of each other if they have the same magnitude and ____ direction
+(a) same
+(b) opposite
+(c) negative
+(d) parallel
+
+4. Parallelogram law of vector addition to describe the combined action of two forces, was used by
+(a) Cauchy
+(b) Aristotle
+(c) Alk(h)warzi (unclear from image)
+(d) Leibniz (unclear from image)
+
+Notes
+- Some lines and words near the bottom of the image are not fully legible; I could not confirm all spellings or the exact fourth option for item 4.
+- If you can share a higher-res scan or a clearer crop of the MCQ area (particularly items 2 and 4), I can produce a more exact, line-for-line transcription.
+
+Would you like me to try again with a clearer image, or would you prefer I attempt a more approximate OCR with placeholder text for the uncertain segments?

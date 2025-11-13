@@ -1,0 +1,85 @@
+Objective Type Questions
+
+64. The equation of y-axis is:
+(a) x = 0
+(b) y = 0
+(c) x = 1
+(d) y = 1
+
+65. The lines l1: a1x + b1y + c1 = 0 and l2: a2x + b2y + c2 = 0 are perpendicular if:
+(a) a1a2 + b1b2 = 0
+(b) a1b2 + a2b1 = 0
+(c) a1a2 − b1b2 = 0
+(d) a1a2 + b1b2 = 0
+
+66. If a line l intersects x-axis at a point (3, 0), then the x-intercept of the line l is:
+(a) -3
+(b) 0
+(c) 3
+(d) 3
+
+67. Altitudes of a triangle are:
+(a) Parallel
+(b) perpendicular
+(c) Concurrent
+(d) Non concurrent
+
+68. The perpendicular distance of a point P(x1, y1) from the line ax + by + c = 0 is
+(a) d = |ax1 + by1 + c| / √(a^2 − b^2)
+(b) d = |ax1 + by1 + c| / √(a^2 − b^2)
+(c) d = |ax1 + by1 + c| / √(a^2 + b^2)
+(d) d = |ax1 + by1 + c| / √(a^2 + b^2)
+
+69. Second degree homogeneous equation is:
+(a) ax^2 + bx + c = 0
+(b) ax^3 + bx^2 + cx + d = 0
+(c) ax^2 + by + c = 0
+(d) ax^2 + 2hxy + by^2 = 0
+
+70. If a straight line is parallel to x-axis then its slope is:
+(a) -1
+(b) 0
+(c) 1
+(d) Undefined
+
+71. The distance between (1, 2) and (2, 1) is:
+(a) 1
+(b) √2
+(c) 2
+(d) √5
+
+72. Intercept form of equation of line is:
+(a) x/y = 0
+(b) x/a + y/b = 0
+(c) x/y = 1
+(d) x/a + y/b = 1
+
+73. The perpendicular distance of a line 12x + 5y = 7 from (0,0) is:
+(a) 1/13
+(b) 13/7
+(c) 7/13
+(d) 13
+
+74. Line passes through the point of intersection of two lines l1 and l2 is:
+(a) k l1
+(b) l1 + k l2 = 0
+(c) l1 + k l2 = 2
+(d) Both (b) and (c)
+
+75. The coordinate axes divide the whole plane into ____ equal parts
+(a) 2
+(b) 4
+(c) 8
+(d) infinity many
+
+76. If b is positive, then the line y = b lies
+(a) above the x-axis
+(b) above the y-axis
+(c) below the x-axis
+(d) below the y-axis
+
+77. A line x = a is on the right of y-axis if a =
+(a) positive
+(b) negative
+(c) 0
+(d) any real number

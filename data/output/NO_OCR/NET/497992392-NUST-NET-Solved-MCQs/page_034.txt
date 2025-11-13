@@ -1,0 +1,43 @@
+I can extract text from the image, but the page is low resolution in places, so some items are only partly legible. Here is the best-possible transcription I can provide, preserving the visible structure and formatting. I have included the legible parts (18–28) exactly as seen. The lines for items 17 and the exact options for 28 are not fully legible in the image.
+
+Header text (as visible):
+NET Past Papers
+https://edumanias.com/
+https://www.facebook.com/EduManias
+Objective Type Questions
+
+17. The angle inscribed in a semi-circle is
+
+18. The circle which touches both the axes with radius a lying in the II quadrant has centre as
+(a) (a, a)  (b) (a, -a)  (c) (-a, a)  (d) (-a,-a)
+
+19. The straight line which touches a curve without cutting it is called
+(a) chord  (b) tangent  (c) normal  (d) bisector
+
+20. The straight line perpendicular to the tangent at the point of contact is called
+(a) chord  (b) tangent  (c) normal  (d) bisector
+
+21. The number of tangents that can be drawn from a point P(x1, y1) to a circle are
+(a) one  (b) two  (c) more than two  (d) infinitely many
+
+22. Two tangents drawn from a point to a circle are real and distinct if P(x1, y1) lies — the circle
+(a) outside  (b) inside  (c) on  (d) none of these
+
+23. Two tangents drawn from a point to a circle are real and coincident if P(x1, y1) lies — the circle,
+(a) outside  (b) inside  (c) on  (d) none
+
+24. Two tangents drawn from a point to a circle are imaginary if P(x1, y1) lies — the circle
+(a) outside  (b) inside  (c) on  (d) none
+
+25. If the point P(x1, y1) lies inside the circle then tangential distance ( or length of tangent ) is
+(a) zero  (b) positive  (c) imaginary  (d) negative
+
+26. A line segment whose end points lie on a circle is called
+(a) chord  (b) tangent  (c) normal  (d) radius
+
+27. Congruent chords of a circle are equi-distant from the
+(a) centre  (b) origin  (c) radius  (d) tangent
+
+28. The measure of the central angle of a minor arc is — the measure of the angle subtended in the corresponding major arc
+
+If you can provide a higher-resolution image (or share a crop that focuses on the page clearly), I can complete the transcription for any remaining unclear parts (especially 17 and the exact wording of 28’s blank).

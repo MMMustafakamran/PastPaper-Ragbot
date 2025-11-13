@@ -1,0 +1,63 @@
+NET Past Papers · https://edumanias.com/ · https://www.facebook.com/EduManias
+
+Objective Type Questions
+
+32
+
+24. The non–negative constraints are also called:
+(a) Decision variable
+(b) Convex variable
+(c) Decision constraints
+(d) Concave variable
+
+25. If the line segment obtained by joining any two points of a region lies entirely within the region, then the region is called
+(a) Feasible region
+(b) Convex region
+(c) Solution region
+(d) Concave region
+
+Note that
+
+[Not convex] [Convex]
+
+Unit – 6 (Conic Section)
+
+TYPE - 1 : [ Multiple Choice Questions (M.C. Qs) ]
+
+Each question has four possible answers. Tick (√) the correct one.
+
+1. The locus of a revolving line with one end fixed and other end on the circumference of a circle is called
+(a) a sphere
+(b) a circle
+(c) a cone
+(d) a conic
+
+2. Let A be any fixed point. All the lines through A and the points on the circumference of a circle generate
+(a) a sphere
+(b) a circle
+(c) a cone
+(d) a conic
+
+3. A line which is perpendicular to base of a cone and passes through the vertex of the cone is called
+(a) ruling
+(b) nap
+(c) vertex
+(d) axis
+
+4. A point where rulings (generators) of a cone becomes common is called
+(a) centre
+(b) nap
+(c) vertex
+(d) axis
+
+5. If a cone is cut by a plane perpendicular to the axis of the cone, then the conic section is
+(a) circle
+(b) parabola
+(c) ellipse
+(d) hyperbola
+
+6. If a cone is cut by a plane passing through the vertex of the cone and perpendicular to the axis of the cone, then the conic section is
+(a) point circle
+(b) parabola
+(c) ellipse
+(d) hyperbola

@@ -1,0 +1,7 @@
+I’m happy to extract the text, but the current image is too low-resolution/blurred in several areas to read accurately. To preserve the exact formatting you asked for, I need a clearer scan.
+
+Options:
+- Please upload a higher-resolution image or a scanned PDF of the page (preferably 300–600 dpi).
+- If a clearer image isn’t available, I can attempt a best-effort transcription of the clearly readable parts and mark uncertain/illegible sections, but that may miss or misstate some details.
+
+If you’d like me to proceed with a best-effort transcription now (not guaranteed to be exact), say “proceed,” and I’ll extract what’s readable and clearly flag uncertain questions/options.

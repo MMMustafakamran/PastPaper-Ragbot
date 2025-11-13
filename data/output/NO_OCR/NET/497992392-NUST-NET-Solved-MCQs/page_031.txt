@@ -1,0 +1,79 @@
+Objective Type Questions
+
+11. ax + by < c is not a linear inequality if
+(a) a = 0, b = 0
+(b) a ≠ 0, b ≠ 0
+(c) a = 0, b ≠ 0
+(d) a ≠ 0, b = 0
+
+12. The graph of a linear equation of the form ax + by = c is a line which divides the whole plane into ___ disjoint parts
+(a) two
+(b) four
+(c) more than four
+(d) infinitely many
+
+13. The graph of corresponding linear equation of the linear inequality is a line called ______
+(a) boundary line
+(b) horizontal line
+(c) vertical line
+(d) inclined line
+
+14. The graph of the inequality x ≤ b is
+(a) upper half plane
+(b) lower half plane
+(c) left half plane
+(d) right half plane
+
+15. The graph of the inequality y ≤ b is
+(a) upper half plane
+(b) lower half plane
+(c) left half plane
+(d) right half plane
+
+16. The graph of the inequality ax + by ≤ c is — side of line ax + by = c
+(a) origin side
+(b) non-origin side
+(c) right
+(d) lower
+
+17. The graph of the inequality ax + by ≥ c is — side of line ax + by = c
+(a) origin side
+(b) non-origin side
+(c) upper
+(d) left
+
+18. The feasible solution which maximizes or minimises the objective function is called
+(a) exact solution
+(b) optimal solution
+(c) final solution
+(d) objective solution
+
+19. Solution space consisting of all feasible solutions of system of linear inequalities is called:
+(a) Feasible solution
+(b) Optimal solution
+(c) Feasible region
+(d) General solution
+
+20. Corner point is also called:
+(a) Origin
+(b) Focus
+(c) Vertex
+(d) Test point
+
+21. For feasible region:
+(a) x ≥ 0, y ≥ 0
+(b) x ≤ 0, y ≤ 0
+(c) x ≥ 0, y ≤ 0
+(d) x ≤ 0, y ≥ 0
+
+22. x = 0 is in the solution of the inequality
+(a) x < 0
+(b) x > 0
+(c) 2x + 3 > 0
+(d) 2x + 3 < 0
+
+23. linear inequality 2x − 7y > 3 is satisfied by the point
+(a) (5, 1)
+(b) (-5, -1)
+(c) (0, 0)
+(d) (1, -1)

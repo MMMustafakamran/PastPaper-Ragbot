@@ -1,0 +1,67 @@
+I can extract most of the text, but the image quality makes questions 27 and 28 unreadable. I’ve preserved the rest exactly as they appear, including numbering and option labels.
+
+27. If θ be the angle between two vectors a and b , then projection of b along a is
+(a) [unreadable]
+(b) [unreadable]
+(c) [unreadable]
+(d) [unreadable]
+
+28. If θ be the angle between two vectors a and b then projection of a along b is
+(a) [unreadable]
+(b) [unreadable]
+(c) [unreadable]
+(d) [unreadable]
+
+29. Let u = ai + bj + ck, then projection of u along i is
+(a) a
+(b) b
+(c) c
+(d) u
+
+30. Let u = ai + bj + ck, then projection of u along j is
+(a) a
+(b) b
+(c) c
+(d) u
+
+31. Let u = ai + bj + ck, then projection of u along k is
+(a) a
+(b) b
+(c) c
+(d) u
+
+32. In any triangle ABC, the Law of Cosines is
+(a) a^2 = b^2 + c^2 − 2bc cos A
+(b) a^2 = b^2 + c^2 − 2bc cos A
+(c) a + b + c = 0
+(d) cos(α − β) = cos α cos β − sin α sin β
+
+33. In any triangle ABC, the Law of Projection is
+(a) a^2 = b^2 + c^2 − 2bc cos A
+(b) a = b cos C + c cos B
+(c) a · b = 0
+(d) a − b = 0
+
+34. If u is a vector such that u · i = 0, u · j = 0 and u · k = 0, then u is
+(a) unit vector
+(b) null vector
+(c) { i, j, k }
+(d) none of these
+
+35. Cross product or vector product is defined
+(a) in plane only
+(b) in space only
+(c) everywhere
+(d) in a vector field
+
+36. If u and v be any vectors, then u × v is a vector
+(a) parallel to u and v
+(b) parallel to u
+(c) perpendicular to u and v
+(d) orthogonal to u
+
+37. If u and v be any vectors, along the adjacent sides of a parallelogram then the area of the parallelogram is
+(a) u × v
+(b) |u × v|
+(c) 1/2 (u × v)
+(d) 1/2 |u × v|

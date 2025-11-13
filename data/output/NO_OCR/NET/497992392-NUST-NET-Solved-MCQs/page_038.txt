@@ -1,0 +1,49 @@
+I’m happy to extract the text, but this image is quite low resolution and some parts are not readable enough for a reliable transcription. To preserve accuracy (especially for the exact wording of options 63–70), could you please provide a higher-resolution version of this page (or a scan)?
+
+If you’d like, I can still give you a best-effort transcription of the clearly readable parts right now (noting where sections are unreadable). Here’s what I can read reliably from the page:
+
+- The header line shows “Objective Type Questions” and the page is numbered with 63–70 for the MCQs, followed by a Note box.
+
+63. The length of latus rectum of a hyperbola is
+    (unreadable) options
+
+64. The length of semi-latus rectum of a hyperbola is
+    (unreadable) options
+
+65. The length of latus rectum of an ellipse is
+    (unreadable) options
+
+66. The length of semi-latus rectum of an ellipse is
+    (unreadable) options
+
+67. The length of semi-latus rectum of a parabola is
+    (a) 4a
+    (b) 2a
+    (c) a
+    (d) a/2
+
+68. y^2 = 4ax is symmetric about the
+    (a) x- axis
+    (b) y- axis
+    (c) both axes
+    (d) line y = x
+
+69. x^2 / a^2 + y^2 / b^2 = 1 is symmetric about the
+    (a) x- axis
+    (b) y- axis
+    (c) both axes
+    (d) line y = x
+
+70. x^2 / a^2 − y^2 / b^2 = 1 is symmetric about the
+    (a) x-axis
+    (b) y-axis
+    (c) both axes
+    (d) line y = x
+
+Note. The symmetry of a curve.
+(i) If we get the same equation by replacing x by −x the curve is symmetric about the y-axis.
+(ii) If we get the same equation by replacing y by −y the curve is symmetric about the x-axis.
+(iii) If we get the same equation by replacing x by −x and y by −y, the curve is symmetric about the origin or about both the axes.
+(iv) If we get the same equation by interchanging x and y, the curve is symmetric about the line y = x.
+
+If you can provide a crisper image (or confirm you want me to proceed with this best-effort transcription and mark the unreadable spots), I’ll fill in the exact text for the unreadable items as well.

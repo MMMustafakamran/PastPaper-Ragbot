@@ -1,0 +1,68 @@
+46
+Objective Type Questions
+
+5. The vector whose initial point is at the origin and terminal point is P, is called
+(a) null vector
+(b) unit vector
+(c) position vector
+(d) normal vector
+
+6. If R be the set of real numbers, then the Cartesian plane is defined as
+(a) R^2 = { (x^2, y^2) : x, y ∈ R }
+(b) R^2 = { (x, y) : x, y ∈ R }
+(c) R^2 = { (x, y) : x, y ∈ R, x = - y }
+(d) R^2 = { (x, y) : x, y ∈ R, x = y }
+
+7. The element (x, y) ∈ R^2 represents a
+(a) space
+(b) point
+(c) vector
+(d) line
+
+8. The set of all ordered pairs [x, y] of real numbers together with the rules of addition and scalar multiplication is called the set of
+(a) vectors in R
+(b) vectors in R^2
+(c) vectors in space
+(d) all vectors
+
+9. If ū = [ x, y ] in R^2, then |u| =
+(a) x^2 + y^2
+(b) √(x^2 + y^2)
+(c) ±√(x^2 + y^2)
+(d) x^2 - y^2
+
+10. If |u| = √(x^2 + y^2) = 0, then it must be true that
+(a) x ≥ 0, y ≥ 0
+(b) x ≤ 0, y ≤ 0
+(c) x = 0, y ≠ 0
+(d) x = 0, y = 0
+
+11. Each vector [ x, y ] in R^2 can be uniquely represented as
+(a) xi − yj
+(b) xi + yj
+(c) x + y
+(d) √(x^2 + y^2)
+
+12. The lines joining the mid-points of any two sides of a triangle is always to the third side.
+(a) Equal
+(b) parallel
+(c) perpendicular
+(d) base
+
+13. A point P in space has ____ coordinates
+(a) 1
+(b) 2
+(c) 3
+(d) infinitely many
+
+14. The set of all ordered triples [ x, y, z ] of real numbers, together with the rules of addition and scalar multiplication is called a set of
+(a) vectors in R^n
+(b) vectors in R^2
+(c) vectors in R^3
+(d) all vectors
+
+15. In space the vector i can be written as
+(a) (1, 0, 0)
+(b) (0, 1, 0)
+(c) (0, 0, 1)
+(d) (1, 0)

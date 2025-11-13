@@ -1,0 +1,38 @@
+38. For any parabola in the standard form, if the directrix is y = a, then its equation is
+(a) y^2 = 4ax   (b) y^2 = -4ax   (c) x^2 = 4ay   (d) x^2 = -4ay
+
+39. For any parabola in the standard form, if the directrix is y = - a, then its equation is
+(a) y^2 = 4ax   (b) y^2 = -4ax   (c) x^2 = 4ay   (d) x^2 = -4ay
+
+40. A line segment whose end points lie on a parabola — of the parabola
+(a) chord   (b) focal chord   (c) latus rectum   (d) diameter
+
+41. A line segment passing through the focus and perpendicular to the directrix is called ____ of the parabola
+(a) chord   (b) focal chord   (c) axis   (d) latus rectum
+
+42. A line segment passing through the focus and perpendicular to the axis is called ____ of the conic
+(a) chord   (b) focal chord   (c) axis   (d) latus rectum
+
+43. A line segment passing through the focus is called ____ of the conic
+(a) chord   (b) focal chord   (c) axis   (d) latus rectum
+
+44. A line segment passing through the focus and perpendicular to the directrix is called ____ of the ellipse
+(a) chord   (b) focal chord   (c) major axis   (d) latus rectum
+
+45. The point where the axis of a parabola meets the parabola is called ____
+(a) centre   (b) vertex   (c) focus   (d) directrix
+
+46. x = a t^2, y = 2 a t are the parametric equations of
+(a) parabola   (b) circle   (c) ellipse   (d) hyperbola
+
+47. x = a cos t, y = a sin t are the parametric equations of
+(a) parabola   (b) circle   (c) ellipse   (d) hyperbola
+
+48. x = a cos t, y = b sin t are the parametric equations of
+(a) parabola   (b) circle   (c) ellipse   (d) hyperbola
+
+49. x = a sec t, y = b tan t are the parametric equations of
+(a) parabola   (b) circle   (c) ellipse   (d) hyperbola
+
+50. x = a cosh t, y = b sinh t are the parametric equations of
+(a) parabola   (b) circle   (c) ellipse   (d) hyperbola

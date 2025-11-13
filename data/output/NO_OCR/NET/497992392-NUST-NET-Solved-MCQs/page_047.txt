@@ -1,0 +1,69 @@
+Objective Type Questions
+
+16. In space the vector j can be written as
+(a) (1, 0, 0)
+(b) (0, 1, 0)
+(c) (0, 0, 1)
+(d) (0, 1, )
+
+17. In space the vector k can be written as
+(a) (1, 0, 0)
+(b) (0, 1, 0)
+(c) (0, 0, 1)
+(d) (0, 0, 0)
+
+18. u = 2i + 3j + k , v = -6i - 9j - 3k are _____ vectors
+(a) parallel
+(b) perpendicular
+(c) reciprocal
+(d) negative
+
+19. The angles α, β and γ, which a non-zero vector r makes with x-axis, y-axis and z-axis respectively are called _____ of r
+(a) direction cosines
+(b) direction ratios
+(c) direction angles
+(d) inclinations
+
+20. Measure of direction angles α, β and γ are
+(a) α ≤ 0, β ≤ 0, γ ≤ 0
+(b) 0 ≤ α ≤ π/2, 0 ≤ β ≤ π/2, 0 ≤ γ ≤ π/2
+(c) α ≥ 0, β ≥ 0, γ ≥ 0
+(d) 0 ≤ α ≤ π, 0 ≤ β ≤ π, 0 ≤ γ ≤ π
+
+21. If u = 3i – j + 2k, then { 3, -1, 2 } are called _____ of u
+(a) direction cosines
+(b) direction ratios
+(c) direction angles
+(d) elements
+
+22. Which of the following can be the direction angles of some vector
+(a) 45°, 45°, 60°
+(b) 30°, 45°, 60°
+(c) 45°, 60°, 60°
+(d) none of these
+
+Recall that here cos^2 α + cos^2 β + cos^2 γ = 1 should hold.
+
+23. Measure of angle θ between two vectors is always
+(a) 0 < θ < π
+(b) 0 ≤ θ ≤ π
+(c) 0 ≤ θ ≤ π
+(d) obtuse
+
+24. If the dot product of two vectors is zero, then the vectors must be
+(a) parallel
+(b) orthogonal
+(c) reciprocal
+(d) equal
+
+25. If the cross product of two vectors is zero, then the vectors must be
+(a) parallel
+(b) orthogonal
+(c) reciprocal
+(d) non-coplanar
+
+26. If θ be the angle between two vectors a and b, then cos θ =
+(a) a × b / (|a| |b|)
+(b) a · b / (|a| |b|)
+(c) a × b / (|a| |b|)
+(d) |a × b| / (|a| |b|)

@@ -1,0 +1,73 @@
+28 Objective Type Questions
+
+52. The lines represented by ax^2 + 2hxy + by^2 = 0 are orthogonal if
+(a) a - b = 0
+(b) a + b = 0
+(c) a + b > 0
+(d) a - b < 0
+
+53. The lines lying in the same plane are called
+(a) collinear
+(b) coplanar
+(c) non-coplanar
+(d) non-coplanar
+
+54. The distance of the point (3, 7) from the x - axis is
+(a) 7
+(b) -7
+(c) 3
+(d) -3
+
+55. Two lines a1x + b1y + c1 = 0 and a2x + b2y + c2 = 0 are parallel if
+(a) a1 / a2 = b1 / b2
+(b) a1 / b1 = a2 / b2
+(c) a1 / c1 = a2 / c2
+(d) a1 / c1 = a2 / c2
+
+56. Every homogeneous equation of second degree ax^2 + 2hxy + by^2 = 0 represents two straight lines
+(a) through the origin
+(b) not through the origin
+(c) two parallel lines
+(d) two perpendicular lines
+
+57. The distance of the point (3, 7) from the y - axis is
+(a) 7
+(b) -7
+(c) 3
+(d) -3
+
+58. The point-slope form of the equation of a straight line is
+(a) y = mx + c
+(b) y - y1 = m(x - x1)
+(c) x / a + y / b = 1
+(d) x cos α + y sin α = p
+
+59. The equation 9x^2 + 24xy + 16y^2 = 0 represents a pair of lines which are
+(a) real and distinct
+(b) real and coincident
+(c) imaginary
+(d) perpendicular
+
+60. Let p(x1, y1) be a point in plane not lying on l: ax + by + c = 0, then point P lies above if:
+(a) ax1 + by1 + c = 0
+(b) ax1 + by1 + c ≠ 0
+(c) ax1 + by1 + c < 0
+(d) ax1 + by1 + c > 0
+
+61. If m1 and m2 are the slopes of two orthogonal lines then:
+(a) m1 · m2 = 1
+(b) m1 · m2 = -1
+(c) m1 · m2 = 0
+(d) m1 = - m2
+
+62. The lines represented by the equation ax^2 + 2hxy + by^2 = 0 are coincident if:
+(a) a + b = 0
+(b) h^2 = ab
+(c) h^2 + ab = 0
+(d) None
+
+63. Equation of x-axis is:
+(a) x = 0
+(b) y = 0
+(c) x = 1
+(d) y = 1

@@ -1,0 +1,28 @@
+(a) half      (b) equal      (c) double      (d) triple)
+
+29. The perpendicular at the outer end of a radial segment is ___ of the circle.
+(a) tangent (b) normal (c) chord (d) diameter
+
+30. The mid-point of the hypotenuse of a right triangle is ___ of the triangle
+(a) in-centre (b) circumcentre (c) orthocentre (d) e-centre
+
+31. Perpendicular dropped from any point of the circle on a diameter is the mean proportion between the segments into which it divides the diameter
+(a) diameter (b) any chord (c) radius (d) circle
+
+32. The set of points in a plane whose distance from a fixed point and from a fixed line remains the same is called
+(a) parabola (b) ellipse (c) hyperbola (d) rectangular hyperbola
+
+33. The set of points which bears a constant ratio ( e) equal to 1 from a fixed point to a fixed line is called
+(a) ellipse (b) parabola (c) hyperbola (d) rectangular hyperbola
+
+34. The set of points which bears a constant ratio ( e ): 0 < e < 1 from a fixed point to a fixed line is called
+(a) ellipse (b) parabola (c) hyperbola (d) rectangular hyperbola
+
+35. The set of points which bears a constant ratio ( e ): e > 1 from a fixed point to a fixed line is called
+(a) ellipse (b) parabola (c) hyperbola (d) rectangular hyperbola
+
+36. For any parabola in the standard form, if the directrix is x = a, then its equation is
+(a) y^2 = 4ax (b) y^2 = -4ax (c) x^2 = 4ay (d) x^2 = -4ay
+
+37. For any parabola in the standard form, if the directrix is x = - a, then its equation is
+(a) y^2 = 4ax (b) y^2 = -4ax (c) x^2 = 4ay (d) x^2 = -4ay

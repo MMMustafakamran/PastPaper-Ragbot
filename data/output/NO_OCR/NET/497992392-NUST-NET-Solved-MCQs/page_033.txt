@@ -1,0 +1,34 @@
+Objective Type Questions
+
+7. If the cutting plane is slightly tilted such that the plane is not perpendicular to the axis of the cone, then the conic section is
+(a) circle (b) parabola (c) ellipse (d) hyperbola
+
+8. If the cutting plane is parallel to the generator of the cone but cut only one nap of the cone, then the conic section is
+(a) circle (b) parabola (c) ellipse (d) hyperbola
+
+9. If the cutting plane is parallel to the generator of the cone and cutting both the naps is called
+(a) circle (b) parabola (c) ellipse (d) hyperbola
+
+10. The set of points which are at equal distance from a fixed point is called
+(a) circle (b) parabola (c) ellipse (d) hyperbola
+
+11. The circle whose radius is zero is called
+(a) unit circle (b) point circle (c) circumference (d) in-circle
+
+12. The circle whose radius is 1 is called
+(a) unit circle (b) point circle (c) circumference (d) in-circle
+
+13. The equation x^2 + y^2 + 2gx + 2fy + c = 0 represents the circle with centre
+(a) (g, f) (b) (g, −f) (c) (−g, f) (d) (−g, −f)
+
+14. The equation x^2 + y^2 + 2gx + 2fy + c = 0 represents the circle with radius
+(a) √(g^2 − f^2) − c (b) √(g^2 + f^2 − c) (c) √(g^2 + f^2 − c) (d) √(g^2 + f^2 + c)
+
+15. The second degree equation having each of x^2 and y^2 with equal coefficients along with no product term is
+(a) circle (b) ellipse (c) parabola (d) hyperbola
+
+16. The equation of the circle having A(x1, y1) and B(x2, y2) as the ends of its diameter is
+(a) (x − x1)(x − x2) + (y − y1)(y − y2) = 0
+(b) (x − x1)(x − x2) − (y − y1)(y − y2) = 0
+(c) (x − x1)(y − y1) − (x − x2)(y − y2) = 0
+(d) (x − x1)(y − y1) + (x − x2)(y − y2) = 0

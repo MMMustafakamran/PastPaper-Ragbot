@@ -1,0 +1,81 @@
+Objective Type Questions
+
+38. If u and v be any vectors , along the adjacent sides of a triangle then the area of the triangle is
+(a) u × v
+(b) |u × v|
+(c) 1/2 (u × v)
+(d) 1/2 |u × v|
+
+39'. The scalar triple product of a, b and c is denoted by
+(a) a . b . c
+(b) a × b × c
+(c) a . b × c
+(d) (a . b ) × c
+
+40. The vector triple product of a, b and c is denoted by
+(a) a + b × c
+(b) a · b × c
+(c) a × b × c
+(d) a × (b × c)
+
+41. Notation for scalar triple product of a, b and c is
+(a) a . b × c
+(b) a × b × c
+(c) [a b c]
+(d) all of these
+
+42. If the scalar triple product of three vectors is zero, then vectors are
+(a) collinear
+(b) coplanar
+(c) non-coplanar
+(d) non-collinear
+
+43. If u = [ x , y ] , v = [ x1 , y1 ], then u − v is
+(a) [ x + x1 , y − y1 ]
+(b) [ x − x1 , y − y1 ]
+(c) [ x − x1 , y + y1 ]
+(d) [ x + x1 , y + y1 ]
+
+44. If A and B have the same direction, then A · B = ?
+(a) AB
+(b) -AB
+(c) AB sin θ
+(d) AB tan θ
+
+45. For a vector A, A · A = ?
+(a) 2A
+(b) A^2
+(c) A
+(d) A^2/2
+
+46. If A and B have the opposite direction, then A · B = ?
+(a) AB
+(b) -AB
+(c) AB sin θ
+(d) AB tan θ
+
+47. The angle in a semi-circle is equal to:
+(a) π/2
+(b) π
+(c) π/3
+(d) 3π
+
+48. Two non-zero vectors u and v are parallel iff:
+(a) u ∥ v
+(b) u · v = 0
+(c) u × v = 0
+(d) u · v ≠ 0
+
+49. If any two vectors of triple scalar product are equal. Then its value is equal to:
+(a) 1
+(b) 0
+(c) -1
+(d) 2
+
+50. If a and b are orthogonal, then:
+(a) a × b = ab
+(b) a × b = -ab
+(c) a · b = ab sin θ
+(d) a · b = 0
+
+51. If n is a unit vector perpendicular to the plane containing a and b, then:

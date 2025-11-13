@@ -1,0 +1,69 @@
+I can extract most of the content, but several items are unclear due to the image quality (watermark/blur). Here is the transcription of the parts that are legible. If you can provide a higher-resolution image, I can fill in the uncertain sections precisely.
+
+Illuminated header (visible)
+- Objective Type Questions
+
+71. The directrix of the parabola y^2 = 4ax is
+(a) x = a
+(b) x = -a
+(c) y = a
+(d) y = -a
+
+72. The directrices of the ellipse x^2/a^2 + y^2/b^2 = 1 are
+(a) x = ± a/e
+(b) y = ± a/e
+(c) x = ± c
+(d) y = ± c
+
+73. The directrices of the ellipse x^2/b^2 + y^2/a^2 = 1 are
+(a) x = ± a/e
+(b) y = ± a/e
+(c) x = ± c
+(d) y = ± c
+
+74. The eccentricity of the hyperbola x^2/a^2 − y^2/b^2 = 1 is
+(a) e = c/a < 1
+(b) e = c/a > 1
+(c) e = c/a = 1
+(d) e = c/a = 0
+
+75. For the hyperbola x^2/a^2 − y^2/b^2 = 1 which of the following is true?
+(a) a > b
+(b) a < b
+(c) a = b
+(d) all of these
+
+76. Asymptotes of the hyperbola x^2/a^2 − y^2/b^2 = 1 are
+(a) y = ± x
+(b) y = ± b x
+(c) y = ± a x
+(d) y = ± (b/a) x
+
+77. If the distance between a straight line and a curve approaches zero but never intersects it, then the straight line is called
+(a) tangent
+(b) normal
+(c) chord
+(d) asymptote
+
+78. An ellipse and a hyperbola have a common name ______ (as each has a centre of symmetry)
+(a) degenerate conic
+(b) central conic
+(c) symmetrical conic
+(d) circular conic
+
+79. If c = √65, b = 7, a = 4, then the eccentricity of the hyperbola is
+(a) √65/4
+(b) 65/16
+(c) √65/7
+(d) 7/4
+
+80. The equation of the tangent to the hyperbola y^2/a^2 − x^2/b^2 = 1 at the point (x1, y1) is
+(Question and options are partially obscured in the image; the standard form is typically:)
+(a) y y1 / a^2 − x x1 / b^2 = 1
+(b) x x1 / a^2 − y y1 / b^2 = 1
+(c) x x1 / a^2 + y y1 / b^2 = 1
+(d) y y1 / b^2 − x x1 / a^2 = 1
+
+Notes:
+- Some items (72, 73, 75, 80) may have wording that looks slightly different in the original image due to line wrapping or watermark interference. If you can provide a higher-resolution version or a cropped section, I can confirm and correct these precisely.
+- If you want, I can re-run OCR on a clearer image or you can provide the exact sections to verify, and I’ll deliver a fully line-for-line faithful extraction.

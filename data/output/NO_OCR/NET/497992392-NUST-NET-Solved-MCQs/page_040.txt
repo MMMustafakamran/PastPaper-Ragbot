@@ -1,0 +1,7 @@
+I can extract the text, but the provided image is quite low resolution and small, which makes exact transcription of all questions and options uncertain. To preserve formatting precisely (including numbering, option labels, and any answer keys), a higher-resolution scan/page would be ideal.
+
+Would you:
+- (a) Upload a higher-resolution image (or a clearer scan) of the same page, or
+- (b) Proceed with a best-effort transcription based on the current image, with notes about any uncertain or unclear parts?
+
+If you prefer (b), I can produce a best-effort text extraction for questions 81–87 (as visible), clearly marking any parts that are ambiguous, and I’ll maintain the exact numbering and option labels as they appear.
