@@ -1,0 +1,11 @@
+# Requirements for MCQ Processing Pipeline
+# Install with: pip install -r requirements_processor.txt
+
+# No external dependencies required for basic processing!
+# Uses only Python standard library
+
+# Optional (for enhanced features):
+# sentence-transformers>=2.2.0  # For generating embeddings
+# chromadb>=0.4.0               # For vector database
+# tqdm>=4.65.0                  # For progress bars
+
