@@ -104,7 +104,7 @@ ans:a
 (a) (x − x1)(x − x2) + (y − y1)(y − y2) = 0
 (b) (x − x1)(x − x2) − (y − y1)(y − y2) = 0
 (c) (x − x1)(y − y1) − (x − x2)(y − y2) = 0
-(d) (x − x1)(y − y1) + (x − x2)(y − y2) = 0 I can extract text from the image, but the page is low resolution in places, so some items are only partly legible. Here is the best-possible transcription I can provide, preserving the visible structure and formatting. I have included the legible parts (18–28) exactly as seen. The lines for items 17 and the exact options for 28 are not fully legible in the image. Header text (as visible): .com/
+(d) (x − x1)(y − y1) + (x − x2)(y − y2) = 0
 ans:a
 
 18. The circle which touches both the axes with radius a lying in the II quadrant has centre as
@@ -175,7 +175,6 @@ ans:a
 ans:a
 
 28. The measure of the central angle of a minor arc is — the measure of the angle subtended in the corresponding major arc
-If you can provide a higher-resolution image (or share a crop that focuses on the page clearly), I can complete the transcription for any remaining unclear parts (especially 17 and the exact wording of 28’s blank).
 (a) half
 (b) equal
 (c) double
@@ -417,6 +416,7 @@ ans:b
 (a) major axis
 (b) minor axis
 (c) focal axis
+(d) conjugate axis I’m happy to extract the text, but this image is quite low resolution and
 ans:c
 
 67. The length of semi-latus rectum of a parabola is
@@ -444,6 +444,7 @@ ans:c
 (a) x-axis
 (b) y-axis
 (c) both axes
+(d) line y = x Note. The symmetry of a curve. (i) If we get the same equation by replacing x by −x the curve is symmetric about the y-axis. (ii) If we get the same equation by replacing y by −y the curve is symmetric about the x-axis. (iii) If we get the same equation by replacing x by −x and y by −y, the curve is symmetric about the origin or about both the axes. (iv) If we get the same equation by interchanging x and y, the curve is symmetric about the line y = x.
 ans:c
 
 71. The directrix of the parabola y^2 = 4ax is
@@ -514,7 +515,7 @@ ans:a
 (a) y y1 / a^2 − x x1 / b^2 = 1
 (b) x x1 / a^2 − y y1 / b^2 = 1
 (c) x x1 / a^2 + y y1 / b^2 = 1
-(d) y y1 / b^2 − x x1 / a^2 = 1 Notes: - Some items (72, 73, 75, 80) may have wording that looks slightly different in the original image due to line wrapping or watermark interference. If you can provide a higher-resolution version or a cropped section, I can confirm and correct these precisely. - If you want, I can re-run OCR on a clearer image or you can provide the exact sections to verify, and I’ll deliver a fully line-for-line faithful extraction.
+(d) y y1 / b^2 − x x1 / a^2 = 1
 ans:b
 
 81. The equation of the tangent to the ellipse x^2/a^2 + y^2/b^2 = 1 at the point (2, -3) is
@@ -929,6 +930,6 @@ ans:a
 (a) central conic
 (b) point circle
 (c) degenerate conic
-(d) pair of lines through (0, 0) Here is my best-effort transcription of the text from the image. Some parts are unclear due to the image quality; I have marked uncertain areas where appropriate. If you can provide a higher-resolution image, I can refine this further. Text extracted (best effort)
+(d) pair of lines through (0, 0)
 ans:c
 

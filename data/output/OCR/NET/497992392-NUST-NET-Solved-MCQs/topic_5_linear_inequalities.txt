@@ -159,7 +159,7 @@ ans:c
 (a) (5, 1)
 (b) (-5, -1)
 (c) (0, 0)
-(d) (1, -1) .com/ ·
+(d) (1, -1)
 ans:d
 
 24. The non–negative constraints are also called:

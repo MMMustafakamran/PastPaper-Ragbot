@@ -132,7 +132,7 @@ ans:c
 (a) n[g(x)]^(n^n-1)
 (b) n[g(x)]^(n-1)g(x)
 (c) n[g(x)]^(n-1) g'(x)
-(d) [g(x)]^(n-1) g'(x) I can extract the text, but the image is somewhat low in resolution, which makes the later questions (26–28) uncertain. Below is the best-effort transcription for the parts I can read clearly (20–25). Please confirm or provide a higher-resolution image for the remaining questions.
+(d) [g(x)]^(n-1) g'(x)
 ans:c
 
 20. d/dx sec^{-1} x = ?
@@ -188,7 +188,7 @@ ans:d
 (a) x ∈ [1, ∞), y ∈ [0, ∞)
 (b) x ∈ (1, ∞), y ∈ (0, ∞)
 (c) x < 0, y < 0
-(d) x ∈ R, y ∈ R Notes: - The exact formatting of some fractions may differ slightly due to the image’s clarity, but I preserved the numbering, option labels, and line breaks as shown. - If you want a fully exact copy including any tiny typographical details, please provide a higher-resolution image or a version of the page without the watermark, and I’ll re-run the extraction.
+(d) x ∈ R, y ∈ R
 ans:a
 
 29. y = tanh-1 x if and only if x = tanh y is valid when
@@ -314,7 +314,7 @@ ans:a
 (a) linear function
 (b) odd function
 (c) even function
-(d) identity function .com/
+(d) identity function
 ans:b
 
 48. d/dx (cos x) - d^2/dx^2 (sin x) = ?
@@ -381,7 +381,7 @@ ans:d
 (a) Minimum at x = e
 (b) Maximum at x = e
 (c) Minimum at x = 1/e
-(d) Maximum at x = 1/e .com/
+(d) Maximum at x = 1/e
 ans:c
 
 57. d/dx (1/Cot x) =

@@ -110,7 +110,7 @@ ans:c
 (a) vertices
 (b) centre
 (c) mid-points of sides
-(d) centroid .com/    EDU MANIAS 26
+(d) centroid
 ans:a
 
 29. A four-sided polygon ( quadrilateral) having two parallel and two non-parallel sides is called ________

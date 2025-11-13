@@ -25,8 +25,8 @@ ans:b
 4. Parallelogram law of vector addition to describe the combined action of two forces, was used by
 (a) Cauchy
 (b) Aristotle
-(c) Alk(h)warzi (unclear from image)
-(d) Leibniz (unclear from image) Notes - Some lines and words near the bottom of the image are not fully legible; I could not confirm all spellings or the exact fourth option for item 4. - If you can share a higher-res scan or a clearer crop of the MCQ area (particularly items 2 and 4), I can produce a more exact, line-for-line transcription. Would you like me to try again with a clearer image, or would you prefer I attempt a more approximate OCR with placeholder text for the uncertain segments? 46
+(c) Alk(h)warzi
+(d) Leibniz
 ans:b
 
 5. The vector whose initial point is at the origin and terminal point is P, is called
@@ -180,6 +180,7 @@ ans:a
 (a) a × b / (|a| |b|)
 (b) a · b / (|a| |b|)
 (c) a × b / (|a| |b|)
+(d) |a × b| / (|a| |b|)
 ans:b
 
 29. Let u = ai + bj + ck, then projection of u along i is

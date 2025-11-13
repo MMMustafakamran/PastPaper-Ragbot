@@ -123,16 +123,23 @@ def parse_question_block(text: str, start_pos: int) -> Tuple[int, str, List[str]
                 content_start = start_pos + match.end() + next_q_match.start() + next_q_match.end()
     
     # Find the end of this question (next question number or unit header)
+    # Also look for embedded questions with "- " prefix
     next_q_pattern = r'\n(\d+)\.\s+'
     next_q_match = re.search(next_q_pattern, text[content_start:], re.MULTILINE)
+    
+    # Also check for embedded questions with "- " prefix
+    embedded_q_pattern = r'\n[-–]\s+(\d+)\.\s+'
+    embedded_q_match = re.search(embedded_q_pattern, text[content_start:], re.MULTILINE)
     
     unit_pattern = r'\nUnit\s*[-–]\s*\d+'
     unit_match = re.search(unit_pattern, text[content_start:], re.IGNORECASE | re.MULTILINE)
     
-    # Determine end position
+    # Determine end position - use the earliest match
     end_pos = len(text)
     if next_q_match:
         end_pos = min(end_pos, content_start + next_q_match.start())
+    if embedded_q_match:
+        end_pos = min(end_pos, content_start + embedded_q_match.start())
     if unit_match:
         end_pos = min(end_pos, content_start + unit_match.start())
     
@@ -182,6 +189,23 @@ def parse_question_block(text: str, start_pos: int) -> Tuple[int, str, List[str]
     
     question_text = '\n'.join(question_lines).strip()
     
+    # Before cleaning OCR artifacts, check if there are embedded questions in the text
+    # Pattern: "- 38. Question text" or "38. Question text" embedded in OCR notes
+    embedded_q_pattern = r'[-–]\s*(\d+)\.\s+([^\n]+(?:\n(?![-–]\s*\d+\.)[^\n]+)*)'
+    embedded_questions = []
+    
+    # Find embedded questions that might be in OCR artifact text
+    for match in re.finditer(embedded_q_pattern, question_text):
+        q_num = int(match.group(1))
+        q_content = match.group(2).strip()
+        # Only consider if this looks like a real question (has options pattern)
+        if re.search(r'\([a-d]\)', q_content):
+            embedded_questions.append((q_num, match.start(), match.end()))
+    
+    # If we found embedded questions, we need to handle them separately
+    # For now, we'll remove the OCR artifact section that contains them
+    # and let them be parsed as separate questions in the next iteration
+    
     # Clean up OCR artifacts
     # Remove common OCR artifacts like page numbers, URLs, headers
     question_text = re.sub(r'\s+\d+\s*$', '', question_text)  # Remove trailing page numbers
@@ -195,6 +219,54 @@ def parse_question_block(text: str, start_pos: int) -> Tuple[int, str, List[str]
     # Remove standalone "NET Past Papers" or similar headers
     question_text = re.sub(r'^NET Past Papers\s*$', '', question_text, flags=re.MULTILINE | re.IGNORECASE)
     question_text = re.sub(r'NET Past Papers\s+', '', question_text, flags=re.IGNORECASE)
+    
+    # Remove OCR artifact statements (notes from OCR process)
+    # But be careful not to remove embedded questions - remove OCR text that precedes embedded questions
+    # First, remove OCR artifact text that appears before embedded questions
+    ocr_artifact_patterns = [
+        r'I can extract.*?(?=- \d+\.|\d+\.|$)',
+        r'I can provide.*?(?=- \d+\.|\d+\.|$)',
+        r'best-effort transcription.*?(?=- \d+\.|\d+\.|$)',
+        r'higher-resolution.*?(?=- \d+\.|\d+\.|$)',
+        r'low-resolution.*?(?=- \d+\.|\d+\.|$)',
+        r'watermark.*?(?=- \d+\.|\d+\.|$)',
+        r'unclear.*?(?=- \d+\.|\d+\.|$)',
+        r'legible.*?(?=- \d+\.|\d+\.|$)',
+        r'Please confirm.*?(?=- \d+\.|\d+\.|$)',
+        r'If you can.*?(?=- \d+\.|\d+\.|$)',
+        r'If you upload.*?(?=- \d+\.|\d+\.|$)',
+        r'If you provide.*?(?=- \d+\.|\d+\.|$)',
+        r'If you share.*?(?=- \d+\.|\d+\.|$)',
+        r'If you want.*?(?=- \d+\.|\d+\.|$)',
+        r'If you\'d like.*?(?=- \d+\.|\d+\.|$)',
+        r'Here is.*?(?=- \d+\.|\d+\.|$)',
+        r'Below is.*?(?=- \d+\.|\d+\.|$)',
+        r'Notes?:.*?(?=- \d+\.|\d+\.|$)',
+        r'Text extracted.*?(?=- \d+\.|\d+\.|$)',
+        r'What I can confirm.*?(?=- \d+\.|\d+\.|$)',
+        r'Would you like.*?(?=- \d+\.|\d+\.|$)',
+        r'Please let me know.*?(?=- \d+\.|\d+\.|$)',
+        r'Some parts are.*?(?=- \d+\.|\d+\.|$)',
+        r'Some items.*?(?=- \d+\.|\d+\.|$)',
+        r'Some lines.*?(?=- \d+\.|\d+\.|$)',
+        r'I\'ve preserved.*?(?=- \d+\.|\d+\.|$)',
+        r'I\'ve done.*?(?=- \d+\.|\d+\.|$)',
+        r'I\'m happy.*?(?=- \d+\.|\d+\.|$)',
+        r'Unfortunately.*?(?=- \d+\.|\d+\.|$)',
+        r'EDU MANIAS.*?(?=- \d+\.|\d+\.|$)',
+        r'\.com/.*?(?=- \d+\.|\d+\.|$)',
+    ]
+    
+    for pattern in ocr_artifact_patterns:
+        question_text = re.sub(pattern, '', question_text, flags=re.DOTALL | re.IGNORECASE)
+    
+    # Remove embedded question markers (the "- " prefix) and convert to regular question format
+    # Pattern: "- 38. Question" -> "38. Question"
+    question_text = re.sub(r'^[-–]\s+(\d+\.\s+)', r'\1', question_text, flags=re.MULTILINE)
+    
+    # Remove trailing OCR artifact text that appears after questions
+    question_text = re.sub(r'\s+If you upload.*$', '', question_text, flags=re.DOTALL | re.IGNORECASE)
+    question_text = re.sub(r'\s+If you can.*$', '', question_text, flags=re.DOTALL | re.IGNORECASE)
     # Remove duplicate question numbers at start of lines (but keep the first one)
     lines = question_text.split('\n')
     cleaned_lines = []
@@ -396,6 +468,45 @@ def format_question_output(q_num: int, q_text: str, options: List[str], answer: 
     q_text = re.sub(r'Objective Type Questions\s*\d*', '', q_text, flags=re.IGNORECASE | re.MULTILINE)
     q_text = re.sub(r'https?://[^\s]+', '', q_text)  # Remove URLs
     q_text = re.sub(r'NET Past Papers\s+', '', q_text, flags=re.IGNORECASE)
+    
+    # Remove OCR artifact statements from question text
+    ocr_artifact_patterns = [
+        r'\s+I can extract.*?(?=\n|$)',
+        r'\s+I can provide.*?(?=\n|$)',
+        r'\s+best-effort.*?(?=\n|$)',
+        r'\s+higher-resolution.*?(?=\n|$)',
+        r'\s+low-resolution.*?(?=\n|$)',
+        r'\s+watermark.*?(?=\n|$)',
+        r'\s+unclear.*?(?=\n|$)',
+        r'\s+legible.*?(?=\n|$)',
+        r'\s+Please confirm.*?(?=\n|$)',
+        r'\s+If you can.*?(?=\n|$)',
+        r'\s+If you upload.*?(?=\n|$)',
+        r'\s+If you provide.*?(?=\n|$)',
+        r'\s+If you share.*?(?=\n|$)',
+        r'\s+If you want.*?(?=\n|$)',
+        r'\s+If you\'d like.*?(?=\n|$)',
+        r'\s+Here is.*?(?=\n|$)',
+        r'\s+Below is.*?(?=\n|$)',
+        r'\s+Notes?:.*?(?=\n|$)',
+        r'\s+Text extracted.*?(?=\n|$)',
+        r'\s+What I can confirm.*?(?=\n|$)',
+        r'\s+Would you like.*?(?=\n|$)',
+        r'\s+Please let me know.*?(?=\n|$)',
+        r'\s+Some parts are.*?(?=\n|$)',
+        r'\s+Some items.*?(?=\n|$)',
+        r'\s+Some lines.*?(?=\n|$)',
+        r'\s+I\'ve preserved.*?(?=\n|$)',
+        r'\s+I\'ve done.*?(?=\n|$)',
+        r'\s+I\'m happy.*?(?=\n|$)',
+        r'\s+Unfortunately.*?(?=\n|$)',
+        r'\s+EDU MANIAS.*?(?=\n|$)',
+        r'\s+\.com/.*?(?=\n|$)',
+    ]
+    
+    for pattern in ocr_artifact_patterns:
+        q_text = re.sub(pattern, '', q_text, flags=re.DOTALL | re.IGNORECASE)
+    
     q_text = q_text.strip()
     
     # Clean options - remove unreadable markers and garbage
@@ -407,6 +518,47 @@ def format_question_output(q_num: int, q_text: str, options: List[str], answer: 
         opt = re.sub(r'NET Past Papers.*?EduManias', '', opt, flags=re.DOTALL | re.IGNORECASE)
         opt = re.sub(r'Objective Type Questions.*', '', opt, flags=re.IGNORECASE)
         opt = re.sub(r'https?://[^\s]+', '', opt)
+        
+        # Remove OCR artifact statements from options
+        ocr_artifact_patterns = [
+            r'\s+I can extract.*',
+            r'\s+I can provide.*',
+            r'\s+best-effort.*',
+            r'\s+higher-resolution.*',
+            r'\s+low-resolution.*',
+            r'\s+watermark.*',
+            r'\s+unclear.*',
+            r'\s+legible.*',
+            r'\s+Please confirm.*',
+            r'\s+If you can.*',
+            r'\s+If you upload.*',
+            r'\s+If you provide.*',
+            r'\s+If you share.*',
+            r'\s+If you want.*',
+            r'\s+If you\'d like.*',
+            r'\s+Here is.*',
+            r'\s+Below is.*',
+            r'\s+Notes?:.*',
+            r'\s+Text extracted.*',
+            r'\s+What I can confirm.*',
+            r'\s+Would you like.*',
+            r'\s+Please let me know.*',
+            r'\s+Some parts are.*',
+            r'\s+Some items.*',
+            r'\s+Some lines.*',
+            r'\s+I\'ve preserved.*',
+            r'\s+I\'ve done.*',
+            r'\s+I\'m happy.*',
+            r'\s+Unfortunately.*',
+            r'\s+EDU MANIAS.*',
+            r'\s+\.com/.*',
+            r'\s+\(unclear from image\).*',
+            r'\s+unclear from image.*',
+        ]
+        
+        for pattern in ocr_artifact_patterns:
+            opt = re.sub(pattern, '', opt, flags=re.DOTALL | re.IGNORECASE)
+        
         opt = opt.strip()
         if opt and not re.match(r'^\([a-d]\)\s*$', opt):  # Not just empty label
             # Check if option contains only placeholder text

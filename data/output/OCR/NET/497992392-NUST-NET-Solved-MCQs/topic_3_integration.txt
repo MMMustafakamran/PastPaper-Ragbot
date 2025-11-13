@@ -246,7 +246,7 @@ ans:a
 (a) 0
 (b) ∫_0^1 f'(x) dx
 (c) -∫_a^b f(x) dx
-(d) ∫_a^b f(x) dx I can extract the text, but the provided image is a low-resolution scan with a large watermark, which makes several items unclear (especially questions 37, 40–42, and parts of 43). To preserve your requested formatting exactly, I need a higher-resolution version of the page (or at least a clearer crop of the questions). If you’d like, I can proceed with a best-effort transcription of the clearly legible parts (and clearly-marked options) now, and clearly mark any uncertain sections for you. Please let me know which approach you prefer. What I can confirm with reasonable certainty from the legible portions (and I can format exactly as in the image) is: - 38. In ∫(x^2 − a^2)^(1/2) dx, the substitution is:
+(d) ∫_a^b f(x) dx
 (a) x = a tan θ
 (b) x = a sec θ
 (c) x = a sin θ
@@ -274,7 +274,7 @@ ans:a
 (a) ln(x + 1)
 (b) ln(x + 1) − x
 (c) x + ln(x + 1)
-(d) None If you upload a clearer image (or specify a higher-res crop), I’ll deliver a full, exact transcription preserving all numbering, option labels, any (Correct) markers, answer keys, line breaks, and any mathematical notation as they appear.
+(d) None
 ans:d
 
 48. ∫ sin^3 x cos x dx
@@ -344,7 +344,7 @@ ans:d
 (a) 8
 (b) −4
 (c) 0
-(d) −2 I can provide a best-effort transcription from the image, but several parts are unclear due to the low resolution and watermark. If you can upload a higher-resolution copy, I can give a more exact extraction. Here is the best readable transcription of the clearly legible content and structure: .com/   EDU MANIAS
+(d) −2
 ans:c
 
 58. If d/dx ( x /(1 + 2x) ) = 1/(2x + 1)^2 then 2 ∫ 1/(2x + 1)^2 dx =

@@ -54,7 +54,7 @@ ans:b
 (a) -1
 (b) 0
 (c) 1
-(d) 2 .com/
+(d) 2
 ans:c
 
 10. The term "function" was recognised by ---- to describe the dependence of one quantity on another :
