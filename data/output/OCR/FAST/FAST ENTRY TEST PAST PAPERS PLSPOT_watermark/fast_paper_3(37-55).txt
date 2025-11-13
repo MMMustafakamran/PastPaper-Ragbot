@@ -1,0 +1,114 @@
+FAST Past Paper 3
+=================
+
+29. The equation 2x^2 + 6x - 3 = 0 has α and β find the value of 1/α + 1/β
+(a) -3
+(b) 3/2
+(c) 1
+(d) 2
+ans:d
+
+30. x + 10 = 14 then x - 8 = ?
+(a) -4
+(b) 4
+(c) 1
+(d) 2
+ans:a
+
+31. The nth term of the geometric sequence 8, 16√2, 64......... is
+(a) 8(2√2)^{n-1}
+(b) (2√2)^n
+(c) (2√2)^2
+(d) (2√2)^{n+1}
+ans:d
+
+32. A machine is depreciated at rate of 10% on reducing balance the original cost was Rs 10,000 after how many years it will be valued at Rs 8100
+(a) 2
+(b) 3
+(c) 4
+(d) none
+ans:a
+
+33. The given progression 4, 3/4 , 9/4 , … is
+(a) H.P
+(b) G.P
+(c) A.P
+(d) None of these
+ans:b
+
+34. In how many different ways may the seven the letters in the word KARACHI be arranged if all of the letters are used each time?
+(a) 2500
+(b) 2520
+(c) 2400
+(d) 2420
+ans:b
+
+35. How many words can be formed out of the letters of the word “JEDDAH”
+(a) 360
+(b) 420
+(c) 240
+(d) None of these
+ans:a
+
+36. Which term of the expansion of (1/x + x^2)^9 contains no power of x
+(a) No term
+(b) Fourth
+(c) Fifth
+(d) sixth
+ans:b
+
+37. π radians are always equal to
+(a) 360°
+(b) 180°
+(c) 270°
+(d) None of these
+ans:b
+
+38. sin60° sin30° − cos60° sin60° =
+(a) zero
+(b) 1/3
+(c) 1/2
+(d) √3/4
+ans:a
+
+39. Composite function of g(x) = x^2 − 1, f(x) = 2x − 1 is
+(a) 2x^2 − 1
+(b) 4x^2 − 4x − 2
+(c) 4x^2 − 4x
+(d) None of these
+ans:c
+
+40. d/dx √x = ?
+(a) 1/(2√x)
+(b) 2/√x
+(c) 1/√x
+(d) 2√x
+ans:a
+
+41. If A = [ [1 −1] [2 −1] ] and B = [ [1 1] [4 2] ] then A + B is
+(a) [ [2 0] [6 1] ]
+(b) [ [1 0] [2 0] ]
+(c) [ [2 0] [6 1] ]
+(d) [ [0 2] [6 1] ]
+ans:d
+
+42. Missing question
+ans:c
+
+43. If A = [ [ x y z ], [ −2 0 −1 ], [ 3 1 0 ] ] is skew symmetric, then (x, y, z) is equal to
+(a) (0, 2, −3)
+(b) (0, −1, 3)
+(c) (0, −2, 3)
+(d) (1, 2, 3)
+ans:a
+
+44. Missing question
+ans:b
+
+45. If A = [ [12 1/3], [3 5] ], then the value of |A|^4 is equal to
+(a) (27)^4
+(b) (13)^4
+(c) (59)^4
+(d) (60)^4 − 1
+ans:e
+

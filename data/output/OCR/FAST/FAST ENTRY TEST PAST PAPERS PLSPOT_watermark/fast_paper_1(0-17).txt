@@ -1,0 +1,360 @@
+FAST Past Paper 1
+=================
+
+1. Find (A − B) ∩ B when A={a,e,i,o,u} and B={a,b,c,d}
+(a) φ
+(b) A
+(c) B
+(d) A − B
+ans:a
+
+2. Find the value of 'λ' if both the vectors if a = 2i − j − 2k, b = 3i − 2λj are perpendicular to each other
+(a) -3
+(b) -6
+(c) 6
+(d) 3
+ans:a
+
+3. When there are 10 balls of different colours. In how many ways you can choose 7 balls of different colours black and white balls are excluded?
+(a) 8
+(b) 10
+(c) 12
+(d) 60
+ans:a
+
+4. When cosθsinθ = 0.22 then (cosθ − sinθ)^2 =
+(a) 1/2
+(b) 0.56
+(c) 0.44
+(d) 0.0484
+ans:b
+
+5. Find the point dividing (1,2) & (7,−4) in the ratios 1:2
+(a) (0,−3)
+(b) (0,3)
+(c) (−3,0)
+(d) (3,0)
+ans:d
+
+6. Find the geometric progression when a = 4 & r = 1/3
+(a) 4, 4/3, 4/9, 4/27, …
+(b) 4, 16/3, 64/9, 256/27, …
+(c) 1, 4/3, 16/9, 64/27, …
+(d) None
+ans:a
+
+7. Find the derivative of 7x^6 + 6x^5 + 5x^4
+(a) 7x^5 + 6x^4 + 5x^3
+(b) 13x^6 + 11x^5 + 9x^4
+(c) 42x^5 + 30x^4 + 20x^3
+(d) 6x^5 + 5x^4 + 4x^3
+ans:c
+
+8. Find the fifth derivative of f(x) = e^{ab}
+(a) e^{ab}
+(b) 0
+(c) (ab)^5 e^{ab}
+(d) 1
+ans:b
+
+9. What is the value of 'x' if [ [2 4], [4 x] ] is singular matrix?
+(a) 0
+(b) 2
+(c) 6
+(d) 8
+ans:d
+
+10. A = [ [2 4], [4 2] ] is a
+(a) Singelton
+(b) Singular
+(c) Non-singular
+(d) Null
+ans:c
+
+11. 2sin45°cos45° = ?
+(a) √2
+(b) √3/2
+(c) 1
+(d) 1/√2
+ans:c
+
+12. r² = g² + f² - c represents:
+(a) Circle
+(b) Point circle
+(c) None
+(d) Ellipse
+ans:a
+
+13. If a = x + y and b = x - y then the value of ab =?
+(a) x² - y²
+(b) x² + y²
+(c) xy
+(d) x² + y² - 2xy
+ans:a
+
+14. What is the probability of getting a red card from an ordinary deck of cards?
+(a) 1/52
+(b) 1/2
+(c) 1/4
+(d) 1/13
+ans:c
+
+15. If a curve is given by x² - y²/5 = 1, find the coordinates of foci
+(a) (±√3, 0)
+(b) (±√6, 0)
+(c) (±1, 0)
+(d) (±√5, 0)
+ans:d
+
+16. ∫ cos x/sin x dx =?
+(a) √sin x + c
+(b) 2/sin x + c
+(c) ln|sin x| + c
+(d) 1/√sin x + c
+ans:b
+
+17. d/dx e^x =?
+(a) e^x
+(b) xe^x
+(c) x²e^x
+(d) e^x/x
+ans:b
+
+18. Find the sum of first 'n' odd integers:
+(a) n²
+(b) (2n + 1)
+(c) (2n + 1)/2
+(d) n(n + 1)/2
+ans:a
+
+19. Evaluate:
+| x  y²  z²  |
+| x  z   y  |
+| y  z   x  |
+(a) 0
+(b) 1
+(c) xyz
+(d) Cannot be determined
+ans:d
+
+20. How many tangents can be drawn to circle if a point lies outside the circle?
+(a) 1
+(b) 2
+(c) 0
+(d) None
+ans:b
+
+21. sin 15° =?
+(a) (√6 - √2)/4
+(b) (√6 + √2)/4
+(c) (-√6 + √2)/4
+(d) (√2 - √6)/4
+ans:a
+
+22. ∫ x² e^x dx =?
+(a) x²e^x - 2xe^x + 2e^x + c
+(b) x²e^x + 2xe^x + 2e^x + c
+(c) x²e^x - 2xe^x - 2e^x + c
+(d) x²e^x + 2xe^x - 2e^x + c
+ans:a
+
+23. If the focus of parabola is (0, –3) then it is:
+(a) Cup up parabola
+(b) Cup down parabola
+(c) Opens rightward
+(d) Opens leftward
+ans:b
+
+24. \(\frac{1}{1-\sin\theta} + \frac{1}{1+\sin\theta} = ?\)
+(a) \(\frac{1+\sin\theta}{2}\)
+(b) \(\frac{1-\sin\theta}{2}\)
+(c) \(\frac{2}{1-\sin\theta}\)
+(d) \(\frac{1}{1+\tan^2\theta}\)
+ans:c
+
+25. \(\frac{d}{dx}\tan^2 x = ?\)
+(a) \(2\tan x\sec^2x\)
+(b) \(\sec^2x\)
+(c) \(\tan x\sec^2x\)
+(d) \(2\tan^2 x\sec^2x\)
+ans:a
+
+26. \(\int_0^1 x^2e^{3x} = ?\)
+(a) \(\frac{1}{2}(e^4 - 1)\)
+(b) \(9e^{3x^2}\)
+(c) \(e^{3x^2}(e^4 - 2)\)
+(d) \(e^{3x^2}\)
+ans:a
+
+27. Find the distance between (2, –6) and (6, 0):
+(a) 25
+(b) 4
+(c) 5
+(d) 16
+ans:c
+
+28. Slope of line \(\frac{5x}{2} + \frac{7y}{10} = 49\) is:
+(a) 6
+(b) \(-\frac{5}{7}\)
+(c) \(\frac{7}{5}\)
+(d) 11
+ans:b
+
+29. Standard equation of hyperbola if centre is at (0,0):
+(a) \(\frac{x^2}{a^2} - \frac{y^2}{b^2} = 1\)
+(b) \(\frac{x^2}{b^2} - \frac{y^2}{a^2} = 1\)
+(c) \(\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1\)
+(d) \(\frac{x^2}{a^2} - \frac{y^2}{b^2} = 1\)
+ans:b
+
+30. Find the equation of tangent to the curve \(3x^2 - 4y^2 = 12\) at (4, -3):
+(a) \(x + y = 1\)
+(b) \(x - y = -1\)
+(c) \(x + y = -1\)
+(d) \(x - y = 1\)
+ans:a
+
+31. \(\frac{d}{dx}[f(x)g(x)] = ?\)
+(a) \(f(x)g(x)^2\)
+(b) \(2f(x)g(x)[f'(x)g(x)] + g(x)\frac{d}{dx}(f(x))\)
+(c) \([f(x), g(x)]^{-1}\)
+(d) \([f(x)g(x)] \frac{d}{dx}(f(x))\)
+ans:b
+
+32. If \(z = -7 + \sqrt{3}i\) then find \( (z - \bar{z})^3\):
+(a) 343
+(b) -343
+(c) -12\sqrt{3}i
+(d) -24\sqrt{3}i
+ans:d
+
+33. If \(f(x) = x^3 + \cos x\) then \(f(x)\) is?
+(a) An odd function
+(b) An even function
+(c) Neither odd nor even
+(d) A constant function
+ans:c
+
+34. lim (3x² - 7x + 6)/(x² - 8x + 15) as x→3 =
+(a) 0
+(b) 11
+(c) ∞
+(d) -11/2
+ans:d
+
+35. Find f'(x), if f(x) = sin²x
+(a) 2 sin x cos x
+(b) sin² x cos² x
+(c) sin x cos x
+(d) 2 sin² x cos² x
+ans:a
+
+36. If dy = lnx dx and the slope at (x, y) is same as when it is parallel to x axis find x?
+(a) 0
+(b) 1
+(c) e
+(d) 1/e
+ans:b
+
+37. The derivative of cos² 3x
+(a) -6 cos 3x sin 3x
+(b) 6 cos 3x sin 3x
+(c) -2 cos 3x sin 3x
+(d) 2 cos 3x sin 3x
+ans:d
+
+38. Curve y = x² - 8 has:
+I. Maximum value                  II. Minimum value                III. No extreme value
+(a) I only
+(b) II only
+(c) I and II only
+(d) III only
+ans:b
+
+39. The equation of the line which is parallel to x axis and 5 units above it is?
+(a) y = 5
+(b) y = -5
+(c) x = -5
+(d) x = 5
+ans:a
+
+40. The derivative of the function y = cos x is equal to?
+(a) sin x
+(b) -tan x
+(c) -sin x
+(d) cos x
+ans:c
+
+41. If α, β are the roots of x² - 2x + 1 = 0, then (α + β)² is equal to
+(a) -2
+(b) 1
+(c) 2
+(d) 4
+ans:d
+
+42. The possible number of root(s) of the equation x³ = 9 is/are
+(a) one
+(b) two
+(c) no roots
+(d) infinite many roots
+ans:b
+
+43. The real quadratic equation whose coefficients are rational and whose one root is √7 + √9, is
+(a) x² - 7x - 11 = 0
+(b) x² - 6x + 7 = 0
+(c) -x² + 2x - 1 = 0
+(d) x² - 13x - 15 = 0
+ans:b
+
+44. ω being the complex cube roots of unity then consider the following statements
+I. ω² = 1/ω
+II. ω³ⁿ = 1, n ∈ integer
+III. ωⁿ + ωⁿ⁺¹ + ωⁿ⁺² = 0; n ∈ integer
+(a) I only
+(b) II only
+(c) I and II
+(d) I and III
+ans:d
+
+45. Partial fraction decomposition of (x + 1)/(x(x² + 2)) is:
+(a) A/x + B/(x² + 2)
+(b) A/x + (Bx + C)/(x² + 2)
+(c) A/x + B/x² + C/(x² + 2)
+(d) A/x + B/(x² + 2) + C/(x² + 2)²
+ans:c
+
+46. Partial fraction decomposition of (x + 1)/(x(x² + 2)) is:
+(a) A/x + B/(x² + 2)
+(b) A/x + (Bx + C)/(x² + 2)
+(c) A/x + B/x² + C/(x² + 2)
+(d) A/x + B/(x² + 2) + C/(x² + 2)²
+ans:b
+
+47. √x + z = -1 then real root(s) of the equation is/are
+(a) one
+(b) two
+(c) three
+(d) no roots
+ans:d
+
+48. If α, β are the roots of 3x² + 2x + 5 = 0 then sum of α²+1 and β²+1 is equal to
+(a) -8/9
+(b) 8/5
+(c) -2/3
+(d) 5/3
+ans:d
+
+49. If the equation 7x² + 15x + k = 0 has roots √a and -√a then k is equal to
+(a) -11
+(b) 2
+(c) 7
+(d) 15
+ans:c
+
+50. If the sum of a number and its reciprocal is 20, then the number is
+(a) 5/4
+(b) -5/4
+(c) -4/5
+(d) -5
+ans:a
+
