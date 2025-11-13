@@ -29,6 +29,13 @@ ans:d
 (d) normal
 ans:a
 
+5. The straight line which passes through one vertex and perpendicular to the opposite side is called
+(a) median
+(b) altitude
+(c) perpendicular bisector
+(d) normal
+ans:b
+
 17. The normal form of the equation of a straight line is
 (a) y = mx + c
 (b) y - y1 = m(x - x1)

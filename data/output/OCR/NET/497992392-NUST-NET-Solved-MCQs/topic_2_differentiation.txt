@@ -66,7 +66,7 @@ ans:d
 
 10. lim [f(x) - f(a)]/(x - a) as x → a = ?
 (a) f'(x)
-(b) f'
+(b) f'(a)
 (c) f(0)
 (d) f(x - a)
 ans:b
@@ -113,8 +113,7 @@ ans:c
 (d) -g'(x)/[g(x)]^2
 ans:d
 
-17. If f
-(a) = ?
+17. If f(x) = 1/x, then f''(a) = ?
 (a) -2/a^3
 (b) -1/a^2
 (c) 1/a^2
@@ -425,8 +424,7 @@ ans:c
 (c) 4
 ans:a
 
-63. If f'
-(c) = 0, then f has relative maximum value at x = c, if:
+63. If f'(c) = 0, then f has relative maximum value at x = c, if:
 (a) f''
 (c) > 0
 (b) f''
@@ -518,4 +516,67 @@ ans:a
 (c) -4
 (d) 1
 ans:b
+
+76. If g is differentiable function at the point x and f is differentiable at point g(x), then (f o g)'(x) or d/dx (f o g)(x) =
+(a) f'(x) · g'(x)
+(b) (f' o g)'(x)
+(c) f'(g(x)) · g'(x)
+(d) f'(g'(x))
+ans:c
+
+77. If y = sinh^-1 (x^3), then dy/dx =
+(a) 1/√(1 + x^2)
+(b) 3
+(c) 1/√(1 + x^6)
+(d) 3x^2/√(1 + x^6)
+ans:d
+
+78. If x and h are two independent quantities and f(x + h) can be expanded in ascending powers of h as an infinite series, then f(x + h) = f(x) + hf'(x) + (h^2/2!)f''(x) + ... + (h^n/n!)f^(n)(x) + ... is called
+(a) Power series
+(b) Maclaurin series
+(c) Taylor series
+(d) all of these
+ans:c
+
+79. A function f(x) is such that, at a point x = c, f'(x) > 0 at x = c, then f is said to be
+(a) Increasing
+(b) decreasing
+(c) constant
+(d) 1-1 function
+ans:a
+
+89. If f(x) = e^{√(x - 1)}, then f'(0) =
+(a) e^{-1}
+(b) e
+(c) ∞
+(d) 1/2
+ans:c
+
+90. d/dx (tan^{-1} x − cot^{-1} x) =
+(a) 2 / √(1 + x^2)
+(b) 2 / (1 + x^2)
+(c) 0
+(d) −2 / (1 + x^2)
+ans:b
+
+91. If f(1/x) = tan x, then f'(1/x) =
+(a) π^2
+(b) −π^2
+(c) 1
+(d) −1/π^2
+ans:b
+
+92. lim_{h→0} [f(a + h) − f(a)] / h =
+(a) 0
+(b) f(a)
+(c) f'(a)
+(d) f'(a)
+ans:d
+
+93. If f(x) = 1/x, then a critical point of f is
+(a) 0
+(b) 1
+(c) −1
+(d) no point
+ans:a
 

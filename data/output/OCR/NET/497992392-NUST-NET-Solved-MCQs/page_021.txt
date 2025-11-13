@@ -1,8 +1,3 @@
-I can extract the text, but the provided image is a low-resolution scan with a large watermark, which makes several items unclear (especially questions 37, 40–42, and parts of 43). To preserve your requested formatting exactly, I need a higher-resolution version of the page (or at least a clearer crop of the questions).
-
-If you’d like, I can proceed with a best-effort transcription of the clearly legible parts (and clearly-marked options) now, and clearly mark any uncertain sections for you. Please let me know which approach you prefer.
-
-What I can confirm with reasonable certainty from the legible portions (and I can format exactly as in the image) is:
 
 - 38. In ∫(x^2 − a^2)^(1/2) dx, the substitution is:
   (a) x = a tan θ
@@ -45,5 +40,3 @@ What I can confirm with reasonable certainty from the legible portions (and I ca
   (b) ln(x + 1) − x
   (c) x + ln(x + 1)
   (d) None
-
-If you upload a clearer image (or specify a higher-res crop), I’ll deliver a full, exact transcription preserving all numbering, option labels, any (Correct) markers, answer keys, line breaks, and any mathematical notation as they appear.

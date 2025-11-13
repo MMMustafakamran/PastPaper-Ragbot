@@ -247,35 +247,56 @@ ans:a
 (b) ∫_0^1 f'(x) dx
 (c) -∫_a^b f(x) dx
 (d) ∫_a^b f(x) dx
+ans:d
+
+38. In ∫(x^2 − a^2)^(1/2) dx, the substitution is:
 (a) x = a tan θ
 (b) x = a sec θ
 (c) x = a sin θ
-(d) x = 2a sin θ - 39. ∫ x cos x dx is equal to:
+(d) x = 2a sin θ
+ans:b
+
+39. ∫ x cos x dx is equal to:
 (a) sin x + cos x
 (b) cos x − sin x
 (c) x sin x + cos x
-(d) None - 43. The suitable substitution for ∫ √(2x − x^2) dx is:
+(d) None
+ans:c
+
+43. The suitable substitution for ∫ √(2x − x^2) dx is:
 (a) x − a = a cos θ
 (b) x − a = a sin θ
 (c) x + a = a sin θ
-(d) x + a = a cos θ - 44. u · dv equals to:
+(d) x + a = a cos θ
+ans:b
+
+44. u · dv equals to:
 (a) v du − ∫ v du
 (b) uv + ∫ v du
 (c) uv − ∫ v du
-(d) u du + ∫ v du - 45. ∫ sin x dx equals to:
+(d) u du + ∫ v du
+ans:c
+
+45. ∫ sin x dx equals to:
 (a) −cos x
 (b) 0
 (c) 2
-(d) 1 - 46. The general solution of the differential equation dy/dx = −y/x is:
+(d) 1
+ans:c
+
+46. The general solution of the differential equation dy/dx = −y/x is:
 (a) x/y = c
 (b) y/x = c
 (c) xy = c
-(d) x^2 y^2 = c - 47. ∫ (x + 2)/(x + 1) dx:
+(d) x^2 y^2 = c
+ans:c
+
+47. ∫ (x + 2)/(x + 1) dx:
 (a) ln(x + 1)
 (b) ln(x + 1) − x
 (c) x + ln(x + 1)
 (d) None
-ans:d
+ans:c
 
 48. ∫ sin^3 x cos x dx
 (a) sin^3 x / 3

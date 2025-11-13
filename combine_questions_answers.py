@@ -88,6 +88,32 @@ def parse_answers(answer_pages: List[str]) -> Dict[int, Dict[int, str]]:
     return answers
 
 
+def parse_embedded_question(content: str) -> Tuple[str, List[str]]:
+    """Parse an embedded question from OCR artifact text."""
+    lines = content.split('\n')
+    question_lines = []
+    options = []
+    
+    for line in lines:
+        line = line.strip()
+        if not line:
+            continue
+        
+        # Check if this is an option line
+        option_match = re.match(r'^\(([a-d])\)\s*(.+)$', line)
+        if option_match:
+            options.append(f"({option_match.group(1)}) {option_match.group(2)}")
+        elif re.match(r'^\([a-d]\)', line):
+            # Option line with just label
+            options.append(line)
+        else:
+            # Question text
+            question_lines.append(line)
+    
+    question_text = ' '.join(question_lines).strip()
+    return question_text, options
+
+
 def parse_question_block(text: str, start_pos: int) -> Tuple[int, str, List[str], int]:
     """
     Parse a single question block starting at start_pos.
@@ -160,8 +186,10 @@ def parse_question_block(text: str, start_pos: int) -> Tuple[int, str, List[str]
             continue
         
         # Check for inline options (multiple options on one line)
-        inline_options = re.findall(inline_option_pattern, line)
-        if inline_options:
+        # Pattern: (a) text (b) text (c) text (d) text
+        # Improved pattern to handle spaces better
+        inline_options_full = re.findall(r'\(([a-d])\)\s*([^(]+?)(?=\s*\([a-d]\)|$)', line)
+        if inline_options_full and len(inline_options_full) >= 2:  # Only if 2+ options found
             # This line has inline options
             # Extract question part before first option
             first_option_pos = line.find('(')
@@ -171,16 +199,32 @@ def parse_question_block(text: str, start_pos: int) -> Tuple[int, str, List[str]
                     question_lines.append(question_part)
             
             # Add all inline options
-            for opt_letter, opt_text in inline_options:
-                options.append(f"({opt_letter}) {opt_text.strip()}")
+            for opt_letter, opt_text in inline_options_full:
+                opt_text_clean = opt_text.strip()
+                # Skip if option text looks like a question number (e.g., "= 0" after "If f'")
+                if re.match(r'^\d+\.', opt_text_clean):
+                    # This might be a question number, not an option
+                    continue
+                # Skip if option text is just "= ?" or similar (likely incomplete question text)
+                if opt_text_clean in ['= ?', '?', '=']:
+                    continue
+                if opt_text_clean:  # Only add if not empty
+                    options.append(f"({opt_letter}) {opt_text_clean}")
         else:
             # Check if this is a standalone option line
             option_match = re.match(r'^\(([a-d])\)\s*(.+)$', line)
             if option_match:
-                options.append(f"({option_match.group(1)}) {option_match.group(2)}")
+                opt_text = option_match.group(2).strip()
+                # Skip if option text looks like a question number, is empty, or is just "= ?"
+                if opt_text and not re.match(r'^\d+\.', opt_text) and opt_text not in ['= ?', '?', '=']:
+                    options.append(f"({option_match.group(1)}) {opt_text}")
             else:
+                # Check if line starts with a question number (next question started)
+                if re.match(r'^\d+\.\s+', line):
+                    # This is the start of next question, stop parsing
+                    break
                 # Check if this continues a previous option (no leading (a-d))
-                if options and not re.match(r'^\([a-d]\)', line):
+                elif options and not re.match(r'^\([a-d]\)', line) and not re.match(r'^\d+\.', line):
                     # Might be continuation of last option
                     options[-1] += ' ' + line
                 else:
@@ -265,8 +309,13 @@ def parse_question_block(text: str, start_pos: int) -> Tuple[int, str, List[str]
     question_text = re.sub(r'^[-–]\s+(\d+\.\s+)', r'\1', question_text, flags=re.MULTILINE)
     
     # Remove trailing OCR artifact text that appears after questions
-    question_text = re.sub(r'\s+If you upload.*$', '', question_text, flags=re.DOTALL | re.IGNORECASE)
-    question_text = re.sub(r'\s+If you can.*$', '', question_text, flags=re.DOTALL | re.IGNORECASE)
+    # But stop before embedded questions (they start with "- " or number)
+    question_text = re.sub(r'\s+If you upload.*?(?=- \d+\.|\d+\.|$)', '', question_text, flags=re.DOTALL | re.IGNORECASE)
+    question_text = re.sub(r'\s+If you can.*?(?=- \d+\.|\d+\.|$)', '', question_text, flags=re.DOTALL | re.IGNORECASE)
+    
+    # Remove OCR artifact text that appears before embedded questions
+    question_text = re.sub(r'I can extract.*?(?=- \d+\.|\d+\.)', '', question_text, flags=re.DOTALL | re.IGNORECASE)
+    question_text = re.sub(r'What I can confirm.*?(?=- \d+\.|\d+\.)', '', question_text, flags=re.DOTALL | re.IGNORECASE)
     # Remove duplicate question numbers at start of lines (but keep the first one)
     lines = question_text.split('\n')
     cleaned_lines = []
@@ -287,28 +336,27 @@ def parse_question_block(text: str, start_pos: int) -> Tuple[int, str, List[str]
     if re.match(r'^\d+\.\s+\d+\.\s+', question_text):
         question_text = re.sub(r'^\d+\.\s+', '', question_text, count=1)
     
-    # Clean up options - remove "[text unreadable]" markers
-    for i, opt in enumerate(options):
+    # Clean up options - remove "[text unreadable]" markers and filter invalid options
+    cleaned_options = []
+    for opt in options:
         cleaned_opt = re.sub(r'\[text unreadable\]', '', opt, flags=re.IGNORECASE).strip()
         cleaned_opt = re.sub(r'\[unreadable\]', '', cleaned_opt, flags=re.IGNORECASE).strip()
-        # Remove empty options or options that are just markers
-        if cleaned_opt and not re.match(r'^\([a-d]\)\s*$', cleaned_opt):
-            # Keep the option
-            options[i] = cleaned_opt
-        elif cleaned_opt:  # Has label but no content
-            # Try to extract just the label
-            label_match = re.match(r'^\(([a-d])\)', cleaned_opt)
-            if label_match:
-                options[i] = f"({label_match.group(1)}) [Option text unavailable]"
-            else:
-                options[i] = cleaned_opt
-        else:
-            # Try to preserve the option label if possible
-            label_match = re.match(r'^\(([a-d])\)', opt)
-            if label_match:
-                options[i] = f"({label_match.group(1)}) [Option text unavailable]"
-            else:
-                options[i] = opt
+        
+        # Extract option label and text
+        opt_match = re.match(r'^\(([a-d])\)\s*(.+)$', cleaned_opt)
+        if opt_match:
+            opt_label = opt_match.group(1)
+            opt_text = opt_match.group(2).strip()
+            
+            # Skip if option text looks like a question number or is empty
+            if opt_text and not re.match(r'^\d+\.', opt_text) and len(opt_text) > 0:
+                cleaned_options.append(f"({opt_label}) {opt_text}")
+            # Skip empty options entirely
+        elif cleaned_opt and re.match(r'^\([a-d]\)\s*$', cleaned_opt):
+            # Empty option label, skip it
+            pass
+    
+    options = cleaned_options
     
     next_pos = end_pos
     
@@ -404,6 +452,19 @@ def parse_questions(question_pages: List[str], unit_num: int) -> Dict[int, Tuple
     # Clean up common OCR artifacts at the start
     unit_text = re.sub(r'^[^\d]*', '', unit_text)  # Remove non-digit characters at start
     
+    # First, extract embedded questions from OCR artifact text
+    # Pattern: "- 38. Question text\n  (a) option..." or "38. Question text\n  (a) option..."
+    embedded_q_full_pattern = r'[-–]?\s*(\d+)\.\s+([^\n]+(?:\n\s*\([a-d]\)[^\n]+)+)'
+    embedded_matches = list(re.finditer(embedded_q_full_pattern, unit_text, re.MULTILINE))
+    
+    for match in embedded_matches:
+        q_num = int(match.group(1))
+        q_content = match.group(2).strip()
+        # Parse this embedded question
+        q_text, options = parse_embedded_question(q_content)
+        if q_text and len(options) >= 2:
+            questions[q_num] = (q_text, options)
+    
     # Parse all questions in this unit
     pos = 0
     max_iterations = 1000  # Safety limit
@@ -447,11 +508,23 @@ def parse_questions(question_pages: List[str], unit_num: int) -> Dict[int, Tuple
                     pos = next_pos
                     continue
         
-        if q_text and len(options) >= 2:  # At least 2 options
-            questions[q_num] = (q_text, options)
+        # Filter out options that look like question numbers
+        valid_options = []
+        for opt in options:
+            opt_match = re.match(r'^\(([a-d])\)\s*(.+)$', opt)
+            if opt_match:
+                opt_text = opt_match.group(2).strip()
+                # Skip if option text starts with a number followed by period (likely a question number)
+                if not re.match(r'^\d+\.', opt_text):
+                    valid_options.append(opt)
+            else:
+                valid_options.append(opt)
+        
+        if q_text and len(valid_options) >= 2:  # At least 2 options
+            questions[q_num] = (q_text, valid_options)
             last_q_num = q_num
-        elif q_num and q_text:  # Store even if options are incomplete
-            questions[q_num] = (q_text, options if options else [])
+        elif q_num and q_text and len(valid_options) >= 1:  # Store if at least 1 valid option
+            questions[q_num] = (q_text, valid_options)
             last_q_num = q_num
         
         pos = next_pos
