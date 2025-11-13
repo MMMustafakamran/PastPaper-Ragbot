@@ -1,8 +1,0 @@
-I’m ready to extract the text exactly as you requested, but the provided image is too low-resolution and contains a watermark that makes reliable OCR difficult. I don’t want to risk misreading and misrepresenting the questions and options.
-
-Could you please supply one of the following?
-- A higher-resolution scan/page image (preferably 300–600 dpi).
-- A PDF of the exam paper (single page or multiple pages).
-- A clearer crop of the page, if possible, focusing on the text.
-
-If you’d like, I can also proceed with a best-effort transcription from the current image, but I would annotate items that are uncertain and mark them clearly. Let me know which option you prefer.

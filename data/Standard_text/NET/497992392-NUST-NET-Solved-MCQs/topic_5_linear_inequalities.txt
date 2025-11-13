@@ -1,0 +1,178 @@
+Linear Inequalities
+===================
+
+1. The solution of ax + by ≤ c is
+(a) closed half plane
+(b) open half plane
+(c) circle
+(d) parabola
+ans:b
+
+2. A function which is to be maximized or minimized is called
+(a) subjective function
+(b) objective function
+(c) qualitative function
+(d) quantitative function
+ans:b
+
+3. The number of variables in ax + by ≤ c are
+(a) 1
+(b) 2
+(c) 3
+(d) 4
+ans:b
+
+4. (0,0) is the solution of the inequality
+(a) 7x + 2y > 0
+(b) 2x - y > 0
+(c) x + y ≥ 0
+(d) 3x + 5y < 0
+ans:c
+
+5. (0,0) is satisfied by
+(a) x - y < 10
+(b) 2x + 5y > 10
+(c) x - y ≥ 13
+(d) None
+ans:c
+
+6. The point where two boundary lines of a shaded region intersect is called
+(a) boundary point
+(b) corner point
+(c) stationary point
+(d) feasible point
+ans:b
+
+7. If x ≥ b , then
+(a) x ≥ b
+(b) -x < b
+(c) x ≤ b
+(d) -x ≤ - b
+ans:d
+
+8. The symbols used for inequality are
+(a) 1
+(b) 2
+(c) 3
+(d) 4
+ans:d
+
+9. A linear inequality contains at least ___ variables
+(a) one
+(b) two
+(c) three
+(d) more than three
+ans:a
+
+10. An inequality with one or two variables has ___ solutions
+(a) one
+(b) two
+(c) more than two
+(d) infinitely many
+ans:d
+
+11. ax + by < c is not a linear inequality if
+(a) a = 0, b = 0
+(b) a ≠ 0, b ≠ 0
+(c) a = 0, b ≠ 0
+(d) a ≠ 0, b = 0
+ans:a
+
+12. The graph of a linear equation of the form ax + by = c is a line which divides the whole plane into ___ disjoint parts
+(a) two
+(b) four
+(c) more than four
+(d) infinitely many
+ans:a
+
+13. The graph of corresponding linear equation of the linear inequality is a line called ______
+(a) boundary line
+(b) horizontal line
+(c) vertical line
+(d) inclined line
+ans:a
+
+14. The graph of the inequality x ≤ b is
+(a) upper half plane
+(b) lower half plane
+(c) left half plane
+(d) right half plane
+ans:c
+
+15. The graph of the inequality y ≤ b is
+(a) upper half plane
+(b) lower half plane
+(c) left half plane
+(d) right half plane
+ans:b
+
+16. The graph of the inequality ax + by ≤ c is — side of line ax + by = c
+(a) origin side
+(b) non-origin side
+(c) right
+(d) lower
+ans:a
+
+17. The graph of the inequality ax + by ≥ c is — side of line ax + by = c
+(a) origin side
+(b) non-origin side
+(c) upper
+(d) left
+ans:b
+
+18. The feasible solution which maximizes or minimises the objective function is called
+(a) exact solution
+(b) optimal solution
+(c) final solution
+(d) objective solution
+ans:b
+
+19. Solution space consisting of all feasible solutions of system of linear inequalities is called:
+(a) Feasible solution
+(b) Optimal solution
+(c) Feasible region
+(d) General solution
+ans:c
+
+20. Corner point is also called:
+(a) Origin
+(b) Focus
+(c) Vertex
+(d) Test point
+ans:c
+
+21. For feasible region:
+(a) x ≥ 0, y ≥ 0
+(b) x ≤ 0, y ≤ 0
+(c) x ≥ 0, y ≤ 0
+(d) x ≤ 0, y ≥ 0
+ans:a
+
+22. x = 0 is in the solution of the inequality
+(a) x < 0
+(b) x > 0
+(c) 2x + 3 > 0
+(d) 2x + 3 < 0
+ans:c
+
+23. linear inequality 2x − 7y > 3 is satisfied by the point
+(a) (5, 1)
+(b) (-5, -1)
+(c) (0, 0)
+(d) (1, -1)
+ans:d
+
+24. The non–negative constraints are also called:
+(a) Decision variable
+(b) Convex variable
+(c) Decision constraints
+(d) Concave variable
+ans:a
+
+25. If the line segment obtained by joining any two points of a region lies entirely within the region, then the region is called
+(a) Feasible region
+(b) Convex region
+(c) Solution region
+(d) Concave region Note that [Not convex] [Convex]
+ans:b
+

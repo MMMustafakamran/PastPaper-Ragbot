@@ -1,0 +1,398 @@
+Integration
+===========
+
+1. If y = f(x) then differential of y is
+(a) dy = f'(x) dx
+(b) dy = f' (x) dx
+(c) dy = f(x) dx
+(d) dy/dx
+ans:b
+
+2. If ∫ f(x) dx = φ(x) + c, then f(x) is called
+(a) integral
+(b) differential
+(c) derivative
+(d) integrand
+ans:d
+
+3. If n ≠ 1, then ∫ (ax + b)^n dx = ?
+(a) (ax + b)^{n−1} / [a(n−1)]
+(b) (ax + b)^{n+1} / n
+(c) (ax + b)^{n+1} / [a(n+1)]
+(d) (ax + b)^{n+1} / [a(n+1)]
+ans:d
+
+4. ∫ sin(ax + b) dx = ?
+(a) −(1/a) cos(ax + b)
+(b) (1/a) cos(ax + b)
+(c) a cos(ax + b)
+(d) −a cos(ax + b)
+ans:a
+
+5. ∫ e^(-λx) dx = ?
+(a) -λe^(-λx)
+(b) -λe^(-λx)
+(c) e^(-λx)/λ
+(d) e^(-λx)/(-λ)
+ans:d
+
+6. ∫ a^(λx) dx = ?
+(a) a^(λx)/λ
+(b) a^(λx)/ln a
+(c) a^(λx)/(λ ln a)
+(d) a^(λx)λ
+ans:c
+
+7. ∫ [f(x)]^n · f'(x) dx = ?
+(a) [f(x)]^n/n
+(b) f(x)
+(c) [f(x)]^(n+1)/(n+1)
+(d) [f(x)]^(n+1)
+ans:c
+
+8. ∫ f'(x)/f(x) dx = ?
+(a) f(x)
+(b) f'(x)
+(c) ln f(x)
+(d) ln f'(x)
+ans:c
+
+9. ∫ dx/(√(x+a) + √x) can be evaluated if
+(a) x > 0, a > 0
+(b) x < 0, a > 0
+(c) a < 0
+ans:a
+
+10. ∫ x/√(x^2 + 3) dx = ?
+(a) √(x^2 + 3)
+(d) -(1/2)√(x^2 + 3)
+ans:a
+
+11. ∫ a^(x^2) x dx = ?
+(a) a^(x^2)/ln a
+(b) a^(x^2)/2
+(c) a^(x^2) ln a
+ans:b
+
+12. ∫ e^(ax)[a f(x) + f'(x)] dx = ?
+(a) e^(ax) f(x)
+(b) e^(ax) f'(x)
+(c) a e^(ax) f(x)
+(d) a e^(ax) f'(x)
+ans:a
+
+13. ∫ e^x [sin x + cos x] dx = ?
+(a) e^x sin x
+(b) e^x cos x
+(c) -e^x sin x
+(d) -e^x cos x
+ans:a
+
+14. To determine the area under a curve by the use of integration, the idea was given by
+(a) Newton
+(b) Archimedes
+(c) Leibnitz
+(d) Taylor
+ans:b
+
+15. The order of the differential equation: x(d^2y/dx^2) + dy/dx - 2x = 0 is
+(a) 0
+(b) 1
+(c) 2
+(d) more than 2
+ans:c
+
+16. The equation y = x^2 - 2x + c represents (c being a parameter)
+(a) one parabola
+(b) family of parabolas
+(c) family of lines
+(d) two parabolas
+ans:b
+
+17. ∫ e^(sin x) · cos x dx = ?
+(a) e^(sin x)
+(b) e^(cos x)
+(c) e^(sin x)/sin x
+(d) e^(sin x)/cos x
+ans:a
+
+18. ∫ (2x + 3)^(1/2) dx = ?
+(a) (1/3)(2x + 3)^(3/2)
+(b) (1/3)(2x + 3)^(-1/2)
+(c) (1/3)(2x + 3)
+(d) None
+ans:a
+
+19. ∫ x^n dx = x^(n+1)/(n+1) is true for all values of n except
+(a) n = 0
+(b) n = 1
+(c) n = -1
+(d) n = any fractional value
+ans:c
+
+20. ∫_1^2 a^x dx =
+(a) (a^2 - a) ln a
+(b) (a^2 - a)/ln a
+(c) (a^2 - a)/log a
+(d) (a^2 - a) ln a
+ans:b
+
+21. ∫ e^(Tan^-1 x)/(1 + x^2) dx = ?
+(a) e^(Tan x) + c
+(b) Tan^-1 x + c
+(c) x e^(Tan^-1 x) + c
+(d) e^(Tan^-1 x) + c
+ans:d
+
+22. ∫ dx/(x√(x^2 - 1)) dx = ?
+(a) Sec^-1 x + c
+(b) Tan^-1 x + c
+(c) cot^-1 x + c
+(d) sin^-1 x + c
+ans:a
+
+23. ∫ Sin 3x dx is equal to:
+(a) cos 3x/3 + c
+(b) -cos 3x/3 + c
+(c) 3 Cos 3x + c
+(d) -3 Cos 3x
+ans:b
+
+24. If ∫ f(x) dx = 5, ∫ g(x) dx = 4, then ∫_-2^1 3f(x) dx - ∫_-2^2 g(x) dx =
+(a) 7
+(b) 9
+(c) 12
+(d) 8
+ans:a
+
+25. ∫ e^(f(x)) · f'(x) dx =
+(a) ln f(x) + c
+(b) e^(f(x)) + c
+(c) ln f'(x) + c
+(d) e^(f'(x)) + c
+ans:b
+
+26. ∫ Cos x dx =
+(a) -Sin x + c
+(b) Sin x + c
+(c) -cos x + c
+(d) cos x + c
+ans:a
+
+27. If a > 0 and a ≠ 1, then ∫ a^x dx =
+(a) a^x + c
+(b) a^x ln a + c
+(c) a^x/ln a + c
+(d) a^(x+1)/(x+1) + c
+ans:c
+
+28. ∫ dx/(1 + x^2) =
+(a) tan x + c
+(b) tan^-1 x + c
+(c) Cot x + c
+(d) Cot^-1 x + c
+ans:b
+
+29. ∫ f'(x)/f(x) dx =
+(a) ln x
+(b) ln f(x)
+(c) ln f'(x)
+(d) f'(x) ln f'(x)
+ans:b
+
+30. ∫ dx/(x ln x) is equal to:
+(a) ln x + c
+(b) x + c
+(c) ln(ln x) + c
+(d) ln(ln(ln x)) + c
+ans:c
+
+31. ∫ sec x dx is equal to:
+(a) ln (sec x + tan x) + c
+(b) ln (cosec x - cot x) + c
+(c) ln (sec x - tan x) + c
+(d) -ln (cosec x - cot x) + c
+ans:a
+
+32. ∫ cos x dx/(sin x · ln sin x) is equal to:
+(a) ln (ln (cos x)) + c
+(b) ln (ln (sin x)) + c
+(c) ln sin x + c
+(d) ln cos x + c
+ans:b
+
+33. The solution of differential equation dy/dx = sec^2 x is
+(a) y = cos x + c
+(b) y = tan x + c
+(c) y = sin x + c
+(d) y = cot x + c
+ans:b
+
+34. ∫ 2x dx is equal to:
+(a) 9
+(b) 7
+(c) 4
+(d) 0
+ans:c
+
+35. ∫ e^(ax) sin bx dx is equal to:
+(a) e^(ax)/(a^2 + b^2) (a sin bx - b cos bx) + c
+(b) e^(ax)/(a^2 + b^2) (b sin bx + a cos bx)
+(c) e^(ax)/(a^2 + b^2) (a sin bx + b cos bx)
+(d) e^(ax)/(a^2 + b^2) (b sin bx - a cos bx)
+ans:a
+
+36. ∫_a^b f'(x) dx is equal to:
+(a) 0
+(b) ∫_0^1 f'(x) dx
+(c) -∫_a^b f(x) dx
+(d) ∫_a^b f(x) dx
+ans:d
+
+38. In ∫(x^2 − a^2)^(1/2) dx, the substitution is:
+(a) x = a tan θ
+(b) x = a sec θ
+(c) x = a sin θ
+(d) x = 2a sin θ
+ans:b
+
+39. ∫ x cos x dx is equal to:
+(a) sin x + cos x
+(b) cos x − sin x
+(c) x sin x + cos x
+(d) None
+ans:c
+
+43. The suitable substitution for ∫ √(2x − x^2) dx is:
+(a) x − a = a cos θ
+(b) x − a = a sin θ
+(c) x + a = a sin θ
+(d) x + a = a cos θ
+ans:b
+
+44. u · dv equals to:
+(a) v du − ∫ v du
+(b) uv + ∫ v du
+(c) uv − ∫ v du
+(d) u du + ∫ v du
+ans:c
+
+45. ∫ sin x dx equals to:
+(a) −cos x
+(b) 0
+(c) 2
+(d) 1
+ans:c
+
+46. The general solution of the differential equation dy/dx = −y/x is:
+(a) x/y = c
+(b) y/x = c
+(c) xy = c
+(d) x^2 y^2 = c
+ans:c
+
+47. ∫ (x + 2)/(x + 1) dx:
+(a) ln(x + 1)
+(b) ln(x + 1) − x
+(c) x + ln(x + 1)
+(d) None
+ans:c
+
+48. ∫ sin^3 x cos x dx
+(a) sin^3 x / 3
+(b) 1/4 sin^4 x
+(c) -1/4 sin^4 x
+(d) sin^4 x / 4
+ans:b
+
+49. ∫ x e^x dx
+(a) x e^x + x
+(b) x e^x - e^x
+(c) e^x - x
+(d) None of these
+ans:b
+
+50. ∫_0^π dx / (x^2 + 9)
+(a) π/4
+(b) π/12
+(c) π/2
+(d) None of these
+ans:b
+
+51. Solution of differential equation dy/dx = y is:
+(a) y = c e^(-x)
+(b) y = c e^x
+(c) x y = c
+(d) None of these
+ans:a
+
+52. ∫ f(x) g'(x) dx =
+(a) f(x) g(x) − ∫ f'(x) g(x) dx
+(b) f'(x) g(x) + ∫ f(x) g'(x) dx
+(c) f(x) g'(x) − ∫ f'(x) g(x) dx
+(d) f(x) g'(x) + ∫ g(x) f'(x) dx
+ans:a
+
+53. ∫ e^x [1/x + ln x] dx =
+(a) e^x 1/x
+(b) − e^x 1/x
+(c) e^x ln x
+(d) − e^x ln x
+ans:c
+
+54. ∫_0^π sin x dx =
+(a) 2
+(b) −2
+(c) 0
+(d) −1
+ans:a
+
+55. ∫ |x| dx =
+(a) 1/2 x |x|
+(b) −1/2 x |x|
+(c) 5/2
+(d) 3/2
+ans:d
+
+56. If ∫ f(x) dx = 5, ∫ g(x) dx = 4, then ∫ [2 f(x) + 3 g(x)] dx =
+(a) 20
+(b) 23
+(c) 9
+(d) 22
+ans:d
+
+57. ∫ (4x + k) dx = 2, then k =
+(a) 8
+(b) −4
+(c) 0
+(d) −2
+ans:c
+
+58. If d/dx ( x /(1 + 2x) ) = 1/(2x + 1)^2 then 2 ∫ 1/(2x + 1)^2 dx =
+(a) 9/2
+(b) -9/2
+(c) 1/9
+(d) 2/9
+ans:d
+
+59. ∫ e^2 sec x tan x dx =
+(a) e^(-2) sec x
+(b) -e^2 sec x
+(c) e^sec x
+(d) 1/2 sec x
+ans:a
+
+60. Solution of the differential equation: dy/dx = 1/√(1 − x^2) is
+(a) y = sin^(-1) x + c
+(b) y = cos^(-1) x + c
+(c) y = tan^(-1) x + c
+(d) Non
+ans:a
+
+61. ∫ e^x [ 1/x − 1/x^2 ] dx =
+(a) e^x (1/x)
+(b) − e^x (1/x)
+(c) e^x ln x
+(d) − e^x (1/x^2)
+ans:a
+

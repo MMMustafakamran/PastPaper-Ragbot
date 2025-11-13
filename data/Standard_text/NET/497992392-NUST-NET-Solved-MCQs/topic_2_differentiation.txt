@@ -1,0 +1,577 @@
+Differentiation
+===============
+
+1. d/dx tan 3x = ?
+(a) 3 sec^2 3x
+(b) (1/3) sec^2 3x
+(c) cot 3x
+(d) sec^2 x
+ans:a
+
+2. d/dx 2^x = ?
+(a) 2^x/ln 2
+(b) ln 2/2^x
+(c) 2^x ln 2
+(d) 2x
+ans:c
+
+3. If y = e^(2x), then y'' = ?
+(a) e^(2x)
+(b) 2e^(2x)
+(c) 4e^(2x)
+(d) 16e^(2x)
+ans:c
+
+4. d/dx (ax + b)^n = ?
+(a) n(a^(n-1)x + b)
+(b) n(ax + b)^(n-1)
+(c) n(a^(n-1)x)
+(d) na(ax + b)^(n-1)
+ans:d
+
+5. The change in variable x is called increment of x. It is denoted by δx which is
+(a) +ve only
+(b) -ve only
+(c) +ve or -ve
+(d) none of these
+ans:c
+
+6. The notation dy/dx or df/dx is used by
+(a) Leibnitz
+(b) Newton
+(c) Lagrange
+(d) Cauchy
+ans:a
+
+7. The notation f(x) is used by
+(a) Leibnitz
+(b) Newton
+(c) Lagrange
+(d) Cauchy
+ans:b
+
+8. The notation f'(x) or y' is used by
+(a) Leibnitz
+(b) Newton
+(c) Lagrange
+(d) Cauchy
+ans:c
+
+9. The notation Df(x) or Dy is used by
+(a) Leibnitz
+(b) Newton
+(c) Lagrange
+(d) Cauchy
+ans:d
+
+10. lim [f(x) - f(a)]/(x - a) as x → a = ?
+(a) f'(x)
+(b) f'(a)
+(c) f(0)
+(d) f(x - a)
+ans:b
+
+11. d/dx (x^n) = nx^(n-1) is called:
+(a) power rule
+(b) product rule
+(c) quotient rule
+(d) constant rule
+ans:a
+
+12. d/dx (ax + b)^n = na(ax + b)^(n-1) is valid only when n must be:
+(a) a real number
+(b) a rational number
+(c) an imaginary number
+(d) an irrational number
+ans:b
+
+13. d/dx (sin a) = ?
+(a) cos a
+(b) a cos a
+(c) 0
+(d) -a cos a
+ans:c
+
+14. d/dx [f(x) + g(x)] = ?
+(a) f'(x) + g'(x)
+(b) f'(x) - g'(x)
+(c) f(x)g'(x) + f''(x)g(x)
+(d) f(x)g'(x) - f'(x)g(x)
+ans:a
+
+15. [f(x)g(x)]' = ?
+(a) f'(x) + g'(x)
+(b) f'(x) - g'(x)
+(c) f(x)g'(x) + f'(x)g(x)
+(d) f'(x)g'(x) - f'(x)g(x)
+ans:c
+
+16. d/dx [1/g(x)] = ?
+(a) 1/[g(x)]^2
+(b) 1/g'(x)
+(c) g'(x)/[g(x)]^2
+(d) -g'(x)/[g(x)]^2
+ans:d
+
+17. If f(x) = 1/x, then f''(a) = ?
+(a) -2/a^3
+(b) -1/a^2
+(c) 1/a^2
+(d) 2/a^3
+ans:d
+
+18. (f o g)'(x) = ?
+(a) f'g'
+(b) f'(g(x))
+(c) f'(g(x))g'(x)
+(d) cannot be calculated
+ans:c
+
+19. d/dx [g(x)]^n = ?
+(a) n[g(x)]^(n^n-1)
+(b) n[g(x)]^(n-1)g(x)
+(c) n[g(x)]^(n-1) g'(x)
+(d) [g(x)]^(n-1) g'(x)
+ans:c
+
+20. d/dx sec^{-1} x = ?
+(a) 1 / [ |x| √(x^2 - 1) ]
+(b) - 1 / [ |x| √(x^2 - 1) ]
+(c) 1 / [ |x| √(1 + x^2) ]
+(d) - 1 / [ |x| √(1 + x^2) ]
+ans:a
+
+21. d/dx cosec^{-1} x = ?
+(a) - 1 / [ |x| √(x^2 - 1) ]
+(b) 1 / [ |x| √(x^2 - 1) ]
+(c) - 1 / [ |x| √(1 + x^2) ]
+(d) 1 / [ |x| √(1 + x^2) ]
+ans:b
+
+22. The function f(x) = a^x, a > 0, a ≠ 0, and x is any real number is called
+(a) Exponential function
+(b) logarithmic function
+(c) algebraic function
+(d) composite function
+ans:a
+
+23. If a > 0, a ≠ 1, and x = a^y, then the function defined by y = log_a x (x > 0) is a logarithmic function with base
+(a) 10
+(b) e
+(c) a
+(d) x
+ans:c
+
+24. log_a a = ?
+(a) 1
+(b) a
+(c) a^2
+(d) not defined
+ans:a
+
+25. d/dx log_10 x = ?
+(a) 1/x log 10
+(b) 1/(x ln 10)
+(c) (ln x) / (x ln x)
+(d) (ln 10) / x
+ans:b
+
+27. y = sinh^{-1} x if and only if x = sinh y is valid when
+(a) x > 0, y > 0
+(b) x < 0, y < 0
+(c) x ∈ R, y > 0
+(d) x ∈ R, y ∈ R
+ans:d
+
+28. y = cosh^{-1} x if and only if x = cosh y is valid when
+(a) x ∈ [1, ∞), y ∈ [0, ∞)
+(b) x ∈ (1, ∞), y ∈ (0, ∞)
+(c) x < 0, y < 0
+(d) x ∈ R, y ∈ R
+ans:a
+
+29. y = tanh-1 x if and only if x = tanh y is valid when
+(a) x ∈ R , y ∈ R
+(b) x ∈ [-1,1], y ∈ R
+(c) x ∈ [-1,1], y ∈ R
+(d) x > 0, y > 0
+ans:b
+
+30. y = coth-1 x if and only if x = coth y is valid when
+(a) x ∈ R , y ∈ R
+(b) x ∈ [-1,1], y ∈ R
+(c) x ∈ [-1,1], y ∈ R
+(d) x > 0, y > 0
+ans:c
+
+31. y = sech-1 x if and only if x = sech y is valid when
+(a) x ∈ R , y ∈ R
+(b) x ∈ [-1,1], y ∈ R
+(c) x ∈ [-1,1], y ∈ R
+(d) x ∈ (0,1], y ∈ (0,∞)
+ans:d
+
+32. y = cosech-1 x if and only if x = cosech y is valid when
+(a) x ∈ R, y ∈ R
+(b) x ∈ R - {0}; y ∈ R - {0}
+(c) x ∈ [-1,1], y ∈ R
+(d) x ∈ (0,1], y ∈ (0, ∞)
+ans:b
+
+33. If y = sinh-1(ax + b), then dy/dx = ?
+(a) cosh-1 (ax + b)
+(b) 1 / √(1 + (ax + b)²)
+(c) a / √(1 + (ax + b)²)
+(d) a cosh-1 (ax + b)
+ans:c
+
+34. If y = cosh-1 (sec x), then dy/dx = ?
+(a) cos x
+(b) sec x
+(c) - sin (sec x)
+(d) - sinh-1 (sec x) tan x
+ans:b
+
+35. If y = e-ax, then y2 = ?
+(a) - a e-ax
+(b) - a² e-ax
+(c) a² e-ax
+(d) a² e-ax
+ans:c
+
+36. If y = e-ax, then dy/dx = ?
+(a) - a e-2ax
+(b) - a e2ax
+(c) a² e-ax
+(d) a e-ax
+ans:a
+
+37. If y = cos (ax + b), then y2 = ?
+(a) a² sin (ax + b)
+(b) - a² sin (ax + b)
+(c) - a² cos (ax + b)
+(d) a² cos (ax + b)
+ans:c
+
+38. f(x) = f(0) + x f'(0) + x²/2! f''(0) + ... is called
+(a) Maclaurin’s series expansion
+(b) Taylor’s series expansion
+(c) Taylor’s Theorem
+(d) convergent series 12
+ans:a
+
+39. 1 - x + x^2 - x^3 + x^4 - ... = ?
+(a) 1/(1 + x)
+(b) 1/(1 - x)
+(c) -1/(1 + x)
+(d) 1/(x - 1)
+ans:a
+
+40. dy/dx |_(x1,y1) represents
+(a) increments of x and y at (x1, y1)
+(b) slope of tangent at (x1, y1)
+(c) slope of normal at (x1, y1)
+(d) slope of horizontal line at (x1, y1)
+ans:b
+
+41. f is said to be increasing on α, b [ if for x1, x2 ∈ α, b [
+(a) f(x2) > f(x1) whenever x2 > x1
+(b) f(x2) > f(x1) whenever x2 < x1
+(c) f(x2) < f(x1) whenever x2 > x1
+(d) f(x2) < f(x1) whenever x2 < x1
+ans:a
+
+42. f is said to be decreasing on α, b [ if for x1, x2 ∈ α, b [
+(a) f(x2) > f(x1) whenever x2 > x1
+(b) f(x2) > f(x1) whenever x2 < x1
+(c) f(x2) < f(x1) whenever x2 > x1
+(d) f(x2) < f(x1) whenever x2 < x1
+ans:c
+
+43. If a function f is increasing within α, b, then slope of the tangent to its graph within α, b remains
+(a) positive
+(b) negative
+(c) zero
+(d) undefined
+ans:a
+
+44. If a function f is decreasing within α, b, then slope of the tangent to its graph within α, b remains
+(a) positive
+(b) negative
+(c) zero
+(d) undefined
+ans:b
+
+45. A point where 1st derivative of a function is zero, is called
+(a) stationary point
+(b) corner point
+(c) point of concurrency
+(d) common point
+ans:a
+
+46. f(x) = sin x is
+(a) linear function
+(b) odd function
+(c) even function
+(d) identity function
+ans:b
+
+48. d/dx (cos x) - d^2/dx^2 (sin x) = ?
+(a) 2 sin x
+(b) 2 cos x
+(c) 0
+(d) -2 sin x
+ans:c
+
+49. If f(x) = x^3 + 2x + 9, then f''(x) = ?
+(a) 3x^2 + 2
+(b) 3x^2
+(c) 6x
+(d) 2x
+ans:c
+
+50. d/dx ( 10 sin x ) = ?
+(a) 10 cos x
+(b) 10 sin x cos x ln 10
+(c) 10 sin x ln 10
+(d) 10 cos x ln 10
+ans:b
+
+51. If f(x) = sin x, then f'(cos^-1 3x) = ?
+(a) cos x
+(b) sqrt(1 - x^2)
+(c) sqrt(1 - 9x^2)
+(d) 3x
+ans:d
+
+52. d/dx ( sqrt(x - 1) / sqrt{x} )^2 = ?
+(a) 1 - 1/(2x)
+(b) 1 - 1/x^2
+(c) 1/x^2 + 1
+(d) 0
+ans:b
+
+53. At x = 0, the function f(x) = 1 - x^3 has
+(a) maximum value
+(b) minimum value
+(c) point of inflection
+(d) no conclusion
+ans:c
+
+54. If y = sin √x, then dy/dx is equal to:
+(a) Cos √x / (2√x)
+(b) Cos √x / √x
+(c) Cos √x
+(d) Cos x / (2√x)
+ans:a
+
+55. Let f be differentiable function in neighbourhood of c and f'(c) = 0, then f'(x) could have relative maxima at c if:
+(a) f''(c) > 0
+(b) f''(c) < 0
+(c) f''(c) = 0
+(d) f''(c) ≠ 0
+ans:d
+
+56. y = (x) has the value:
+(a) Minimum at x = e
+(b) Maximum at x = e
+(c) Minimum at x = 1/e
+(d) Maximum at x = 1/e
+ans:c
+
+57. d/dx (1/Cot x) =
+(a) -Cosec^2 x
+(b) Sec^2 x
+(c) Sec^2 x
+(d) -Sec^2 x
+ans:c
+
+58. If f(x) = e^(2x), then f''(x) =
+(a) 6e^(2x)
+(b) (1/6)e^(2x)
+(c) 8e^(2x)
+(d) (1/8)e^(2x)
+ans:c
+
+59. d/dx e^(tan x) is equal to
+(a) e^(tan x) Sec^2 x
+(b) e^(tan x)
+(c) e^(tan x) ln Sec^2 x
+(d) e^(tan x) ln tan x
+ans:a
+
+60. x^3 · d/dx (ln 2x) =
+(a) x^2
+(b) 2x^2
+(c) 3x^2
+(d) 6x^2
+ans:b
+
+61. d/dx (5^x) equal:
+(a) 5^x/ln 5
+(b) ln 5/5^x
+(c) 5 ln 5
+(d) 5
+ans:c
+
+62. If y = e^(2x), then y'' equal:
+(a) 4e^(2x)
+(b) 8e^(2x)
+(c) 16e^(2x)
+(d) 2e^(2x)
+ans:a
+
+63. If f'(c) = 0, then f has relative maximum value at x = c, if:
+(a) f''(c) > 0
+(b) f''(c) < 0
+(c) f''(c) = 0
+(d) f''(c) ≠ 0
+ans:b
+
+64. d/dx (Cosec x) is equal to
+(a) Cosec x Cot x
+(b) Cosec x tan x
+(c) -Cosec x Cot x
+(d) Tan x
+ans:d
+
+65. A function f is neither increasing nor decreasing at a point, provided that f'(x) = 0 at that point, then it is called:
+(a) Critical point
+(b) Stationary point
+(c) Maximum point
+(d) Minimum point
+ans:b
+
+66. d/dx (x^-2) is equal to
+(a) -2x^3
+(b) -2x^2
+(c) -2x^-3
+(d) -2x
+ans:c
+
+67. d/dx (cos^-1 x) is equal to
+(a) 1/√(1 - x^2)
+(b) -1/√(x^2 - 1)
+(c) 1/√(x^2 - 1)
+(d) -1/√(1 - x^2)
+ans:c
+
+68. The function f(x) = ax^2 + bx + c has minimum value if:
+(a) a > 0
+(b) a < 0
+(c) a = 0
+(d) a = -1
+ans:a
+
+69. lim |δx|/δx as x → -∞ is equal to:
+(a) 1
+(b) Not exists
+(c) -1
+(d) Zero
+ans:c
+
+70. 1 - x + x - x + x + ...... + (-1)^n x^n + .... is the expansion of:
+(a) 1/(1 - x)
+(b) 1/(1 + x)
+(c) 1/√(1 - x)
+(d) 1/√(1 + x)
+ans:b
+
+71. Derivative of x = (3/4)x^4 + (2/3)x^3 is:
+(a) (3/4)(4x^4)
+(b) 3x^11 + 2x^2
+(c) 3x^3
+(d) None of these
+ans:b
+
+72. If f'(x) = 0 and f''(x) ≤ 0 at a point P, then P is called:
+(a) Relative maxima
+(b) Relative minima
+(c) point of inflection
+(d) None of these
+ans:c
+
+73. If f be a real valued function, continuous in the interval ]x, x₁[ ⊆ Df, then the quotient [f(x₁) - f(x)]/(x₁ - x) is called
+(a) Derivative of f
+(b) Differential of f
+(c) Average rate of change of f
+(d) Instantaneous change of f
+ans:c
+
+74. If f be a real valued function, continuous in the interval ]x, x₁[ ⊆ Df, and if lim [f(x₁) - f(x)]/(x₁ - x) as x₁ → x exists, then the quotient is called
+(a) Derivative of f
+(b) Differential of f
+(c) Average rate of change of f
+(d) Actual change of f
+ans:a
+
+75. If f(x) = x^4 + 2x^3 + x^2, then f'(0) =
+(a) 4
+(b) 0
+(c) -4
+(d) 1
+ans:b
+
+76. If g is differentiable function at the point x and f is differentiable at point g(x), then (f o g)'(x) or d/dx (f o g)(x) =
+(a) f'(x) · g'(x)
+(b) (f' o g)'(x)
+(c) f'(g(x)) · g'(x)
+(d) f'(g'(x))
+ans:c
+
+77. If y = sinh^-1 (x^3), then dy/dx =
+(a) 1/√(1 + x^2)
+(b) 3
+(c) 1/√(1 + x^6)
+(d) 3x^2/√(1 + x^6)
+ans:d
+
+78. If x and h are two independent quantities and f(x + h) can be expanded in ascending powers of h as an infinite series, then f(x + h) = f(x) + hf'(x) + (h^2/2!)f''(x) + ... + (h^n/n!)f^(n)(x) + ... is called
+(a) Power series
+(b) Maclaurin series
+(c) Taylor series
+(d) all of these
+ans:c
+
+79. A function f(x) is such that, at a point x = c, f'(x) > 0 at x = c, then f is said to be
+(a) Increasing
+(b) decreasing
+(c) constant
+(d) 1-1 function
+ans:a
+
+89. If f(x) = e^{√(x - 1)}, then f'(0) =
+(a) e^{-1}
+(b) e
+(c) ∞
+(d) 1/2
+ans:c
+
+90. d/dx (tan^{-1} x − cot^{-1} x) =
+(a) 2 / √(1 + x^2)
+(b) 2 / (1 + x^2)
+(c) 0
+(d) −2 / (1 + x^2)
+ans:b
+
+91. If f(1/x) = tan x, then f'(1/x) =
+(a) π^2
+(b) −π^2
+(c) 1
+(d) −1/π^2
+ans:b
+
+92. lim_{h→0} [f(a + h) − f(a)] / h =
+(a) 0
+(b) f(a)
+(c) f'(a)
+(d) f''(a)
+ans:c
+
+93. If f(x) = 1/x, then a critical point of f is
+(a) 0
+(b) 1
+(c) −1
+(d) no point
+ans:a
+
