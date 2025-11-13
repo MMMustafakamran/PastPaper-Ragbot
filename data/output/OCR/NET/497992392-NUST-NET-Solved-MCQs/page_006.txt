@@ -1,0 +1,77 @@
+I can extract the text, but some parts of the image are too blurry to read reliably. Here is the transcription of what I can clearly read from the page. If you can provide a higher-resolution crop or a sharper scan (especially around question 51 and some options), I’ll complete the rest precisely.
+
+Objective Type Questions
+
+49. If f : X → Y is a function, then the subset of Y containing all the images is called :
+(a) domain of f
+(b) range of f
+(c) co-domain of f
+(d) subset of X
+
+50. The graph of 2x − 10 = 0 is a line
+(a) parallel to x-axis
+(b) parallel to y-axis
+(c) inclined at angle θ
+(d) through 1st and 2nd quadrants
+
+51. cosh x is equal to
+(a) (e^x − e^−x)/2
+(b) (e^x + e^−x)/2
+(c) [unreadable]
+(d) [unreadable]
+
+52. e^(2x) − e^(−2x) over e^(2x) − e^(−2x) is equal to
+(a) sinh 2x
+(b) cosh 2x
+(c) tanh 2x
+(d) coth 2x
+
+53. The function f(x) = 1/(x + 1) is discontinuous at x =
+(a) 1
+(b) −1
+(c) 0
+(d) all real numbers
+
+54. If f(x) = x^3 − 2x^2 + 4x − 1, then f(−1) =
+(a) 8
+(b) −8
+(c) 0
+(d) −6
+
+55. The quantity which is used as a variable as well as a constant is called
+(a) Parameter
+(b) Constraint
+(c) Real number
+(d) None of these
+
+56. If f(x) = (x − 1)/(x + 4), x ≠ −4, then the range of f is
+(a) R − {1}
+(b) R − { −4 }
+(c) R − {0}
+(d) all real numbers
+
+57. lim e^x as x → ∞ =
+(a) 1
+(b) ∞
+(c) 0
+(d) −1
+
+58. lim (sin(x − 3))/(x − 3) as x → 3 = 
+(a) 1
+(b) ∞
+(c) sin 3 / 3
+(d) −3
+
+59. lim (sin(x − a))/(x − a) as x → a =
+(a) 1
+(b) ∞
+(c) sin a / a
+(d) 0
+
+60. f(x) = x^3 + x is:
+(a) Even
+(b) Neither even nor odd
+(c) Odd
+(d) None of these
+
+If you can share a crisper image (or crop around items 51 and 56’s options, etc.), I’ll re-run and provide a fully precise transcription with every line exactly as shown.

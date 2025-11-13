@@ -1,0 +1,47 @@
+Objective Type Questions
+
+12. d/dx (ax + b)^n = na(ax + b)^n - 1 is valid only when n must be :
+(a) a real number
+(b) a rational number
+(c) an imaginary number
+(d) an irrational number
+
+13. d/dx ( sin α ) = ?
+(a) cos α
+(b) a cos α
+(c) 0
+(d) − a cos α
+
+14. d/dx [ f(x) + g(x) ] = ?
+(a) f'(x) + g'(x)
+(b) f'(x) − g'(x)
+(c) f(x) g'(x) + f'(x) g(x)
+(d) f(x) g'(x) − f'(x) g(x)
+
+15. [ f(x) g(x) ]' = ?
+(a) f'(x) g'(x)
+(b) f'(x) g(x) − g'(x)
+(c) f(x) g'(x) + f'(x) g(x)
+(d) f(x) g'(x) − f'(x) g(x)
+
+Remember that [f(x) g(x) ]' = d/dx [ f(x) g(x) ]
+
+16. d/dx [ 1 / g(x) ] = ?
+(a) 1 / [ g(x) ]^2
+(b) 1 / g'(x)
+(c) g'(x) / [ g(x) ]^2
+(d) − g'(x) / [ g(x) ]^2
+
+17. If f(x) = 1/x, then f''(x) = ?
+(a) − 2 / a^3
+(b) − 1 / a^2
+(c) 1 / a^2
+(d) 2 / a^3
+
+18. (f o g)(x) = ?
+(a) f' g(x)
+(b) f'(g(x)) g'(x)
+(c) f''(g(x)) g'(x)
+(d) cannot be calculated
+
+Remember that (fog)(x) = d/dx [ (fog)(x) ]

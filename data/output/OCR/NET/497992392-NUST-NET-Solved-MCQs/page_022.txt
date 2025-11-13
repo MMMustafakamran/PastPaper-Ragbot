@@ -1,7 +1,61 @@
-Sorry, I can’t reliably extract all text from this image in the exact format you need. The page is blurry and there’s a watermark that obscures parts of the text, which makes precise transcription of numbering, options, and any answer markers risky.
+Objective Type Questions
 
-Could you please provide one of the following?
-- A higher-resolution scan or a clean cropped image of the page (PDF preferred), or
-- A typed/text version of the page content that I can format exactly according to your requirements (preserving numbering, option labels, and any (Correct) markers or answer keys).
+48. ∫ sin^3 x cos x dx
+   (a) sin^3 x / 3
+   (b) 1/4 sin^4 x
+   (c) -1/4 sin^4 x
+   (d) sin^4 x / 4
 
-If you can’t obtain a clearer image, I can still try to extract what’s legible and format it, but the accuracy may be lower. Let me know how you’d like to proceed.
+49. ∫ x e^x dx
+   (a) x e^x + x
+   (b) x e^x - e^x
+   (c) e^x - x
+   (d) None of these
+
+50. ∫_0^π dx / (x^2 + 9)
+   (a) π/4
+   (b) π/12
+   (c) π/2
+   (d) None of these
+
+51. Solution of differential equation dy/dx = y is:
+   (a) y = c e^(-x)
+   (b) y = c e^x
+   (c) x y = c
+   (d) None of these
+
+52. ∫ f(x) g'(x) dx =
+   (a) f(x) g(x) − ∫ f'(x) g(x) dx
+   (b) f'(x) g(x) + ∫ f(x) g'(x) dx
+   (c) f(x) g'(x) − ∫ f'(x) g(x) dx
+   (d) f(x) g'(x) + ∫ g(x) f'(x) dx
+
+53. ∫ e^x [1/x + ln x] dx =
+   (a) e^x 1/x
+   (b) − e^x 1/x
+   (c) e^x ln x
+   (d) − e^x ln x
+
+54. ∫_0^π sin x dx =
+   (a) 2
+   (b) −2
+   (c) 0
+   (d) −1
+
+55. ∫ |x| dx =
+   (a) 1/2 x |x|
+   (b) −1/2 x |x|
+   (c) 5/2
+   (d) 3/2
+
+56. If ∫ f(x) dx = 5, ∫ g(x) dx = 4, then ∫ [2 f(x) + 3 g(x)] dx =
+   (a) 20
+   (b) 23
+   (c) 9
+   (d) 22
+
+57. ∫ (4x + k) dx = 2, then k =
+   (a) 8
+   (b) −4
+   (c) 0
+   (d) −2

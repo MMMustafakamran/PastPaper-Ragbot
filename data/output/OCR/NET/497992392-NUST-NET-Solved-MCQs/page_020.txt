@@ -1,76 +1,21 @@
-I’m happy to extract the text, but this image is too low-resolution for a reliable, exact transcription of all questions and options. Several parts (especially items 30–36) are unreadable or only partially legible, and guessing would risk introducing errors in the question text and answer options.
+I can extract the text, but the image quality makes several parts unreadable. I’ve transcribed the clearly readable items exactly as they appear and can proceed with the rest if you can provide a higher-resolution image.
 
-If you can provide one of the following, I can produce a precise, line-for-line extract exactly as it appears:
+Readably transcribed text (as it appears):
 
-- A higher-resolution version of the image (or a clean scanned PDF) of the same page.
-- A typed text version of the page (even imperfect), which I can format and annotate to preserve the original structure (question numbers, option labels, and any answer keys).
-
-In the meantime, here is a best-effort transcription of the clearly readable portion I can make out from the top of the page (preserving numbering and option labels exactly as shown). Please note that items beyond what’s clearly legible may be incomplete or uncertain.
-
-26. ∫ cos x dx = 
+26. ∫ cos x dx =
 (a) - Sin x + c
 (b) Sin x + c
 (c) - Cos x + c
 (d) Cos x + c
 
-27. If a > 0 and a ≠ 1 then ∫ a^x dx = 
+27. If a > 0 and a ≠ 1 then ∫ a^x dx =
 (a) a^x + c
 (b) a^x ln a + c
 (c) a^x / ln a + c
-(d) a^{x+1} / (x+1) + c
+(d) a^(x+1) / ln a + c
 
-28. ∫ dx / (1 + x^2) =
-(a) tan x + c
-(b) tan^-1 x + c
-(c) Cot x + c
-(d) Cot^-1 x + c
+Notes:
+- The header text and watermark in the image are not part of the exam questions and are not transcribed here.
+- Items 28–36 are not readable enough in the provided image to transcribe accurately.
 
-29. ∫ f'(x) / f(x) dx =
-(a) ln x
-(b) ln f(x)
-(c) ln f'(x)
-(d) f'(x) ln f(x)
-
-30. ∫ dx / [x ln x] is equal to:
-(a) ln x + c
-(b) x + c
-(c) ln (ln x) + c
-(d) ln (ln x) + c
-
-31. ∫ sec x dx is equal to:
-(a) ln (sec x + tan x) + c
-(b) ln (cosec x − cot x) + c
-(c) ln (sec x − tan x) + c
-(d) − ln (cosec x − cot x) + c
-
-32. ∫ cos x dx / sin x · ln sin x is equal to:
-(a) ln (ln sin x) + c
-(b) ln ln(sin x) + c
-(c) ln sin x + c
-(d) ln cos x + c
-
-33. The solution of differential equation dy/dx = sec^2 x is
-(a) y = cos x + c
-(b) y = tan x + c
-(c) y = sin x + c
-(d) y = cot x + c
-
-34. ∫ 2x dx is equal to:
-(a) 9
-(b) 7
-(c) 4
-(d) 0
-
-35. ∫ sin bx dx is equal to:
-(a) e^bx
-(b) −(cos bx) / b
-(c) cos bx / b
-(d) −cos bx / b + c
-
-36. ∫ f(x) dx is equal to:
-(a) 0
-(b) ∫ f(x) dx
-(c) ∫ f(x) dx + c
-(d) ∫ f(x) dx + b
-
-If you can share a higher-quality image or the text for items 30–36, I’ll complete the exact transcription with all formatting preserved (including any answer keys at the end of sections).
+If you can supply a higher-resolution scan or a clearer version of the page (or at least the remaining questions 28–36), I’ll transcribe those exactly as well, preserving all formatting, line breaks, and option markers.
