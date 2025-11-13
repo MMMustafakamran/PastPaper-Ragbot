@@ -1,0 +1,70 @@
+FAST ENTRY TEST PAST PAPERS PLSOPT
+FAST PAST PAPER 2
+
+13. Power set of X P(X)...... Under the binary operation of union U
+a) Forms a group
+b) Does not form a group
+c) Has no identity
+d) ∞ Set although X is ∞
+
+14. If A is non-singular matrix then (A⁻¹)⁻¹=?
+a) A
+b) −A
+c) 1
+d) None
+
+15. Out of 800 boys in a school, 334 played cricket, 240 played hockey and 336 played basketball of the total 64 played both basketball and hockey 80 played cricket and basketball and 40 played cricket and hockey 24 played all the games the number of boys who did not play any game is?
+a) 40
+b) 56
+c) 24
+d) 50
+
+16. Let the equation ax² - bx + c = 0 have district real roots both lying in the open interval (0, 1) where a, b, c are given to be positive integers then the value of the ordered triplet (a, b, c) can be?
+a) (5, 3, 1)
+b) (4, 3, 2)
+c) (5, 5, 1)
+d) (6, 4, 1)
+
+17. If A and B are disjoint sets, then A ∩ B is
+a) A
+b) B
+c) Null set
+d) A ∪ B
+
+18. {1, -1, i, -i} is a group closed under
+a) Multiplication
+b) Addition
+c) Division
+d) Both A & C
+
+19. If ω is complex cube root of unity then ω⁶ is
+a) 1
+b) 0
+c) ω
+d) -1
+
+20. One root of 2x² + kx + 16 = 0 is 4 is the other root is
+a) 2
+b) 3
+c) 4
+d) Cannot be found
+
+21. If A = Aᵀ then matrix A is
+a) Symmetric
+b) Screw Symmetric
+c) Square
+d) None of these
+
+22. The next term of the following sequence is 1/7, -3/7, 9/7, __________
+a) -9/7
+b) -11/7
+c) 29/7
+d) -29/7
+
+23. The nth term of the following sequence is 0, 6, 24, 60, ….
+a) n² − n
+b) n² − 2n
+c) n³ − 2n
+d) n³ − n
+
+24. If the sum of n terms is n² − 3n then its 6th term is

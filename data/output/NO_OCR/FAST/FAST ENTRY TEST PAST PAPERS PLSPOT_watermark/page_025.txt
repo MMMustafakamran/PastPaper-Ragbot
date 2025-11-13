@@ -1,0 +1,66 @@
+(A) 2
+(B) 32
+(C) 50
+(D) 120
+(E) 600
+
+10. When ticket sales began, Pat was the nth customer in line for a ticket, and customers purchased their tickets at the rate of x customers per minute. Of the following, which best approximates the time, in minutes, that Pat had to wait in line from the moment ticket sales began?
+(A) (n - 1) x
+(B) n + x - 1
+(C) n - 1
+     x
+(D) x
+     n - 1
+(E) n
+     x - 1
+
+11. If 6 gallons of gasoline are added to a tank that is already filled to 3/4 of its capacity, the tank is then filled to 9/4 of its capacity. How many gallons does the tank hold?
+(A) 20
+(B) 24
+(C) 36
+(D) 40
+(E) 60
+
+12. A bus trip of 450 miles would have taken 1 hour less if the average speed S for the trip had been greater by 5 miles per hour. What was the average speed S, in miles per hour, for the trip?
+(A) 10
+(B) 40
+(C) 45
+(D) 50
+(E) 55
+
+13. 10^3 is how many times (0.01)^3?
+(A) 10^6
+(B) 10^8
+(C) 10^9
+(D) 10^12
+(E) 10^18
+
+14. Which of the following groups of numbers could be the lengths of the sides of a right triangle?
+I. 1, 4, √17
+II. 4, 7, √11
+III. 4, 9, 6
+(A) I only
+(B) I and II only
+(C) I and III only
+(D) II and III only
+(E) I, II, and III
+
+15. When the stock market opened yesterday, the price of a share of stock X was 10 1/2. When the market closed, the price was 11 1/4. Of the following, which is closest to the percent increase in the price of stock X?
+(A) 0.5%
+(B) 1.0%
+(C) 6.7%
+(D) 7.1%
+(E) 7.5%
+
+16. If x and y are integers and xy^2 is a positive odd integer, which of the following must be true?
+I. xy is positive.
+II. xy is odd.
+III. x + y is even.
+(A) I only
+(B) II only
+(C) III only
+(D) I and II
+(E) II and III
+
+Page 24
+www.markhorwrites.blogspot.com
