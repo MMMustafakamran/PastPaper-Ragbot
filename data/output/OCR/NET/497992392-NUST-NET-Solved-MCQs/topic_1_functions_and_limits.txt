@@ -1,0 +1,490 @@
+Functions and Limits
+====================
+
+1. The function I(x) = x is called :
+(a) A linear function
+(b) An identity function
+(c) A quadratic function
+(d) A cubic function
+ans:b
+
+2. If y is expressed in terms of a variable x as y = f(x), then y is called :
+(a) An explicit function
+(b) An implicit function
+(c) A linear function
+(d) An identity function
+ans:a
+
+3. Cosh2x – sinh2x = ?
+(a) -1
+(b) 0
+(c) 1
+(d) none of these
+ans:c
+
+4. cosechx is equal to
+(a) 2/(e^x + e^-x)
+(b) 1/(e^x + e^-x)
+(c) 2/(e^x - e^-x)
+(d) 1/(e^x - e^-x)
+ans:c
+
+5. Lim x→ a (x^3 - a^3)/(x - a) = ?
+(a) undefined
+(b) 3a^2
+(c) a^2
+(d) 0
+ans:b
+
+6. Lim x→0 (1 + x)^x = ?
+(a) 1
+(b) e
+(c) e^2
+(d) undefined
+ans:b
+
+7. The notation : y = f(x) was invented by
+(a) Leibniz
+(b) Euler
+(c) Newton
+(d) Lagrange
+ans:b
+
+8. If f(x) = x^2 - 2x + 1, then f(0) = ?
+(a) -1
+(b) 0
+(c) 1
+(d) 2 .com/
+ans:c
+
+10. The term "function" was recognised by ---- to describe the dependence of one quantity on another :
+(a) Leibnitz
+(b) Euler
+(c) Newton
+(d) Lagrange
+ans:a
+
+11. If f(x) = x^2 then range of f is :
+(a) [0,∞[
+(b) -∞,0]
+(c) ]0, ∞ [
+(d) +ve real numbers
+ans:a
+
+12. If f(x) = x/(x^2 - 4) then domain of f is :
+(a) All real numbers
+(b) All real numbers except 0
+(c) All real numbers except -2, 2
+(d) only +ve real numbers
+ans:c
+
+13. If a graph expresses a function, then a vertical line must cut the graph at
+(a) One point only
+(b) Two points
+(c) More than two points
+(d) No point
+ans:a
+
+14. If f(x) = { x, when 0 ≤ x ≤ 1 ; x - 1 , when 1 < x ≤ 2 }, then domain of f is :
+(a) [0,2]
+(b) (0,2)
+(c) [1,2]
+(d) all real numbers
+ans:a
+
+15. The graph of a linear equation is always a
+(a) straight line
+(b) parabola
+(c) circle
+(d) cube
+ans:a
+
+16. The domain and range of the identity function , I : X → X is :
+(a) X
+(b) +ve real number
+(c) -ve real number
+(d) integer
+ans:a
+
+17. The linear function f(x) = ax + b is constant function if
+(a) a ≠ 0, b = 1
+(b) a = 1, b = 0
+(c) a = 1, b = 1
+(d) a = 0
+ans:d
+
+18. The linear function f(x) = ax + b is identity function if
+(a) a ≠ 0, b = 1
+(b) a = 1, b = 0
+(c) a = 1, b = 1
+(d) a = 0
+ans:b
+
+19. If y = cos γt, domain = R, then range is
+(a) -1,1
+(b) [-1,1]
+(c) R - [-1,1]
+(d) R - ]-1,1[
+ans:b
+
+20. If y = tan x, domain = {x | x ∈ R, x ≠ (2n+1)π/2, n integer}, then range is
+(a) ]-1,1[
+(b) [-1,1]
+(c) R - [-1,1]
+(d) all real numbers
+ans:d
+
+21. If y = sec x, domain = {x | x ∈ R, x ≠ (2n+1)π/2, n integer}, then range is
+(a) ]1,1[
+(b) [-1,1]
+(c) R - [-1,1]
+(d) R - ]-1,1[
+ans:d
+
+22. If y = cot x, domain = {x | x ∈ R, x ≠ nπ, n integer}, then range is
+(a) y ≥ 1, y ≤ -1
+(b) y ≤ 1, y ≥ -1
+(c) y < 1, y > -1
+(d) all real numbers
+ans:d
+
+23. If y = cosec x, domain = {x | x ∈ R, x ≠ nπ, n integer}, then range is
+(a) y ≥ 1, y ≤ -1
+(b) y ≤ 1, y ≥ -1
+(c) y < 1, y > -1
+(d) all real numbers
+ans:a
+
+24. If x = a^y, then y = log_a x is called logarithmic function when
+(a) a < 0
+(b) a = 0
+(c) a > 0
+(d) a > 0, a ≠ 1
+ans:d
+
+25. If cosh x = (e^x + e^-x)/2, then its domain is set of all real numbers and range is
+(a) set of all real numbers
+(b) set of +ve real numbers
+(c) [1,∞]
+(d) ]-∞,1]
+ans:b
+
+26. In logarithmic form, sinh^-1 x can be written as
+(a) ln(x + √(x^2 + 1))
+(b) ln(x + √(x^2 - 1))
+(c) ln(x - √(x^2 + 1))
+(d) ln(x - √(x^2 - 1))
+ans:a
+
+27. In logarithmic form, cosh^-1 x can be written as
+(a) ln(x + √(x^2 + 1))
+(b) ln(x + √(x^2 - 1))
+(c) ln(x - √(x^2 + 1))
+(d) ln(x - √(x^2 - 1))
+ans:b
+
+28. In logaritmic form, tanh-1 x can be written as
+(a) 1/2 ln ( (1+x)/(1−x) ), |x|<1
+(b) 1/2 ln ( (x+1)/(x−1) ), |x|<1
+(c) ln ( 1/x + √(1−x^2)/x ), 0≤x≤1
+(d) ln ( 1/x + √(1+x^2)/|x| ), x≠0
+ans:a
+
+29. In logarithm ic form, coth-1 x can be written as
+(a) 1/2 ln ( (1+x)/(1−x) ), |x|<1
+(b) 1/2 ln ( (x+1)/(x−1) ), |x|<1
+(c) ln ( 1/x + √(1−x^2)/x ), 0≤x≤1
+(d) ln ( 1/x + √(1+x^2)/|x| ), x≠0
+ans:b
+
+30. In logarithmic form, sech-1 x can be written as
+(a) 1/2 ln ( (1+x)/(1−x) ), |x|<1
+(b) 1/2 ln ( (x+1)/(x−1) ), |x|<1
+(c) ln ( 1/x + √(1−x^2)/x ), 0≤x≤1
+(d) ln ( 1/x + √(1+x^2)/|x| ), x≠0
+ans:c
+
+31. In logarithmic form, coseh-1 x can be written as
+(a) 1/2 log ( (1+x)/(1−x) ), |x|<1
+(b) 1/2 log ( (x+1)/(x−1) ), |x|<1
+(c) log ( 1/x + √(1−x^2)/x ), 0≤x≤1
+(d) log ( 1/x + √(1+x^2)/|x| ), x≠0
+ans:d
+
+32. x^2 + xy + y^2 = 2 is an example of
+(a) linear function
+(b) quadratic function
+(c) explicit function
+(d) implicit function
+ans:d
+
+33. x = at^2 , y = 2at are the parametric equations of
+(a) circle
+(b) parabola
+(c) ellipse
+(d) hyperbola
+ans:b
+
+34. x = a cos θ, y = a sin θ are the parametric equations of
+(a) circle
+(b) parabola
+(c) ellipse
+(d) hyperbola
+ans:a
+
+35. x = a cos θ, y = b sin θ are the parametric equations of
+(a) circle
+(b) parabola
+(c) ellipse
+(d) hyperbola
+ans:c
+
+36. x = a sec θ, y = b tan θ are the parametric equations of
+(a) circle
+(b) parabola
+(c) ellipse
+(d) hyperbola
+ans:d
+
+37. The function, f(x) = 3x^4 + 7 - 2x^2 is
+(a) even
+(b) odd
+(c) neither
+(d) none of these
+ans:a
+
+38. The function, f(x) = sinx + cos x is
+(a) even
+(b) odd
+(c) neither
+(d) none of these
+ans:a
+
+39. If f(x) = 2x + 1 , g(x) = x^2 - 1, then (fog)(x) = ?
+(a) 2x^2 - 1
+(b) 4x^2 + 4x
+(c) 4x + 3
+ans:a
+
+43. The inverse of a function exists only if it is
+(a) an into function
+(b) an onto function
+(d) trigonometric function
+ans:c
+
+44. If f(x) = 2 + √(x - 1), then domain of f^{-1} = ?
+(a) [2, ∞)
+(b) [2, ∞)
+(c) [1, ∞)
+(d) [1, ∞)
+ans:b
+
+45. If f(x) = 2 + √(x - 1), then range of f^{-1} = ?
+(a) [2, ∞)
+(b) [2, ∞)
+(c) [1, ∞)
+(d) [1, ∞)
+ans:c
+
+46. Lim sin x / x as x → 0 = 1 if and only if
+(a) x is an obtuse angle
+(b) x is a right angle
+(c) 0 < x < π/2
+ans:d
+
+47. A function f(x) is said to be continuous at x = c, if
+(b) f
+(c) is defined
+(d) All of these
+ans:d
+
+48. f(x) = ax + b with a ≠ 0 is
+(a) A linear function
+(b) A quadratic function
+(c) A constant function
+(d) An identity function
+ans:a
+
+49. If f : X → Y is a function, then the subset of Y containing all the images is called:
+(a) domain of f
+(b) range of f
+(c) co-domain of f
+(d) subset of X
+ans:b
+
+50. The graph of 2x - 10 = 0 is a line
+(a) parallel to x-axis
+(b) parallel to y-axis
+(c) inclined at angle θ
+(d) through 1st and 2nd quadrants
+ans:b
+
+51. cosech x is equal to
+(a) (e^x - e^-x)/2
+(b) (e^x + e^-x)/2
+(c) 2/(e^x + e^-x)
+(d) 2/(e^x - e^-x)
+ans:d
+
+52. (e^(2x) + e^(-2x))/(e^(2x) - e^(-2x)) is equal to
+(a) sinh 2x
+(b) cosh 2x
+(c) tanh 2x
+ans:d
+
+53. The function f(x) = 1/(x + 1) is discontinuous at x =
+(a) 1
+(b) -1
+(c) 0
+ans:b
+
+54. If f(x) = x^3 - 2x^2 + 4x - 1, then f(-1) =
+(a) 8
+(b) -8
+(c) 0
+(d) -6
+ans:b
+
+55. The quantity which is used as a variable as well as constant is called
+(a) Parameter
+(b) Constraint
+(c) Real number
+(d) None of these
+ans:a
+
+56. If f(x) = (x - 1)/(x + 4), x ≠ -4, then range of f is
+(a) R - {1}
+(b) R - {-4}
+(c) R - {0}
+(d) all real numbers
+ans:a
+
+57. lim e^x as x → -∞ =
+(a) 1
+(b) ∞
+(c) 0
+(d) -1
+ans:c
+
+58. lim sin(x - 3)/(x - 3) as x → 0 =
+(a) 1
+(b) ∞
+(c) sin 3/3
+(d) -3
+ans:c
+
+59. lim sin(x - a)/(x - a) as x → a =
+(a) 1
+(b) ∞
+(c) sin a/a
+(d) 0
+ans:a
+
+60. f(x) = x^3 + x is:
+(a) Even
+(b) Neither even nor odd
+(c) Odd
+(d) None of these
+ans:c
+
+61. lim (1 + x)^x as x → 0 is equal to:
+(a) e
+(b) e^-1
+(c) 0
+(d) 1
+ans:a
+
+62. If f : X → X is a function, then elements of x are called
+(a) Images
+(b) Pre-images
+(c) Constants
+(d) Ranges
+ans:b
+
+63. lim x/(1 + x) as x →
+(a) e
+(b) e
+(c) e^2
+(d) √e
+ans:b
+
+64. If the degree of a polynomial function is 1, then it is a
+(a) Identity function
+(b) Constant function
+(c) Linear function
+(d) Exponential function
+ans:c
+
+65. f(x) = Sin x + Cos x is:
+(a) Even function
+(b) Odd function
+(c) Even & odd function
+(d) Neither even nor odd function
+ans:d
+
+66. Cosh^2 x + Sinh^2 x =
+(a) 1
+(b) Cosh 2x
+(c) Sinh 2x
+(d) 0
+ans:b
+
+67. If f(x) = x^2 - 2x + 1, then f(0) =
+(a) -1
+(b) 0
+(c) 1
+(d) 2
+ans:c
+
+68. lim x/sin x as x → 0 is equal to
+(a) 0
+(b) 1
+(c) -1
+(d) Undefined
+ans:a
+
+69. The function of the form, x = a cos t
+(a) Odd function
+(b) Explicit function
+(c) Parametric function
+(d) Even
+ans:c
+
+70. If f(x) = √(x + 2), then range of f^-1 is:
+(a) [-2, +∞)
+(b) [2, +∞)
+(c) (-∞, ∞)
+ans:a
+
+71. lim -5/√x as x → -∞ is equal to:
+(a) 0
+(b) -∞
+ans:a
+
+72. The volume V of a cube as a function of the area A of its base is:
+(a) A
+(b) √A
+(d) 2√A
+ans:c
+
+73. lim (a^x - 1)/x as x → 0 is equal to
+(a) log e
+(b) log a x
+(c) a
+(d) log_e a
+ans:d
+
+74. lim sin x/x as x → 0 is equal to:
+(a) π/180
+(b) 180/π
+(c) 180π
+(d) 1
+ans:a
+
+75. If f(x) = x Sec x, then f(π) =
+(a) -2π
+(b) -π
+(c) π
+(d) 2π
+ans:b
+

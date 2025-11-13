@@ -1,0 +1,466 @@
+Analytical Geometry
+===================
+
+1. If x < 0, y < 0 then the point P(x, y) lies in the quadrant
+(a) I
+(b) II
+(c) III
+(d) IV
+ans:c
+
+2. The point P in a plane that corresponds to the ordered pair (x, y) is called
+(a) graph of (x, y)
+(b) mid-point of x, y
+(c) abscissa of x, y
+(d) ordinate of x, y
+ans:a
+
+3. If x < 0, y > 0 then the point P(-x, -y) lies in the quadrant
+(a) I
+(b) II
+(c) III
+(d) IV
+ans:d
+
+4. The straight line which passes through one vertex and through the mid-point of the opposite side is called
+(a) median
+(b) altitude
+(c) perpendicular bisector
+(d) normal
+ans:a
+
+17. The normal form of the equation of a straight line is
+(a) y = mx + c
+(b) y - y1 = m(x - x1)
+(c) x / a + y / b = 1
+(d) x cos α + y sin α = p
+ans:d
+
+18. In the normal form x cos α + y sin α = p the value of p is
+(a) positive
+(b) negative
+(c) positive or negative
+(d) zero
+ans:a
+
+19. If α is the inclination of the line l then (x - x1) / cos α = (y - y1) / sin α = r (say) is called
+(a) point-slope form
+(b) normal form
+(c) Symmetric form
+(d) none of these
+ans:c
+
+20. The slope of the line ax + by + c = 0 is
+(a) a / b
+(b) - a / b
+(c) b / a
+(d) - b / a
+ans:b
+
+21. The slope of the line perpendicular to ax + by + c = 0 is
+(a) a / b
+(b) - a / b
+(c) b / a
+(d) - b / a
+ans:c
+
+22. The General Equation of the straight line in two variables x and y is
+(a) ax + by + c = 0
+(b) ax^2 + by + c = 0
+(c) ax + by^2 + c = 0
+(d) ax^2 + by^2 + c = 0
+ans:a
+
+23. The x-intercept 4x + 6y = 12 is
+(a) 4
+(b) 6
+(c) 3
+(d) 2
+ans:c
+
+24. The lines 2x + y + 2 = 0 and 6x + 3y - 8 = 0 are
+(a) parallel
+(b) perpendicular
+(c) neither
+(d) non coplanar
+ans:a
+
+25. The point (−2, 4) lies ---- the line 2x + 5y − 3 =
+(a) above
+(b) below
+(c) on
+(d) none of these
+ans:a
+
+26. If three lines pass through one common point then the lines are called
+(a) parallel
+(b) coincident
+(c) concurrent
+(d) congruent
+ans:c
+
+27. 2x + y + k = 0 (k being a parameter) represents
+(a) one line
+(b) two lines
+(c) family of lines
+(d) intersecting lines
+ans:c
+
+28. If the equations of the sides of a triangle are given then the intersection of any two lines in pairs gives _____ the triangles.
+(a) vertices
+(b) centre
+(c) mid-points of sides
+(d) centroid .com/    EDU MANIAS 26
+ans:a
+
+29. A four-sided polygon ( quadrilateral) having two parallel and two non-parallel sides is called ________
+(a) square
+(b) rhombus
+(c) trapezium
+(d) parallelogram
+ans:c
+
+30. Equation of vertical line through (−5, 3) is
+(a) x − 5 = 0
+(b) x + 5 = 0
+(c) y − 3 = 0
+(d) y + 3 = 0
+ans:b
+
+31. Equation of horizontal line through (−5, 3) is
+(a) x − 5 = 0
+(b) x + 5 = 0
+(c) y − 3 = 0
+(d) y + 3 = 0
+ans:c
+
+32. Equation of line through (−8, 5) and having slope undefined is
+(a) x + 8 = 0
+(b) x − 8 = 0
+(c) y − 5 = 0
+(d) y + 5 = 0
+ans:a
+
+33. If θ be the angle between two lines l1 and l2 with slopes m1 and m2, then angle from l1 to l2 is given by
+(a) tan φ = (m1 − m2) / (1 + m1 m2)
+(b) tan φ = (m2 − m1) / (1 + m1 m2)
+(c) tan φ = (m1 + m2) / (1 − m1 m2)
+(d) tan φ = (m2 − m1) / (1 − m1 m2)
+ans:b
+
+34. If θ be the acute angle between two lines l1 and l2 with slopes m1 and m2, then acute angle from l1 to l2 is given by
+(a) tan φ = |m1 − m2| / (1 + m1 m2)
+(b) tan φ = |m2 − m1| / (1 + m1 m2)
+(c) tan φ = |m1 + m2| / (1 − m1 m2)
+(d) tan φ = |m2 − m1| / (1 − m1 m2)
+ans:b
+
+35. Two lines l1 and l2 with slopes m1 and m2 are parallel if
+(a) m1 − m2 = 0
+(b) m1 + m2 = 0
+(c) m1 = m2
+(d) m1 m2 = −1
+ans:a
+
+36. Two lines l1 and l2 with slopes m1 and m2 are perpendicular if
+(a) m1 − m2 = 0
+(b) m1 + m2 = 0
+(c) m1 m2 = 0
+(d) m1 m2 = −1
+ans:d
+
+37. For a homogeneous equation of degree n, n must be
+(a) an integer
+(b) positive integer
+(c) rational number
+(d) real number
+ans:b
+
+38. The equation 10x^2 − 23xy − 5y^2 = 0 is homogeneous of degree
+(a) 0
+(b) 1
+(c) 2
+(d) more than 2
+ans:c
+
+39. Every homogeneous equation of 2nd degree in two variables represents
+(a) a line
+(b) two lines
+(c) two lines through origin
+(d) family of lines
+ans:c
+
+40. Two lines represented by ax^2 + 2hxy + by^2 = 0 are real and distinct if
+(a) h^2 - ab < 0
+(b) h^2 - ab = 0
+(c) h^2 - ab > 0
+(d) h = 0.
+ans:c
+
+41. Two lines represented by ax^2 + 2hxy + by^2 = 0 are coincident if
+(a) h^2 - ab < 0
+(b) h^2 - ab = 0
+(c) h^2 - ab > 0
+(d) h = 0.
+ans:b
+
+42. Two lines represented by ax^2 + 2hxy + by^2 = 0 are imaginary if
+(a) h^2 - ab < 0
+(b) h^2 - ab = 0
+(c) h^2 - ab > 0
+(d) h = 0.
+ans:a
+
+43. The equation 10x^2 - 23xy - 5y^2 = 0 represents a pair of lines which are
+(a) real and distinct
+(b) real and coincident
+(c) imaginary
+(d) parallel
+ans:a
+
+44. The lines represented by ax^2 + 2hxy + by^2 = 0 are perpendicular if
+(a) a = b
+(b) a = - b
+(c) a < b
+(d) a > b
+ans:b
+
+45. If A(-2, 3), B(-4, 1) and C(3, 5) be the vertices of a triangle then its centroid is given by
+(a) (-3/2, 9/2)
+(b) (-1, 3)
+(c) (-3, 4)
+(d) none of these
+ans:b
+
+46. The lines 3y = 2x + 5 and 3x + 2y - 8 = 0 intersect at an angle of
+(a) π/2
+(b) π/3
+(c) π/4
+(d) 0°
+ans:a
+
+47. The equation 10x^2 - 23xy - 5y^2 = 0 represents
+(a) a circle
+(b) a straight line
+(c) a pair of lines
+(d) a pair of circles
+ans:c
+
+48. The point P(x, y) is in the 2nd quadrant if
+(a) x > 0, y < 0
+(b) x < 0, y < 0
+(c) x < 0, y > 0
+(d) x > 0, y > 0
+ans:c
+
+49. The slope of y-axis is
+(a) 0
+(b) undefined
+(c) tan 180°
+(d) tan 45°
+ans:b
+
+50. The equation y^2 - 16 = 0 represents two lines
+(a) parallel to x-axis
+(b) parallel to y-axis
+(c) not parallel to x-axis
+(d) not parallel to y-axis
+ans:a
+
+51. The perpendicular distance of the line 3x + 4y + 10 = 0 from the origin is
+(a) 0
+(b) 1
+(c) 2
+(d) 3 28
+ans:c
+
+52. The lines represented by ax^2 + 2hxy + by^2 = 0 are orthogonal if
+(a) a - b = 0
+(b) a + b = 0
+(c) a + b > 0
+(d) a - b < 0
+ans:b
+
+53. The lines lying in the same plane are called
+(a) collinear
+(b) coplanar
+(c) non-coplanar
+(d) non-coplanar
+ans:b
+
+54. The distance of the point (3, 7) from the x - axis is
+(a) 7
+(b) -7
+(c) 3
+(d) -3
+ans:a
+
+55. Two lines a1x + b1y + c1 = 0 and a2x + b2y + c2 = 0 are parallel if
+(a) a1 / a2 = b1 / b2
+(b) a1 / b1 = a2 / b2
+(c) a1 / c1 = a2 / c2
+(d) a1 / c1 = a2 / c2
+ans:a
+
+56. Every homogeneous equation of second degree ax^2 + 2hxy + by^2 = 0 represents two straight lines
+(a) through the origin
+(b) not through the origin
+(c) two parallel lines
+(d) two perpendicular lines
+ans:a
+
+57. The distance of the point (3, 7) from the y - axis is
+(a) 7
+(b) -7
+(c) 3
+(d) -3
+ans:c
+
+58. The point-slope form of the equation of a straight line is
+(a) y = mx + c
+(b) y - y1 = m(x - x1)
+(c) x / a + y / b = 1
+(d) x cos α + y sin α = p
+ans:b
+
+59. The equation 9x^2 + 24xy + 16y^2 = 0 represents a pair of lines which are
+(a) real and distinct
+(b) real and coincident
+(c) imaginary
+(d) perpendicular
+ans:b
+
+60. Let p(x1, y1) be a point in plane not lying on l: ax + by + c = 0, then point P lies above if:
+(a) ax1 + by1 + c = 0
+(b) ax1 + by1 + c ≠ 0
+(c) ax1 + by1 + c < 0
+(d) ax1 + by1 + c > 0
+ans:d
+
+61. If m1 and m2 are the slopes of two orthogonal lines then:
+(a) m1 · m2 = 1
+(b) m1 · m2 = -1
+(c) m1 · m2 = 0
+(d) m1 = - m2
+ans:b
+
+62. The lines represented by the equation ax^2 + 2hxy + by^2 = 0 are coincident if:
+(a) a + b = 0
+(b) h^2 = ab
+(c) h^2 + ab = 0
+(d) None
+ans:b
+
+63. Equation of x-axis is:
+(a) x = 0
+(b) y = 0
+(c) x = 1
+(d) y = 1
+ans:b
+
+64. The equation of y-axis is:
+(a) x = 0
+(b) y = 0
+(c) x = 1
+(d) y = 1
+ans:a
+
+65. The lines l1: a1x + b1y + c1 = 0 and l2: a2x + b2y + c2 = 0 are perpendicular if:
+(a) a1a2 + b1b2 = 0
+(b) a1b2 + a2b1 = 0
+(c) a1a2 − b1b2 = 0
+(d) a1a2 + b1b2 = 0
+ans:a
+
+66. If a line l intersects x-axis at a point (3, 0), then the x-intercept of the line l is:
+(a) -3
+(b) 0
+(c) 3
+(d) 3
+ans:c
+
+67. Altitudes of a triangle are:
+(a) Parallel
+(b) perpendicular
+(c) Concurrent
+(d) Non concurrent
+ans:c
+
+68. The perpendicular distance of a point P(x1, y1) from the line ax + by + c = 0 is
+(a) d = |ax1 + by1 + c| / √(a^2 − b^2)
+(b) d = |ax1 + by1 + c| / √(a^2 − b^2)
+(c) d = |ax1 + by1 + c| / √(a^2 + b^2)
+(d) d = |ax1 + by1 + c| / √(a^2 + b^2)
+ans:c
+
+69. Second degree homogeneous equation is:
+(a) ax^2 + bx + c = 0
+(b) ax^3 + bx^2 + cx + d = 0
+(c) ax^2 + by + c = 0
+(d) ax^2 + 2hxy + by^2 = 0
+ans:d
+
+70. If a straight line is parallel to x-axis then its slope is:
+(a) -1
+(b) 0
+(c) 1
+(d) Undefined
+ans:b
+
+71. The distance between (1, 2) and (2, 1) is:
+(a) 1
+(b) √2
+(c) 2
+(d) √5
+ans:b
+
+72. Intercept form of equation of line is:
+(a) x/y = 0
+(b) x/a + y/b = 0
+(c) x/y = 1
+(d) x/a + y/b = 1
+ans:d
+
+73. The perpendicular distance of a line 12x + 5y = 7 from (0,0) is:
+(a) 1/13
+(b) 13/7
+(c) 7/13
+(d) 13
+ans:c
+
+74. Line passes through the point of intersection of two lines l1 and l2 is:
+(a) k l1
+(b) l1 + k l2 = 0
+(c) l1 + k l2 = 2
+(d) Both
+(b) and
+ans:b
+
+75. The coordinate axes divide the whole plane into ____ equal parts
+(a) 2
+(b) 4
+(c) 8
+(d) infinity many
+ans:b
+
+76. If b is positive, then the line y = b lies
+(a) above the x-axis
+(b) above the y-axis
+(c) below the x-axis
+(d) below the y-axis
+ans:a
+
+77. A line x = a is on the right of y-axis if a =
+(a) positive
+(b) negative
+(c) 0
+(d) any real number
+ans:a
+
+78. If 2x + 5y + k = 0 and kx + 10y + 3 = 0 are parallel lines then k =
+(a) 25
+(b) -25
+(c) 2
+(d) 3
+ans:a
+

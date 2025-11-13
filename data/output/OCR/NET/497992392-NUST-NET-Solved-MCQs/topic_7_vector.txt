@@ -1,0 +1,429 @@
+Vector
+======
+
+1. The vector whose magnitude is 1 is called
+(a) null vector
+(b) unit vector
+(c) free vector
+(d) scalar
+ans:b
+
+2. If the terminal point B of the vector AB coincides with its initial point A, then |AB| = ?  |BB| = ?
+(a) 1
+(b) 0
+(c) 2
+(d) undefined
+ans:b
+
+3. Two vectors are said to be negative of each other if they have the same magnitude and ____ direction
+(a) same
+(b) opposite
+(c) negative
+(d) parallel
+ans:b
+
+4. Parallelogram law of vector addition to describe the combined action of two forces, was used by
+(a) Cauchy
+(b) Aristotle
+(c) Alk(h)warzi (unclear from image)
+(d) Leibniz (unclear from image) Notes - Some lines and words near the bottom of the image are not fully legible; I could not confirm all spellings or the exact fourth option for item 4. - If you can share a higher-res scan or a clearer crop of the MCQ area (particularly items 2 and 4), I can produce a more exact, line-for-line transcription. Would you like me to try again with a clearer image, or would you prefer I attempt a more approximate OCR with placeholder text for the uncertain segments? 46
+ans:b
+
+5. The vector whose initial point is at the origin and terminal point is P, is called
+(a) null vector
+(b) unit vector
+(c) position vector
+(d) normal vector
+ans:c
+
+6. If R be the set of real numbers, then the Cartesian plane is defined as
+(a) R^2 = { (x^2, y^2) : x, y ∈ R }
+(b) R^2 = { (x, y) : x, y ∈ R }
+(c) R^2 = { (x, y) : x, y ∈ R, x = - y }
+(d) R^2 = { (x, y) : x, y ∈ R, x = y }
+ans:b
+
+7. The element (x, y) ∈ R^2 represents a
+(a) space
+(b) point
+(c) vector
+(d) line
+ans:b
+
+8. The set of all ordered pairs [x, y] of real numbers together with the rules of addition and scalar multiplication is called the set of
+(a) vectors in R
+(b) vectors in R^2
+(c) vectors in space
+(d) all vectors
+ans:b
+
+9. If ū = [ x, y ] in R^2, then |u| =
+(a) x^2 + y^2
+(b) √(x^2 + y^2)
+(c) ±√(x^2 + y^2)
+(d) x^2 - y^2
+ans:b
+
+10. If |u| = √(x^2 + y^2) = 0, then it must be true that
+(a) x ≥ 0, y ≥ 0
+(b) x ≤ 0, y ≤ 0
+(c) x = 0, y ≠ 0
+(d) x = 0, y = 0
+ans:d
+
+11. Each vector [ x, y ] in R^2 can be uniquely represented as
+(a) xi − yj
+(b) xi + yj
+(c) x + y
+(d) √(x^2 + y^2)
+ans:b
+
+12. The lines joining the mid-points of any two sides of a triangle is always to the third side.
+(a) Equal
+(b) parallel
+(c) perpendicular
+(d) base
+ans:b
+
+13. A point P in space has ____ coordinates
+(a) 1
+(b) 2
+(c) 3
+(d) infinitely many
+ans:c
+
+14. The set of all ordered triples [ x, y, z ] of real numbers, together with the rules of addition and scalar multiplication is called a set of
+(a) vectors in R^n
+(b) vectors in R^2
+(c) vectors in R^3
+(d) all vectors
+ans:c
+
+15. In space the vector i can be written as
+(a) (1, 0, 0)
+(b) (0, 1, 0)
+(c) (0, 0, 1)
+(d) (1, 0)
+ans:a
+
+16. In space the vector j can be written as
+(a) (1, 0, 0)
+(b) (0, 1, 0)
+(c) (0, 0, 1)
+(d) (0, 1, )
+ans:b
+
+17. In space the vector k can be written as
+(a) (1, 0, 0)
+(b) (0, 1, 0)
+(c) (0, 0, 1)
+(d) (0, 0, 0)
+ans:c
+
+18. u = 2i + 3j + k , v = -6i - 9j - 3k are _____ vectors
+(a) parallel
+(b) perpendicular
+(c) reciprocal
+(d) negative
+ans:a
+
+19. The angles α, β and γ, which a non-zero vector r makes with x-axis, y-axis and z-axis respectively are called _____ of r
+(a) direction cosines
+(b) direction ratios
+(c) direction angles
+(d) inclinations
+ans:c
+
+20. Measure of direction angles α, β and γ are
+(a) α ≤ 0, β ≤ 0, γ ≤ 0
+(b) 0 ≤ α ≤ π/2, 0 ≤ β ≤ π/2, 0 ≤ γ ≤ π/2
+(c) α ≥ 0, β ≥ 0, γ ≥ 0
+(d) 0 ≤ α ≤ π, 0 ≤ β ≤ π, 0 ≤ γ ≤ π
+ans:d
+
+21. If u = 3i – j + 2k, then { 3, -1, 2 } are called _____ of u
+(a) direction cosines
+(b) direction ratios
+(c) direction angles
+(d) elements
+ans:b
+
+22. Which of the following can be the direction angles of some vector
+(a) 45°, 45°, 60°
+(b) 30°, 45°, 60°
+(c) 45°, 60°, 60°
+(d) none of these Recall that here cos^2 α + cos^2 β + cos^2 γ = 1 should hold.
+ans:c
+
+23. Measure of angle θ between two vectors is always
+(a) 0 < θ < π
+(b) 0 ≤ θ ≤ π
+(c) 0 ≤ θ ≤ π
+(d) obtuse
+ans:c
+
+24. If the dot product of two vectors is zero, then the vectors must be
+(a) parallel
+(b) orthogonal
+(c) reciprocal
+(d) equal
+ans:b
+
+25. If the cross product of two vectors is zero, then the vectors must be
+(a) parallel
+(b) orthogonal
+(c) reciprocal
+(d) non-coplanar
+ans:a
+
+26. If θ be the angle between two vectors a and b, then cos θ =
+(a) a × b / (|a| |b|)
+(b) a · b / (|a| |b|)
+(c) a × b / (|a| |b|)
+ans:b
+
+29. Let u = ai + bj + ck, then projection of u along i is
+(a) a
+(b) b
+(c) c
+(d) u
+ans:a
+
+30. Let u = ai + bj + ck, then projection of u along j is
+(a) a
+(b) b
+(c) c
+(d) u
+ans:b
+
+31. Let u = ai + bj + ck, then projection of u along k is
+(a) a
+(b) b
+(c) c
+(d) u
+ans:c
+
+32. In any triangle ABC, the Law of Cosines is
+(a) a^2 = b^2 + c^2 − 2bc cos A
+(b) a^2 = b^2 + c^2 − 2bc cos A
+(c) a + b + c = 0
+(d) cos(α − β) = cos α cos β − sin α sin β
+ans:a
+
+33. In any triangle ABC, the Law of Projection is
+(a) a^2 = b^2 + c^2 − 2bc cos A
+(b) a = b cos C + c cos B
+(c) a · b = 0
+(d) a − b = 0
+ans:b
+
+34. If u is a vector such that u · i = 0, u · j = 0 and u · k = 0, then u is
+(a) unit vector
+(b) null vector
+(c) { i, j, k }
+(d) none of these
+ans:b
+
+35. Cross product or vector product is defined
+(a) in plane only
+(b) in space only
+(c) everywhere
+(d) in a vector field
+ans:b
+
+36. If u and v be any vectors, then u × v is a vector
+(a) parallel to u and v
+(b) parallel to u
+(c) perpendicular to u and v
+(d) orthogonal to u
+ans:c
+
+37. If u and v be any vectors, along the adjacent sides of a parallelogram then the area of the parallelogram is
+(a) u × v
+(b) |u × v|
+(c) 1/2 (u × v)
+(d) 1/2 |u × v|
+ans:b
+
+38. If u and v be any vectors , along the adjacent sides of a triangle then the area of the triangle is
+(a) u × v
+(b) |u × v|
+(c) 1/2 (u × v)
+(d) 1/2 |u × v| 39'. The scalar triple product of a, b and c is denoted by
+(a) a . b . c
+(b) a × b × c
+(c) a . b × c
+(d) (a . b ) × c
+ans:d
+
+40. The vector triple product of a, b and c is denoted by
+(a) a + b × c
+(b) a · b × c
+(c) a × b × c
+(d) a × (b × c)
+ans:d
+
+41. Notation for scalar triple product of a, b and c is
+(a) a . b × c
+(b) a × b × c
+(c) [a b c]
+(d) all of these
+ans:d
+
+42. If the scalar triple product of three vectors is zero, then vectors are
+(a) collinear
+(b) coplanar
+(c) non-coplanar
+(d) non-collinear
+ans:b
+
+43. If u = [ x , y ] , v = [ x1 , y1 ], then u − v is
+(a) [ x + x1 , y − y1 ]
+(b) [ x − x1 , y − y1 ]
+(c) [ x − x1 , y + y1 ]
+(d) [ x + x1 , y + y1 ]
+ans:b
+
+44. If A and B have the same direction, then A · B = ?
+(a) AB
+(b) -AB
+(c) AB sin θ
+(d) AB tan θ
+ans:a
+
+45. For a vector A, A · A = ?
+(a) 2A
+(b) A^2
+(c) A
+(d) A^2/2
+ans:b
+
+46. If A and B have the opposite direction, then A · B = ?
+(a) AB
+(b) -AB
+(c) AB sin θ
+(d) AB tan θ
+ans:b
+
+47. The angle in a semi-circle is equal to:
+(a) π/2
+(b) π
+(c) π/3
+(d) 3π
+ans:a
+
+48. Two non-zero vectors u and v are parallel iff:
+(a) u ∥ v
+(b) u · v = 0
+(c) u × v = 0
+(d) u · v ≠ 0
+ans:d
+
+49. If any two vectors of triple scalar product are equal. Then its value is equal to:
+(a) 1
+(b) 0
+(c) -1
+(d) 2
+ans:b
+
+50. If a and b are orthogonal, then:
+(a) a × b = ab
+(b) a × b = -ab
+(c) a · b = ab sin θ
+(d) a · b = 0
+ans:d
+
+51. (cont.)
+(a) n̂ = (a · b)/(ab)
+(b) n̂ = |a × b|/(ab)
+(c) n̂ = (a × b)/|a × b|
+(d) n̂ = a × b
+ans:c
+
+52. If u = [x, y], v = [x₁, y₁], then u - v is
+(a) [x + x₁, y - y₁]
+(b) [x - x₁, y - y₁]
+(c) [x - x₁, y + y₁]
+(d) [x + x₁, y + y₁]
+ans:b
+
+53. If α, β, γ are the direction angles of a vector then Cos² α + Cos² β + Cos² γ =
+(a) 3
+(b) 2
+(c) 1
+(d) 0
+ans:c
+
+54. The position vector of any point in xy-plane is:
+(a) x i + y j = r
+(b) r = y j + z k
+(c) r = x i + z k
+(d) r = x i + y j + z k
+ans:a
+
+55. If the vectors 2i - 6j - 7k and -2i + 6j + xk are perpendicular, then x equals
+(a) -40/7
+(b) 40/7
+(c) -7
+(d) -4
+ans:d
+
+56. If u = -2î + ĵ - 3k̂, then |u| equals to:
+(a) 14
+(b) √14
+(c) -12
+ans:b
+
+57. Area of triangle whose u & v are adjacent vectors:
+(a) u × v
+(b) (1/2)|u × v|
+(c) (1/2)(u · v)
+ans:b
+
+58. If a and b are perpendicular to each other, then a · b =
+(a) ab
+(b) -ab
+(c) ab sin θ
+(d) 0
+ans:d
+
+59. A vector perpendicular to each of vectors 2i and k is:
+(a) i
+(b) ±2j
+ans:c
+
+60. The product of vectors u · (u × w) represents:
+(a) Area of parallelogram
+(b) Volume of parallelepiped
+(c) Height of parallelepiped
+(d) None of these
+ans:b
+
+61. For the vectors a = 2i + 4j - k and b = 2i + 6j + xk, if a is perpendicular to b, then x =
+(a) -1
+(b) 1
+(c) 28
+(d) -28
+ans:c
+
+62. The cross product is also called:
+(a) Scalar product
+(b) Dot product
+(c) Vector product
+(d) None
+ans:c
+
+63. The position vector of any point in yz-plane is:
+(a) x i + y j = r
+(b) r = y j + z k
+(c) r = x i + z k
+(d) r = x i + y j + z k
+ans:b
+
+64. The position vector of any point in xz-plane is:
+(a) x i + y j = r
+(b) r = y j + z k
+(c) r = x i + z k
+(d) r = x i + y j + z k
+ans:c
+

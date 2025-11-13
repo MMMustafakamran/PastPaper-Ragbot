@@ -1,0 +1,934 @@
+Conic
+=====
+
+1. The locus of a revolving line with one end fixed and other end on the circumference of a circle is called
+(a) a sphere
+(b) a circle
+(c) a cone
+(d) a conic
+ans:c
+
+2. Let A be any fixed point. All the lines through A and the points on the circumference of a circle generate
+(a) a sphere
+(b) a circle
+(c) a cone
+(d) a conic
+ans:c
+
+3. A line which is perpendicular to base of a cone and passes through the vertex of the cone is called
+(a) ruling
+(b) nap
+(c) vertex
+(d) axis
+ans:d
+
+4. A point where rulings (generators) of a cone becomes common is called
+(a) centre
+(b) nap
+(c) vertex
+(d) axis
+ans:c
+
+5. If a cone is cut by a plane perpendicular to the axis of the cone, then the conic section is
+(a) circle
+(b) parabola
+(c) ellipse
+(d) hyperbola
+ans:a
+
+6. If a cone is cut by a plane passing through the vertex of the cone and perpendicular to the axis of the cone, then the conic section is
+(a) point circle
+(b) parabola
+(c) ellipse
+(d) hyperbola
+ans:a
+
+7. If the cutting plane is slightly tilted such that the plane is not perpendicular to the axis of the cone, then the conic section is
+(a) circle
+(b) parabola
+(c) ellipse
+(d) hyperbola
+ans:c
+
+8. If the cutting plane is parallel to the generator of the cone but cut only one nap of the cone, then the conic section is
+(a) circle
+(b) parabola
+(c) ellipse
+(d) hyperbola
+ans:b
+
+9. If the cutting plane is parallel to the generator of the cone and cutting both the naps is called
+(a) circle
+(b) parabola
+(c) ellipse
+(d) hyperbola
+ans:d
+
+10. The set of points which are at equal distance from a fixed point is called
+(a) circle
+(b) parabola
+(c) ellipse
+(d) hyperbola
+ans:a
+
+11. The circle whose radius is zero is called
+(a) unit circle
+(b) point circle
+(c) circumference
+(d) in-circle
+ans:b
+
+12. The circle whose radius is 1 is called
+(a) unit circle
+(b) point circle
+(c) circumference
+(d) in-circle
+ans:a
+
+13. The equation x^2 + y^2 + 2gx + 2fy + c = 0 represents the circle with centre
+(a) (g, f) (b) (g, −f) (c) (−g, f) (d) (−g, −f)
+ans:d
+
+14. The equation x^2 + y^2 + 2gx + 2fy + c = 0 represents the circle with radius
+(a) √(g^2 − f^2) − c (b) √(g^2 + f^2 − c) (c) √(g^2 + f^2 − c) (d) √(g^2 + f^2 + c)
+ans:c
+
+15. The second degree equation having each of x^2 and y^2 with equal coefficients along with no product term is
+(a) circle
+(b) ellipse
+(c) parabola
+(d) hyperbola
+ans:a
+
+16. The equation of the circle having A(x1, y1) and B(x2, y2) as the ends of its diameter is
+(a) (x − x1)(x − x2) + (y − y1)(y − y2) = 0
+(b) (x − x1)(x − x2) − (y − y1)(y − y2) = 0
+(c) (x − x1)(y − y1) − (x − x2)(y − y2) = 0
+(d) (x − x1)(y − y1) + (x − x2)(y − y2) = 0 I can extract text from the image, but the page is low resolution in places, so some items are only partly legible. Here is the best-possible transcription I can provide, preserving the visible structure and formatting. I have included the legible parts (18–28) exactly as seen. The lines for items 17 and the exact options for 28 are not fully legible in the image. Header text (as visible): .com/
+ans:a
+
+18. The circle which touches both the axes with radius a lying in the II quadrant has centre as
+(a) (a, a)  (b) (a, -a)  (c) (-a, a)  (d) (-a,-a)
+ans:c
+
+19. The straight line which touches a curve without cutting it is called
+(a) chord
+(b) tangent
+(c) normal
+(d) bisector
+ans:b
+
+20. The straight line perpendicular to the tangent at the point of contact is called
+(a) chord
+(b) tangent
+(c) normal
+(d) bisector
+ans:c
+
+21. The number of tangents that can be drawn from a point P(x1, y1) to a circle are
+(a) one
+(b) two
+(c) more than two
+(d) infinitely many
+ans:b
+
+22. Two tangents drawn from a point to a circle are real and distinct if P(x1, y1) lies — the circle
+(a) outside
+(b) inside
+(c) on
+(d) none of these
+ans:a
+
+23. Two tangents drawn from a point to a circle are real and coincident if P(x1, y1) lies — the circle,
+(a) outside
+(b) inside
+(c) on
+(d) none
+ans:c
+
+24. Two tangents drawn from a point to a circle are imaginary if P(x1, y1) lies — the circle
+(a) outside
+(b) inside
+(c) on
+(d) none
+ans:b
+
+25. If the point P(x1, y1) lies inside the circle then tangential distance ( or length of tangent ) is
+(a) zero
+(b) positive
+(c) imaginary
+(d) negative
+ans:c
+
+26. A line segment whose end points lie on a circle is called
+(a) chord
+(b) tangent
+(c) normal
+(d) radius
+ans:a
+
+27. Congruent chords of a circle are equi-distant from the
+(a) centre
+(b) origin
+(c) radius
+(d) tangent
+ans:a
+
+28. The measure of the central angle of a minor arc is — the measure of the angle subtended in the corresponding major arc
+If you can provide a higher-resolution image (or share a crop that focuses on the page clearly), I can complete the transcription for any remaining unclear parts (especially 17 and the exact wording of 28’s blank).
+(a) half
+(b) equal
+(c) double
+(d) triple)
+ans:c
+
+29. The perpendicular at the outer end of a radial segment is ___ of the circle.
+(a) tangent
+(b) normal
+(c) chord
+(d) diameter
+ans:a
+
+30. The mid-point of the hypotenuse of a right triangle is ___ of the triangle
+(a) in-centre
+(b) circumcentre
+(c) orthocentre
+(d) e-centre
+ans:b
+
+31. Perpendicular dropped from any point of the circle on a diameter is the mean proportion between the segments into which it divides the diameter
+(a) diameter
+(b) any chord
+(c) radius
+(d) circle
+ans:a
+
+32. The set of points in a plane whose distance from a fixed point and from a fixed line remains the same is called
+(a) parabola
+(b) ellipse
+(c) hyperbola
+(d) rectangular hyperbola
+ans:a
+
+33. The set of points which bears a constant ratio ( e) equal to 1 from a fixed point to a fixed line is called
+(a) ellipse
+(b) parabola
+(c) hyperbola
+(d) rectangular hyperbola
+ans:b
+
+34. The set of points which bears a constant ratio ( e ): 0 < e < 1 from a fixed point to a fixed line is called
+(a) ellipse
+(b) parabola
+(c) hyperbola
+(d) rectangular hyperbola
+ans:a
+
+35. The set of points which bears a constant ratio ( e ): e > 1 from a fixed point to a fixed line is called
+(a) ellipse
+(b) parabola
+(c) hyperbola
+(d) rectangular hyperbola
+ans:c
+
+36. For any parabola in the standard form, if the directrix is x = a, then its equation is
+(a) y^2 = 4ax
+(b) y^2 = -4ax
+(c) x^2 = 4ay
+(d) x^2 = -4ay
+ans:b
+
+37. For any parabola in the standard form, if the directrix is x = - a, then its equation is
+(a) y^2 = 4ax
+(b) y^2 = -4ax
+(c) x^2 = 4ay
+(d) x^2 = -4ay
+ans:a
+
+38. For any parabola in the standard form, if the directrix is y = a, then its equation is
+(a) y^2 = 4ax
+(b) y^2 = -4ax
+(c) x^2 = 4ay
+(d) x^2 = -4ay
+ans:d
+
+39. For any parabola in the standard form, if the directrix is y = - a, then its equation is
+(a) y^2 = 4ax
+(b) y^2 = -4ax
+(c) x^2 = 4ay
+(d) x^2 = -4ay
+ans:c
+
+40. A line segment whose end points lie on a parabola — of the parabola
+(a) chord
+(b) focal chord
+(c) latus rectum
+(d) diameter
+ans:a
+
+41. A line segment passing through the focus and perpendicular to the directrix is called ____ of the parabola
+(a) chord
+(b) focal chord
+(c) axis
+(d) latus rectum
+ans:c
+
+42. A line segment passing through the focus and perpendicular to the axis is called ____ of the conic
+(a) chord
+(b) focal chord
+(c) axis
+(d) latus rectum
+ans:d
+
+43. A line segment passing through the focus is called ____ of the conic
+(a) chord
+(b) focal chord
+(c) axis
+(d) latus rectum
+ans:b
+
+44. A line segment passing through the focus and perpendicular to the directrix is called ____ of the ellipse
+(a) chord
+(b) focal chord
+(c) major axis
+(d) latus rectum
+ans:c
+
+45. The point where the axis of a parabola meets the parabola is called ____
+(a) centre
+(b) vertex
+(c) focus
+(d) directrix
+ans:b
+
+46. x = a t^2, y = 2 a t are the parametric equations of
+(a) parabola
+(b) circle
+(c) ellipse
+(d) hyperbola
+ans:a
+
+47. x = a cos t, y = a sin t are the parametric equations of
+(a) parabola
+(b) circle
+(c) ellipse
+(d) hyperbola
+ans:b
+
+48. x = a cos t, y = b sin t are the parametric equations of
+(a) parabola
+(b) circle
+(c) ellipse
+(d) hyperbola
+ans:c
+
+49. x = a sec t, y = b tan t are the parametric equations of
+(a) parabola
+(b) circle
+(c) ellipse
+(d) hyperbola
+ans:d
+
+50. x = a cosh t, y = b sinh t are the parametric equations of
+(a) parabola
+(b) circle
+(c) ellipse
+(d) hyperbola
+ans:d
+
+51. The second degree equation ax^2 + by^2 + 2gx + 2fy + c = 0 with either a = 0 or b = 0 but not both zero represents
+(a) parabola
+(b) circle
+(c) ellipse
+(d) hyperbola
+ans:a
+
+52. The parabola y^2 = -12x opens
+(a) downwards
+(b) upwards
+(c) rightwards
+(d) leftwards
+ans:d
+
+53. In the case of an ellipse it is always true that
+(a) a^2 > b^2
+(b) a^2 < b^2
+(c) a^2 = b^2
+(d) a < 0, b < 0
+ans:a
+
+54. In a conic section, if ρ = 0 then it is called
+(a) parabola
+(b) circle
+(c) ellipse
+(d) hyperbola
+ans:b
+
+55. The mid-point of the foci of an ellipse is called
+(d)
+(a) focus
+(b) latus rectum
+(c) centre
+ans:c
+
+56. The distance between centre and either vertex of an ellipse is length of
+(a) major axis
+(b) semi-major axis
+(c) minor axis
+(d) semi-minor axis
+ans:b
+
+57. The mid point of the vertices of a hyperbola is called
+(a) focus
+(b) latus rectum
+(c) centre
+(d) covertices
+ans:c
+
+58. The mid point of the foci of a hyperbola is called
+(a) focus
+(b) latus rectum
+(c) centre
+(d) covertices
+ans:c
+
+59. The distance between centre and either vertex of a hyperbola is length of
+(a) transverse axis
+(b) imaginary axis
+(c) semi-focal axis
+(d) latus rectum
+ans:c
+
+60. The distance between two vertices of an ellipse is the length of
+(a) major axis
+(b) minor axis
+(c) transverse axis
+(d) conjugate axis
+ans:a
+
+61. The distance between covertices of an ellipse is called
+(a) major axis
+(b) minor axis
+(c) focal axis
+(d) latus rectum
+ans:b
+
+62. The distance between vertices of a hyperbola is called
+(a) major axis
+(b) minor axis
+(c) focal axis
+ans:c
+
+67. The length of semi-latus rectum of a parabola is
+(a) 4a
+(b) 2a
+(c) a
+(d) a/2
+ans:b
+
+68. y^2 = 4ax is symmetric about the
+(a) x- axis
+(b) y- axis
+(c) both axes
+(d) line y = x
+ans:a
+
+69. x^2 / a^2 + y^2 / b^2 = 1 is symmetric about the
+(a) x- axis
+(b) y- axis
+(c) both axes
+(d) line y = x
+ans:c
+
+70. x^2 / a^2 − y^2 / b^2 = 1 is symmetric about the
+(a) x-axis
+(b) y-axis
+(c) both axes
+ans:c
+
+71. The directrix of the parabola y^2 = 4ax is
+(a) x = a
+(b) x = -a
+(c) y = a
+(d) y = -a
+ans:b
+
+72. The directrices of the ellipse x^2/a^2 + y^2/b^2 = 1 are
+(a) x = ± a/e
+(b) y = ± a/e
+(c) x = ± c
+(d) y = ± c
+ans:a
+
+73. The directrices of the ellipse x^2/b^2 + y^2/a^2 = 1 are
+(a) x = ± a/e
+(b) y = ± a/e
+(c) x = ± c
+(d) y = ± c
+ans:b
+
+74. The eccentricity of the hyperbola x^2/a^2 − y^2/b^2 = 1 is
+(a) e = c/a < 1
+(b) e = c/a > 1
+(c) e = c/a = 1
+(d) e = c/a = 0
+ans:b
+
+75. For the hyperbola x^2/a^2 − y^2/b^2 = 1 which of the following is true?
+(a) a > b
+(b) a < b
+(c) a = b
+(d) all of these
+ans:d
+
+76. Asymptotes of the hyperbola x^2/a^2 − y^2/b^2 = 1 are
+(a) y = ± x
+(b) y = ± b x
+(c) y = ± a x
+(d) y = ± (b/a) x
+ans:d
+
+77. If the distance between a straight line and a curve approaches zero but never intersects it, then the straight line is called
+(a) tangent
+(b) normal
+(c) chord
+(d) asymptote
+ans:d
+
+78. An ellipse and a hyperbola have a common name ______ (as each has a centre of symmetry)
+(a) degenerate conic
+(b) central conic
+(c) symmetrical conic
+(d) circular conic
+ans:b
+
+79. If c = √65, b = 7, a = 4, then the eccentricity of the hyperbola is
+(a) √65/4
+(b) 65/16
+(c) √65/7
+(d) 7/4
+ans:a
+
+80. The equation of the tangent to the hyperbola y^2/a^2 − x^2/b^2 = 1 at the point (x1, y1) is
+(Question and options are partially obscured in the image; the standard form is typically:)
+(a) y y1 / a^2 − x x1 / b^2 = 1
+(b) x x1 / a^2 − y y1 / b^2 = 1
+(c) x x1 / a^2 + y y1 / b^2 = 1
+(d) y y1 / b^2 − x x1 / a^2 = 1 Notes: - Some items (72, 73, 75, 80) may have wording that looks slightly different in the original image due to line wrapping or watermark interference. If you can provide a higher-resolution version or a cropped section, I can confirm and correct these precisely. - If you want, I can re-run OCR on a clearer image or you can provide the exact sections to verify, and I’ll deliver a fully line-for-line faithful extraction.
+ans:b
+
+81. The equation of the tangent to the ellipse x^2/a^2 + y^2/b^2 = 1 at the point (2, -3) is
+(a) 2x/a^2 - 3y/b^2 = 1
+(b) -2x/a^2 + 3y/b^2 = 1
+(c) -2x/a^2 - 3y/b^2 = 1
+(d) 2x/a^2 + 3y/b^2 = 1
+ans:a
+
+82. The straight line y = mx + c is tangent to the ellipse x^2/a^2 + y^2/b^2 = 1,
+(a) -c = ±√(a^2 m^2 + b^2)
+(b) c = ±√(a^2 b^2 m^2)
+(c) c = ±√(a^2 + b^2 m^2)
+(d) c = ±√(a^2 m^2 - b^2)
+ans:a
+
+83. The straight line y = mx + c is tangent to the hyperbola x^2/a^2 - y^2/b^2 = 1 if
+(a) c = ±√(a^2 m^2 + b^2)
+(b) c = ±√(a^2 b^2 + m^2)
+(c) c = ±√(a^2 + b^2 m^2)
+(d) c = ±√(a^2 m^2 - b^2)
+ans:d
+
+84. The equation of the tangent to the parabola y^2 = 4ax at the point (x₁, y₁) is
+(a) yy₁ = 4a(x - x₁)
+(b) yy₁ = 4a(x + x₁)
+(c) yy₁ = 2a(x + x₁)
+(d) yy₁ = -2a(x + x₁)
+ans:c
+
+85. Two conics will always intersect each other in
+(a) no
+(b) one
+(c) two
+(d) four points
+ans:d
+
+86. Two conics are said to touch each other if they intersect in coincident point/s
+(a) one
+(b) two
+(c) more than two
+(d) two or more
+ans:d
+
+87. If the origin O(0,0) is shifted to some other point O'(h,k) such that the new coordinate axes remain parallel to the original ones, then this process is called
+(a) translation of axes
+(b) rotation of axes
+(c) shifting of origin
+(d) transfer of axes
+ans:a
+
+88. Centre of the circle (x - b)^2 + (y - a)^2 = r^2 is
+(a) (b, a)
+(b) (-b, -a)
+(c) (a, b)
+(d) (-a, -b)
+ans:a
+
+89. The equation 4x^2 + 4y^2 - 16x + 24y - 117 = 0 represents
+(a) circle
+(b) parabola
+(c) ellipse
+(d) hyperbola
+ans:a
+
+90. If the major axis of an ellipse is of length 12 and minor axis of 6, then equation of the ellipse is
+(a) x^2/12 + y^2/6 = 1
+(b) x^2/6 + y^2/3 = 1
+(c) x^2/12 - y^2/12 = 1
+(d) x^2 - 2y^2 = 12
+ans:b
+
+91. In an ellipse, the foci lie on
+(a) major axis
+(b) minor axis
+(c) directrix
+(d) z-axis
+ans:a
+
+92. The foci of the hyperbola x^2/a^2 - y^2/b^2 = 1 are
+(a) (±c, 0)
+(b) (0, ±c)
+(c) (±a, 0)
+(d) (0, ±a)
+ans:a
+
+93. The centre of the circle 45x^2 + 45y^2 - 60x + 36y + 19 = 0 is
+(a) (-2/3, 2/5)
+(b) (2/3, -2/5)
+(c) (2/5, 2/3)
+(d) (-2/5, -2/3)
+ans:b
+
+94. The value of a for which the parabola y^2 = 4ax passes through (2, 3) is
+(a) 9/8
+(b) 8/9
+(c) 1/3
+(d) -1/3
+ans:a
+
+95. The eccentricity of the ellipse x^2/16 + y^2/9 = 1 is
+(a) √7/4
+(b) 7/1
+(c) 16
+(d) 9
+ans:a
+
+96. The vertices of the hyperbola y^2/a^2 - x^2/b^2 = 1 are
+(a) (±a, 0)
+(b) (0, ±a)
+(c) (±ae, 0)
+(d) (0, ±ce)
+ans:b
+
+97. If (x - h)^2/a^2 - (y - k)^2/b^2 = 1 is the hyperbola with centre (h, k) then the equation of directrices are
+(a) x = ±a/e
+(b) y = ±a/e
+(c) x = ±a/e + h
+(d) y = ±a/e + k
+ans:c
+
+98. If the discriminant h^2 - ab < 0, then the conic will be
+(a) ellipse (or circle)
+(b) parabola
+(c) hyperbola
+(d) degenerate conic
+ans:a
+
+99. If the discriminant h^2 - ab = 0, then the conic will be
+(a) ellipse (or circle)
+(b) parabola
+(c) hyperbola
+(d) degenerate conic
+ans:b
+
+100. If the discriminant h^2 - ab > 0, then the conic will be
+(a) ellipse (or circle)
+(b) parabola
+(c) hyperbola
+(d) degenerate conic
+ans:c
+
+101. For parabola x^2 = 4ay, its vertex is:
+(a) (a, 0)
+(b) (0, 0)
+(c) (-a, 0)
+(d) (0, a)
+ans:b
+
+102. The length of major axis of an ellipse is equal to:
+(a) 2a
+(b) 2b
+(c) a
+(d) 4a^2
+ans:a
+
+103. For x^2/a^2 - y^2/b^2 = 1, the centre is the point:
+(a) (a, 0)
+(b) (0, a)
+(c) (0, 0)
+(d) (0, -a)
+ans:c
+
+104. The centre of the circle x^2 + y^2 + 2fy + c = 0 is:
+(a) (f, 0)
+(b) (0, f)
+(c) (-f, 0)
+(d) (0, -f)
+ans:d
+
+105. The line y = mx + c intersects the circle x^2 + y^2 = a^2, if:
+(a) c^2 = a^2(1 + m^2)
+(b) c^2 < a^2(1 + m^2)
+(c) c^2 > a^2(1 + m^2)
+(d) None
+ans:a
+
+106. The focal chord perpendicular to the axis of parabola is called:
+(a) directrix
+(b) Axis
+(c) Latus-rectum
+(d) None
+ans:c
+
+107. For the eccentricity of the ellipse:
+(a) e < 0
+(b) 0 < e < 1
+(c) e = 1
+(d) e > 1
+ans:b
+
+108. Radius of the circle x^2 + y^2 - 6x + 4y + 13 = 0 is:
+(a) 0
+(b) √39
+(c) √65
+(d) √26
+ans:b
+
+109. Co vertices of the ellipse x^2/a^2 + y^2/b^2 = 1 are
+(a) (±a, 0)
+(b) (0, ±a)
+(c) (±b, 0)
+(d) (0, ±b)
+ans:d
+
+110. Length of transverse axis of the hyperbola x^2/a^2 - y^2/b^2 = 1 is:
+(a) 2a
+(b) a
+(c) 2b
+(d) b
+ans:a
+
+111. x^2 + y^2 = r^2 represents an equation of a circle with centre at:
+(a) (h, k)
+(b) (0, 0)
+(c) (1, 1)
+(d) (1, k)
+ans:b
+
+112. The line through the focus and perpendicular to directrix is called
+(a) Directrix
+(b) latus rectum
+(c) Axis of parabola
+(d) Tangent at the vertex
+ans:c
+
+113. For the ellipse x^2/a^2 + y^2/b^2 = 1 (a > b), equation of latus rectum is:
+(a) x = ±c
+(b) x = ±c
+(c) x = ±c
+(d) y = ±c
+ans:b
+
+114. The hyperbola x^2/a^2 - y^2/b^2 = 1 is symmetrical about:
+(a) x-axis
+(b) y-axis
+(c) Both axis
+(d) z-axis
+ans:a
+
+115. General equation of the circle is:
+(a) x^2 + 2y^2 + 2gx + 2fy + c = 0
+(b) 2x^2 + y^2 + 2gx + 2fy + c = 0
+(c) x^2 + y^2 + 2gx + 2fy + c = 0
+(d) x^2 - y^2 + 2gx + 2fy + c = 0
+ans:c
+
+116. The vertex of the parabola (x + 1)^2 = 8(y - 2) is:
+(a) (1, 2)
+(b) (-1, 2)
+(c) (2, -1)
+(d) (-2, 1)
+ans:b
+
+117. Vertices of the ellipse x^2/b^2 + y^2/a^2 = 1 (a > b) are
+(a) (±a, 0)
+(b) (0, ±a)
+(c) (±b, 0)
+(d) (0, ±b)
+ans:b
+
+118. The eccentricity e of the hyperbola is always such that:
+(a) e < 0
+(b) 0 < e < 1
+(c) e = 1
+(d) e > 1
+ans:d
+
+119. The radius of the circle (x - 1)^2 + (y + 3)^2 = 3 is
+(a) √3
+(b) 3
+(c) 3√3
+(d) 9
+ans:a
+
+120. The directrix of the parabola y^2 = 8x is
+(a) x + 2 = 0
+(b) x - 2 = 0
+(c) y + 2 = 0
+(d) y - 2 = 0
+ans:d
+
+121. Transverse axis of hyperbola x^2/a^2 - y^2/b^2 =
+(a) x = a/e
+(b) y = a/e
+(c) y = 0
+(d) x = 0
+ans:c
+
+122. Equation of the circle with centre at the origin and radius √5 is:
+(a) x^2 + y^2 = √5
+(b) x^2 + y^2 = 5
+(c) x^2 + y^2 = 25
+(d) None
+ans:b
+
+123. The centre of the circle having equation x^2 + y^2 + 12x - 10y = 0 is:
+(a) (6, 5)
+(b) (-6, -5)
+(c) (-6, 5)
+(d) (6, -5)
+ans:c
+
+124. The end points of the major axis of the ellipse are called its:
+(a) Foci
+(b) Vertices
+(c) Covertices
+(d) Directrices
+ans:b
+
+125. Vertices of the hyperbola x^2/16 - y^2/4 = 1 are:
+(a) (±2, 0)
+(b) (0, ±2)
+(c) (±4, 0)
+(d) (0, ±4)
+ans:c
+
+126. The equation of tangent to the parabola x^2 = 4ay:
+(a) y = mx + a/m^2
+(b) y = mx - am^2
+(c) y = mx + am^2
+(d) y = mx + a/m
+ans:c
+
+127. Transverse axis of y^2/16 - x^2/49 =
+(a) lies on x-axis
+(b) lies on y-axis
+(c) pass through (4, 7)
+(d) pass through (7, 4) 44
+ans:b
+
+128. The length of the tangent drawn from the point (1, 1) to the circle
+x^2 + y^2 − 3x + 9y + 8 = 0 is :
+(a) 1
+(b) √6
+(c) 4
+(d) 12
+ans:c
+
+129. The equation ax^2 + by^2 + 2gy + 2fy + c = 0, with either a = 0 or b = 0 but not both zero represents:
+(a) Circle
+(b) Parabola
+(c) Ellipse
+(d) Hyperbola
+ans:b
+
+130. The length of semi latus rectum of an ellipse is:
+(a) la
+(b) 2b^2 / a
+(c) 2b
+(d) b / a
+ans:d
+
+131. The foci of hyperbola always lie on:
+(a) x-axis
+(b) Transverse axis
+(c) y-axis
+(d) Conjugate axis
+ans:b
+
+132. Tangent line to the curve x^2 + y^2 = a^2 at the point (x1, y1) is:
+(a) x x1 + y y1 = a^2
+(b) x1 x + y1 y = a^2
+(c) xy1 + yx1 = a^2
+(d) None
+ans:a
+
+133. The line through P, perpendicular to the tangent to the curve at P is called
+(a) Normal at P
+(b) Tangent at P
+(c) Slope at P
+(d) Chord at P
+ans:a
+
+134. If foci of an ellipse are (4, 1) and (0, 1) then its centre is
+(a) (4, 2)
+(b) (2, 1)
+(c) (2, 0)
+(d) (1, 2)
+ans:b
+
+135. The second degree equation of the form Ax^2 + By^2 + Gx + Fy + C = 0, if A = B ≠ 0 represents
+(a) parabola
+(b) circle
+(c) ellipse
+(d) hyperbola
+ans:b
+
+136. The second degree equation of the form Ax^2 + By^2 + Gx + Fy + C = 0, if A ≠ B and both have same sign represents
+(a) parabola
+(b) circle
+(c) ellipse
+(d) hyperbola
+ans:c
+
+137. The second degree equation of the form Ax^2 + By^2 + Gx + Fy + C = 0, if A ≠ B and both have opposite sign represents
+(a) parabola
+(b) circle
+(c) ellipse
+(d) hyperbola
+ans:d
+
+138. The most general second degree equation
+ax^2 + 2hxy + by^2 + 2gx + 2fy + c = 0 represents a conic. The quantity h^2 − ab is called
+(a) Discriminant
+(b) a pair of lines
+(c) degenerate conic
+(d) conic section
+ans:a
+
+139. Under certain conditions, the equation ax^2 + 2hxy + by^2 + 2gx + 2fy + c = 0 does not represent any conic, then it represents
+(a) central conic
+(b) point circle
+(c) degenerate conic
+(d) pair of lines through (0, 0) Here is my best-effort transcription of the text from the image. Some parts are unclear due to the image quality; I have marked uncertain areas where appropriate. If you can provide a higher-resolution image, I can refine this further. Text extracted (best effort)
+ans:c
+
