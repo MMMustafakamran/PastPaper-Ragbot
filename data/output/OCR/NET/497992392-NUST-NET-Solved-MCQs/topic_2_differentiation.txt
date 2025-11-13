@@ -366,14 +366,10 @@ ans:c
 ans:a
 
 55. Let f be differentiable function in neighbourhood of c and f'(c) = 0, then f'(x) could have relative maxima at c if:
-(a) f''
-(c) > 0
-(b) f''
-(c) < 0
-(c) f''
-(c) = 0
-(d) f''
-(c) ≠ 0
+(a) f''(c) > 0
+(b) f''(c) < 0
+(c) f''(c) = 0
+(d) f''(c) ≠ 0
 ans:d
 
 56. y = (x) has the value:
@@ -425,12 +421,10 @@ ans:c
 ans:a
 
 63. If f'(c) = 0, then f has relative maximum value at x = c, if:
-(a) f''
-(c) > 0
-(b) f''
-(c) < 0
-(c) f''
-(c) = 0
+(a) f''(c) > 0
+(b) f''(c) < 0
+(c) f''(c) = 0
+(d) f''(c) ≠ 0
 ans:b
 
 64. d/dx (Cosec x) is equal to
@@ -570,7 +564,7 @@ ans:b
 (a) 0
 (b) f(a)
 (c) f'(a)
-(d) f'(a)
+(d) f''(a)
 ans:d
 
 93. If f(x) = 1/x, then a critical point of f is

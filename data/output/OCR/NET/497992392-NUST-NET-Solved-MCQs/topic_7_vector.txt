@@ -250,7 +250,10 @@ ans:b
 (a) u × v
 (b) |u × v|
 (c) 1/2 (u × v)
-(d) 1/2 |u × v| 39'. The scalar triple product of a, b and c is denoted by
+(d) 1/2 |u × v|
+ans:d
+
+39'. The scalar triple product of a, b and c is denoted by
 (a) a . b . c
 (b) a × b × c
 (c) a . b × c

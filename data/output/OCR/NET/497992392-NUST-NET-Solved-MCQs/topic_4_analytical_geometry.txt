@@ -439,8 +439,7 @@ ans:c
 (a) k l1
 (b) l1 + k l2 = 0
 (c) l1 + k l2 = 2
-(d) Both
-(b) and
+(d) Both (b) and (c)
 ans:b
 
 75. The coordinate axes divide the whole plane into ____ equal parts
