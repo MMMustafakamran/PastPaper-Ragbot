@@ -1,7 +1,75 @@
-I can extract the text, but the provided image is quite blurred and has a watermark that makes many parts hard to read reliably. To preserve the exact formatting you requested, I’d need a clearer copy (higher resolution) of the exam page. 
+57. d/dx (1/Cot x) =
+(a) -Cosec^2 x
+(b) Sec^2 x
+(c) Sec^2 x
+(d) -Sec^2 x
 
-Options:
-- If you’d like, I can do a best-effort transcription of the clearly readable parts now, and mark uncertain areas where the text is illegible. 
-- Or, please upload a higher-resolution version (preferably 300–600 dpi or a sharper scan) and I’ll extract the full content exactly as it appears, including question numbers, options, and any answer markers.
+58. If f(x) = e^(2x), then f''(x) =
+(a) 6e^(2x)
+(b) (1/6)e^(2x)
+(c) 8e^(2x)
+(d) (1/8)e^(2x)
 
-Would you like me to proceed with a best-effort transcription of the clearly legible sections and flag the rest, or wait for a clearer image?
+59. d/dx e^(tan x) is equal to
+(a) e^(tan x) Sec^2 x
+(b) e^(tan x)
+(c) e^(tan x) ln Sec^2 x
+(d) e^(tan x) ln tan x
+
+60. x^3 · d/dx (ln 2x) =
+(a) x^2
+(b) 2x^2
+(c) 3x^2
+(d) 6x^2
+
+61. d/dx (5^x) equal:
+(a) 5^x/ln 5
+(b) ln 5/5^x
+(c) 5 ln 5
+(d) 5
+
+62. If y = e^(2x), then y'' equal:
+(a) 16e^(2x)
+(b) 8
+(c) 4
+
+63. If f'(c) = 0, then f has relative maximum value at x = c, if:
+(a) f''(c) > 0
+(b) f''(c) < 0
+(c) f''(c) = 0
+
+64. d/dx (Cosec x) is equal to
+(a) Cosec x Cot x
+(b) Cosec x tan x
+(c) -Cosec x Cot x
+(d) Tan x
+
+65. A function f is neither increasing nor decreasing at a point, provided that f'(x) = 0 at that point, then it is called:
+(a) Critical point
+(b) Stationary point
+(c) Maximum point
+(d) Minimum point
+
+66. d/dx (x^-2) is equal to
+(a) -2x^3
+(b) -2x^2
+(c) -2x^-3
+(d) -2x
+
+67. d/dx (cos^-1 x) is equal to
+(a) 1/√(1 - x^2)
+(b) -1/√(x^2 - 1)
+(c) 1/√(x^2 - 1)
+(d) -1/√(1 - x^2)
+
+68. The function f(x) = ax^2 + bx + c has minimum value if:
+(a) a > 0
+(b) a < 0
+(c) a = 0
+(d) a = -1
+
+69. lim |δx|/δx as x → -∞ is equal to:
+(a) 1
+(b) Not exists
+(c) -1
+(d) Zero

@@ -1,0 +1,819 @@
+
+================================================================================
+PAGE 037
+================================================================================
+
+Page 37 (FAST PAST PAPER 3 - MATHEMATICS)1. The integral of $\frac{1}{9x^{2}+4}$ w.r.t 'x' is $f(x)+c$ is 1a) $\frac{1}{6}tan^{-1}\frac{3x}{2}$ 2b) $\frac{1}{9}tan^{-1}\frac{3x}{2}$ 3c) $\frac{1}{3}tan^{-1}\frac{3x}{2}$ 4d) $\frac{1}{3}tan^{-1}\frac{3x+2}{3x-2}$ 52. If $A=\{4,5,6,7,8,9,10\}$, $B=\{1,2,3,4,5,6\}$ the $A-B=?$ 6a) (7, 8, 9, 10) 7b) (7, 8, 9, 10) 8c) (1, 2, 3, 5) 9d) (1, 2, 3) 103. Division is a binary operation on 11a) Set of natural numbers 12b) Set of positive integers 13c) Set of negative integers 14d) None of these 154. The slope of line passing through the points (4, 5) and 16a) -1 17b) -2 18c) $\frac{1}{2}$ 19d) $-\frac{1}{2}$ 205. $\int a^{x} dx$ 21a) $\frac{a^{x}}{ln~x}+C$ 22b) $\frac{a^{x}}{lna}+C$ 23c) $\frac{a^{-x}}{ln~x}+C$ 24d) $\frac{x}{lna}+C$ 256. The product of (2,-1) and (0) w. 26a) (1, 2) 27b) (-1, 2) 28c) (-1,-2) 29d) (1, 1) 307. Geometric mean between 50 and 18 is 31a) 28 32b) 30 33c) 32 34d) 36 358. The integral of $\frac{1}{x^{\frac{2}{3}}}$ w.r.t x is 36a) $3x^{\frac{1}{3}}+C$ 37b) $3x^{\frac{1}{2}}+C$ 38c) $\frac{2}{3}x^{-\frac{2}{3}}+c$ 39d) $\frac{2}{3}x^{-\frac{3}{2}}+C$
+
+================================================================================
+PAGE 038
+================================================================================
+
+9. The sum of the roots of the equation $x^{2}+x+m=0$ is equal to the product of its roots, then 'm' 41a) -1 42b) 2 43(Options c and d are on the next page)📄 Page 38 (FAST PAST PAPER 3 - MATHEMATICS)(Continuation of Question 9)c) 3 44d) -2 4510. A fair coin is tossed twice. What is the probability of both heads? 46a) $\frac{3}{8}$ 47b) $\frac{1}{4}$ 48c) $\frac{3}{4}$ 49d) $\frac{1}{2}$ 5011. The $n^{th}$ term of the following sequence 2, 5, 10, 17 is 51a) $2n-3$ 52b) $n+1$ 53c) $n^{2}+1$ 54d) 5n-3 5512. If $x+y=8$ and $xy=15$ then $x-y=?$ 56a) 4 57b) 2 58c) 6 59d) 9 6013. The number of ways in which 5 differently colored flags can be arranged in a row are. 61a) 50 62b) 120 63c) 180 64d) 100 6514. The limit of $\frac{sin~x}{x}$ as "x" tends to zero is 66a) 0 67b) 1 68c) 2 69d) $\infty$ 7015. If $y=a^{x}$ then $y^{\prime}=?$ 71a) $a^{x}$ 72b) $a^{x}lna$ 73c) $a^{x}ln~x$ 74d) None of these 7516. The area of triangle formed from (11, -12), (6, 2) and (-5, 10) is 76a) 57 77b) 56 78c) 50 79d) 51 8017. If two lines are parallel then their slopes are 81a) 0 82b) 1 83c) equal 84d) unequal 8518. The angle formed by $x^{2}-6xy+9y^{2}=0$ 86a) $60^{\circ}$ 87b) $90^{\circ}$ 88c) $45^{\circ}$ 89d) $0^{\circ}$ 9019. $\int\frac{dx}{a^{2}+x^{2}}=?$ 91919191a) $\frac{1}{a}sin^{-1}\frac{x}{a}+C$ 92b) $\frac{1}{a}tan^{-1}\frac{x}{a}+C$ 93c) $\frac{1}{a}sec^{-1}\frac{x}{a}+C$ 94d) $\frac{1}{a}cos^{-1}\frac{x}{a}+C$ 95
+
+================================================================================
+PAGE 039
+================================================================================
+
+FAST ENTRY TEST PAST PAPERS PLS POT
+
+www PakLearningSpot.com
+Download More MCQs from Website
+
+FAST PAST PAPER 3
+
+20. Area under the curve x^2 + y^2 = 4 between the ordinates x = 1/2 and x = 3/2
+a) 32
+b) 16
+c) 25
+d) none of them
+
+21. The centre of 4x^2 + 4y^2 − 12x + 4y − 15 = 0 is
+a) (1/2, 3/5)
+b) (1/5, 3/2)
+c) (3/2, −1/2)
+d) (4/5, 6/5)
+
+22. The parametric equation of a circle with radius ‘a’ are
+a) X= a cos θ, Y= a sin θ
+b) X= r cos θ, Y= r sin θ
+c) X= r cos θ, Y= r sin θ
+d) X= r tan θ, Y= r sec θ
+
+23. The radius of the circle 4x^2 + 4y^2 − 12x + 4y − 15 = 0 is
+a) 5/4
+b) 5/2
+c) 5/6
+d) 5/3
+
+24. The length of the tangent from (−4, 6) to 2x^2 + 2y^2 − 3 = 0 is
+a) 18.3
+b) 5.2
+c) 7.1
+d) 5/3
+
+25. Equation of the parabola whose vertex is (0,0) and focus is (0, −3) is
+a) y = x^2
+b) x^2 = −12y
+c) y^2 = 12x
+d) x^2 = 12y
+
+26. (x + 3i)^2 = 2yi then (x, y) is
+a) (−3, −9)
+b) (3, 7)
+c) (0, 0)
+d) none of these
+
+27. A unit matrix of order 3x3 is
+a) [ [0 0 0]
+     [0 0 0]
+     [0 0 0] ]
+b) [ [0 0 1]
+     [0 0 0]
+     [1 0 0] ]
+c) [ [1 0 0]
+     [0 1 0]
+     [0 0 1] ]
+d) [ [0 1 0]
+     [0 0 1]
+     [1 0 0] ]
+
+28. If | y^2    y  |
+       | 8     4  10 | = 60 then y = ?
+a) 4
+b) 4,5
+c) 3,4
+d) 2,7
+
+Page 38
+www.markhorwrites.blogspot.com
+
+================================================================================
+PAGE 040
+================================================================================
+
+FAST ENTRY TEST PAST PAPERS PLSPOT
+
+WWW.PakLearningSpot.com
+Download More MCQs from Website
+
+FAST PAST PAPER 3
+
+29. The equation 2x^2 + 6x - 3 = 0 has α and β find the value of 1/α + 1/β
+a) -3
+b) 3/2
+c) 1
+d) 2
+
+30. x + 10 = 14 then x - 8 = ?
+a) -4
+b) 4
+c) 1
+d) 2
+
+31. The nth term of the geometric mean sequence 8, 16√2, 64......... is
+a) n√2
+b) (n√2)^2
+c) (2√2)^2
+d) (2√2)^{n+1}
+
+32. A machine is depredated at rate of 10% on reducing balance the original cost was Rs 10,000 after how many years it will be valued at Rs 8100
+a) 2
+b) 3
+c) 4
+d) none
+
+33. The given progress 4, 3/4 , 9/4 , … is
+a) H.P
+b) G.P
+c) A.P
+d) None of these
+
+34. In how many different ways may the seven the letters in the word KARACHI be arranged if all of the letters are used each time?
+a) 2500
+b) 2520
+c) 2400
+d) 2420
+
+35. How many words can be formed out of the letters of the word “JEDDAH”
+a) 360
+b) 420
+c) 240
+d) None of these
+
+36. Which of the expansion of (1/x + x^2)^9 contains no power of x
+a) No term
+b) Fourth
+c) Fifth
+d) sixth
+
+37. π radians are always equal to
+a) 360^0
+b) 180^0
+c) 270^0
+d) None of these
+
+38. sin60^0 sin30^0 − cos60^0 sin60^0
+a) zero
+b) 1/3
+
+Page 39
+www.markhorwrites.blogspot.com
+
+================================================================================
+PAGE 041
+================================================================================
+
+I can extract most of the clearly legible text from the image, but some parts are too unclear to read accurately. Here is what I can confidently transcription right now. If you can provide a higher-resolution image (or a close-up of questions 42–44), I’ll complete the rest exactly as shown.
+
+Readable text I could extract:
+
+FAST ENTRY TEST PAST PAPERS PLSPOT
+
+www.PakLearningSpot.com
+Download More MCQs from Website
+
+FAST PAST PAPER 3
+
+39. Composite function of g(x) = x^2 − 1, f(x) = 2x − 1 is
+a) 2x^2 − 1
+b) 4x^2 − 4x − 2
+c) 4x^2 − 4x
+d) None of these
+
+40. d/dx √x = ?
+a) 1/(2√x)
+b) 2/√x
+c) 1/√x
+d) 2√x
+
+41. If A = [ [1 −1] [2 −1] ] and B = [ [1 1] [4 2] ] then A + B is
+A. [ [1 −1] [2 0] ]
+B. [ [1 0] [2 0] ]
+C. [ [6 0] [1 ?] ]   (Note: This line is unclear in the image)
+D. [ [2 0] [6 1] ]
+
+43. If A = [ [ x y z ], [ −2 0 −1 ], [ 3 1 0 ] ] is skew symmetric, then (x, y, z) is equal to
+A. (0, 2, −3)
+B. (0, −1, 3)
+C. (0, −2, 3)
+D. (1, 2, 3)
+
+44. [Matrix items unreadable in image]
+
+45. If A = [ [12 1/3], [3 5] ], then the value of |A|^4 is equal to
+A. (27)^4
+B. (13)^4
+C. (59)^4
+D. (60)^4 − 1
+
+Notes:
+- The line for 42 is not legible enough for me to transcribe reliably.
+- The line for 44 is not legible enough for me to transcribe reliably.
+- The formatting and line breaks above aim to preserve the structure as much as possible. If you provide a higher-res image (especially of questions 42–44, or a crop of the relevant area), I’ll fill in the exact text for those items with the same formatting (including any answer keys if present).
+
+================================================================================
+PAGE 042
+================================================================================
+
+📄 Page 42 (FAST PAST PAPER 3 - MATHEMATICS)46. The matrix $[\begin{matrix}5&10&3\\ -2&-4&6\\ -1&-2&b\end{matrix}]$ is a singular matrix if 96A. $b=-3$ 97B. $b=0$ 98C. $b=3$ 99D. $b\in\mathbb{R}$ 10047. If A is a square matrix of order n then |Adj A| is equal to 101A. $|A|^{n-1}$ 102B. $|A|^{n}$ 103C. $|A|^{2n}$ 104D. $\frac{1}{|A|^{n}}$ 10548. If A is matrix of order 4 and $|A|=5$, then |Adj A| is equal to 106A. 1 107B. 20 108C. $5^{2}$ 109D. 125 11049. The minor of -4 and 9 and the cofactors of -4 and 9 in the matrix $[\begin{matrix}-1&-2&3\\ -4&-5&-6\\ 7&8&9\end{matrix}]$ are respectively 111A. 42,3; -42,3 112B. -42,3; 42,-3 113C. 42, 3; -42,-3 114D. 42,3; 42,3 11550. If $A=[\begin{matrix}2&3&4\\ 5&6&7\\ 8&0&0\end{matrix}]$ and $B=[\begin{matrix}-1&2&-9\\ 6&7&8\\ 9&0&0\end{matrix}]$ $(B^{t}A^{t})^{t}$ is equal to 116A. $[\begin{matrix}9&0&0\\ 15&0&0&\\ 0&0&0\end{matrix}]$ 117B. $[\begin{matrix}0&16&0\\ 16&0&0\end{matrix}]$ 118C. 0 119D. $[\begin{matrix}2&3&4\\ 5&6&7\\ 8&0&0\end{matrix}]$ 120120120120
+
+================================================================================
+PAGE 043
+================================================================================
+
+📄 Page 43 (FAST PAST PAPER 3 - BASIC MATH)1. 6.09 - 4.693 = 121(A) 1.397 122(B) 1.403 123(C) 1.407 124(D) 1.497 125(E) 2.603 1262. What is the area of the region enclosed by the figure above? 127(A) 116 128(B) 144 129(C) 176 130(D) 179 131(E) 284 1323. If $p=0.2$ and $n=100$ then $\sqrt{\frac{p(1-p)}{n}}=$ 133(A) $-\sqrt{0.002}$ 134(B) $\sqrt{0.02}-0.02$ 135(C) 0.04 136(D) 0.4 1374. If each of 4 subsidiaries of Corporation R has been granted a line of credit of $700,000 and each of the other 3 subsidiaries of Corporation R has been granted a line of credit of $112,000, what is the average (arithmetic mean) line of credit granted to a subsidiary of Corporation R? 138(A) $1,568,000 139(B) $448,000 140(C) $406,000 141(D) $313,600 142(E) $116,000 1435. If x is a number such that $x^{2}-3x+2=0$ and $x^{2}-x-2=0$, what is the value of x? 144144144144(A) -2 145(B) -1 146(C) 0 147(D) 1 148(E) 2 1496. In traveling from a dormitory to a certain city, a student went $\frac{1}{5}$ of the way by foot, $\frac{2}{3}$ of the way by bus, and the remaining 8 kilometers by car. What is the distance, in kilometers, from the dormitory to the city? 150150150150(A) 30 151(B) 45 152(C) 60 153(D) 90 154(E) 120 1557. A certain elevator has a safe weight limit of 2,000 pounds. What is the greatest possible number of people who can safely ride on the elevator at one time with the average (arithmetic mean) weight of half the riders being 180 pounds and the average weight of the others being 215 pounds? 156(A) 7 157(B) 8 158(C) 9 159(D) 10 160(E) 11 1618. After paying a 10 percent tax on all income over $3,000, a person had a net income of $12,000. What was the income before taxes? 162(Options are on the next page, page 44)
+
+================================================================================
+PAGE 044
+================================================================================
+
+
+FAST PAST PAPER 3
+
+(A) $13,300
+(B) $13,000
+(C) $12,900
+
+(D) $10,000
+(E) $9,000
+
+9. 1−[2 − (3 − [4 − 5] + 6) + 7] =
+
+(A) −2
+(B) 0
+(C) 1
+
+(D) 2
+(E) 16
+
+10. The price of a model M camera is $209 and the price of a special lens is $69. When the camera and lens are purchased together, the price is $239. The amount saved by purchasing the camera and lens together is approximately what percent of the total price of the camera and lens when purchased separately?
+
+(A) 14%
+(B) 16%
+(C) 29%
+(D) 33%
+(E) 86%
+
+11. If 0.497 mark has the value of one dollar, what is the value to the nearest dollar of 350 marks?
+
+(A) $174
+(B) $176
+(C) $524
+(D) $696
+(E) $704
+
+12. A right cylindrical container with radius 2 meters and height 1 meter is filled to capacity with oil. How many empty right cylindrical cans, each with radius 1/2 meter and height 4 meters, can be filled to capacity with the oil in this container?
+
+(A) 1
+(B) 2
+(C) 4
+(D) 8
+(E) 16
+
+13. If a sequence of 8 consecutive odd integers with increasing values has 9 as its 7th term, what is the sum of the terms of the sequence?
+
+(A) 22
+(B) 32
+(C) 36
+(D) 40
+(E) 44
+
+14. A rectangular floor is covered by a rug except for a strip p meters wide along each of the four edges. If the floor is m meters by n meters, what is the area of the rug, in square meters?
+
+(A) mn − p (m + n)
+(B) mn − 2p(m + n)
+(C) mn − p^2
+(D) (m − p)(n − p)
+(E) (m − 2p)(n − 2p)
+
+15. Working alone, R can complete a certain kind of job in 9 hours. R and S, working together at their respective rates, can complete one of these jobs in 6 hours. In how many hours can S, working alone, complete one of these jobs?
+
+(A) 18
+(B) 12
+(C) 9
+(D) 6
+(E) 3
+
+16. A family made a down payment of $75 and borrowed the balance on a set of encyclopedias that cost $400. The balance with interest was paid in 23 monthly payments of $16 each and a final payment of $9. The amount of interest paid was what percent of the amount borrowed?
+
+(A) 6%
+(B) 12%
+(C) 14%
+(D) 16%
+(E) 20%
+
+17. If x ≠ 0 and x = √(4xy − 4y^2), then, in terms of y, x =
+
+(A) 2y
+(B) y
+
+================================================================================
+PAGE 045
+================================================================================
+
+FAST ENTRY TEST PAST PAPERS PLSPOT
+
+WWW.PakLearningSpot.com
+Download More MCQs from Website
+
+FAST PAST PAPER 3
+
+(C) y/2
+(D) -4 y^2
+    1 - 2y
+(E) -2y
+
+18. Solution Y is 30 percent liquid X and 70 percent water. If 2 kilograms of water evaporate from 8 kilograms of solution Y and 2 kilograms of solution Y are added to the remaining 6 kilograms of liquid, what percent of this new solution is liquid X?
+
+(A) 30%
+(B) 33 1/3 %
+(C) 37 1/2 %
+(D) 40%
+(E) 50%
+
+19. 1
+   —
+   1/0.03 + 1/0.37
+= 
+(A) 0.004
+(B) 0.02775
+(C) 2.775
+(D) 3.6036
+(E) 36.036
+
+20. If each side of Δ ACD above has length 3 and if AB has length 1, what is the area of region BCDE?
+
+(A) 9/4
+(B) 7/4 √3
+(C) 9/4 √3
+(D) 7/2 √3
+(E) 6 + √3
+
+Page 44
+www.markhorwrites.blogspot.com
+
+================================================================================
+PAGE 046
+================================================================================
+
+I’m happy to extract the text exactly as shown, but the provided image is too low-resolution to reliably read all content (especially the small numbers and letters in the diagrams). To preserve the formatting and ensure accuracy, I need a higher-resolution image (or a clean scan/PDF) of the page.
+
+What I can do right now (partial, with placeholders for unreadable parts):
+- I can transcribe any clearly legible headings and section titles.
+- I can preserve the question numbers and option markers if they’re readable.
+- I can insert [unreadable] or similar markers where parts of the text cannot be read.
+
+If you can provide one of the following, I’ll deliver a full, exact-text extraction:
+- A higher-resolution image or a cropped scan focusing on the page (preferably 600–1200 dpi or at least clearer than this).
+- The original PDF of the exam page.
+
+Alternatively, I can attempt a best-guess transcription of the portions that are visible now and clearly readable, with [unreadable] tags for the rest. Let me know which you prefer.
+
+================================================================================
+PAGE 047
+================================================================================
+
+I can extract some of the clearly legible text from the image, but several parts (the full contents of the circular puzzles in Question 5 and the letter-grid in Question 6) are too faint to transcribe accurately. If you can provide a higher-resolution image (or allow cropping/zoom), I can complete the extraction precisely. Here is the text I can read and preserve exactly as it appears, with the structure kept intact:
+
+FAST ENTRY TEST PAST PAPERS PLS POT
+
+www.PakLearningSpot.com
+Download More MCQs from Website
+
+FAST PAST PAPER 3
+
+QUESTION 4
+
+Which number replaces the question mark
+and completes the puzzle?
+
+4     2
+9     8
+15    15
+22    ?
+
+QUESTION 5
+
+What is missing from the last circle?
+
+22, 23, 11, 10
+
+
+[The three circular diagrams for Question 5 are present in the image, but the numbers inside them are not clearly legible in this resolution.]
+
+QUESTION 6
+
+Which letter replaces the question mark and completes the puzzle?
+
+[The grid of letters in circular cells is present, but the exact letters in each cell are not clearly legible in this resolution.]
+
+O, M, B, V
+
+Page 46
+
+www.markhorwrites.blogspot.com
+
+Notes:
+- The exact contents of the circular diagrams in Question 5 and the letter-grid in Question 6 could not be reliably read from this image due to legibility.
+- If you provide a higher-resolution version or crop the relevant sections, I will transcribe those parts verbatim and preserve all formatting, line breaks, and any answer keys.
+
+================================================================================
+PAGE 048
+================================================================================
+
+FAST ENTRY TEST PAST PAPERS PLSPOT
+
+WWW.PakLearningSpot.com
+Download More MCQs from Website
+
+FAST PAST PAPER 3
+
+QUESTION 7
+What is missing from the bottom left circle?
+
+  1     2     8
+      2
+  ?     5     6
+
+2, 8, 6, 9
+
+QUESTION 8
+Which letter completes the puzzle?
+
+C J M
+
+S G
+
+Q D E
+
+R ?
+
+J, H, M, B
+
+QUESTION 9
+Which number replaces the question mark and completes the puzzle?
+
+R ?
+
+QUESTION 10
+32 45 60 77 ?          99, 96, 89, 44
+
+Page 47
+www.markhorwrites.blogspot.com
+
+================================================================================
+PAGE 049
+================================================================================
+
+FAST ENTRY TEST PAST PAPERS PLSPOT
+
+FAST PAST PAPER 3
+
+Which number replaces the question mark and completes the puzzle?
+
+3 5
+4 1
+4 7
+5 3
+5 ?
+
+9, 8, 5, 3
+
+QUESTION 11
+
+What is missing from the last circle?
+
+A circle diagrams: (five circles shown)
+
+V, W, X, M
+
+QUESTION 12
+
+Which number replaces the question mark and completes the puzzle?
+
+1 2 3
+2 1 4
+5 6 ?
+
+1, 2, 4, 3
+
+Page 48 www.markhorwrites.blogspot.com
+
+================================================================================
+PAGE 050
+================================================================================
+
+FAST ENTRY TEST PAST PAPERS PLSPOT
+
+WWW.PakLearningSpot.com
+Download More MCQs from Website
+
+FAST PAST PAPER 3
+
+QUESTION 13
+Which letter completes the puzzle?
+
+B  D  G
+
+E  D
+
+?  I  C
+
+B, C, A, D
+
+QUESTION 14
+Which number replaces the question mark and completes the puzzle?
+
+7
+
+2
+
+9
+
+5
+
+11
+
+6
+
+2
+
+4
+
+13, 12, 11, 11
+
+QUESTION 15
+What is missing from the last circle?
+
+H
+
+C
+
+Z
+
+K
+
+F
+
+W
+
+N
+
+Q
+
+?
+
+Q, N, T, B
+
+QUESTION 16
+Q, N, T, B
+
+Page 49
+www.markhorwrites.blogspot.com
+
+================================================================================
+PAGE 051
+================================================================================
+
+FAST PAST PAPER 3
+Which number completes the puzzle?
+[three circles with numbers unreadable]
+
+QUESTION 17
+H D X W B
+Which of the bottom letters replace the question mark and complete the puzzle?
+L Z E
+T A M
+V N ?
+
+QUESTION 18
+W, M, N, B
+
+Page 50
+www.markhorwrites.blogspot.com
+
+================================================================================
+PAGE 052
+================================================================================
+
+FAST ENTRY TEST PAST PAPERS PLSPOT
+WWW.PakLearningSpot.com
+Download More MCQs from Website
+
+FAST PAST PAPER 3
+What is missing from the last oval?
+
+7122
+
+6521
+
+8332
+
+4743
+
+9911
+
+387?
+
+Question 19:
+Which number completes the puzzle?
+
+Circle 1:
+7  2
+9  5
+
+Circle 2:
+3  10
+13 7
+
+Circle 3:
+6  1
+7  5
+
+Circle 4:
+4  5
+9  ?
+
+1, 2, 3, 5
+
+Page 51
+www.markhorwrites.blogspot.com
+
+================================================================================
+PAGE 053
+================================================================================
+
+FAST ENTRY TEST PAST PAPERS PLSPOT
+www.PakLearningSpot.com
+Download More MCQs from Website
+
+FAST PAST PAPER 3
+
+QUESTION 20:
+Which letter replaces the question mark and completes the puzzle?
+
+B H
+C E
+D B
+D I
+E F
+F ?
+
+C, M, N, B
+
+F
+A
+S
+T
+
+P
+A
+S
+T
+
+P
+A
+P
+E
+R
+S
+
+Page 52
+www.markhorwrites.blogspot.com
+
+================================================================================
+PAGE 054
+================================================================================
+
+FAST PAST PAPER 3
+ENGLISH
+
+ANALOGIES
+1. DOOR : WALL
+A. toll : road
+B. guard : border
+C. gate : fence
+D. bridge : river
+E. key : lock
+
+2. CARNIVORE : MEAT
+A. carnivore : vegetables
+B. herbivore : plants
+C. vegetarian : vitamins
+D. botanist : herbs
+E. pollinator : plants
+
+SYNONYMS
+3. Synonym of ACCESS
+A. agreement
+B. rapidity
+C. welcome
+D. approach
+E. incompetence
+
+4. Synonym of PRUDENT
+A. generous
+B. overcritical
+C. famous
+D. dull
+E. cautious
+
+ANTONYMS
+5. Antonym of ANIMATED
+A. worthy
+B. humorous
+C. dull
+D. lengthy
+E. realistic
+
+6. Antonym of EXTROVERT
+A. clown
+B. hero
+C. ectomorph
+D. neurotic
+E. introvert
+
+SENTENCE COMPLETION
+7. The four close friends decided to attend different colleges. At first, they were ____ to leave each other, but eventually they were glad they each made their own ______.
+A. excited...decision
+B. reluctant...choice
+C. frustrated...plan
+D. happy...friendship
+E. depressed...bond
+
+8. Samuel is loyal to his roots (he always has been), and is resistant to change. Raphael, however, favors a less traditional, more ______ approach.
+A. patient
+B. contemporary
+C. diverse
+D. liberal
+E. forgiving
+
+PREPOSITIONS
+9. The play was made ______ a movie.
+A. by
+B. into
+C. with
+D. for
+E. across
+
+10. The whole nation was ______ the president.
+A. behind
+B. after
+C. before
+D. for
+E. in front of
+
+Page 53
+www.markhorwrites.blogspot.com
+
+================================================================================
+PAGE 055
+================================================================================
+
+📄 Page 55 (Answer Sheet - FAST PAST PAPER 3)
+SECTION-1,,,SECTION III,,SECTION - IV,,SECTION-V,
+MATHEMATICS,,BASIC MATH,,,IQ,,ENGLISH,
+1,A,41,D,1,A,1,6,1
+2,B,42,C,2,A,2,1,2
+3,D,43,A,3,D,3,ALARM CLOCK,3
+4,B,44,B,4,A,4,23,4
+5,B,45,E,5,C,5,5,5
+6,A,46,C,6,D,6,O,6
+7,B,47,A,7,B,7,2,7
+8,A,48,B,8,D,8,H,8
+9,A,49,D,9,B,9,96,9
+10,B,50,A,10,A,10,9,10
+11,C,,11,E,11,X,,
+12,B,,12,C,12,3,,
+13,B,,13,B,13,A,,
+14,B,,14,E,14,C13,,
+15,B,,15,A,15,T,,
+16,A,,16,D,16,6,,
+17,C,,17,A,17,W,,
+18,D,,18,C,18,4,,
+19,B,,19,B,19,1,,
+20,D,,20,B,20,C,,
+21,C,,,,,,,
+22,A,,,,,,,
+23,B,,,,,,,
+24,C,,,,,,,
+25,B,,,,,,,
+26,A,,,,,,,
+27,D,,,,,,,
+28,C,,,,,,,
+29,D,,,,,,,
+30,A,,,,,,,
+31,D,,,,,,,
+32,A,,,,,,,
+33,B,,,,,,,
+34,B,,,,,,,
+35,A,,,,,,,
+36,B,,,,,,,
+37,B,,,,,,,
+38,A,,,,,,,
+39,C,,,,,,,
+40,A,,,,,,,
+W,W,,W,,W,,W,
+R,R,,R,,R,,R,
+,,,,,,,,

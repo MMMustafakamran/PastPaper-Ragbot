@@ -1,7 +1,85 @@
-I can extract the text and preserve the formatting, but the provided image is quite low resolution and has a watermark, which makes accurate transcription difficult. To ensure you get an exact, faithful text with all numbering, options, and any answer keys preserved, please provide one of the following:
+61. lim (1 + x)^x as x → 0 is equal to:
+(a) e
+(b) e^-1
+(c) 0
+(d) 1
 
-- A higher-resolution version of the image (preferably 300–600 dpi), or
-- A PDF of the exam paper, or
-- If possible, paste the text content here and I’ll format it exactly as required.
+62. If f : X → X is a function, then elements of x are called
+(a) Images
+(b) Pre-images
+(c) Constants
+(d) Ranges
 
-If you’d like, I can also attempt a best-effort transcription from this image right now, with caveats about potential misreads. Please confirm which you prefer.
+63. lim x/(1 + x) as x → 0
+(a) e
+(b) e
+(c) e^2
+(d) √e
+
+64. If the degree of a polynomial function is 1, then it is a
+(a) Identity function
+(b) Constant function
+(c) Linear function
+(d) Exponential function
+
+65. f(x) = Sin x + Cos x is:
+(a) Even function
+(b) Odd function
+(c) Even & odd function
+(d) Neither even nor odd function
+
+66. Cosh^2 x + Sinh^2 x =
+(a) 1
+(b) Cosh 2x
+(c) Sinh 2x
+(d) 0
+
+67. If f(x) = x^2 - 2x + 1, then f(0) =
+(a) -1
+(b) 0
+(c) 1
+(d) 2
+
+68. lim x/sin x as x → 0 is equal to
+(a) 0
+(b) 1
+(c) -1
+(d) Undefined
+
+69. The function of the form, x = a cos t
+(a) Odd function
+(b) Explicit function
+(c) Parametric function
+(d) Even
+
+70. If f(x) = √(x + 2), then range of f^-1 is:
+(a) [-2, +∞)
+(b) [2, +∞)
+(c) (-∞, ∞)
+
+71. lim -5/√x as x → -∞ is equal to:
+(a) 0
+(b) -∞
+
+72. The volume V of a cube as a function of the area A of its base is:
+(a) A
+(b) √A
+(d) 2√A
+
+73. lim (a^x - 1)/x as x → 0 is equal to
+(a) log e
+(b) log a x
+(c) a
+(d) log_e a
+
+74. lim sin x/x as x → 0 is equal to:
+(a) π/180
+(b) 180/π
+(c) 180π
+(d) 1
+
+75. If f(x) = x Sec x, then f(π) =
+(a) -2π
+(b) -π
+(c) π
+(d) 2π

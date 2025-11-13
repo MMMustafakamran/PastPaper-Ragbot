@@ -1,0 +1,881 @@
+
+================================================================================
+PAGE 001
+================================================================================
+
+17ans sheet ,36 answer sheet,37,38,42,43,55 ans sheet
+
+MATHEMATICS
+1. Find (A − B) ∩ B when A={a,e,i,o,u} and B={a,b,c,d}
+a. φ
+b. A
+c. B
+d. A − B
+2. Find the value of ‘λ’ if both the vectors if a = 2i − j − 2k, b = 3i − 2λj are perpendicular to each other
+a. -3
+b. -6
+c. 6
+d. 3
+3. When there are 10 balls of different colours. In how many ways you can choose 7 balls of different colours black and white balls are excluded?
+a. 8
+b. 10
+c. 12
+d. 60
+4. When cosθsinθ = 0.22 then (cosθ − sinθ)^2 =
+a. 1/2
+b. 0.56
+c. 0.44
+d. 0.0484
+5. Find the point dividing (1,2) & (7,−4) in the ratios 1:2
+a. (0,−3)
+b. (0,3)
+c. (−3,0)
+d. (3,0)
+6. Find the geometric progression when a = 4 & r = 1/3
+a. 4, 4/3, 4/9, 4/27, …
+b. 4, 16/3, 64/9, 256/27, …
+c. 1, 4/3, 16/9, 64/27, …
+d. None
+7. Find the derivative of 7x^6 + 6x^5 + 5x^4
+a. 7x^5 + 6x^4 + 5x^3
+b. 13x^6 + 11x^5 + 9x^4
+c. 42x^5 + 30x^4 + 20x^3
+d. 6x^5 + 5x^4 + 4x^3
+8. Find the fifth derivative of f(x) = e^{ab}
+a. e^{ab}
+b. 0
+c. (ab)^5 e^{ab}
+d. 1
+9. What is the value of ‘x’ if [ [2 4], [4 x] ] is singular matrix?
+a. 0
+b. 2
+c. 6
+d. 8
+10. A = [ [2 4], [4 2] ] is a
+a. Singelton
+b. Singular
+c. Non-singular
+d. Null
+11. 2sin45°cos45° = ?
+a. √2
+b. √3/2
+c. 1
+d. 1/√2
+Page 1
+www.markhorwrites.blogspot.com
+
+================================================================================
+PAGE 002
+================================================================================
+
+```
+FAST ENTRY TEST PAST PAPERS PLS POT
+
+                      FAST PAST PAPER 1
+
+12. r² = g² + f² - c represents:
+    a. Circle                       c. None
+    b. Point circle                 d. Ellipse
+
+13. If a = x + y and b = x - y then the value of ab =?
+    a. x² - y²                    c. xy
+    b. x² + y²                    d. x² + y² - 2xy
+
+14. What is the probability of getting a red card from an ordinary deck of cards?
+    a. 1                      c. 1
+    b. 26                     d. 9
+
+15. If a curve is given by x² - y²/5 = 1, find the coordinates of foci
+    a. (±√3, 0)                c. (±1, 0)
+    b. (±√5, 0)                d. (±√6, 0)
+
+16. ∫ cos x/sin x dx =?
+    a. √sin x + c              c. 2√sin x + c
+    b. 2/sin x + c             d. 1/√sin x + c
+
+17. d/dx e^x =?
+    a. e^x                      c. 3x² e²x
+    b. 3x² e³x                  d. x² e^x
+
+18. Find the sum of first ‘n’ odd integers:
+    a. n²                       b. (2n + 1)
+    c. (2n + 1)/2              d. n(n + 1)/2
+
+19. Evaluate:
+    | x  y²  z²  |
+    | x  z   y  |
+    | y  z   x  |
+    | x  y  z   |
+
+    a. 0                        b. 1
+    c. x²y²²²(x² - y²)(z² - z²)  d. x²y² + y²² + x²x² - y⁴ - z⁴
+
+20. How many tangents can be drawn to circle if a point lies outside the circle?
+    a. 1                      c. 0
+    b. 2                      d. None
+
+21. sin 15° =?
+    a. √6 - √2
+       4
+    b. √6 + √2
+       4
+    c. -√6 + √2
+       4
+    d. -√6 + √2
+       4
+
+22. ∫ x² e^x dx =?
+
+                              Page 2
+```
+
+================================================================================
+PAGE 003
+================================================================================
+
+```
+FAST ENTRY TEST PAST PAPERS PLSPOT
+
+                          FAST PAST PAPER 1
+
+a.  e*(x² - 2x + 2) + c                              c.  e*(2x + 1) + c
+b.  e*(2x² - 1) + c                                  d.  2x*e*x² + c
+
+23. If the focus of parabola is (0, –3) then it is:
+        a.  Cup up parabola
+        b.  Cup down parabola
+
+24.  \(\frac{1}{1-\sin\theta} + \frac{1}{1+\sin\theta} = ?\)
+        a.  \(\frac{1+\sin\theta}{2}\)
+        b.  \(\frac{1-\sin\theta}{2}\)
+        c.  \(\frac{2}{1-\sin\theta}\)
+        d.  \(\frac{1}{1+\tan^2\theta}\)
+
+25.  \(\frac{d}{dx}\tan^2 x = ?\)
+        a.  \(2\tan x\sec^2x\)
+        b.  \(\sec^2x\)
+        c.  \(\tan x\sec^2x\)
+        d.  \(2\tan^2 x\sec^2x\)
+
+26.  \(\int_0^1 x^2e^{3x} = ?\)
+        a.  \(\frac{1}{2}(e^4 - 1)\)
+        b.  \(9e^{3x^2}\)
+        c.  \(e^{3x^2}(e^4 - 2)\)
+        d.  \(e^{3x^2}\)
+
+27. Find the distance between (2, –6) and (6, 0):
+        a.  25
+        b.  4
+        c.  5
+        d.  16
+
+28. Slope of line \(\frac{5x}{2} + \frac{7y}{10} = 49\) is:
+        a.  6
+        b.  \(-\frac{5}{7}\)
+        c.  \(\frac{7}{5}\)
+        d.  11
+
+29. Standard equation of hyperbola if centre is at (0,0):
+        a.  \(\frac{x^2}{a^2} - \frac{y^2}{b^2} = 1\)
+        b.  \(\frac{x^2}{b^2} - \frac{y^2}{a^2} = 1\)
+        c.  \(\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1\)
+        d.  \(\frac{x^2}{a^2} - \frac{y^2}{b^2} = 1\)
+
+30. Find the equation of tangent to the curve \(3x^2 - 4y^2 = 12\) at (4, -3):
+        a.  \(x + y = 1\)
+        b.  \(x - y = -1\)
+        c.  \(x + y = -1\)
+        d.  \(x - y = 1\)
+
+31.  \(\frac{d}{dx}[f(x)g(x)] = ?\)
+        a.  \(f(x)g(x)^2\)
+        b.  \(2f(x)g(x)[f'(x)g(x)] + g(x)\frac{d}{dx}(f(x))\)
+        c.  \([f(x), g(x)]^{-1}\)
+        d.  \([f(x)g(x)] \frac{d}{dx}(f(x))\)
+
+32. If \(z = -7 + \sqrt{3}i\) then find \( (z - \bar{z})^3\):
+        a.  343
+        b.  -343
+        c.  -12\sqrt{3}i
+        d.  -24\sqrt{3}i
+
+33. If \(f(x) = x^3 + \cos x\) then \(f(x)\) is?
+        a.  An odd function
+        b.  An even function
+        c.  Neither odd nor even
+        d.  A constant function
+
+Page 3
+```
+
+================================================================================
+PAGE 004
+================================================================================
+
+WWW.PakLearningSpot.com
+Download More MCQs from Website
+www.PakLearningSpot.com
+
+================================================================================
+PAGE 005
+================================================================================
+
+```
+FAST ENTRY TEST PAST PAPERS PLSPOT
+
+                        FAST PAST PAPER 1
+
+34. lim         3x² - 7x + 6
+   x->3        x² - 8x + 15  =  
+   a.  0                             c.  ∞
+   b.  11                           d.  -11/2
+
+35. Find f'(x), if f(x) = sin²x
+   a.  3 sin x cos x
+   b.  3 sin² x cos² x
+   c.  3sin x cos x
+   d.  ½ sin² x cos² x
+
+36. If dy = lnx dx and the slope at (x, y) is same as when it is parallel to x axis find x?
+   a.  0                           d.   1/e
+   b.  1                           c.  e
+
+37. The derivative of cos² 3x 
+   a.  -6 cos³x sin x
+   b.  6 cos³x sin x
+   c.  -2 cos 3 x sin x
+   d.  None
+
+38. Curve y = x² - 8 has:
+    I. Maximum value                  II. Minimum value                III. No extreme value
+   a.  I only                        b.  II only                       c.  I and II only
+   d.  III only
+
+39. The equation of the line which is parallel to x axis and 5 units above it is?
+   a.  y = 5                        c.  x = -5
+   b.  y = -5                       d.  x = 5
+
+40. The derivative of the function y = cos x is equal to?
+   a.  sin x                        c.  -sin x
+   b.  -tan x                       d.  cos x
+
+41. If α, β are the roots of x² - 2x + 1 = 0, then (α + β)² is equal to
+   A. -2                        C. 2
+   B. 1                          D. 4
+
+42. The possible number of root(s) of the equation x³ = 9 is/are
+   A. one.                    C. no roots.
+   B. two.                    D. infinite many roots.
+
+43. The real quadratic equation whose coefficients are rational and whose one root is √z + √9, is
+   A. x² - 7x - 11 = 0        C. -x² + 2x - 1 = 0
+   B. x² - 6x + 7 = 0        D. x² - 13x - 15 = 0
+
+44. ω being the complex cube roots of unity then consider the following statements
+    I. ω² = 1/2
+    II. ω³ = 1/2, n ∈ integer
+    III. ωn + ωn+1 + ωn+2 = 0; n ∈ integer
+   A. I only                 C. I and II
+   B. II only                D. I and III
+
+                                                             Page 4
+```
+
+================================================================================
+PAGE 006
+================================================================================
+
+```
+FAST ENTRY TEST PAST PAPERS PLSPOT
+
+FAST PAST PAPER 1
+
+45. If one root of 5x² + 7abdx - t² + 196 = 0 is zero then it is equal to
+    A. -14       B. 0        C. ±14       D. -14
+
+46. x + 1
+    _________
+    x(x² + 2)
+    A. A + B        B. A + B + C
+    C. A + B       D. C + D
+       _________
+       x² + 2    (x² + 2)²
+
+47. √x + z = -1 then real root(s) of the equation is/are
+    A. one       B. two       C. three         D. no roots
+
+48. If α, β are the roots of 3x² + 2x + 5 = 0 then sum of α²+1 and β²+1 is equal to
+    A. -8/9     B. 8/5       C. -2/3       D. 5/3
+
+49. If the equation 7x² + 15x + k = 0 has roots √a and -√a then k is equal to
+    A. -11      B. 2         C. 7          D. 15
+
+50. If the sum of a number and its reciprocal is 20, then the number is
+    A. 5/4      B. -5/4       C. -4/5      D. -5
+
+                   Page 5
+www.markhorwrites.blogspot.com
+```
+
+================================================================================
+PAGE 007
+================================================================================
+
+```
+FAST ENTRY TEST PAST PAPERS PLSPOT
+
+                      FAST PAST PAPER 1
+
+                               BASIC MATH
+
+1. The 180 students in a group are to be seated in rows so that there is equal number of students in each row. Each of the following could be the number of rows EXCEPT
+   (A) 4            (D) 40
+   (B) 20           (E) 90
+   (C) 30
+
+2. A parking garage rents parking spaces for $10 per week or $30 per month. How much does a person save in a year by renting by the month rather than by the week?
+   (A) $140         (D) $240
+   (B) $160         (E) $260
+   (C) $220
+
+3. If y = 5x² - 2x and x = 3, then y =
+   (A) 24          (D) 51
+   (B) 27          (E) 219
+   (C) 39
+
+4. Of the following, which is the best approximation to √0.0026?
+   (A) 0.05          (D) 0.5
+   (B) 0.06          (E) 0.6
+   (C) 0.16
+
+5. At a certain diner, a hamburger and coleslaw cost $3.99, and a hamburger and french fries cost $4.40. If french fries cost twice as much as coleslaw, how much do french fries cost?
+   (A) $0.30        (C) $0.60
+   (B) $0.45        (D) $0.75
+
+6. If ∠XYZ in the figure above is a right angle, what is the value of x?
+   (A) 155         (D) 125
+   (B) 145         (E) 110
+   (C) 135
+
+7. In the expression above, a, b, and c are different numbers and each is one of the numbers 2, 3, or 5. What is the least possible value of the expression?
+   (A) 1/30        (C) 1/6
+   (B) 2/15        (D) 3/10
+   (E) 5/6
+
+8. A certain culture of bacteria quadruples every hour. If a container with these bacteria was half full at 10:00 a.m., at what time was it one-eighth full?
+   (A) 9:00 a.m.   (C) 6:00 a.m.
+   (B) 7:00 a.m.   (D) 4:00 a.m.
+
+                                  Page 6
+                   www.markhorwrites.blogspot.com
+```
+
+================================================================================
+PAGE 008
+================================================================================
+
+```
+FAST ENTRY TEST PAST PAPERS PLSPOT
+
+                     FAST PAST PAPER 1
+
+                               (E) 2:00 a.m.
+9. Al, Lew, and Karen pooled their funds to buy a gift for a friend. Al contributed $2 less than 1/3 of the cost of the gift and Lew contributed $2 more than 1/4 of the cost. If Karen contributed the remaining $15, what was the cost of the gift?
+(A) $24       (D) $43
+(B) $33       (E) $45
+(C) $36
+
+10. What is the total number of integers between 100 and 200 that are divisible by 3?
+(A) 33       (D) 30
+(B) 32       (E) 29
+(C) 31
+
+11. Which of the following inequalities is equivalent to 10 - 2x > 18?
+(A) x > -14     (D) x < 4
+(B) x < -4      (E) x < -4
+(C) x > 4
+
+12. In 1979 approximately 1/3 of the 37.3 million airline passengers traveling to or from the United States used Kennedy Airport. If the number of such passengers that used Miami Airport was 1/2 the number that used Kennedy Airport and 4 times the number that used Logan Airport, approximately how many millions of these passengers used Logan Airport that year?
+(A) 18.6      (D) 3.1
+(B) 9.3       (E) 1.6
+(C) 6.2
+
+13. A certain basketball team that has played 2/3 of its games has a record of 17 wins and 3 losses. What is the greatest number of the remaining games that the team can lose and still win at least 3/4 of all of its games?
+(A) 7        (D) 4
+(B) 6        (E) 3
+(C) 5
+
+14. Dan and Karen, who live 10 miles apart meet at a cafe that is directly north of Dan’s house and directly east of Karen’s house. If the cafe is 2 miles closer to Dan’s house than to Karen’s house, how many miles is the cafe from Karen’s house?
+(A) 6        (D) 9
+(B) 7        (E) 10
+(C) 8
+
+15. If n is an integer and n = 2 • 3 • 5 • 7 • 11 • 13 / 77k then which of the following could be the value of k?
+(A) 22      (D) 54
+(B) 26      (E) 60
+(C) 35
+
+                                                             Page 7
+```
+
+================================================================================
+PAGE 009
+================================================================================
+
+```
+FAST ENTRY TEST PAST PAPERS PLSPOT
+
+                           FAST PAST PAPER 1
+
+16. There were 36,000 hardback copies of a certain novel sold before the paperback version was issued. From the time the first paperback copy was sold until the last copy of the novel was sold 9 times as many paperback copies as hardback copies were sold. If a total of 441,000 copies of the novel were sold in all, how many paperback copies were sold?
+                              (A) 45,000     (D) 392,000
+                              (B) 360,000     (E) 396,900
+                              (C) 364,500
+
+17. In the formula  v = \(\frac{p}{\sqrt{r}}\), integers p and r are positive constants. If \(w = 2\) when \(v = 1\) and if \(w = \frac{1}{2}\) when
+   \(v = 64\), then \(r =\)
+                              (A) 1          (D) 4
+                              (B) 2          (E) 16
+                              (C) 3
+
+18. Last year Mrs. Long received $160 in dividends on her shares of Company X stock, all of which she had held for the entire year. If she had had 12 more shares of the stock last year, she would have received $15 more in total annual dividends. How many shares of the stock did she have last year?
+                              (A) 128      (D) 175
+                              (B) 140      (E) 200
+                              (C) 172
+
+Month              Average Price
+per Dozen
+April                       $1.26
+May                         $1.20
+June                      $1.08
+
+19. The table above shows the average (arithmetic mean) price per dozen of the large grade A eggs sold in a certain store during three successive months. If \(\frac{2}{3}\) as many dozen were sold in April as in May, and twice as many were sold in June as in April, what was the average price per dozen of the eggs sold over the three-month period?
+                              (A) $1.08       (D) $1.16
+                              (B) $1.14       (E) $1.18
+                              (C) $1.14
+
+20. If \(y \neq 3\) and \(\frac{3}{y}\) is a prime integer greater than 2, which of the following must be true?
+                              I. \(x = y\)
+                              II. \(y = 1\)
+                              III. \(x\) and \(y\) are prime integers.
+                              (A) None        (D) III only
+                              (B) I only        (E) I and III
+                              (C) II only
+
+Page 8
+www.markhorwrites.blogspot.com
+```
+
+================================================================================
+PAGE 010
+================================================================================
+
+```
+FAST ENTRY TEST PAST PAPERS PLSPOT
+
+                      FAST PAST PAPER 1
+
+                                   IQ
+
+QUESTION 1
+Which of the lower circles replaces the question mark?
+                   K       Q       M
+               E   U   S   Q   G
+                   A   I   Y   W   U   K   S
+               M   C   A   Y   O
+                          G   E   C
+                                  ?
+                       A   D   F   G   I   L   P   R
+
+QUESTION 2
+Which number replaces the question mark and completes the puzzle?
+                       1
+                 3           4
+                       4
+
+                       7
+                 10          6
+                       5          ?
+
+                     4, 6, 8, 9
+
+QUESTION 3
+Which letter completes the puzzle?
+                  C       H       A       G
+                  E       M       F       ?
+                  R       M       S       N       L
+
+                           A, B, E, F
+
+QUESTION 4
+What is missing from the last star?
+                    4       6       11
+                        9       2       7
+                    3       2       ?
+                    
+                     4, 5, 7, 9
+
+                                    QUESTION 5
+
+Page 9    www.markhorwrites.blogspot.com
+```
+
+================================================================================
+PAGE 011
+================================================================================
+
+FAST ENTRY TEST PAST PAPERS PLS POT
+
+WWW.PakLearningSpot.com
+Download More MCQs from Website
+
+FAST PAST PAPER 1
+
+Which letter completes the puzzle?
+
+[A diagram of interconnected circles with letters] 
+
+A, U, V, W
+
+QUESTION 6
+Which number replaces the question mark and completes the puzzle?
+
+5
+7
+3
+
+6
+2
+10
+
+5
+5
+?
+
+QUESTION 7
+Which number replaces the question mark and completes the puzzle?
+
+3
+7
+18
+
+2
+8
+12
+
+9
+?
+ 
+22, 29, 12, 3
+
+QUESTION 8
+Which segment completes the puzzle?
+
+[Large blocky letter-grid image]
+
+QUESTION 9
+
+Page 10
+www.markhorwrites.blogspot.com
+
+FAST PAST PAPERS
+
+================================================================================
+PAGE 012
+================================================================================
+
+I can extract text, but the provided image is low resolution for several parts, so some sections are not fully legible. Below is the best-possible transcription of the clearly readable text, preserving numbering, options, and visible content. Unreadable or ambiguously read parts are indicated or described.
+
+FAST ENTRY TEST PAST PAPERS PLSPOT
+[Top-right banner]
+WWW.PakLearningSpot.com
+Download More MCQs from Website
+
+FAST PAST PAPER 1
+
+Which letter replaces the question mark and completes the puzzle?
+
+Circle sets (letters visible in each circle):
+- Circle 1: A  J
+  F  M
+- Circle 2: I  R
+  N  U
+- Circle 3: Q  Z
+  V  C
+- Circle 4: E  N
+  J  Q
+- Circle 5: M  V
+  R  ?
+
+(Answer options for this puzzle)
+A, Y, Z, Q
+
+QUESTION 10
+Which letter follows the sequence to complete the puzzle?
+
+Sequence diagram (letters in order):
+A  H  F  M  K  R  P  ?
+
+(Answer options)
+X, V, W, Q
+
+QUESTION 11
+Which number replaces the question mark and completes the sequence?
+
+ Diamond-number puzzles (arranged as four diamonds; numbers approximate from image):
+- Diamond 1: top 10, left 3, bottom 6, right 1
+- Diamond 2: top 14, left 4, bottom 2?, right 9 (unclear)
+- Diamond 3: (numbers not clearly legible)
+- Diamond 4: (numbers not clearly legible)
+
+(Answer options)
+4, 8, 11, 10
+
+QUESTION 12
+Which number replaces the question mark and completes the sequence?
+
+[Image: a grid of circles with numbers inside; numbers in many cells are not clearly legible in the provided image]
+
+[Answer options and/or instructions for Question 12 are not clearly legible in the provided image]
+
+Page 11
+www.markhorwrites.blogspot.com
+
+Notes:
+- Several parts of Questions 11 and 12 rely on small diagrams (diamonds and a circular grid) whose numbers are not fully legible in this image. If you can provide a higher-resolution version, I can transcribe those numbers exactly and preserve any additional formatting (e.g., line breaks, spacing, and any answer keys if present).
+
+Would you like me to attempt a more complete transcription if you re-upload a higher-res image, or should I proceed with clarifying questions for the unreadable sections?
+
+================================================================================
+PAGE 013
+================================================================================
+
+FAST ENTRY TEST PAST PAPERS PLS POT
+
+FAST PAST PAPER 1
+
+7.6, 9, 10
+
+QUESTION 13
+Which number replaces the question mark and completes the sequence?
+
+[Diagram: circular sequence with numbers]
+
+QUESTION 14
+8, 7, 10, 13
+Which letter replaces the question mark and completes the sequence?
+
+13   INC   2
+6    QRG   17
+4    DOM   8
+7    SUI   7
+8    AD?   2
+
+QUESTION 15
+K, L, M, N
+Which letter replaces the question mark and completes the sequence?
+
+[Diagram: Venn-like circles with letters]
+
+H, E, Z, M
+
+QUESTION 16
+[Text not clearly legible in image]
+
+Page 12
+www.markhorwrites.blogspot.com
+
+================================================================================
+PAGE 014
+================================================================================
+
+I’m happy to extract the text, but this image is too small/low-resolution for reliable OCR. I can’t accurately read the MCQ options and some numbers, so I don’t want to provide something incorrect.
+
+If you can upload a higher-resolution version (or crop out just the pages/sections you need), I’ll preserve all formatting exactly as requested:
+- Preserve question numbering (e.g., "1)", "Q.1", "1.")
+- Preserve option labels (A., B., C., D. or A), B), C), D))
+- Preserve any "(Correct)" markers or answer keys
+- Maintain line breaks between questions and options
+- Preserve mathematical notation, symbols, and special characters
+- Keep each option on separate lines when shown that way
+- Do not merge multiple options on one line if they appear on separate lines
+- Include any end-of-section answer keys if present
+
+If you can provide a clearer image, I’ll proceed with a precise, line-for-line extraction. Alternatively, you could paste the text you can read, and I’ll format it exactly as required.
+
+================================================================================
+PAGE 015
+================================================================================
+
+I can help with that, but the image quality makes it hard to read all of the text precisely (especially the letters in the diagrams). If you can provide a higher-resolution image, I can give you a perfect, line-for-line transcription. 
+
+In the meantime, here is what I can clearly read from the image, preserving the visible line breaks and formatting as much as possible:
+
+FAST ENTRY TEST PAST PAPERS PLSPOT
+
+www.PakLearningSpot.com
+Download More MCQs from Website
+
+FAST PAST PAPER 1
+
+Which letter replaces the question mark and completes the puzzle?
+
+[diagram appears here with letters in circles]
+A, W, E, Q
+
+QUESTION 20:
+
+Which letter replaces the question mark and completes the puzzle?
+
+[second diagram with many letters in circles]
+
+A, B, D, R  (text appears near the bottom of the diagram)
+
+Page 14
+www.markhorwrites.blogspot.com
+
+Notes:
+- Some letters and exact placements in the two diagrams are not clearly readable due to the image resolution, so I could not guarantee a perfect transcription of those parts.
+- If you can upload a higher-resolution image (or separate scans of each page), I’ll produce an exact, line-for-line extraction including all letters, diagram labels, and any answer keys or markers exactly as shown.
+
+================================================================================
+PAGE 016
+================================================================================
+
+FAST ENTRY TEST PAST PAPERS PLSPOT
+
+WWW.PakLearningSpot.com
+Download More MCQs from Website
+
+FAST PAST PAPER 1
+ENGLISH
+
+ANALOGIES
+1. BANDAGE : LACERATION
+A. ambulance : transportation
+B. alcohol : antiseptic
+C. cast : fracture
+D. transfusion : blood
+E. oxygen : shock
+
+2. PEDAL : FOOT
+A. thimble : finger
+B. crutch : leg
+C. knob : hand
+D. belt : waist
+E. pillow : head
+
+SYNONYMS
+3. Synonym of ANTIPATHY
+A. abnormal
+B. indifference
+C. conjoined
+D. firm dislike
+E. daring
+
+4. Synonym of ENGENDER
+A. to put in danger
+B. to show composure
+C. to improve
+D. to produce
+E. to admire
+
+ANTONYMS
+5. Antonym of NORM
+A. linchpin
+B. benchmark
+C. watershed
+D. anomaly
+E. mode
+
+6. Antonym of APPREHEND
+A. purlin
+B. gambol
+C. speculate
+D. release
+E. confer
+
+SENTENCE COMPLETION
+7. After having _____ their current level of study, students are typically ready to move on to the next one.
+A. investigated
+B. studied
+C. attempted
+D. mastered
+E. enjoyed
+
+8. My friend generously offered to _____ my children while I was out, but because we already had a babysitter, I _____ the offer.
+A. look after...took
+B. look after...rejected
+C. monitor...accepted
+D. watch...declined
+E. take after...agreed
+
+PREPOSITIONS
+9. He will appear _____ the magistrate.
+A. in front of
+B. to
+C. before
+D. for
+E. near
+
+10. I would like to move ______ Marketing.
+A. into
+B. in
+C. through
+D. at
+E. across
+
+Page 15
+www.markhorwrites.blogspot.com
+
+================================================================================
+PAGE 017
+================================================================================
+
+Page 17 (Answer Sheet - FAST PAST PAPER 1)
+
+SECTION-1,,,SECTION-II,,SECTION- III,,SECTION - IV,
+MATHEMATICS,,,BASIC MATH,,IQ,,ENGLISH,
+1,A,41,D,1,D,1,C,
+2,A,42,B,2,B,2,C,
+3,A,43,B,3,C,3,D,
+4,B,44,D,4,A,4,D,
+5,D,45,C,5,U,5,D,
+6,A,46,B,6,5,6,D,
+7,C,47,D,7,22,7,D,
+8,B,48,B,8,2,8,B,
+9,D,49,C,9,Y,9,C,
+10,C,50,A,10,W,10,A,
+11,C,,,11,E,11,4,
+12,A,,,12,E,12,7,
+13,A,,,13,D,13,7,
+14,C,,,14,C,14,K,
+15,D,,,15,B,15,H,
+16,B,,,16,C,16,0,
+17,B,,,17,C,17,F,
+18,A,,,18,A,18,5,
+19,D,,,19,D,19,E,
+20,B,,,20,D,20,B,
+21,A,,,,,,,
+22,A,,,,,,,
+23,B,,,,,,,
+24,C,,,,,,,
+25,A,,,,,,,
+26,A,,,,,,,
+27,C,,,,,,,
+28,B,,,,,,,
+29,B,,,,,,,
+30,A,,,,,,,
+31,B,,,,,,,
+32,D,,,,,,,
+33,C,,,,,,,
+34,D,,,,,,,
+35,A,,,,,,,
+36,B,,,,,,,
+37,D,,,,,,,
+38,B,,,,,,,
+39,A,,,,,,,
+40,C,,,,,,,
+W,W,,W,W,W,,W,
+R,R,,R,R,R,,R,
+,,,,,,,,

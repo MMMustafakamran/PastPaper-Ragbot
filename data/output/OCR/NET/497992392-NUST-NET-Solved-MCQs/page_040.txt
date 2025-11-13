@@ -1,7 +1,41 @@
-I can extract the text, but the provided image is quite low resolution and small, which makes exact transcription of all questions and options uncertain. To preserve formatting precisely (including numbering, option labels, and any answer keys), a higher-resolution scan/page would be ideal.
+81. The equation of the tangent to the ellipse x^2/a^2 + y^2/b^2 = 1 at the point (2, -3) is
+(a) 2x/a^2 - 3y/b^2 = 1
+(b) -2x/a^2 + 3y/b^2 = 1
+(c) -2x/a^2 - 3y/b^2 = 1
+(d) 2x/a^2 + 3y/b^2 = 1
 
-Would you:
-- (a) Upload a higher-resolution image (or a clearer scan) of the same page, or
-- (b) Proceed with a best-effort transcription based on the current image, with notes about any uncertain or unclear parts?
+82. The straight line y = mx + c is tangent to the ellipse x^2/a^2 + y^2/b^2 = 1,
+(a) -c = ±√(a^2 m^2 + b^2)
+(b) c = ±√(a^2 b^2 m^2)
+(c) c = ±√(a^2 + b^2 m^2)
+(d) c = ±√(a^2 m^2 - b^2)
 
-If you prefer (b), I can produce a best-effort text extraction for questions 81–87 (as visible), clearly marking any parts that are ambiguous, and I’ll maintain the exact numbering and option labels as they appear.
+83. The straight line y = mx + c is tangent to the hyperbola x^2/a^2 - y^2/b^2 = 1 if
+(a) c = ±√(a^2 m^2 + b^2)
+(b) c = ±√(a^2 b^2 + m^2)
+(c) c = ±√(a^2 + b^2 m^2)
+(d) c = ±√(a^2 m^2 - b^2)
+
+84. The equation of the tangent to the parabola y^2 = 4ax at the point (x₁, y₁) is
+(a) yy₁ = 4a(x - x₁)
+(b) yy₁ = 4a(x + x₁)
+(c) yy₁ = 2a(x + x₁)
+(d) yy₁ = -2a(x + x₁)
+
+85. Two conics will always intersect each other in
+(a) no
+(b) one
+(c) two
+(d) four points
+
+86. Two conics are said to touch each other if they intersect in coincident point/s
+(a) one
+(b) two
+(c) more than two
+(d) two or more
+
+87. If the origin O(0,0) is shifted to some other point O'(h,k) such that the new coordinate axes remain parallel to the original ones, then this process is called
+(a) translation of axes
+(b) rotation of axes
+(c) shifting of origin
+(d) transfer of axes

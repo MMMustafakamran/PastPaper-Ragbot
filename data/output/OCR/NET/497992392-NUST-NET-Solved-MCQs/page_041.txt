@@ -1,7 +1,55 @@
-I’m happy to extract the text, but the current image is too low-resolution/blurred in several areas to read accurately. To preserve the exact formatting you asked for, I need a clearer scan.
+88. Centre of the circle (x - b)^2 + (y - a)^2 = r^2 is
+(a) (b, a)
+(b) (-b, -a)
+(c) (a, b)
+(d) (-a, -b)
 
-Options:
-- Please upload a higher-resolution image or a scanned PDF of the page (preferably 300–600 dpi).
-- If a clearer image isn’t available, I can attempt a best-effort transcription of the clearly readable parts and mark uncertain/illegible sections, but that may miss or misstate some details.
+89. The equation 4x^2 + 4y^2 - 16x + 24y - 117 = 0 represents
+(a) circle
+(b) parabola
+(c) ellipse
+(d) hyperbola
 
-If you’d like me to proceed with a best-effort transcription now (not guaranteed to be exact), say “proceed,” and I’ll extract what’s readable and clearly flag uncertain questions/options.
+90. If the major axis of an ellipse is of length 12 and minor axis of 6, then equation of the ellipse is
+(a) x^2/12 + y^2/6 = 1
+(b) x^2/6 + y^2/3 = 1
+(c) x^2/12 - y^2/12 = 1
+(d) x^2 - 2y^2 = 12
+
+91. In an ellipse, the foci lie on
+(a) major axis
+(b) minor axis
+(c) directrix
+(d) z-axis
+
+92. The foci of the hyperbola x^2/a^2 - y^2/b^2 = 1 are
+(a) (±c, 0)
+(b) (0, ±c)
+(c) (±a, 0)
+(d) (0, ±a)
+
+93. The centre of the circle 45x^2 + 45y^2 - 60x + 36y + 19 = 0 is
+(a) (-2/3, 2/5)
+(b) (2/3, -2/5)
+(c) (2/5, 2/3)
+(d) (-2/5, -2/3)
+
+94. The value of a for which the parabola y^2 = 4ax passes through (2, 3) is
+(a) 9/8
+(b) 8/9
+(c) 1/3
+(d) -1/3
+
+95. The eccentricity of the ellipse x^2/16 + y^2/9 = 1 is
+(a) √7/4
+(b) 7/1
+(c) 16
+(d) 9
+
+96. The vertices of the hyperbola y^2/a^2 - x^2/b^2 = 1 are
+(a) (±a, 0)
+(b) (0, ±a)
+(c) (±ae, 0)
+(d) (0, ±ce)
+
+97. If (x - h)^2/a^2 - (y - k)^2/b^2 = 1 is the hyperbola with centre (h, k) then the equation of directrices are

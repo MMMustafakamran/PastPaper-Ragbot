@@ -1,8 +1,65 @@
-I’m ready to extract the text exactly as you requested, but the provided image is too low-resolution and contains a watermark that makes reliable OCR difficult. I don’t want to risk misreading and misrepresenting the questions and options.
+1. d/dx tan 3x = ?
+(a) 3 sec^2 3x
+(b) (1/3) sec^2 3x
+(c) cot 3x
+(d) sec^2 x
 
-Could you please supply one of the following?
-- A higher-resolution scan/page image (preferably 300–600 dpi).
-- A PDF of the exam paper (single page or multiple pages).
-- A clearer crop of the page, if possible, focusing on the text.
+2. d/dx 2^x = ?
+(a) 2^x/ln 2
+(b) ln 2/2^x
+(c) 2^x ln 2
+(d) 2x
 
-If you’d like, I can also proceed with a best-effort transcription from the current image, but I would annotate items that are uncertain and mark them clearly. Let me know which option you prefer.
+3. If y = e^(2x), then y'' = ?
+(a) e^(2x)
+(b) 2e^(2x)
+(c) 4e^(2x)
+(d) 16e^(2x)
+
+4. d/dx (ax + b)^n = ?
+(a) n(a^(n-1)x + b)
+(b) n(ax + b)^(n-1)
+(c) n(a^(n-1)x)
+(d) na(ax + b)^(n-1)
+
+5. The change in variable x is called increment of x. It is denoted by δx which is
+(a) +ve only
+(b) -ve only
+(c) +ve or -ve
+(d) none of these
+
+6. The notation dy/dx or df/dx is used by
+(a) Leibnitz
+(b) Newton
+(c) Lagrange
+(d) Cauchy
+
+7. The notation f(x) is used by
+(a) Leibnitz
+(b) Newton
+(c) Lagrange
+(d) Cauchy
+
+8. The notation f'(x) or y' is used by
+(a) Leibnitz
+(b) Newton
+(c) Lagrange
+(d) Cauchy
+
+9. The notation Df(x) or Dy is used by
+(a) Leibnitz
+(b) Newton
+(c) Lagrange
+(d) Cauchy
+
+10. lim [f(x) - f(a)]/(x - a) as x → a = ?
+(a) f'(x)
+(b) f'(a)
+(c) f(0)
+(d) f(x - a)
+
+11. d/dx (x^n) = nx^(n-1) is called:
+(a) power rule
+(b) product rule
+(c) quotient rule
+(d) constant rule

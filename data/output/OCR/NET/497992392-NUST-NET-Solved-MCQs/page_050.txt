@@ -1,3 +1,79 @@
-I can extract the text, but the image is relatively low resolution and some characters are hard to read accurately. To preserve the exact formatting you requested, I need a higher-resolution image (or a cropped, sharper version of this page).
+51. (cont.)
+(a) n̂ = (a · b)/(ab)
+(b) n̂ = |a × b|/(ab)
+(c) n̂ = (a × b)/|a × b|
+(d) n̂ = a × b
 
-Would you like me to proceed with a best-effort transcription of the currently visible text (noting that some characters may be misread), or would you please provide a higher-resolution image so I can produce a precise, exact copy with all numbering, options, and any answer markers preserved?
+52. If u = [x, y], v = [x₁, y₁], then u - v is
+(a) [x + x₁, y - y₁]
+(b) [x - x₁, y - y₁]
+(c) [x - x₁, y + y₁]
+(d) [x + x₁, y + y₁]
+
+53. If α, β, γ are the direction angles of a vector then Cos² α + Cos² β + Cos² γ =
+(a) 3
+(b) 2
+(c) 1
+(d) 0
+
+54. The position vector of any point in xy-plane is:
+(a) x i + y j = r
+(b) r = y j + z k
+(c) r = x i + z k
+(d) r = x i + y j + z k
+
+55. If the vectors 2i - 6j - 7k and -2i + 6j + xk are perpendicular, then x equals
+(a) -40/7
+(b) 40/7
+(c) -7
+(d) -4
+
+56. If u = -2î + ĵ - 3k̂, then |u| equals to:
+(a) 14
+(b) √14
+(c) -12
+
+57. Area of triangle whose u & v are adjacent vectors:
+(a) u × v
+(b) (1/2)|u × v|
+(c) (1/2)(u · v)
+
+58. If a and b are perpendicular to each other, then a · b =
+(a) ab
+(b) -ab
+(c) ab sin θ
+(d) 0
+
+59. A vector perpendicular to each of vectors 2i and k is:
+(a) i
+(b) ±2j
+
+60. The product of vectors u · (u × w) represents:
+(a) Area of parallelogram
+(b) Volume of parallelepiped
+(c) Height of parallelepiped
+(d) None of these
+
+61. For the vectors a = 2i + 4j - k and b = 2i + 6j + xk, if a is perpendicular to b, then x =
+(a) -1
+(b) 1
+(c) 28
+(d) -28
+
+62. The cross product is also called:
+(a) Scalar product
+(b) Dot product
+(c) Vector product
+(d) None
+
+63. The position vector of any point in yz-plane is:
+(a) x i + y j = r
+(b) r = y j + z k
+(c) r = x i + z k
+(d) r = x i + y j + z k
+
+64. The position vector of any point in xz-plane is:
+(a) x i + y j = r
+(b) r = y j + z k
+(c) r = x i + z k
+(d) r = x i + y j + z k

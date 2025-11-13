@@ -1,7 +1,53 @@
-Thanks for the image. I can extract the text, but this particular page is quite blurry and has a watermark, which makes exact transcription unreliable. To preserve your required formatting exactly, I’d need a higher-resolution image (or a version without the watermark).
+19. If y = cos γt, domain = R, then range is
+(a) -1,1
+(b) [-1,1]
+(c) R - [-1,1]
+(d) R - ]-1,1[
 
-Would you like me to:
-- Proceed with a best-effort OCR of the visible text now (not guaranteed 100% accurate), or
-- Wait for a clearer image (preferred), and then I’ll deliver a precise transcription preserving all question numbers, option labels, line breaks, and any answer markers?
+20. If y = tan x, domain = {x | x ∈ R, x ≠ (2n+1)π/2, n integer}, then range is
+(a) ]-1,1[
+(b) [-1,1]
+(c) R - [-1,1]
+(d) all real numbers
 
-If you want me to proceed now, I can provide a best-guess transcription of questions 19–27 as they appear, noting where the text is uncertain.
+21. If y = sec x, domain = {x | x ∈ R, x ≠ (2n+1)π/2, n integer}, then range is
+(a) ]1,1[
+(b) [-1,1]
+(c) R - [-1,1]
+(d) R - ]-1,1[
+
+22. If y = cot x, domain = {x | x ∈ R, x ≠ nπ, n integer}, then range is
+(a) y ≥ 1, y ≤ -1
+(b) y ≤ 1, y ≥ -1
+(c) y < 1, y > -1
+(d) all real numbers
+
+23. If y = cosec x, domain = {x | x ∈ R, x ≠ nπ, n integer}, then range is
+(a) y ≥ 1, y ≤ -1
+(b) y ≤ 1, y ≥ -1
+(c) y < 1, y > -1
+(d) all real numbers
+
+24. If x = a^y, then y = log_a x is called logarithmic function when
+(a) a < 0
+(b) a = 0
+(c) a > 0
+(d) a > 0, a ≠ 1
+
+25. If cosh x = (e^x + e^-x)/2, then its domain is set of all real numbers and range is
+(a) set of all real numbers
+(b) set of +ve real numbers
+(c) [1,∞]
+(d) ]-∞,1]
+
+26. In logarithmic form, sinh^-1 x can be written as
+(a) ln(x + √(x^2 + 1))
+(b) ln(x + √(x^2 - 1))
+(c) ln(x - √(x^2 + 1))
+(d) ln(x - √(x^2 - 1))
+
+27. In logarithmic form, cosh^-1 x can be written as
+(a) ln(x + √(x^2 + 1))
+(b) ln(x + √(x^2 - 1))
+(c) ln(x - √(x^2 + 1))
+(d) ln(x - √(x^2 - 1))

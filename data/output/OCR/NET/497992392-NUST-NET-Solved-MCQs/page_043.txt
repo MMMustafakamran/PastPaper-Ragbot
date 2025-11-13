@@ -1,7 +1,89 @@
-I’m ready to extract the text exactly as requested, but this image is quite low resolution and the text is blurry in many places. To preserve all question numbers, options, and any answer markers accurately, I’ll need a clearer image (higher resolution or a clean scan).
+113. For the ellipse x^2/a^2 + y^2/b^2 = 1 (a > b), equation of latus rectum is:
+(a) x = ±c
+(b) x = ±c
+(c) x = ±c
+(d) y = ±c
 
-What you can do:
-- Upload a higher-resolution version (preferably 300 dpi or higher, PNG/JPG/PDF).
-- If you have a text version or a more legible crop of this page, paste that and I’ll format it exactly as specified.
+114. The hyperbola x^2/a^2 - y^2/b^2 = 1 is symmetrical about:
+(a) x-axis
+(b) y-axis
+(c) Both axis
+(d) z-axis
 
-If you’d like, I can also proceed with a best-effort extraction from this image and clearly note any places where the text is uncertain.
+115. General equation of the circle is:
+(a) x^2 + 2y^2 + 2gx + 2fy + c = 0
+(b) 2x^2 + y^2 + 2gx + 2fy + c = 0
+(c) x^2 + y^2 + 2gx + 2fy + c = 0
+(d) x^2 - y^2 + 2gx + 2fy + c = 0
+
+116. The vertex of the parabola (x + 1)^2 = 8(y - 2) is:
+(a) (1, 2)
+(b) (-1, 2)
+(c) (2, -1)
+(d) (-2, 1)
+
+117. Vertices of the ellipse x^2/b^2 + y^2/a^2 = 1 (a > b) are
+(a) (±a, 0)
+(b) (0, ±a)
+(c) (±b, 0)
+(d) (0, ±b)
+
+118. The eccentricity e of the hyperbola is always such that:
+(a) e < 0
+(b) 0 < e < 1
+(c) e = 1
+(d) e > 1
+
+119. The radius of the circle (x - 1)^2 + (y + 3)^2 = 3 is
+(a) √3
+(b) 3
+(c) 3√3
+(d) 9
+
+120. The directrix of the parabola y^2 = 8x is
+(a) x + 2 = 0
+(b) x - 2 = 0
+(c) y + 2 = 0
+(d) y - 2 = 0
+
+121. Transverse axis of hyperbola x^2/a^2 - y^2/b^2 = 1
+(a) x = a/e
+(b) y = a/e
+(c) y = 0
+(d) x = 0
+
+122. Equation of the circle with centre at the origin and radius √5 is:
+(a) x^2 + y^2 = √5
+(b) x^2 + y^2 = 5
+(c) x^2 + y^2 = 25
+(d) None
+
+123. The centre of the circle having equation x^2 + y^2 + 12x - 10y = 0 is:
+(a) (6, 5)
+(b) (-6, -5)
+(c) (-6, 5)
+(d) (6, -5)
+
+124. The end points of the major axis of the ellipse are called its:
+(a) Foci
+(b) Vertices
+(c) Covertices
+(d) Directrices
+
+125. Vertices of the hyperbola x^2/16 - y^2/4 = 1 are:
+(a) (±2, 0)
+(b) (0, ±2)
+(c) (±4, 0)
+(d) (0, ±4)
+
+126. The equation of tangent to the parabola x^2 = 4ay:
+(a) y = mx + a/m^2
+(b) y = mx - am^2
+(c) y = mx + am^2
+(d) y = mx + a/m
+
+127. Transverse axis of y^2/16 - x^2/49 = 1
+(a) lies on x-axis
+(b) lies on y-axis
+(c) pass through (4, 7)
+(d) pass through (7, 4)

@@ -1,1 +1,71 @@
-I can attempt to extract the text, but the image quality is quite low (blurry, with watermark), so some characters may be unreadable or ambiguous. I can provide a best-effort transcription and mark uncertain parts. Would you like me to proceed with a best-effort extraction and flag unclear sections, or would you prefer you upload a higher-resolution scan for a precise, line-by-line transcription?
+51. The second degree equation ax^2 + by^2 + 2gx + 2fy + c = 0 with either a = 0 or b = 0 but not both zero represents
+(a) parabola
+(b) circle
+(c) ellipse
+(d) hyperbola
+
+52. The parabola y^2 = -12x opens
+(a) downwards
+(b) upwards
+(c) rightwards
+(d) leftwards
+
+53. In the case of an ellipse it is always true that
+(a) a^2 > b^2
+(b) a^2 < b^2
+(c) a^2 = b^2
+(d) a < 0, b < 0
+
+54. In a conic section, if ρ = 0 then it is called
+(a) parabola
+(b) circle
+(c) ellipse
+(d) hyperbola
+
+55. The mid-point of the foci of an ellipse is called
+(a) focus
+(b) latus rectum
+(c) centre
+(d)
+
+56. The distance between centre and either vertex of an ellipse is length of
+(a) major axis
+(b) semi-major axis
+(c) minor axis
+(d) semi-minor axis
+
+57. The mid point of the vertices of a hyperbola is called
+(a) focus
+(b) latus rectum
+(c) centre
+(d) covertices
+
+58. The mid point of the foci of a hyperbola is called
+(a) focus
+(b) latus rectum
+(c) centre
+(d) covertices
+
+59. The distance between centre and either vertex of a hyperbola is length of
+(a) transverse axis
+(b) imaginary axis
+(c) semi-focal axis
+(d) latus rectum
+
+60. The distance between two vertices of an ellipse is the length of
+(a) major axis
+(b) minor axis
+(c) transverse axis
+(d) conjugate axis
+
+61. The distance between covertices of an ellipse is called
+(a) major axis
+(b) minor axis
+(c) focal axis
+(d) latus rectum
+
+62. The distance between vertices of a hyperbola is called
+(a) major axis
+(b) minor axis
+(c) focal axis
+(d) conjugate axis

@@ -1,11 +1,59 @@
-I can extract the text, but the image you provided is too low-resolution to read reliably. For an exact, line-for-line transcription that preserves all formatting (including numbering, option labels, and any answer markers), I need a sharper image (preferably 300–600 dpi) or a clean PDF scan.
+70. 1 - x + x - x + x + ...... + (-1)^n x^n + .... is the expansion of:
+(a) 1/(1 - x)
+(b) 1/(1 + x)
+(c) 1/√(1 - x)
+(d) 1/√(1 + x)
 
-If you can provide a higher-resolution version, I will extract the text exactly as it appears, preserving:
-- Question numbering (e.g., “70.”, “71.”, “Q.1”, etc.)
-- All option labels (A., B., C., D. or A), B), C), D))
-- Any (Correct) markers or answer keys
-- Line breaks, spacing, and separate lines for each option
-- All mathematical notation and special characters
-- Any answer key sections at the end of sections
+71. Derivative of x = (3/4)x^4 + (2/3)x^3 is:
+(a) (3/4)(4x^4)
+(b) 3x^11 + 2x^2
+(c) 3x^3
+(d) None of these
 
-In the meantime, I can offer a best-effort transcription of the clearly legible parts, but please note it may contain inaccuracies due to the image quality. If you’d like that, say “best effort” and I’ll proceed with what I can read.
+72. If f'(x) = 0 and f''(x) ≤ 0 at a point P, then P is called:
+(a) Relative maxima
+(b) Relative minima
+(c) point of inflection
+(d) None of these
+
+73. If f be a real valued function, continuous in the interval ]x, x₁[ ⊆ Df, then the quotient [f(x₁) - f(x)]/(x₁ - x) is called
+(a) Derivative of f
+(b) Differential of f
+(c) Average rate of change of f
+(d) Instantaneous change of f
+
+74. If f be a real valued function, continuous in the interval ]x, x₁[ ⊆ Df, and if lim [f(x₁) - f(x)]/(x₁ - x) as x₁ → x exists, then the quotient is called
+(a) Derivative of f
+(b) Differential of f
+(c) Average rate of change of f
+(d) Actual change of f
+
+75. If f(x) = x^4 + 2x^3 + x^2, then f'(0) =
+(a) 4
+(b) 0
+(c) -4
+(d) 1
+
+76. If g is differentiable function at the point x and f is differentiable at point g(x), then (f o g)'(x) or d/dx (f o g)(x) =
+(a) f'(x) · g'(x)
+(b) (f' o g)'(x)
+(c) f'(g(x)) · g'(x)
+(d) f'(g'(x))
+
+77. If y = sinh^-1 (x^3), then dy/dx =
+(a) 1/√(1 + x^2)
+(b) 3
+(c) 1/√(1 + x^6)
+(d) 3x^2/√(1 + x^6)
+
+78. If x and h are two independent quantities and f(x + h) can be expanded in ascending powers of h as an infinite series, then f(x + h) = f(x) + hf'(x) + (h^2/2!)f''(x) + ... + (h^n/n!)f^(n)(x) + ... is called
+(a) Power series
+(b) Maclaurin series
+(c) Taylor series
+(d) all of these
+
+79. A function f(x) is such that, at a point x = c, f'(x) > 0 at x = c, then f is said to be
+(a) Increasing
+(b) decreasing
+(c) constant
+(d) 1-1 function

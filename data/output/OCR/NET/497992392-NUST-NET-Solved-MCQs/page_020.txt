@@ -1,21 +1,65 @@
-I can extract the text, but the image quality makes several parts unreadable. I’ve transcribed the clearly readable items exactly as they appear and can proceed with the rest if you can provide a higher-resolution image.
-
-Readably transcribed text (as it appears):
-
-26. ∫ cos x dx =
-(a) - Sin x + c
+26. ∫ Cos x dx =
+(a) -Sin x + c
 (b) Sin x + c
-(c) - Cos x + c
-(d) Cos x + c
+(c) -cos x + c
+(d) cos x + c
 
-27. If a > 0 and a ≠ 1 then ∫ a^x dx =
+27. If a > 0 and a ≠ 1, then ∫ a^x dx =
 (a) a^x + c
 (b) a^x ln a + c
-(c) a^x / ln a + c
-(d) a^(x+1) / ln a + c
+(c) a^x/ln a + c
+(d) a^(x+1)/(x+1) + c
 
-Notes:
-- The header text and watermark in the image are not part of the exam questions and are not transcribed here.
-- Items 28–36 are not readable enough in the provided image to transcribe accurately.
+28. ∫ dx/(1 + x^2) =
+(a) tan x + c
+(b) tan^-1 x + c
+(c) Cot x + c
+(d) Cot^-1 x + c
 
-If you can supply a higher-resolution scan or a clearer version of the page (or at least the remaining questions 28–36), I’ll transcribe those exactly as well, preserving all formatting, line breaks, and option markers.
+29. ∫ f'(x)/f(x) dx =
+(a) ln x
+(b) ln f(x)
+(c) ln f'(x)
+(d) f'(x) ln f'(x)
+
+30. ∫ dx/(x ln x) is equal to:
+(a) ln x + c
+(b) x + c
+(c) ln(ln x) + c
+(d) ln(ln(ln x)) + c
+
+31. ∫ sec x dx is equal to:
+(a) ln (sec x + tan x) + c
+(b) ln (cosec x - cot x) + c
+(c) ln (sec x - tan x) + c
+(d) -ln (cosec x - cot x) + c
+
+32. ∫ cos x dx/(sin x · ln sin x) is equal to:
+(a) ln (ln (cos x)) + c
+(b) ln (ln (sin x)) + c
+(c) ln sin x + c
+(d) ln cos x + c
+
+33. The solution of differential equation dy/dx = sec^2 x is
+(a) y = cos x + c
+(b) y = tan x + c
+(c) y = sin x + c
+(d) y = cot x + c
+
+34. ∫ 2x dx is equal to:
+(a) 9
+(b) 7
+(c) 4
+(d) 0
+
+35. ∫ e^(ax) sin bx dx is equal to:
+(a) e^(ax)/(a^2 + b^2) (a sin bx - b cos bx) + c
+(b) e^(ax)/(a^2 + b^2) (b sin bx + a cos bx)
+(c) e^(ax)/(a^2 + b^2) (a sin bx + b cos bx)
+(d) e^(ax)/(a^2 + b^2) (b sin bx - a cos bx)
+
+36. ∫_a^b f'(x) dx is equal to:
+(a) 0
+(b) ∫_0^1 f'(x) dx
+(c) -∫_a^b f(x) dx
+(d) ∫_a^b f(x) dx

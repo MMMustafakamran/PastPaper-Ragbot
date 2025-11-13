@@ -1,11 +1,94 @@
-I can do this, but the attached image is too blurry/low-resolution for a reliable, exact transcription that preserves all numbering, option labels, and any answer markers.
+(a) x = ±a/e
+(b) y = ±a/e
+(c) x = ±a/e + h
+(d) y = ±a/e + k
 
-If you can upload a higher-resolution scan or a PDF of the exam paper, I will extract the text exactly as it appears, preserving:
-- question numbers (e.g., 98, 99, 100, 101, …)
-- option labels (A., B., C., D. or A), B), C), D))
-- any "(Correct)" markers or answer keys at the end
-- line breaks between questions and options
-- all mathematical notation and formatting
-- keeping options on separate lines as they appear
+98. If the discriminant h^2 - ab < 0, then the conic will be
+(a) ellipse (or circle)
+(b) parabola
+(c) hyperbola
+(d) degenerate conic
 
-If a higher-res image isn’t available, I can attempt a best-effort transcription of the clearly legible parts (likely starting with questions 98–112) and mark parts that are uncertain due to image quality. Let me know which you prefer.
+99. If the discriminant h^2 - ab = 0, then the conic will be
+(a) ellipse (or circle)
+(b) parabola
+(c) hyperbola
+(d) degenerate conic
+
+100. If the discriminant h^2 - ab > 0, then the conic will be
+(a) ellipse (or circle)
+(b) parabola
+(c) hyperbola
+(d) degenerate conic
+
+101. For parabola x^2 = 4ay, its vertex is:
+(a) (a, 0)
+(b) (0, 0)
+(c) (-a, 0)
+(d) (0, a)
+
+102. The length of major axis of an ellipse is equal to:
+(a) 2a
+(b) 2b
+(c) a
+(d) 4a^2
+
+103. For x^2/a^2 - y^2/b^2 = 1, the centre is the point:
+(a) (a, 0)
+(b) (0, a)
+(c) (0, 0)
+(d) (0, -a)
+
+104. The centre of the circle x^2 + y^2 + 2fy + c = 0 is:
+(a) (f, 0)
+(b) (0, f)
+(c) (-f, 0)
+(d) (0, -f)
+
+105. The line y = mx + c intersects the circle x^2 + y^2 = a^2, if:
+(a) c^2 = a^2(1 + m^2)
+(b) c^2 < a^2(1 + m^2)
+(c) c^2 > a^2(1 + m^2)
+(d) None
+
+106. The focal chord perpendicular to the axis of parabola is called:
+(a) directrix
+(b) Axis
+(c) Latus-rectum
+(d) None
+
+107. For the eccentricity of the ellipse:
+(a) e < 0
+(b) 0 < e < 1
+(c) e = 1
+(d) e > 1
+
+108. Radius of the circle x^2 + y^2 - 6x + 4y + 13 = 0 is:
+(a) 0
+(b) √39
+(c) √65
+(d) √26
+
+109. Co vertices of the ellipse x^2/a^2 + y^2/b^2 = 1 are
+(a) (±a, 0)
+(b) (0, ±a)
+(c) (±b, 0)
+(d) (0, ±b)
+
+110. Length of transverse axis of the hyperbola x^2/a^2 - y^2/b^2 = 1 is:
+(a) 2a
+(b) a
+(c) 2b
+(d) b
+
+111. x^2 + y^2 = r^2 represents an equation of a circle with centre at:
+(a) (h, k)
+(b) (0, 0)
+(c) (1, 1)
+(d) (1, k)
+
+112. The line through the focus and perpendicular to directrix is called
+(a) Directrix
+(b) latus rectum
+(c) Axis of parabola
+(d) Tangent at the vertex

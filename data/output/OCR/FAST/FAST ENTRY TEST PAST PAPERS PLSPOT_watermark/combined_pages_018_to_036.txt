@@ -1,0 +1,993 @@
+
+================================================================================
+PAGE 018
+================================================================================
+
+FAST ENTRY TEST PAST PAPERS PLSPOT
+
+WWW.PakLearningSpot.com
+Download More MCQs from Website
+
+FAST PAST PAPER 2
+
+MATHEMATICS
+
+1. If the ratio of AB to BC is 4:9, what is the area of Parallelogram ABCD?
+a) 36
+b) 26
+c) 18
+d) Cannot be determined
+
+2. When any circle in 2nd Quadrant then what will be the equation of the circle when radius is 5 cm
+a) x^2 + y^2 + 10x + 10y + 25 = 0
+b) x^2 + y^2 + 10x - 10y + 25 = 0
+c) x^2 + y^2 - 10x - 10y + 25 = 0
+d) x^2 + y^2 - 10x + 10y + 25 = 0
+
+3. If a line contains a point P1 (3, -3) and P2 (-3, 3) then the slope of line is?
+a) 2
+b) 1
+c) -1
+d) -2
+
+4. If z = (1,2) then z^{-1} = ?
+a) (0.2, 0.4)
+b) (-0.2, 0.4)
+c) (0.2, -0.4)
+d) (-0.2, -0.4)
+
+5. Z̄ =
+a) Z̄
+b) −Z
+c) Z
+d) None
+
+6. The multiplicative inverse of 1 – 2i is
+a) 1/5 + 2/5i
+b) -1/5 + 2/5i
+c) 1/5 - 2/5i
+d) -1/5 - 2/5i
+
+7. Which of the following is not monoid w.r.t. addition?
+a) Z
+b) W
+c) N
+d) R
+
+8. The middle term is the expansion of (a + b)^12 is
+a) 13th
+b) 12th
+c) 11th
+d) None
+
+9. If A = {4,3} then P(A) is
+a) { φ, {4}, {3}, {4,3} }
+b) { {3}, {4}, {4,3} }
+c) { φ, {3}, {4}, {4,3} }
+d) { φ, {3,4} }
+
+10. The set (Q, +)
+a) Forms a group
+b) Does not form a group
+c) Contains not additive identity
+d) Contain no additive inverse
+
+11. The expansion of (1 – 3x)^3 is valid?
+a) |x| < 1/3
+b) |x| < 1/2
+c) |x| < 2/3
+d) |x| < 1
+
+12. If h n = (n − 5)^2 + 5 then find #3 × #4 = ?
+
+================================================================================
+PAGE 019
+================================================================================
+
+FAST ENTRY TEST PAST PAPERS PLSOPT
+FAST PAST PAPER 2
+
+13. Power set of X P(X)...... Under the binary operation of union U
+a) Forms a group
+b) Does not form a group
+c) Has no identity
+d) ∞ Set although X is ∞
+
+14. If A is non-singular matrix then (A⁻¹)⁻¹=?
+a) A
+b) −A
+c) 1
+d) None
+
+15. Out of 800 boys in a school, 334 played cricket, 240 played hockey and 336 played basketball of the total 64 played both basketball and hockey 80 played cricket and basketball and 40 played cricket and hockey 24 played all the games the number of boys who did not play any game is?
+a) 40
+b) 56
+c) 24
+d) 50
+
+16. Let the equation ax² - bx + c = 0 have district real roots both lying in the open interval (0, 1) where a, b, c are given to be positive integers then the value of the ordered triplet (a, b, c) can be?
+a) (5, 3, 1)
+b) (4, 3, 2)
+c) (5, 5, 1)
+d) (6, 4, 1)
+
+17. If A and B are disjoint sets, then A ∩ B is
+a) A
+b) B
+c) Null set
+d) A ∪ B
+
+18. {1, -1, i, -i} is a group closed under
+a) Multiplication
+b) Addition
+c) Division
+d) Both A & C
+
+19. If ω is complex cube root of unity then ω⁶ is
+a) 1
+b) 0
+c) ω
+d) -1
+
+20. One root of 2x² + kx + 16 = 0 is 4 is the other root is
+a) 2
+b) 3
+c) 4
+d) Cannot be found
+
+21. If A = Aᵀ then matrix A is
+a) Symmetric
+b) Screw Symmetric
+c) Square
+d) None of these
+
+22. The next term of the following sequence is 1/7, -3/7, 9/7, __________
+a) -9/7
+b) -11/7
+c) 29/7
+d) -29/7
+
+23. The nth term of the following sequence is 0, 6, 24, 60, ….
+a) n² − n
+b) n² − 2n
+c) n³ − 2n
+d) n³ − n
+
+24. If the sum of n terms is n² − 3n then its 6th term is
+
+================================================================================
+PAGE 020
+================================================================================
+
+a) 6
+b) 8
+c) 10
+d) 12
+
+25. Three arithmetic means between 15 and 7 are
+a) 13,10,4
+b) 13,9,11
+c) 13,11,9
+d) 13,10,8
+
+26. If the sum of n natural numbers is 325 then n is
+a) 20
+b) 30
+c) 15
+d) 25
+
+27. The product of (2, 3) and (-2, -3) is
+a) (5, 12)
+b) (5, -12)
+c) (-5, -12)
+d) (-5, 12)
+
+28. A coin is tossed twice. The probability of getting at least one head is
+a) 1/2
+b) 3/4
+c) 1/4
+d) 1
+
+29. In the expansion of (x−1/x)^10, the term independent of x is the rth term. Find r?
+a) 6
+b) 5
+c) 7
+d) 8
+
+30. How many different words can be formed using three letters of the word "TABLE"?
+a) 15
+b) 50
+c) 60
+d) 120
+
+31. The equation 2x^2+3y^2-4x = 0 represents
+a) A point
+b) ellipse
+c) Parabola
+d) circle
+
+32. The length of latus rectum of the parabola y^2 + 12x = 0 is
+a) 12
+b) -12
+c) 3
+d) -3
+
+33. Distance of point (3 . -2) from the line 3x + 4y + 10 = 0 is
+a) 11/5
+b) 10
+c) 11/17
+d) 2
+
+34. The limit of e^(3x) - 1 / x as x tends to zero is
+a) 0
+b) 3
+c) 2
+d) 1
+
+35. Second derivative of e^(2x+1) at x = 1 is
+a) e^3
+b) 2e^3
+c) 4e^3
+d) 5e^3
+
+36. The derivative of secx^2 w.r.t 'x' is
+a) sec^2x
+b) sec^2x tanx
+
+================================================================================
+PAGE 021
+================================================================================
+
+FAST ENTRY TEST PAST PAPERS PLSPOT
+
+WWW.PakLearningSpot.com
+Download More MCQs from Website
+
+FAST PAST PAPER 2
+
+c) 2x sec x² tanx
+d) 2 sec tanx
+
+37. The derivative of (x²+1)/x w.r.t 'x' is
+a) 2
+b) 1 + 1/x
+c) 1 − 1/x
+d) 1 − 1/x²
+
+38. For the curve y = 2x − x², x = 1 is a point of
+a) Minima
+b) Maxima
+c) Inflection
+d) None
+
+39. If A = {4,5,6,7,8,9,10}, B = {1,2,3,4,5,6} then A − B =
+a) {7,8,9,10}
+b) {4,5,6,7}
+c) {1,2,3,5}
+d) {1,2,3}
+
+40. ∫ sin x e^(cos x) dx =
+a) e^(sin x) + C
+b) e^(cos x) + C
+c) − e^(cos x) + C
+d) − e^(sin x) + C
+
+41. The nature of roots of the quadratic equation shown in the diagram is / can
+A. real and equal.
+B. real and different.
+C. not be determined.
+D. complex and imaginary.
+
+42. The number of real roots of the curve in the given diagram is/are
+
+Page 20
+www.markhorwrites.blogspot.com
+
+================================================================================
+PAGE 022
+================================================================================
+
+FAST ENTRY TEST PAST PAPERS PLS POT
+
+FAST PAST PAPER 2
+
+[diagram of a double-well parabola with x-axis and y-axis labeled]
+
+A. 0
+B. 1
+
+43. The value of k so that difference between the roots of 5x^2 − kx + 1 = 0 is unity, is
+A. 2√2
+B. 4√2
+C. 3√5
+D. 7√7
+
+44. The nature of the roots of the quadratic equation x^2 − 2 cot θ x − 1 = 0 are
+(Note: θ ≠ πn, n ∈ Z)
+A. real and equal
+B. complex and equal
+C. real and irrational
+D. real and rational
+
+45. If a, b, c are odd integers then the quadratic equation ax^2 + bx + c = 0
+A. cannot have rational roots
+B. cannot have irrational roots
+C. have equal roots only
+D. have complex roots only
+
+46. If 2 + i√3 is a root of the equation x^2 + px + q = 0, where p and q are real numbers then (p, q) is
+A. (−4, 7)
+B. (4, −7)
+C. (−4, −7)
+D. (4, 7)
+
+47. If one root of a quadratic equation x^2 + bx + c = 0 is (2 + i a) then other root is
+A. −b + 2 + i + a
+B. b − 2 − i − a
+C. b − 2 − i − a
+D. −b − 2 i − a
+
+48. sin(−248π/11) is equal to
+A. −1
+B. 0
+C. 1
+D. ∞
+
+Page 21
+www.markhorwrites.blogspot.com
+
+[End of page]
+
+================================================================================
+PAGE 023
+================================================================================
+
+FAST PAST PAPER 2
+49. The value of (3 sin θ + 5 cos φ) / (3 sin θ - 5 cos φ), when value of sin θ = 1/√2 and sin φ = 1/3
+A. 29/11
+B. -29/11
+C. 11/29
+D. -11/29
+
+50. If tan α = 1/√3 and sin β = 1/2, then tan(α + β) is equal to
+A. -1
+B. 1
+C. 2
+D. √3
+
+Page 22
+www.markhorwrites.blogspot.com
+
+================================================================================
+PAGE 024
+================================================================================
+
+FAST ENTRY TEST PAST PAPERS PLS POT
+
+WWW.PakLearningSpot.com
+Download More MCQs from Website
+
+FAST PAST PAPER 2
+
+BASIC MATH
+
+1. The market value of a certain machine decreased by 30 percent of its purchase price each year. If the machine was purchased in 1982 for its market value of $8,000, what was its market value two years later?
+(A) $8,000
+(B) $5,600
+(C) $3,200
+(D) $2,400
+(E) $800
+
+2. What percent of 50 is 15?
+(A) 30%
+(B) 35%
+(C) 70%
+(D) 300%
+(E) 333 1/3 %
+
+3. In a certain diving competition, 5 judges score each dive on a scale from 1 to 10. The point value of the dive is obtained by dropping the highest score and the lowest score and multiplying the sum of the remaining scores by the degree of difficulty. If a dive with a degree of difficulty of 3.2 received scores of 7.5, 8.0, 9.0, 6.0, and 8.5, what was the point value of the dive?
+(A) 68.8
+(B) 73.6
+(C) 75.2
+(D) 76.8
+(E) 81.6
+
+4. If 2x = 3y = 10, then 12xy =
+(A) 1,200
+(B) 200
+(C) 120
+(D) 40
+(E) 20
+
+5. If Jack walked 5 miles in 1 hour and 15 minutes, what was his rate of walking in miles per hour?
+(A) 4
+(B) 4.5
+(C) 6
+(D) 6.25
+(E) 15
+
+6. Of a certain high school graduating class, 75 percent of the students continued their formal education, and 80 percent of those who continued their formal education went to four-year colleges. If 300 students in the class went to four-year colleges, how many students were in the graduating class?
+(A) 500
+(B) 375
+(C) 240
+(D) 225
+(E) 180
+
+7. What is the least integer greater than −2+0.5?
+(A) −2
+(B) −1
+(C) 0
+(D) 1
+(E) 2
+
+8. Which of the following is equivalent to  (2x+4) / (2x^2+8x+8) for all values of x for which both expressions are defined?
+(A) 1 / (2x^2 + 6)
+(B) 1 / (9x + 2)
+(C) 2 / (x + 6)
+(D) 1 / (x + 4)
+(E) 1 / (x + 2)
+
+9. A certain business printer can print 40 characters per second, which is 4 times as fast as an average printer. If an average printer can print 5 times as fast as an electric typewriter, how many characters per minute can an electric typewriter print?
+(A) 60
+(B) 80
+(C) 100
+(D) 120
+(E) 240
+
+Page 23
+www.markhorwrites.blogspot.com
+
+================================================================================
+PAGE 025
+================================================================================
+
+(A) 2
+(B) 32
+(C) 50
+(D) 120
+(E) 600
+
+10. When ticket sales began, Pat was the nth customer in line for a ticket, and customers purchased their tickets at the rate of x customers per minute. Of the following, which best approximates the time, in minutes, that Pat had to wait in line from the moment ticket sales began?
+(A) (n - 1) x
+(B) n + x - 1
+(C) n - 1
+     x
+(D) x
+     n - 1
+(E) n
+     x - 1
+
+11. If 6 gallons of gasoline are added to a tank that is already filled to 3/4 of its capacity, the tank is then filled to 9/4 of its capacity. How many gallons does the tank hold?
+(A) 20
+(B) 24
+(C) 36
+(D) 40
+(E) 60
+
+12. A bus trip of 450 miles would have taken 1 hour less if the average speed S for the trip had been greater by 5 miles per hour. What was the average speed S, in miles per hour, for the trip?
+(A) 10
+(B) 40
+(C) 45
+(D) 50
+(E) 55
+
+13. 10^3 is how many times (0.01)^3?
+(A) 10^6
+(B) 10^8
+(C) 10^9
+(D) 10^12
+(E) 10^18
+
+14. Which of the following groups of numbers could be the lengths of the sides of a right triangle?
+I. 1, 4, √17
+II. 4, 7, √11
+III. 4, 9, 6
+(A) I only
+(B) I and II only
+(C) I and III only
+(D) II and III only
+(E) I, II, and III
+
+15. When the stock market opened yesterday, the price of a share of stock X was 10 1/2. When the market closed, the price was 11 1/4. Of the following, which is closest to the percent increase in the price of stock X?
+(A) 0.5%
+(B) 1.0%
+(C) 6.7%
+(D) 7.1%
+(E) 7.5%
+
+16. If x and y are integers and xy^2 is a positive odd integer, which of the following must be true?
+I. xy is positive.
+II. xy is odd.
+III. x + y is even.
+(A) I only
+(B) II only
+(C) III only
+(D) I and II
+(E) II and III
+
+Page 24
+www.markhorwrites.blogspot.com
+
+================================================================================
+PAGE 026
+================================================================================
+
+FAST ENTRY TEST PAST PAPERS PLSPOT
+WWW.PakLearningSpot.com
+Download More MCQs from Website
+
+FAST PAST PAPER 2
+
+[ diagram showing 8 inches, 2 inches, 20 inches ]
+
+17. The figure above shows the dimensions of a rectangular box that is to be completely wrapped with paper. If a single sheet of paper is to be used without patching, then the dimensions of the paper could be
+(A) 17 in by 25 in
+(B) 21 in by 24 in
+(C) 24 in by 12 in
+(D) 24 in by 14 in
+(E) 26 in by 14 in
+
+18.  x − y = 3
+     2x = 2y + 6
+The system of equations above has how many solutions?
+(A) None
+(B) Exactly one
+(C) Exactly two
+(D) Exactly three
+(E) Infinitely many
+
+19. If M and N are positive integers that have remainders of 1 and 3, respectively, when divided by 6, which of the following could NOT be a possible value of M+N?
+(A) 86
+(B) 52
+(C) 34
+(D) 28
+(E) 10
+
+20. The R students in a class agree to contribute equally to buy their teacher a birthday present that costs y dollars. If x of the students later fail to contribute their share, which of the following represents the additional number of dollars that each of the remaining students must contribute in order to pay for the present?
+(A) y/R
+(B) y/(R − x)
+(C) xy/(R − x)
+(D) xy/(R(R − x))
+(E) y/(R(R − x))
+
+Page 25
+www.markhorwrites.blogspot.com
+
+================================================================================
+PAGE 027
+================================================================================
+
+FAST ENTRY TEST PAST PAPERS PLSPOT
+
+www.PakLearningSpot.com
+Download More MCQs from Website
+
+FAST PAST PAPER 2
+
+IQ
+
+QUESTION 1
+Which number replaces the question mark an completes the puzzle?
+
+1  7  9
+3  6  3
+5  4  2
+2  7  5
+2  6  ?
+
+QUESTION 2
+Which letter replaces the question mark and completes the puzzle?
+
+7, 3, 5, 6,
+
+B, A, D, E
+
+QUESTION 3
+Which number replaces the question mark and completes the puzzle?
+
+(left) 4
+     1  12  6
+(left) 2
+
+(right) 3
+     7  9  5
+     11
+
+(middle) 14  24  12
+        8
+        ?
+
+(bottom left) 7
+            8  21  11
+            13
+
+(bottom right) 1
+             6  3  1
+             9
+
+Page 26
+www.markhorwrites.blogspot.com
+
+================================================================================
+PAGE 028
+================================================================================
+
+FAST ENTRY TEST PAST PAPERS PLSPOT
+
+[Note: The following transcription includes all clearly legible text from the image. Some parts (especially smaller diagram details) may be partially unclear in the image; I’ve reproduced them as they appear, with line breaks and spacing preserved as best as possible.]
+
+WWW.PakLearningSpot.com
+Download More MCQs from Website
+
+FAST PAST PAPER 2
+11, 10, 22, 44
+
+QUESTION 4
+Which letter replaces the question mark
+and completes the puzzle?
+
+A
+G I
+C E L
+F D G ?
+
+S, R, T, Q
+
+QUESTION 5
+Which number replaces the question mark
+and completes the puzzle?
+
+3 9
+1 6
+
+4 7
+1 3
+
+4 3
+3 ?
+
+6 4
+0 6
+
+2 ? 
+4 3
+
+QUESTION 6
+
+1, 2, 3, 5
+
+Page 27
+www.markhorwrites.blogspot.com
+
+FAST PAST PAPERS (vertical text along right edge)
+
+================================================================================
+PAGE 029
+================================================================================
+
+FAST ENTRY TEST PAST PAPERS PLSPOT
+
+WWW.PakLearningSpot.com
+Download More MCQs from Website
+
+FAST PAST PAPER 2
+
+Which playing card replaces the question mark and completes the puzzle?
+
+[card grid image]
+
+QUESTION 7
+Which letter replaces the question mark and completes the sequence?
+
+P U
+K P
+
+Z E
+U J
+
+F K
+A D
+
+? ?
+
+Y T
+
+QUESTION 8
+
+X, N, Z, Q
+
+Page 28 www.markhorwrites.blogspot.com
+
+================================================================================
+PAGE 030
+================================================================================
+
+FAST ENTRY TEST PAST PAPERS PLSPOT
+
+FAST PAST PAPER 2
+
+Which letter replaces the question mark and completes the puzzle?
+
+[grid of letters with a question mark at the end]
+
+X, B, N, J
+
+QUESTION 9
+
+Where should the missing hour hand point?
+
+[clock diagrams]
+
+A. TO THE 4
+B. TO THE 6
+C. TO THE 9
+D. TO THE 1
+
+QUESTION 10
+
+FAST PAST PAPERS
+
+Page 29
+
+www.markhorwrites.blogspot.com
+
+www.PakLearningSpot.com Download More MCQs from Website
+
+================================================================================
+PAGE 031
+================================================================================
+
+FAST ENTRY TEST PAST PAPERS PLSPOT
+www.PakLearningSpot.com
+Download More MCQs from Website
+
+FAST PAST PAPER 2
+
+Which letter replaces the question mark and completes the puzzle?
+
+FM      H      CH
+RL      P      GG
+SJ      F      NI
+DK      ?      BE
+
+QUESTION 11
+H, M, B, V
+
+Mavis
+Harold
+Bette
+Meadow Rise
+Shangri-la Way
+Honeysuckle Row
+£40,000
+£75,000
+£100,000
+Harold lives in Meadow Rise, but his property is not worth £75,000. The property in Honeysuckle Row worked out as the cheapest, despite being a lovely road. Bette lives in a terrace house, although there are no terraced houses along Shangri-La Way. Mavis’s property is not a bungalow. Can you deduce from these clues which person lives where, in which property, and how much the property was valued.
+
+Owner Property Road Value
+[table not fully legible in image]
+
+QUESTION 12
+Which letter replaces the question mark and completes the puzzle?
+
+O O O
+D L U C L
+K T ? 
+A, N, C, G
+
+Page 30
+www.markhorwrites.blogspot.com
+
+================================================================================
+PAGE 032
+================================================================================
+
+FAST ENTRY TEST PAST PAPERS PLSPOT
+
+WWW.PakLearningSpot.com
+Download More MCQs from Website
+
+FAST PAST PAPER 2
+
+QUESTION 13
+
+Which number replaces the question mark and completes the puzzle?
+6   EJI   3
+M
+F
+K
+
+D
+P
+G
+
+9   NRG   ?
+
+12, 4, 14, 9
+
+QUESTION 14
+
+Which picture cube does this shape
+
+A
+B
+C
+D
+
+[images of fruit on cubes and a central arrangement of fruit pictures]
+
+Y, M, E, C
+
+QUESTION 15
+
+Page 31
+
+www.markhorwrites.blogspot.com
+
+================================================================================
+PAGE 033
+================================================================================
+
+I can extract the legible text from the image, but some parts are not readable due to the resolution. Here is what I can reliably transcribe, along with a request for a higher‑resolution crop of the unreadable parts (especially the circle-number puzzle in Question 17):
+
+Legible header and site information
+- FAST ENTRY TEST PAST PAPERS PLSPOT
+
+- WWW.PakLearningSpot.com
+- Download More MCQs from Website
+
+Main header
+- FAST PAST PAPER 2
+
+Question prompt (puzzle)
+- Which letter replaces the question mark and completes the puzzle?
+
+Puzzle diagram (as seen)
+- D   G   D
+-    H   L
+-      Y
+-    R   L
+-  S   K   ?
+
+Additional line (part of the page near the puzzle, text is faint)
+- E, M, N, .B
+
+Question 16 (text and options)
+- QUESTION 16
+- Joe and John are playing marbles. If Joe loses one marble to John, they will both have the same number of marbles, but if John loses one marble to Joe, Joe will have twice the number of marbles as John. How many marbles do the two boys currently have?
+
+- A. JOE HAS 7 JOHN HAS 5
+- B. JOE HAS 5 JOHN HAS 7
+- C. JOE HAS 3 JOHN HAS 6
+
+Question 17
+- QUESTION 17
+- Which number replaces the question mark and completes the puzzle?
+
+[Circle-number puzzle diagram]
+- (The numbers inside the circles are not clearly readable in the provided image.)
+
+End of page information
+- Page 32
+- www.markhorwrites.blogspot.com
+
+Request for best results
+- To produce an exact, line-by-line faithful transcription, please provide a higher-resolution crop or scan of the page (especially the Question 17 circle-number diagram), so I can capture all numbers inside the circles and any other tiny text accurately.
+
+================================================================================
+PAGE 034
+================================================================================
+
+I’m happy to extract the text, but this image is too low-resolution for reliable OCR. Many details (question numbers, exact option labels, and any answer markers) aren’t clearly legible, and I don’t want to guess incorrectly.
+
+If you can provide one of the following, I’ll reproduce the text exactly with formatting preserved:
+- A higher-resolution scan or photo of the page (ideally 150–300 dpi or higher, straight and cropped to the page).
+- A sharper crop that focuses on the text (you can paste or attach separate images for each section).
+- The text manually typed out (I can format it to match your requirements exactly).
+
+Alternatively, if you can confirm specific parts you need (e.g., just Q18–Q20 and their options), I can try to reconstruct those with the best guess from the image, but it may not be perfectly accurate.
+
+Would you like to try uploading a clearer image?
+
+================================================================================
+PAGE 035
+================================================================================
+
+FAST ENTRY TEST PAST PAPERS PLSPOT
+
+FAST PAST PAPER 2
+
+ENGLISH
+
+ANALOGIES
+1. CLOCK : MINUTE
+A. ruler: centimetre B. sundial : shadow
+C. arc : ellipse D. product : shelf life
+E. quart : capacity
+
+2. LAWYER : CLIENT
+A. doctor : surgeon B. admiral : sailor
+C. judge : defendant D. museum : audience
+E. tutor : student
+
+SYNONYMS
+3. Synonym of FIASCO
+A. disappointment B. turning point C. complete failure D. celebration E. funfair
+
+4. Synonym of STIPEND
+A. increment B. salary C. commission D. gift E. perquisite
+
+ANTONYMS
+5. Antonym of ILLUMINATE
+A. precipitate B. hallow C. obfuscate D. defer E. refine
+
+6. Antonym of ACUTE
+A. rotund B. pervasive C. chronic D. jaundiced E. resilient
+
+7. There were many cars in the theatre parking lot. When Darren found an available parking spot, he felt ______.
+A. vulnerable B. ecstatic C. fortunate D. uncommon E. believed
+
+8. Samuel's employees were quite _____; they learned quickly and were able to do most of the tasks he ______.
+A. decisive...wanted B. able...listed C. humble...assigned D. capable...ordered E. disturbed...ordered
+
+PREPOSITIONS
+9. No government is hostile ______ social reforms.
+A. at B. in C. for D. to E. as
+
+10. We trust _____ God.
+A. at B. on C. in D. to E. before
+
+Page 34
+www.markhorwrites.blogspot.com
+
+================================================================================
+PAGE 036
+================================================================================
+
+📄 Page 36 (Answer Sheet - FAST PAST PAPER 2)
+
+SECTION-1,,,SECTION-III,,,SECTION-IV,,SECTION-V
+MATHEMATICS,,BASIC MATH,,,IQ,,ENGLISH,
+1,D,41,B,1,C,1,7,1
+2,B,42,A,2,A,2,A,2
+3,C,43,D,3,C,3,22,3
+4,C,44,D,4,B,4,T,4
+5,C,45,A,5,A,5,2,5
+6,A,46,A,6,A,6,9 CUBE,6
+7,C,47,B,7,D,7,Z,7
+8,D,48,E,8,B,8,X,8
+9,A,49,D,9,B,9,A,9
+10,A,50,D,10,C,10,H,10
+11,A,,,11,D,11,Owner Property Road Value,
+12,A,,,12,C,12,"Marle Flat 100,000",
+13,B,,,13,C,13,"Bette Terrace 40,000",
+14,A,,,14,A,14,E,
+15,D,,,15,D,15,E,
+16,C,,,16,E,16,A,
+17,C,,,17,B,17,6,
+18,D,,18,E,18,11,,
+19,D,,19,C,19,7,,
+20,A,,20,D,20,5,,
+21,A,,,,,,,
+22,D,,,,,,,
+23,D,,,,,,,
+24,B,,,,,,,
+25,C,,,,,,,
+26,D,,,,,,,
+27,B,,,,,,,
+28,B,,,,,,,
+29,B,,,,,,,
+30,C,,,,,,,
+31,B,,,,,,,
+32,A,,,,,,,
+33,A,,,,,,,
+34,B,,,,,,,
+35,C,,,,,,,
+36,C,,,,,,,
+37,D,,,,,,,
+38,B,,,,,,,
+39,A,,,,,,,
+40,C,,,,,,,
+W,W,W,,W,,W,,W
+R,R,R,,R,,R,,R
+,,,,,,,,
