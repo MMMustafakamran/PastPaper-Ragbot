@@ -1,18 +1,46 @@
-I’m ready to extract the text exactly as requested, but this image is too low-resolution for reliable OCR of the exam content. The page contains many small cells and faint characters, and I don’t want to produce an incorrect transcription especially for the MCQ options and any answer markers.
-
-Could you provide one of the following?
-- A higher-resolution version of this page (ideally 300–600 dpi or sharper).
-- A cropped/zoomed image that focuses on the main table (the question/option area) with clearer contrast.
-- A plain-text or PDF version of the paper (if available).
-
-If you can supply a clearer image, I will:
-- Preserve question numbering exactly (e.g., "1)", "Q.1").
-- Preserve option labels exactly (A., B., C., D. or A), B), C), D)).
-- Preserve any answer markers (e.g., "(Correct)") and any end-of-section answer keys.
-- Maintain line breaks between questions and options.
-- Preserve mathematical notation, formulas, and special characters.
-- Keep each option on its own line when shown separately.
-- Leave inline options as inline, and separate lines where they appear in the image.
-- Keep any page/footer/headers exactly as they appear.
-
-Let me know how you’d like to proceed, and I’ll get started as soon as I have a clearer image.
+📄 Page 55 (Answer Sheet - FAST PAST PAPER 3)
+SECTION-1,,,SECTION III,,SECTION - IV,,SECTION-V,
+MATHEMATICS,,BASIC MATH,,,IQ,,ENGLISH,
+1,A,41,D,1,A,1,6,1
+2,B,42,C,2,A,2,1,2
+3,D,43,A,3,D,3,ALARM CLOCK,3
+4,B,44,B,4,A,4,23,4
+5,B,45,E,5,C,5,5,5
+6,A,46,C,6,D,6,O,6
+7,B,47,A,7,B,7,2,7
+8,A,48,B,8,D,8,H,8
+9,A,49,D,9,B,9,96,9
+10,B,50,A,10,A,10,9,10
+11,C,,11,E,11,X,,
+12,B,,12,C,12,3,,
+13,B,,13,B,13,A,,
+14,B,,14,E,14,C13,,
+15,B,,15,A,15,T,,
+16,A,,16,D,16,6,,
+17,C,,17,A,17,W,,
+18,D,,18,C,18,4,,
+19,B,,19,B,19,1,,
+20,D,,20,B,20,C,,
+21,C,,,,,,,
+22,A,,,,,,,
+23,B,,,,,,,
+24,C,,,,,,,
+25,B,,,,,,,
+26,A,,,,,,,
+27,D,,,,,,,
+28,C,,,,,,,
+29,D,,,,,,,
+30,A,,,,,,,
+31,D,,,,,,,
+32,A,,,,,,,
+33,B,,,,,,,
+34,B,,,,,,,
+35,A,,,,,,,
+36,B,,,,,,,
+37,B,,,,,,,
+38,A,,,,,,,
+39,C,,,,,,,
+40,A,,,,,,,
+W,W,,W,,W,,W,
+R,R,,R,,R,,R,
+,,,,,,,,

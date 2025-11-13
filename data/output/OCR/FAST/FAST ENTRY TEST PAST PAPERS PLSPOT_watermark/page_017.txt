@@ -1,46 +1,47 @@
-I can help with this, but the image is quite dense and small in parts, so a perfect, line-for-line OCR of every character may be imperfect. Below is the text I can reliably identify from the clearly legible parts (headers, section titles, and page/header information). If you’d like me to attempt a more complete transcription of the grid of questions/answers, please provide a higher-resolution image or crop the page area containing the grid, and I’ll finish the transcription precisely as shown.
+Page 17 (Answer Sheet - FAST PAST PAPER 1)
 
-Transcription (readable sections)
-
-- Top banner/overlay texts (from image, as visible):
-  WWW.PakLearningSpot.com
-  Download More MCQs from Website
-
-- Red banner text (partially overlapped by watermark):
-  FAST ENTRY TEST PAST PAPERS PLS POT
-
-- Main header:
-  ANEES HUSSAIN
-  FAST PAST PAPER 1
-
-- Student information line (two fields):
-  STUDENT'S NAME __________________________  DATED: ______________
-
-- Section headers (across the width of the page):
-  SECTION - I
-  MATHEMATICS
-  SECTION - II
-  BASIC MATH
-  SECTION - III
-  IQ
-  SECTION - IV
-  ENGLISH
-
-- Left vertical watermark (as seen on the left side):
-  FAST PAST PAPERS
-
-- Page footer:
-  Page 16
-  www.markhorwrites.blogspot.com
-
-Notes about the grid of questions
-- The page contains a large tabular grid with multiple rows and four grouped columns corresponding to the four sections above (Mathematics, Basic Math, IQ, English). Each cell appears to hold a single letter option (A., B., C., D., etc.) or a number, aligned with the MCQ structure.
-- The grid is densely printed and includes rows labeled 1 through 40 (and in some rows, higher-numbered references like 41, 42, etc., appear within the adjacent section blocks). There are also several rows near the bottom that appear to be blank answer slots.
-
-What I can do next
-- If you want the exact, line-by-line transcription of the entire grid (all questions and option markers) I can attempt it, but I’ll need a higher-resolution image or you can provide the page cropped to the grid area so I can read every character accurately.
-- Alternatively, you can confirm if you’d like me to proceed with a best-effort OCR on the current image and I’ll return a text block that preserves the exact line breaks, question numbers, and option labels as best as possible, along with a note where accuracy may be limited due to image quality.
-
-Please tell me how you’d like to proceed:
-1) Upload a higher-resolution version or crop of the page to complete the full transcription, or
-2) I proceed with a best-effort extraction of the visible text from this image and annotate any uncertainties.
+SECTION-1,,,SECTION-II,,SECTION- III,,SECTION - IV,
+MATHEMATICS,,,BASIC MATH,,IQ,,ENGLISH,
+1,A,41,D,1,D,1,C,
+2,A,42,B,2,B,2,C,
+3,A,43,B,3,C,3,D,
+4,B,44,D,4,A,4,D,
+5,D,45,C,5,U,5,D,
+6,A,46,B,6,5,6,D,
+7,C,47,D,7,22,7,D,
+8,B,48,B,8,2,8,B,
+9,D,49,C,9,Y,9,C,
+10,C,50,A,10,W,10,A,
+11,C,,,11,E,11,4,
+12,A,,,12,E,12,7,
+13,A,,,13,D,13,7,
+14,C,,,14,C,14,K,
+15,D,,,15,B,15,H,
+16,B,,,16,C,16,0,
+17,B,,,17,C,17,F,
+18,A,,,18,A,18,5,
+19,D,,,19,D,19,E,
+20,B,,,20,D,20,B,
+21,A,,,,,,,
+22,A,,,,,,,
+23,B,,,,,,,
+24,C,,,,,,,
+25,A,,,,,,,
+26,A,,,,,,,
+27,C,,,,,,,
+28,B,,,,,,,
+29,B,,,,,,,
+30,A,,,,,,,
+31,B,,,,,,,
+32,D,,,,,,,
+33,C,,,,,,,
+34,D,,,,,,,
+35,A,,,,,,,
+36,B,,,,,,,
+37,D,,,,,,,
+38,B,,,,,,,
+39,A,,,,,,,
+40,C,,,,,,,
+W,W,,W,W,W,,W,
+R,R,,R,R,R,,R,
+,,,,,,,,

@@ -1,25 +1,47 @@
-I can help with this, but the image is dense and the text is small in places, so a perfect, line-for-line transcription may be unreliable without a higher-resolution image. I can do a best-effort extraction now and clearly mark the parts I can read. If you’d like a precise, exact transcription (including every question, option label, and any correct-answer markers), please provide a higher-resolution image or allow me to attempt OCR on this image and report any uncertainties.
+📄 Page 36 (Answer Sheet - FAST PAST PAPER 2)
 
-What I can clearly read from the image:
-
-FAST ENTRY TEST PAST PAPERS PLSPOT
-
-ANEES HUSSAIN
-FAST PAST PAPER 2
-
-STUDENT'S NAME ______________________________ DATED: __________________
-
-SECTION - I MATHEMATICS
-SECTION - III BASIC MATH
-SECTION - IV IQ
-SECTION - V ENGLISH
-
-[A large grid/table follows with rows 1–10 (and additional question numbers for other sections). The exact per-row content is not reliably legible in this image, but the headings above are clear.]
-
-Page 35
-
-www.markhorwrites.blogspot.com
-
- watermark note: There is a diagonal watermark across part of the grid and a small image inset in the middle of the grid.
-
-If you want me to proceed with a more complete extraction, please provide a higher-resolution image, or I can run OCR on this image and return a text version with any parts I’m uncertain about clearly marked.
+SECTION-1,,,SECTION-III,,,SECTION-IV,,SECTION-V
+MATHEMATICS,,BASIC MATH,,,IQ,,ENGLISH,
+1,D,41,B,1,C,1,7,1
+2,B,42,A,2,A,2,A,2
+3,C,43,D,3,C,3,22,3
+4,C,44,D,4,B,4,T,4
+5,C,45,A,5,A,5,2,5
+6,A,46,A,6,A,6,9 CUBE,6
+7,C,47,B,7,D,7,Z,7
+8,D,48,E,8,B,8,X,8
+9,A,49,D,9,B,9,A,9
+10,A,50,D,10,C,10,H,10
+11,A,,,11,D,11,Owner Property Road Value,
+12,A,,,12,C,12,"Marle Flat 100,000",
+13,B,,,13,C,13,"Bette Terrace 40,000",
+14,A,,,14,A,14,E,
+15,D,,,15,D,15,E,
+16,C,,,16,E,16,A,
+17,C,,,17,B,17,6,
+18,D,,18,E,18,11,,
+19,D,,19,C,19,7,,
+20,A,,20,D,20,5,,
+21,A,,,,,,,
+22,D,,,,,,,
+23,D,,,,,,,
+24,B,,,,,,,
+25,C,,,,,,,
+26,D,,,,,,,
+27,B,,,,,,,
+28,B,,,,,,,
+29,B,,,,,,,
+30,C,,,,,,,
+31,B,,,,,,,
+32,A,,,,,,,
+33,A,,,,,,,
+34,B,,,,,,,
+35,C,,,,,,,
+36,C,,,,,,,
+37,D,,,,,,,
+38,B,,,,,,,
+39,A,,,,,,,
+40,C,,,,,,,
+W,W,W,,W,,W,,W
+R,R,R,,R,,R,,R
+,,,,,,,,
