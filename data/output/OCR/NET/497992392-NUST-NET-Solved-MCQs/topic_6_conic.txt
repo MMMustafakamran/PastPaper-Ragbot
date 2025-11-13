@@ -187,7 +187,7 @@ ans:a
 (a) half
 (b) equal
 (c) double
-(d) triple)
+(d) triple
 ans:c
 
 29. The perpendicular at the outer end of a radial segment is ___ of the circle.
@@ -267,7 +267,7 @@ ans:d
 (d) x^2 = -4ay
 ans:c
 
-40. A line segment whose end points lie on a parabola — of the parabola
+40. A line segment whose end points lie on a parabola is called ____ of the parabola
 (a) chord
 (b) focal chord
 (c) latus rectum
@@ -425,7 +425,7 @@ ans:b
 (a) major axis
 (b) minor axis
 (c) focal axis
-(d) conjugate axis I’m happy to extract the text, but this image is quite low resolution and
+(d) conjugate axis
 ans:c
 
 67. The length of semi-latus rectum of a parabola is
@@ -520,7 +520,6 @@ ans:b
 ans:a
 
 80. The equation of the tangent to the hyperbola y^2/a^2 − x^2/b^2 = 1 at the point (x1, y1) is
-(Question and options are partially obscured in the image; the standard form is typically:)
 (a) y y1 / a^2 − x x1 / b^2 = 1
 (b) x x1 / a^2 − y y1 / b^2 = 1
 (c) x x1 / a^2 + y y1 / b^2 = 1
@@ -807,7 +806,7 @@ ans:a
 (d) y - 2 = 0
 ans:d
 
-121. Transverse axis of hyperbola x^2/a^2 - y^2/b^2 =
+121. Transverse axis of hyperbola x^2/a^2 - y^2/b^2 = 1 is
 (a) x = a/e
 (b) y = a/e
 (c) y = 0
@@ -849,11 +848,11 @@ ans:c
 (d) y = mx + a/m
 ans:c
 
-127. Transverse axis of y^2/16 - x^2/49 =
+127. Transverse axis of y^2/16 - x^2/49 = 1
 (a) lies on x-axis
 (b) lies on y-axis
 (c) pass through (4, 7)
-(d) pass through (7, 4) 44
+(d) pass through (7, 4)
 ans:b
 
 128. The length of the tangent drawn from the point (1, 1) to the circle
@@ -872,10 +871,10 @@ ans:c
 ans:b
 
 130. The length of semi latus rectum of an ellipse is:
-(a) la
+(a) a
 (b) 2b^2 / a
 (c) 2b
-(d) b / a
+(d) b^2 / a
 ans:d
 
 131. The foci of hyperbola always lie on:

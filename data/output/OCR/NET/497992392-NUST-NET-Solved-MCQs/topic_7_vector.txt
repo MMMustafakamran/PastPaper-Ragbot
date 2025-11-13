@@ -179,8 +179,22 @@ ans:a
 26. If θ be the angle between two vectors a and b, then cos θ =
 (a) a × b / (|a| |b|)
 (b) a · b / (|a| |b|)
-(c) a × b / (|a| |b|)
-(d) |a × b| / (|a| |b|)
+(c) |a × b| / (|a| |b|)
+(d) (a · b) / |a × b|
+ans:b
+
+27. If θ be the angle between two vectors a and b, then sin θ =
+(a) a × b / (|a| |b|)
+(b) a · b / (|a| |b|)
+(c) |a × b| / (|a| |b|)
+(d) (a · b) / |a × b|
+ans:c
+
+28. The scalar product of two vectors a and b is also called:
+(a) vector product
+(b) dot product
+(c) cross product
+(d) triple product
 ans:b
 
 29. Let u = ai + bj + ck, then projection of u along i is
@@ -337,7 +351,7 @@ ans:b
 (d) a · b = 0
 ans:d
 
-51. (cont.)
+51. The unit vector perpendicular to both vectors a and b is:
 (a) n̂ = (a · b)/(ab)
 (b) n̂ = |a × b|/(ab)
 (c) n̂ = (a × b)/|a × b|
@@ -376,12 +390,14 @@ ans:d
 (a) 14
 (b) √14
 (c) -12
+(d) 12
 ans:b
 
 57. Area of triangle whose u & v are adjacent vectors:
 (a) u × v
 (b) (1/2)|u × v|
 (c) (1/2)(u · v)
+(d) |u × v|
 ans:b
 
 58. If a and b are perpendicular to each other, then a · b =
@@ -394,6 +410,8 @@ ans:d
 59. A vector perpendicular to each of vectors 2i and k is:
 (a) i
 (b) ±2j
+(c) ±j
+(d) k
 ans:c
 
 60. The product of vectors u · (u × w) represents:

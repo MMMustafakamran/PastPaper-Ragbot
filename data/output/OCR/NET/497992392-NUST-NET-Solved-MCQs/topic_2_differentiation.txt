@@ -415,9 +415,10 @@ ans:b
 ans:c
 
 62. If y = e^(2x), then y'' equal:
-(a) 16e^(2x)
-(b) 8
-(c) 4
+(a) 4e^(2x)
+(b) 8e^(2x)
+(c) 16e^(2x)
+(d) 2e^(2x)
 ans:a
 
 63. If f'(c) = 0, then f has relative maximum value at x = c, if:
@@ -565,7 +566,7 @@ ans:b
 (b) f(a)
 (c) f'(a)
 (d) f''(a)
-ans:d
+ans:c
 
 93. If f(x) = 1/x, then a critical point of f is
 (a) 0

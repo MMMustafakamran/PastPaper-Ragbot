@@ -278,7 +278,7 @@ ans:a
 (a) 0
 (b) 1
 (c) 2
-(d) 3 28
+(d) 3
 ans:c
 
 52. The lines represented by ax^2 + 2hxy + by^2 = 0 are orthogonal if
@@ -292,7 +292,7 @@ ans:b
 (a) collinear
 (b) coplanar
 (c) non-coplanar
-(d) non-coplanar
+(d) parallel
 ans:b
 
 54. The distance of the point (3, 7) from the x - axis is
@@ -306,7 +306,7 @@ ans:a
 (a) a1 / a2 = b1 / b2
 (b) a1 / b1 = a2 / b2
 (c) a1 / c1 = a2 / c2
-(d) a1 / c1 = a2 / c2
+(d) a1b2 = a2b1
 ans:a
 
 56. Every homogeneous equation of second degree ax^2 + 2hxy + by^2 = 0 represents two straight lines
@@ -383,7 +383,7 @@ ans:a
 (a) -3
 (b) 0
 (c) 3
-(d) 3
+(d) undefined
 ans:c
 
 67. Altitudes of a triangle are:
@@ -395,9 +395,9 @@ ans:c
 
 68. The perpendicular distance of a point P(x1, y1) from the line ax + by + c = 0 is
 (a) d = |ax1 + by1 + c| / √(a^2 − b^2)
-(b) d = |ax1 + by1 + c| / √(a^2 − b^2)
+(b) d = |ax1 + by1 + c| / √(b^2 − a^2)
 (c) d = |ax1 + by1 + c| / √(a^2 + b^2)
-(d) d = |ax1 + by1 + c| / √(a^2 + b^2)
+(d) d = |ax1 + by1 + c| / (a^2 + b^2)
 ans:c
 
 69. Second degree homogeneous equation is:
