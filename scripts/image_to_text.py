@@ -197,20 +197,19 @@ Return the extracted text exactly as it appears, preserving all structural eleme
 
 def create_output_path(input_path, output_root):
     """Create output path mirroring input structure"""
-    # Get relative path from OCR_Images
     input_path = Path(input_path)
     
-    # Find data/images in the path
+    # Find "images" folder in the path
     parts = input_path.parts
     try:
-        # Look for "images" folder (could be data/images or just images)
+        # Look for "images" folder
         images_index = None
         for i, part in enumerate(parts):
             if part == "images":
                 images_index = i
                 break
         if images_index is not None:
-            # Get path after images folder
+            # Get path after images folder (NET/FAST/paper_name/page_XXX.png)
             relative_parts = parts[images_index + 1:]
         else:
             # If images not in path, use entire relative path
@@ -219,7 +218,8 @@ def create_output_path(input_path, output_root):
         # Fallback: use entire relative path
         relative_parts = input_path.parts
     
-    # Create output path
+    # Create output path maintaining structure
+    # Example: NET/497992392-NUST-NET-Solved-MCQs/page_001.txt
     output_path = Path(output_root) / Path(*relative_parts)
     # Change extension to .txt
     output_path = output_path.with_suffix('.txt')
@@ -268,8 +268,8 @@ def process_images(limit=None, skip=0, filter_path=None):
     # Model verification already confirmed gpt-5-nano is available
     
     # Set directories
-    input_dir = Path("data/images")
-    output_dir = Path("data/output")
+    input_dir = Path("data/input/Solved_PastPapers/OCR/images")
+    output_dir = Path("data/output/OCR")
     
     print(f"Input directory: {input_dir.absolute()}")
     print(f"Output directory: {output_dir.absolute()}")

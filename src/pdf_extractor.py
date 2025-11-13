@@ -1,70 +1,38 @@
 """
-PDF Text Extractor
-Extracts text from PDF files and saves to text files
-Supports both text extraction (pdfplumber) and OCR (Google Vision API)
+PDF Text Extractor - NO_OCR Only
+Extracts text from NO_OCR PDF files using pdfplumber
+OCR PDFs are handled separately via scripts/image_to_text.py
 """
 
 import logging
 from pathlib import Path
-from typing import List, Tuple, Optional
+from typing import List, Tuple
 import pdfplumber
 
-# Try to import OCR extractor (optional)
-try:
-    from src.ocr_extractor import TesseractOCR
-    OCR_AVAILABLE = True
-except ImportError:
-    OCR_AVAILABLE = False
-    logger = logging.getLogger(__name__)
-    logger.warning("OCR extractor not available. Install pytesseract for OCR support.")
-
-if OCR_AVAILABLE:
 logger = logging.getLogger(__name__)
 
 
 class PDFExtractor:
-    """Extract text from PDF files"""
+    """Extract text from NO_OCR PDF files using pdfplumber"""
     
-    def __init__(self, input_dir: str = "Past Papers", output_dir: str = "Extracted Text", 
-                 credentials_path: Optional[str] = None):
+    def __init__(self, input_dir: str = "data/input/Solved_PastPapers/NO_OCR", 
+                 output_dir: str = "data/output/NO_OCR"):
         """
-        Initialize PDF extractor
+        Initialize PDF extractor for NO_OCR PDFs only
         
         Args:
-            input_dir: Directory containing PDF files
+            input_dir: Directory containing NO_OCR PDF files
             output_dir: Directory to save extracted text
-            credentials_path: Path to Google Cloud Vision credentials (for OCR)
         """
         self.input_dir = Path(input_dir)
         self.output_dir = Path(output_dir)
-        self.credentials_path = credentials_path
-        
-        # Initialize OCR extractor if available
-        self.ocr_extractor = None
-        if OCR_AVAILABLE:
-            try:
-                # Try to get tesseract path from keys.json if available
-                tesseract_path = None
-                if credentials_path is None:
-                    keys_path = Path(__file__).parent.parent / "config" / "keys.json"
-                    if not keys_path.exists():
-                        keys_path = Path(__file__).parent.parent / "keys.json"
-                    if keys_path.exists():
-                        import json
-                        with open(keys_path, 'r') as f:
-                            keys = json.load(f)
-                            tesseract_path = keys.get('TESSERACT_CMD', None)
-                
-                self.ocr_extractor = TesseractOCR(tesseract_cmd=tesseract_path)
-            except Exception as e:
-                logger.warning(f"OCR extractor initialization failed: {e}. OCR will be skipped.")
         
         # Create output directory if it doesn't exist
         self.output_dir.mkdir(parents=True, exist_ok=True)
         
     def find_pdfs(self) -> List[Path]:
         """
-        Find all PDF files in input directory recursively
+        Find all PDF files in NO_OCR input directory recursively
         Excludes MDCAT papers (only process solved papers: NET and FAST)
             
         Returns:
@@ -89,43 +57,16 @@ class PDFExtractor:
         logger.info(f"Found {len(filtered_files)} PDF files (excluded {len(pdf_files) - len(filtered_files)} MDCAT files)")
         return filtered_files
     
-    def _should_use_ocr(self, pdf_path: Path) -> bool:
+    def extract_text_from_pdf(self, pdf_path: Path) -> Tuple[str, bool]:
         """
-        Determine if OCR should be used for this PDF
+        Extract text from a single PDF file using pdfplumber
         
         Args:
             pdf_path: Path to PDF file
             
         Returns:
-            True if PDF is in OCR folder, False otherwise
+            Tuple of (extracted_text, success)
         """
-        # Check if "OCR" is in the path parts
-        path_parts = pdf_path.parts
-        return "OCR" in path_parts
-    
-    def extract_text_from_pdf(self, pdf_path: Path) -> Tuple[str, bool, str]:
-        """
-        Extract text from a single PDF file
-        
-        Args:
-            pdf_path: Path to PDF file
-            
-        Returns:
-            Tuple of (extracted_text, success, method_used)
-            method_used: "ocr" or "text"
-        """
-        # Check if OCR should be used
-        if self._should_use_ocr(pdf_path):
-            if self.ocr_extractor:
-                logger.info(f"[OCR] Processing {pdf_path.name}")
-                text, success = self.ocr_extractor.extract_text_from_pdf(pdf_path)
-                return text, success, "ocr"
-            else:
-                logger.warning(f"[OCR] OCR requested but not available for {pdf_path.name}")
-                logger.warning(f"      Falling back to text extraction...")
-                # Fall through to text extraction
-        
-        # Use text extraction (pdfplumber)
         logger.info(f"[TEXT] Processing {pdf_path.name}")
         try:
             text_content = []
@@ -147,14 +88,14 @@ class PDFExtractor:
             
             if not full_text.strip():
                 logger.warning(f"No text extracted from {pdf_path.name}")
-                return "", False, "text"
+                return "", False
             
-            logger.info(f"Successfully extracted {len(full_text)} characters from {pdf_path.name}")
-            return full_text, True, "text"
+            logger.info(f"Successfully extracted {len(full_text)} characters")
+            return full_text, True
             
         except Exception as e:
-            logger.error(f"Failed to extract text from {pdf_path.name}: {e}")
-            return "", False, "text"
+            logger.error(f"Failed to extract text: {e}")
+            return "", False
     
     def get_output_path(self, pdf_path: Path) -> Path:
         """
@@ -204,7 +145,7 @@ class PDFExtractor:
     
     def extract_all(self) -> dict:
         """
-        Extract text from all PDFs in input directory
+        Extract text from all NO_OCR PDFs in input directory
             
         Returns:
             Dictionary with extraction statistics
@@ -224,10 +165,6 @@ class PDFExtractor:
             'total_pdfs': len(pdf_files),
             'successful': 0,
             'failed': 0,
-            'ocr_files': 0,
-            'text_files': 0,
-            'ocr_successful': 0,
-            'text_successful': 0,
             'files': []
         }
         
@@ -237,13 +174,7 @@ class PDFExtractor:
             logger.info(f"{'='*60}")
             
             # Extract text
-            text, success, method = self.extract_text_from_pdf(pdf_path)
-            
-            # Update method counts
-            if method == "ocr":
-                stats['ocr_files'] += 1
-            else:
-                stats['text_files'] += 1
+            text, success = self.extract_text_from_pdf(pdf_path)
             
             if success and text:
                 # Get output path
@@ -252,31 +183,23 @@ class PDFExtractor:
                 # Save text
                 if self.save_text(text, output_path):
                     stats['successful'] += 1
-                    if method == "ocr":
-                        stats['ocr_successful'] += 1
-                    else:
-                        stats['text_successful'] += 1
-                    
                     stats['files'].append({
                         'pdf': str(pdf_path),
                         'output': str(output_path),
                         'status': 'success',
-                        'method': method,
                         'chars': len(text)
                     })
                 else:
                     stats['failed'] += 1
                     stats['files'].append({
                         'pdf': str(pdf_path),
-                        'status': 'failed_to_save',
-                        'method': method
+                        'status': 'failed_to_save'
                     })
             else:
                 stats['failed'] += 1
                 stats['files'].append({
                     'pdf': str(pdf_path),
-                    'status': 'failed_to_extract',
-                    'method': method
+                    'status': 'failed_to_extract'
                 })
         
         return stats
@@ -284,16 +207,11 @@ class PDFExtractor:
     def print_summary(self, stats: dict) -> None:
         """Print extraction summary"""
         print("\n" + "="*60)
-        print("EXTRACTION SUMMARY")
+        print("NO_OCR EXTRACTION SUMMARY")
         print("="*60)
         print(f"Total PDFs found: {stats['total_pdfs']}")
         print(f"Successfully extracted: {stats['successful']}")
         print(f"Failed: {stats['failed']}")
-        
-        if stats.get('ocr_files', 0) > 0 or stats.get('text_files', 0) > 0:
-            print(f"\nExtraction Methods:")
-            print(f"  OCR files: {stats.get('ocr_files', 0)} ({stats.get('ocr_successful', 0)} successful)")
-            print(f"  Text files: {stats.get('text_files', 0)} ({stats.get('text_successful', 0)} successful)")
         
         if stats['successful'] > 0:
             print(f"\n[SUCCESS] Extracted text saved to: {self.output_dir}")
@@ -302,8 +220,7 @@ class PDFExtractor:
                 if file_info['status'] == 'success':
                     pdf_name = Path(file_info['pdf']).name
                     chars = file_info['chars']
-                    method = file_info.get('method', 'unknown')
-                    print(f"  [+] {pdf_name} ({chars:,} chars, {method.upper()})")
+                    print(f"  [+] {pdf_name} ({chars:,} chars)")
         
         if stats['failed'] > 0:
             print("\n[FAILED] Failed files:")
@@ -311,8 +228,7 @@ class PDFExtractor:
                 if file_info['status'] != 'success':
                     pdf_name = Path(file_info['pdf']).name
                     status = file_info['status']
-                    method = file_info.get('method', 'unknown')
-                    print(f"  [-] {pdf_name} ({status}, {method.upper()})")
+                    print(f"  [-] {pdf_name} ({status})")
 
 
 def main():

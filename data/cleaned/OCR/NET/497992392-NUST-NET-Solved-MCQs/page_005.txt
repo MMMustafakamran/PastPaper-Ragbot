@@ -1,0 +1,35 @@
+37. The function, f(x) = 3x^4 + 7 - 2x^2 is
+(a) even (b) odd (c) neither (d) none of these
+
+38. The function, f(x) = sinx + cos x is
+(a) even (b) odd (c) neither (d) none of these
+
+39. If f(x) = 2x + 1, g(x) = x^2 - 1, then (fog)(x) = ?
+(a) 2x^2 - 1 (b) 4x^2 + 4x (c) 4x + 3 (d) [text unreadable]
+
+40. If f(x) = 2x + 3, g(x) = x^2, then (gof)(x) = ?
+(a) [text unreadable] (b) [text unreadable] (c) [text unreadable] (d) [text unreadable]
+
+41. If f(x) = 2x + 3, g(x) = x^2, then (fo g)(x) = ?
+(a) [text unreadable] (b) [text unreadable] (c) [text unreadable] (d) [text unreadable]
+
+42. If f(x) = 2x + 3, g(x) = x^2, then (g o f)(x) = ?
+(a) [text unreadable] (b) [text unreadable] (c) [text unreadable] (d) [text unreadable]
+
+43. The inverse of a function exists only if it is
+(a) an into function (b) an onto function (c) (1-1) and onto function (d) trigonometric function
+
+44. If f(x) = 2 + √(x - 1), then domain of f^{-1} = ?
+(a) [2, ∞) (b) [2, ∞) (c) [1, ∞) (d) [1, ∞)
+
+45. If f(x) = 2 + √(x - 1), then range of f^{-1} = ?
+(a) [2, ∞) (b) [2, ∞) (c) [1, ∞) (d) [1, ∞)
+
+46. Lim sin x / x as x → 0 = 1 if and only if
+(a) x is an obtuse angle (b) x is a right angle (c) 0 < x < π/2 (d) x ∈ (-π/2, 0) and (0, π/2)
+
+47. A function f(x) is said to be continuous at x = c, if
+(a) Lim x→c f(x) exists (b) f(c) is defined (c) Lim x→c f(x) = f(c) (d) All of these
+
+48. f(x) = ax + b with a ≠ 0 is
+(a) A linear function (b) A quadratic function (c) A constant function (d) An identity function

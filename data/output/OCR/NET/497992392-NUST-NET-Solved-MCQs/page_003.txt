@@ -1,0 +1,7 @@
+Thanks for the image. I can extract the text, but this particular page is quite blurry and has a watermark, which makes exact transcription unreliable. To preserve your required formatting exactly, I’d need a higher-resolution image (or a version without the watermark).
+
+Would you like me to:
+- Proceed with a best-effort OCR of the visible text now (not guaranteed 100% accurate), or
+- Wait for a clearer image (preferred), and then I’ll deliver a precise transcription preserving all question numbers, option labels, line breaks, and any answer markers?
+
+If you want me to proceed now, I can provide a best-guess transcription of questions 19–27 as they appear, noting where the text is uncertain.

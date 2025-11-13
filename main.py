@@ -11,9 +11,11 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 
 from src.pdf_extractor import PDFExtractor
-from src.text_cleaner import TextCleaner
 from src.question_parser import QuestionParser
 from src.enhance_simple import SimpleEnhancer
+
+# Note: TextCleaner removed - cleaning will be done in LLM preprocessor
+# Note: OCR extraction handled separately via scripts/image_to_text.py
 
 
 def setup_logging(verbose: bool = False):
@@ -25,16 +27,16 @@ def setup_logging(verbose: bool = False):
     )
 
 
-def extract_pdfs():
-    """Step 1: Extract text from PDFs"""
+def extract_noocr():
+    """Step 1: Extract text from NO_OCR PDFs"""
     print("="*60)
-    print("STEP 1: PDF TEXT EXTRACTION")
+    print("STEP 1: NO_OCR PDF TEXT EXTRACTION")
     print("="*60)
     print()
     
     extractor = PDFExtractor(
-        input_dir="data/input/Solved_PastPapers",
-        output_dir="data/extracted"
+        input_dir="data/input/Solved_PastPapers/NO_OCR",
+        output_dir="data/output/NO_OCR"
     )
     
     stats = extractor.extract_all()
@@ -43,15 +45,17 @@ def extract_pdfs():
     return stats['successful'] > 0
 
 
-def clean_text():
-    """Step 2: Clean extracted text"""
+def clean_text_llm():
+    """Step 2: Clean text using LLM (GPT-5 Nano)"""
     print("="*60)
-    print("STEP 2: TEXT CLEANING")
+    print("STEP 2: LLM TEXT CLEANING")
     print("="*60)
     print()
     
-    cleaner = TextCleaner(
-        input_dir="data/extracted",
+    from src.text_cleaner_llm import LLMTextCleaner
+    
+    cleaner = LLMTextCleaner(
+        input_dir="data/output",
         output_dir="data/cleaned"
     )
     
@@ -61,85 +65,23 @@ def clean_text():
     return stats['successful'] > 0
 
 
-def parse_questions():
-    """Step 3: Parse questions into JSON"""
+def preprocess_llm():
+    """Step 3: LLM Preprocessing - Convert text to JSON"""
     print("="*60)
-    print("STEP 3: QUESTION PARSING")
+    print("STEP 3: LLM PREPROCESSING")
     print("="*60)
     print()
     
-    from pathlib import Path
+    # TODO: Implement LLM preprocessor
+    # This will use LLM to convert cleaned text to JSON
+    # Input: data/cleaned/ (both NO_OCR and OCR)
+    # Output: data/processed/
     
-    parser = QuestionParser()
-    cleaned_dir = Path("data/cleaned")
-    output_dir = Path("data/processed")
-    
-    if not cleaned_dir.exists():
-        print(f"[ERROR] Cleaned text directory not found: {cleaned_dir}")
-        print("   Run 'python main.py clean' first")
-        return False
-    
-    # Find all cleaned text files
-    text_files = list(cleaned_dir.rglob("*.txt"))
-    
-    if not text_files:
-        print(f"[ERROR] No text files found in {cleaned_dir}")
-        return False
-    
-    print(f"Found {len(text_files)} text files to parse\n")
-    
-    total_questions = 0
-    successful = 0
-    failed = 0
-    
-    for text_file in text_files:
-        print(f"{'='*60}")
-        print(f"Parsing: {text_file.relative_to(cleaned_dir)}")
-        print(f"{'='*60}")
-        
-        try:
-            with open(text_file, 'r', encoding='utf-8') as f:
-                text = f.read()
-            
-            questions = parser.parse_questions_from_text(text, text_file.name)
-            
-            if questions:
-                relative_path = text_file.relative_to(cleaned_dir)
-                output_path = output_dir / relative_path.parent / f"{text_file.stem}.json"
-                
-                if parser.save_to_json(questions, output_path):
-                    print(f"[SUCCESS] Extracted {len(questions)} questions")
-                    print(f"   Saved to: {output_path}")
-                    
-                    summary = parser.generate_summary(questions)
-                    print(f"   Subjects: {summary['by_subject']}")
-                    print(f"   With answers: {summary['with_answers']}/{len(questions)}")
-                    print(f"   With solutions: {summary['with_solutions']}/{len(questions)}")
-                    
-                    total_questions += len(questions)
-                    successful += 1
-                else:
-                    print(f"[FAILED] Failed to save JSON")
-                    failed += 1
-            else:
-                print(f"[WARNING] No questions found")
-                failed += 1
-        except Exception as e:
-            print(f"[ERROR] Error: {e}")
-            failed += 1
-        
-        print()
-    
-    print("="*60)
-    print("PARSING SUMMARY")
-    print("="*60)
-    print(f"Files processed: {len(text_files)}")
-    print(f"Successful: {successful}")
-    print(f"Failed: {failed}")
-    print(f"Total questions extracted: {total_questions}")
-    print(f"\n[SUCCESS] JSON files saved to: {output_dir}")
-    
-    return successful > 0
+    print("[INFO] LLM preprocessing not yet implemented")
+    print("       Will convert text files to structured JSON")
+    print("       Input: data/cleaned/NO_OCR/ and data/cleaned/OCR/")
+    print("       Output: data/processed/")
+    return False
 
 
 def enhance_metadata():
@@ -163,9 +105,9 @@ def run_pipeline():
     print("="*60 + "\n")
     
     steps = [
-        ("Extract PDFs", extract_pdfs),
-        ("Clean Text", clean_text),
-        ("Parse Questions", parse_questions),
+        ("Extract NO_OCR PDFs", extract_noocr),
+        ("Clean Text (LLM)", clean_text_llm),
+        ("LLM Preprocessing", preprocess_llm),
         ("Enhance Metadata", enhance_metadata),
     ]
     
@@ -191,25 +133,30 @@ def print_help():
 Usage: python main.py <command> [options]
 
 Commands:
-  extract     Extract text from PDFs (Step 1)
-  clean       Clean extracted text (Step 2)
-  parse       Parse questions into JSON (Step 3)
-  enhance     Add metadata for quiz generation (Step 4)
-  pipeline    Run full pipeline (all steps)
-  help        Show this help message
+  extract-noocr    Extract text from NO_OCR PDFs (Step 1)
+  clean-llm        Clean text using GPT-5 Nano (Step 2)
+  preprocess-llm   LLM preprocessing: text → JSON (Step 3)
+  enhance          Add metadata for quiz generation (Step 4)
+  pipeline         Run full pipeline (all steps)
+  help             Show this help message
+
+OCR Extraction:
+  OCR PDFs are processed separately:
+  python scripts/image_to_text.py --filter "NET"
+  python scripts/image_to_text.py --filter "FAST"
 
 Options:
   -v, --verbose    Enable verbose logging
 
 Examples:
-  python main.py extract
+  python main.py extract-noocr
   python main.py pipeline
-  python main.py extract --verbose
+  python main.py extract-noocr --verbose
 
 Current Status:
-  [READY] Step 1: PDF Extraction
-  [READY] Step 2: Text Cleaning
-  [READY] Step 3: Question Parsing
+  [READY] Step 1: NO_OCR PDF Extraction
+  [READY] Step 2: LLM Text Cleaning (GPT-5 Nano)
+  [TODO]  Step 3: LLM Preprocessing (text → JSON)
   [READY] Step 4: Metadata Enhancement
 """)
 
@@ -230,12 +177,12 @@ def main():
     setup_logging(verbose)
     
     # Route commands
-    if command == "extract":
-        extract_pdfs()
-    elif command == "clean":
-        clean_text()
-    elif command == "parse":
-        parse_questions()
+    if command == "extract-noocr":
+        extract_noocr()
+    elif command == "clean-llm":
+        clean_text_llm()
+    elif command == "preprocess-llm":
+        preprocess_llm()
     elif command == "enhance":
         enhance_metadata()
     elif command == "pipeline":
