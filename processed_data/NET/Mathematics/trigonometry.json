@@ -1,0 +1,253 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Trigonometry",
+    "version": "1.0",
+    "created_date": "2025-11-14",
+    "total_questions": 4,
+    "source_file": "topic_7_vector.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Trigonometry"
+  },
+  "questions": [
+    {
+      "question_id": "NET_M_T_Q026",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_7_vector",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometric Functions",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "If θ be the angle between two vectors a and b, then cos θ =",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "a × b / (|a| |b|)"
+        },
+        {
+          "key": "b",
+          "value": "a · b / (|a| |b|)"
+        },
+        {
+          "key": "c",
+          "value": "|a × b| / (|a| |b|)"
+        },
+        {
+          "key": "d",
+          "value": "(a · b) / |a × b|"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "a · b / (|a| |b|)",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometric Functions: If θ be the angle between two vectors a and b, then cos θ = Options: a × b / (|a| |b|), a · b / (|a| |b|), |a × b| / (|a| |b|), (a · b) / |a × b|. Correct answer: a · b / (|a| |b|)",
+      "metadata": {
+        "keywords": [
+          "vector",
+          "trigonometric"
+        ],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q027",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_7_vector",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometric Functions",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "If θ be the angle between two vectors a and b, then sin θ =",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "a × b / (|a| |b|)"
+        },
+        {
+          "key": "b",
+          "value": "a · b / (|a| |b|)"
+        },
+        {
+          "key": "c",
+          "value": "|a × b| / (|a| |b|)"
+        },
+        {
+          "key": "d",
+          "value": "(a · b) / |a × b|"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "|a × b| / (|a| |b|)",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometric Functions: If θ be the angle between two vectors a and b, then sin θ = Options: a × b / (|a| |b|), a · b / (|a| |b|), |a × b| / (|a| |b|), (a · b) / |a × b|. Correct answer: |a × b| / (|a| |b|)",
+      "metadata": {
+        "keywords": [
+          "vector",
+          "trigonometric"
+        ],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q032",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_7_vector",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometric Functions",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "In any triangle ABC, the Law of Cosines is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "a^2 = b^2 + c^2 − 2bc cos A"
+        },
+        {
+          "key": "b",
+          "value": "a^2 = b^2 + c^2 − 2bc cos A"
+        },
+        {
+          "key": "c",
+          "value": "a + b + c = 0"
+        },
+        {
+          "key": "d",
+          "value": "cos(α − β) = cos α cos β − sin α sin β"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "a^2 = b^2 + c^2 − 2bc cos A",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometric Functions: In any triangle ABC, the Law of Cosines is Options: a^2 = b^2 + c^2 − 2bc cos A, a^2 = b^2 + c^2 − 2bc cos A, a + b + c = 0, cos(α − β) = cos α cos β − sin α sin β. Correct answer: a^2 = b^2 + c^2 − 2bc cos A",
+      "metadata": {
+        "keywords": [
+          "trigonometric"
+        ],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q052",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_7_vector",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometric Functions",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "If α, β, γ are the direction angles of a vector then Cos² α + Cos² β + Cos² γ =",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "3"
+        },
+        {
+          "key": "b",
+          "value": "2"
+        },
+        {
+          "key": "c",
+          "value": "1"
+        },
+        {
+          "key": "d",
+          "value": "0"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "1",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometric Functions: If α, β, γ are the direction angles of a vector then Cos² α + Cos² β + Cos² γ = Options: 3, 2, 1, 0. Correct answer: 1",
+      "metadata": {
+        "keywords": [
+          "vector",
+          "trigonometric"
+        ],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1008 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - General",
+    "version": "1.0",
+    "created_date": "2025-11-14",
+    "total_questions": 18,
+    "source_file": "topic_7_vector.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "General"
+  },
+  "questions": [
+    {
+      "question_id": "NET_M_G_Q006",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_7_vector",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "If R be the set of real numbers, then the Cartesian plane is defined as",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "R^2 = { (x^2, y^2) : x, y ∈ R }"
+        },
+        {
+          "key": "b",
+          "value": "R^2 = { (x, y) : x, y ∈ R }"
+        },
+        {
+          "key": "c",
+          "value": "R^2 = { (x, y) : x, y ∈ R, x = - y }"
+        },
+        {
+          "key": "d",
+          "value": "R^2 = { (x, y) : x, y ∈ R, x = y }"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "R^2 = { (x, y) : x, y ∈ R }",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: If R be the set of real numbers, then the Cartesian plane is defined as Options: R^2 = { (x^2, y^2) : x, y ∈ R }, R^2 = { (x, y) : x, y ∈ R }, R^2 = { (x, y) : x, y ∈ R, x = - y }, R^2 = { (x, y) : x, y ∈ R, x = y }. Correct answer: R^2 = { (x, y) : x, y ∈ R }",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "recall",
+        "bloom_level": "L1_Remember"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q007",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_7_vector",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The element (x, y) ∈ R^2 represents a",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "space"
+        },
+        {
+          "key": "b",
+          "value": "point"
+        },
+        {
+          "key": "c",
+          "value": "vector"
+        },
+        {
+          "key": "d",
+          "value": "line"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "point",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: The element (x, y) ∈ R^2 represents a Options: space, point, vector, line. Correct answer: point",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q008",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_7_vector",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The set of all ordered pairs [x, y] of real numbers together with the rules of addition and scalar multiplication is called the set of",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "vectors in R"
+        },
+        {
+          "key": "b",
+          "value": "vectors in R^2"
+        },
+        {
+          "key": "c",
+          "value": "vectors in space"
+        },
+        {
+          "key": "d",
+          "value": "all vectors"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "vectors in R^2",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: The set of all ordered pairs [x, y] of real numbers together with the rules of addition and scalar multiplication is called the set of Options: vectors in R, vectors in R^2, vectors in space, all vectors. Correct answer: vectors in R^2",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q009",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_7_vector",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "If ū = [ x, y ] in R^2, then |u| =",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "x^2 + y^2"
+        },
+        {
+          "key": "b",
+          "value": "√(x^2 + y^2)"
+        },
+        {
+          "key": "c",
+          "value": "±√(x^2 + y^2)"
+        },
+        {
+          "key": "d",
+          "value": "x^2 - y^2"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "√(x^2 + y^2)",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: If ū = [ x, y ] in R^2, then |u| = Options: x^2 + y^2, √(x^2 + y^2), ±√(x^2 + y^2), x^2 - y^2. Correct answer: √(x^2 + y^2)",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q010",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_7_vector",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "If |u| = √(x^2 + y^2) = 0, then it must be true that",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "x ≥ 0, y ≥ 0"
+        },
+        {
+          "key": "b",
+          "value": "x ≤ 0, y ≤ 0"
+        },
+        {
+          "key": "c",
+          "value": "x = 0, y ≠ 0"
+        },
+        {
+          "key": "d",
+          "value": "x = 0, y = 0"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "x = 0, y = 0",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: If |u| = √(x^2 + y^2) = 0, then it must be true that Options: x ≥ 0, y ≥ 0, x ≤ 0, y ≤ 0, x = 0, y ≠ 0, x = 0, y = 0. Correct answer: x = 0, y = 0",
+      "metadata": {
+        "keywords": [
+          "polynomial"
+        ],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q012",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_7_vector",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The lines joining the mid-points of any two sides of a triangle is always to the third side.",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Equal"
+        },
+        {
+          "key": "b",
+          "value": "parallel"
+        },
+        {
+          "key": "c",
+          "value": "perpendicular"
+        },
+        {
+          "key": "d",
+          "value": "base"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "parallel",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: The lines joining the mid-points of any two sides of a triangle is always to the third side. Options: Equal, parallel, perpendicular, base. Correct answer: parallel",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q014",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_7_vector",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "The set of all ordered triples [ x, y, z ] of real numbers, together with the rules of addition and scalar multiplication is called a set of",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "vectors in R^n"
+        },
+        {
+          "key": "b",
+          "value": "vectors in R^2"
+        },
+        {
+          "key": "c",
+          "value": "vectors in R^3"
+        },
+        {
+          "key": "d",
+          "value": "all vectors"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "vectors in R^3",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: The set of all ordered triples [ x, y, z ] of real numbers, together with the rules of addition and scalar multiplication is called a set of Options: vectors in R^n, vectors in R^2, vectors in R^3, all vectors. Correct answer: vectors in R^3",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q021",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_7_vector",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "If u = 3i – j + 2k, then { 3, -1, 2 } are called _____ of u",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "direction cosines"
+        },
+        {
+          "key": "b",
+          "value": "direction ratios"
+        },
+        {
+          "key": "c",
+          "value": "direction angles"
+        },
+        {
+          "key": "d",
+          "value": "elements"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "direction ratios",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: If u = 3i – j + 2k, then { 3, -1, 2 } are called _____ of u Options: direction cosines, direction ratios, direction angles, elements. Correct answer: direction ratios",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q029",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_7_vector",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Let u = ai + bj + ck, then projection of u along i is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "a"
+        },
+        {
+          "key": "b",
+          "value": "b"
+        },
+        {
+          "key": "c",
+          "value": "c"
+        },
+        {
+          "key": "d",
+          "value": "u"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "a",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: Let u = ai + bj + ck, then projection of u along i is Options: a, b, c, u. Correct answer: a",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q030",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_7_vector",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Let u = ai + bj + ck, then projection of u along j is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "a"
+        },
+        {
+          "key": "b",
+          "value": "b"
+        },
+        {
+          "key": "c",
+          "value": "c"
+        },
+        {
+          "key": "d",
+          "value": "u"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "b",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: Let u = ai + bj + ck, then projection of u along j is Options: a, b, c, u. Correct answer: b",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q031",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_7_vector",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Let u = ai + bj + ck, then projection of u along k is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "a"
+        },
+        {
+          "key": "b",
+          "value": "b"
+        },
+        {
+          "key": "c",
+          "value": "c"
+        },
+        {
+          "key": "d",
+          "value": "u"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "c",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: Let u = ai + bj + ck, then projection of u along k is Options: a, b, c, u. Correct answer: c",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q033",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_7_vector",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "In any triangle ABC, the Law of Projection is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "a^2 = b^2 + c^2 − 2bc cos A"
+        },
+        {
+          "key": "b",
+          "value": "a = b cos C + c cos B"
+        },
+        {
+          "key": "c",
+          "value": "a · b = 0"
+        },
+        {
+          "key": "d",
+          "value": "a − b = 0"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "a = b cos C + c cos B",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: In any triangle ABC, the Law of Projection is Options: a^2 = b^2 + c^2 − 2bc cos A, a = b cos C + c cos B, a · b = 0, a − b = 0. Correct answer: a = b cos C + c cos B",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q040",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_7_vector",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Notation for scalar triple product of a, b and c is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "a . b × c"
+        },
+        {
+          "key": "b",
+          "value": "a × b × c"
+        },
+        {
+          "key": "c",
+          "value": "[a b c]"
+        },
+        {
+          "key": "d",
+          "value": "all of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "all of these",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: Notation for scalar triple product of a, b and c is Options: a . b × c, a × b × c, [a b c], all of these. Correct answer: all of these",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q042",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_7_vector",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "If u = [ x , y ] , v = [ x1 , y1 ], then u − v is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "[ x + x1 , y − y1 ]"
+        },
+        {
+          "key": "b",
+          "value": "[ x − x1 , y − y1 ]"
+        },
+        {
+          "key": "c",
+          "value": "[ x − x1 , y + y1 ]"
+        },
+        {
+          "key": "d",
+          "value": "[ x + x1 , y + y1 ]"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "[ x − x1 , y − y1 ]",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: If u = [ x , y ] , v = [ x1 , y1 ], then u − v is Options: [ x + x1 , y − y1 ], [ x − x1 , y − y1 ], [ x − x1 , y + y1 ], [ x + x1 , y + y1 ]. Correct answer: [ x − x1 , y − y1 ]",
+      "metadata": {
+        "keywords": [
+          "polynomial"
+        ],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q049",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_7_vector",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "If a and b are orthogonal, then:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "a × b = ab"
+        },
+        {
+          "key": "b",
+          "value": "a × b = -ab"
+        },
+        {
+          "key": "c",
+          "value": "a · b = ab sin θ"
+        },
+        {
+          "key": "d",
+          "value": "a · b = 0"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "a · b = 0",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: If a and b are orthogonal, then: Options: a × b = ab, a × b = -ab, a · b = ab sin θ, a · b = 0. Correct answer: a · b = 0",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q051",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_7_vector",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "If u = [x, y], v = [x₁, y₁], then u - v is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "[x + x₁, y - y₁]"
+        },
+        {
+          "key": "b",
+          "value": "[x - x₁, y - y₁]"
+        },
+        {
+          "key": "c",
+          "value": "[x - x₁, y + y₁]"
+        },
+        {
+          "key": "d",
+          "value": "[x + x₁, y + y₁]"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "[x - x₁, y - y₁]",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: If u = [x, y], v = [x₁, y₁], then u - v is Options: [x + x₁, y - y₁], [x - x₁, y - y₁], [x - x₁, y + y₁], [x + x₁, y + y₁]. Correct answer: [x - x₁, y - y₁]",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q055",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_7_vector",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "If u = -2î + ĵ - 3k̂, then |u| equals to:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "14"
+        },
+        {
+          "key": "b",
+          "value": "√14"
+        },
+        {
+          "key": "c",
+          "value": "-12"
+        },
+        {
+          "key": "d",
+          "value": "12"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "√14",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: If u = -2î + ĵ - 3k̂, then |u| equals to: Options: 14, √14, -12, 12. Correct answer: √14",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q057",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_7_vector",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "If a and b are perpendicular to each other, then a · b =",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "ab"
+        },
+        {
+          "key": "b",
+          "value": "-ab"
+        },
+        {
+          "key": "c",
+          "value": "ab sin θ"
+        },
+        {
+          "key": "d",
+          "value": "0"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "0",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: If a and b are perpendicular to each other, then a · b = Options: ab, -ab, ab sin θ, 0. Correct answer: 0",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

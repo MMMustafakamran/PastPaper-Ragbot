@@ -1,0 +1,124 @@
+{
+  "dataset_info": {
+    "dataset_name": "FAST Mathematics - Sequences and Series",
+    "version": "1.0",
+    "created_date": "2025-11-14",
+    "total_questions": 2,
+    "source_file": "fast_paper_3(37-55).txt",
+    "exam_type": "FAST",
+    "subject": "Mathematics",
+    "main_topic": "Sequences and Series"
+  },
+  "questions": [
+    {
+      "question_id": "FAS_M_SA_Q003",
+      "source": {
+        "exam_type": "FAST",
+        "subject": "Mathematics",
+        "paper_name": "fast_paper_3(37-55)",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sequences and Series",
+        "sub_topic": "Sequences and Series",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The nth term of the geometric sequence 8, 16√2, 64......... is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "8(2√2)^{n-1}"
+        },
+        {
+          "key": "b",
+          "value": "(2√2)^n"
+        },
+        {
+          "key": "c",
+          "value": "(2√2)^2"
+        },
+        {
+          "key": "d",
+          "value": "(2√2)^{n+1}"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "(2√2)^{n+1}",
+        "explanation": ""
+      },
+      "embedding_text": "Sequences and Series - Sequences and Series: The nth term of the geometric sequence 8, 16√2, 64......... is Options: 8(2√2)^{n-1}, (2√2)^n, (2√2)^2, (2√2)^{n+1}. Correct answer: (2√2)^{n+1}",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sequences and series"
+        ],
+        "prerequisites": [
+          "sequences and series"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "FAS_M_SA_Q005",
+      "source": {
+        "exam_type": "FAST",
+        "subject": "Mathematics",
+        "paper_name": "fast_paper_3(37-55)",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sequences and Series",
+        "sub_topic": "Sequences and Series",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The given progression 4, 3/4 , 9/4 , … is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "H.P"
+        },
+        {
+          "key": "b",
+          "value": "G.P"
+        },
+        {
+          "key": "c",
+          "value": "A.P"
+        },
+        {
+          "key": "d",
+          "value": "None of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "G.P",
+        "explanation": ""
+      },
+      "embedding_text": "Sequences and Series - Sequences and Series: The given progression 4, 3/4 , 9/4 , … is Options: H.P, G.P, A.P, None of these. Correct answer: G.P",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sequences and series"
+        ],
+        "prerequisites": [
+          "sequences and series"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

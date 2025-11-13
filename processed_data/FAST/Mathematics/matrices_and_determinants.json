@@ -1,0 +1,71 @@
+{
+  "dataset_info": {
+    "dataset_name": "FAST Mathematics - Matrices and Determinants",
+    "version": "1.0",
+    "created_date": "2025-11-14",
+    "total_questions": 1,
+    "source_file": "fast_paper_2(17-37).txt",
+    "exam_type": "FAST",
+    "subject": "Mathematics",
+    "main_topic": "Matrices and Determinants"
+  },
+  "questions": [
+    {
+      "question_id": "FAS_M_MA_Q020",
+      "source": {
+        "exam_type": "FAST",
+        "subject": "Mathematics",
+        "paper_name": "fast_paper_2(17-37)",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Matrices and Determinants",
+        "sub_topic": "Matrices and Determinants",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "If A = Aᵀ then matrix A is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Symmetric"
+        },
+        {
+          "key": "b",
+          "value": "Screw Symmetric"
+        },
+        {
+          "key": "c",
+          "value": "Square"
+        },
+        {
+          "key": "d",
+          "value": "None of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Symmetric",
+        "explanation": ""
+      },
+      "embedding_text": "Matrices and Determinants - Matrices and Determinants: If A = Aᵀ then matrix A is Options: Symmetric, Screw Symmetric, Square, None of these. Correct answer: Symmetric",
+      "metadata": {
+        "keywords": [
+          "matrix"
+        ],
+        "related_concepts": [
+          "matrices and determinants"
+        ],
+        "prerequisites": [
+          "matrices and determinants"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "dataset_info": {
+    "dataset_name": "FAST Mathematics - Vectors",
+    "version": "1.0",
+    "created_date": "2025-11-14",
+    "total_questions": 1,
+    "source_file": "fast_paper_1(0-17).txt",
+    "exam_type": "FAST",
+    "subject": "Mathematics",
+    "main_topic": "Vectors"
+  },
+  "questions": [
+    {
+      "question_id": "FAS_M_V_Q002",
+      "source": {
+        "exam_type": "FAST",
+        "subject": "Mathematics",
+        "paper_name": "fast_paper_1(0-17)",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Vectors",
+        "sub_topic": "Vectors",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "Find the value of 'λ' if both the vectors if a = 2i − j − 2k, b = 3i − 2λj are perpendicular to each other",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "-3"
+        },
+        {
+          "key": "b",
+          "value": "-6"
+        },
+        {
+          "key": "c",
+          "value": "6"
+        },
+        {
+          "key": "d",
+          "value": "3"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "-3",
+        "explanation": ""
+      },
+      "embedding_text": "Vectors - Vectors: Find the value of 'λ' if both the vectors if a = 2i − j − 2k, b = 3i − 2λj are perpendicular to each other Options: -3, -6, 6, 3. Correct answer: -3",
+      "metadata": {
+        "keywords": [
+          "vector",
+          "find"
+        ],
+        "related_concepts": [
+          "vectors"
+        ],
+        "prerequisites": [
+          "vectors"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

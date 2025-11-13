@@ -1,0 +1,192 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Integration",
+    "version": "1.0",
+    "created_date": "2025-11-14",
+    "total_questions": 3,
+    "source_file": "topic_3_integration.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Integration"
+  },
+  "questions": [
+    {
+      "question_id": "NET_M_I_Q014",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_3_integration",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Integration",
+        "sub_topic": "Integration",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "To determine the area under a curve by the use of integration, the idea was given by",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Newton"
+        },
+        {
+          "key": "b",
+          "value": "Archimedes"
+        },
+        {
+          "key": "c",
+          "value": "Leibnitz"
+        },
+        {
+          "key": "d",
+          "value": "Taylor"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Archimedes",
+        "explanation": ""
+      },
+      "embedding_text": "Integration - Integration: To determine the area under a curve by the use of integration, the idea was given by Options: Newton, Archimedes, Leibnitz, Taylor. Correct answer: Archimedes",
+      "metadata": {
+        "keywords": [
+          "determine",
+          "curve"
+        ],
+        "related_concepts": [
+          "antiderivatives",
+          "area calculation",
+          "integration techniques"
+        ],
+        "prerequisites": [
+          "integration"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_I_Q037",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_3_integration",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Integration",
+        "sub_topic": "Integration",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "In ∫(x^2 − a^2)^(1/2) dx, the substitution is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "x = a tan θ"
+        },
+        {
+          "key": "b",
+          "value": "x = a sec θ"
+        },
+        {
+          "key": "c",
+          "value": "x = a sin θ"
+        },
+        {
+          "key": "d",
+          "value": "x = 2a sin θ"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "x = a sec θ",
+        "explanation": ""
+      },
+      "embedding_text": "Integration - Integration: In ∫(x^2 − a^2)^(1/2) dx, the substitution is: Options: x = a tan θ, x = a sec θ, x = a sin θ, x = 2a sin θ. Correct answer: x = a sec θ",
+      "metadata": {
+        "keywords": [
+          "polynomial"
+        ],
+        "related_concepts": [
+          "antiderivatives",
+          "area calculation",
+          "integration techniques"
+        ],
+        "prerequisites": [
+          "integration"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_I_Q039",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_3_integration",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Integration",
+        "sub_topic": "Integration",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The suitable substitution for ∫ √(2x − x^2) dx is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "x − a = a cos θ"
+        },
+        {
+          "key": "b",
+          "value": "x − a = a sin θ"
+        },
+        {
+          "key": "c",
+          "value": "x + a = a sin θ"
+        },
+        {
+          "key": "d",
+          "value": "x + a = a cos θ"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "x − a = a sin θ",
+        "explanation": ""
+      },
+      "embedding_text": "Integration - Integration: The suitable substitution for ∫ √(2x − x^2) dx is: Options: x − a = a cos θ, x − a = a sin θ, x + a = a sin θ, x + a = a cos θ. Correct answer: x − a = a sin θ",
+      "metadata": {
+        "keywords": [
+          "polynomial"
+        ],
+        "related_concepts": [
+          "antiderivatives",
+          "area calculation",
+          "integration techniques"
+        ],
+        "prerequisites": [
+          "integration"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

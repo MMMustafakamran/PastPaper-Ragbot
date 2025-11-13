@@ -1,0 +1,71 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Complex Numbers",
+    "version": "1.0",
+    "created_date": "2025-11-14",
+    "total_questions": 1,
+    "source_file": "topic_4_analytical_geometry.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Complex Numbers"
+  },
+  "questions": [
+    {
+      "question_id": "NET_M_CN_Q031",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_4_analytical_geometry",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Complex Numbers",
+        "sub_topic": "Complex Numbers",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Two lines represented by ax^2 + 2hxy + by^2 = 0 are imaginary if",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "h^2 - ab < 0"
+        },
+        {
+          "key": "b",
+          "value": "h^2 - ab = 0"
+        },
+        {
+          "key": "c",
+          "value": "h^2 - ab > 0"
+        },
+        {
+          "key": "d",
+          "value": "h = 0."
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "h^2 - ab < 0",
+        "explanation": ""
+      },
+      "embedding_text": "Complex Numbers - Complex Numbers: Two lines represented by ax^2 + 2hxy + by^2 = 0 are imaginary if Options: h^2 - ab < 0, h^2 - ab = 0, h^2 - ab > 0, h = 0.. Correct answer: h^2 - ab < 0",
+      "metadata": {
+        "keywords": [
+          "polynomial"
+        ],
+        "related_concepts": [
+          "complex numbers"
+        ],
+        "prerequisites": [
+          "complex numbers"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

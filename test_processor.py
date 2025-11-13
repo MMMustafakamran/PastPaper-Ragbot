@@ -167,7 +167,7 @@ def test_json_validation():
                     json_files.append(os.path.join(root, file))
         
         if not json_files:
-            print("✗ No JSON files found")
+            print("[FAIL] No JSON files found")
             return False
         
         print(f"Found {len(json_files)} JSON files:\n")
@@ -183,7 +183,7 @@ def test_json_validation():
             info = data["dataset_info"]
             questions = data["questions"]
             
-            print(f"✓ {json_file}")
+            print(f"[PASS] {json_file}")
             print(f"  Name: {info['dataset_name']}")
             print(f"  Questions: {len(questions)}")
             print(f"  Declared: {info['total_questions']}")
@@ -199,13 +199,13 @@ def test_json_validation():
                 for field in required_fields:
                     assert field in q, f"Missing field: {field}"
                 
-                print(f"  ✓ All required fields present")
+                print(f"  [PASS] All required fields present")
             
             print()
         
         return True
     except Exception as e:
-        print(f"✗ Validation failed: {e}")
+        print(f"[FAIL] Validation failed: {e}")
         import traceback
         traceback.print_exc()
         return False
@@ -231,17 +231,17 @@ def main():
     print("=" * 60)
     
     for test_name, result in results.items():
-        status = "✓ PASSED" if result else "✗ FAILED"
+        status = "[PASS]" if result else "[FAIL]"
         print(f"{test_name:20s}: {status}")
     
     all_passed = all(results.values())
     
     print("\n" + "=" * 60)
     if all_passed:
-        print("✓ ALL TESTS PASSED!")
+        print("[PASS] ALL TESTS PASSED!")
         print("\nYou can now run: python mcq_processor.py")
     else:
-        print("✗ SOME TESTS FAILED")
+        print("[FAIL] SOME TESTS FAILED")
         print("\nPlease fix errors before processing all files")
     print("=" * 60 + "\n")
 

@@ -1,0 +1,69 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Sequences and Series",
+    "version": "1.0",
+    "created_date": "2025-11-14",
+    "total_questions": 1,
+    "source_file": "topic_2_differentiation.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Sequences and Series"
+  },
+  "questions": [
+    {
+      "question_id": "NET_M_SA_Q076",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_2_differentiation",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sequences and Series",
+        "sub_topic": "Sequences and Series",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "If x and h are two independent quantities and f(x + h) can be expanded in ascending powers of h as an infinite series, then f(x + h) = f(x) + hf'(x) + (h^2/2!)f''(x) + ... + (h^n/n!)f^(n)(x) + ... is called",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Power series"
+        },
+        {
+          "key": "b",
+          "value": "Maclaurin series"
+        },
+        {
+          "key": "c",
+          "value": "Taylor series"
+        },
+        {
+          "key": "d",
+          "value": "all of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Taylor series",
+        "explanation": ""
+      },
+      "embedding_text": "Sequences and Series - Sequences and Series: If x and h are two independent quantities and f(x + h) can be expanded in ascending powers of h as an infinite series, then f(x + h) = f(x) + hf'(x) + (h^2/2!)f''(x) + ... + (h^n/n!)f^(n)(x) + ... is called Options: Power series, Maclaurin series, Taylor series, all of these. Correct answer: Taylor series",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sequences and series"
+        ],
+        "prerequisites": [
+          "sequences and series"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "dataset_info": {
+    "dataset_name": "FAST Mathematics - Conic Sections",
+    "version": "1.0",
+    "created_date": "2025-11-14",
+    "total_questions": 1,
+    "source_file": "fast_paper_2(17-37).txt",
+    "exam_type": "FAST",
+    "subject": "Mathematics",
+    "main_topic": "Conic Sections"
+  },
+  "questions": [
+    {
+      "question_id": "FAS_M_CS_Q031",
+      "source": {
+        "exam_type": "FAST",
+        "subject": "Mathematics",
+        "paper_name": "fast_paper_2(17-37)",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Conic Sections",
+        "sub_topic": "Conic Sections",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The length of latus rectum of the parabola y^2 + 12x = 0 is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "12"
+        },
+        {
+          "key": "b",
+          "value": "-12"
+        },
+        {
+          "key": "c",
+          "value": "3"
+        },
+        {
+          "key": "d",
+          "value": "-3"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "12",
+        "explanation": ""
+      },
+      "embedding_text": "Conic Sections - Conic Sections: The length of latus rectum of the parabola y^2 + 12x = 0 is Options: 12, -12, 3, -3. Correct answer: 12",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "conic sections"
+        ],
+        "prerequisites": [
+          "conic sections"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

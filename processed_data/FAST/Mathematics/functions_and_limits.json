@@ -1,0 +1,131 @@
+{
+  "dataset_info": {
+    "dataset_name": "FAST Mathematics - Functions and Limits",
+    "version": "1.0",
+    "created_date": "2025-11-14",
+    "total_questions": 2,
+    "source_file": "fast_paper_3(37-55).txt",
+    "exam_type": "FAST",
+    "subject": "Mathematics",
+    "main_topic": "Functions and Limits"
+  },
+  "questions": [
+    {
+      "question_id": "FAS_M_FA_Q006",
+      "source": {
+        "exam_type": "FAST",
+        "subject": "Mathematics",
+        "paper_name": "fast_paper_3(37-55)",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Functions and Limits",
+        "sub_topic": "Domain and Range",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "In how many different ways may the seven the letters in the word KARACHI be arranged if all of the letters are used each time?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "2500"
+        },
+        {
+          "key": "b",
+          "value": "2520"
+        },
+        {
+          "key": "c",
+          "value": "2400"
+        },
+        {
+          "key": "d",
+          "value": "2420"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "2520",
+        "explanation": ""
+      },
+      "embedding_text": "Functions and Limits - Domain and Range: In how many different ways may the seven the letters in the word KARACHI be arranged if all of the letters are used each time? Options: 2500, 2520, 2400, 2420. Correct answer: 2520",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "function properties",
+          "limit evaluation",
+          "continuity"
+        ],
+        "prerequisites": [
+          "functions and limits"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "FAS_M_FA_Q011",
+      "source": {
+        "exam_type": "FAST",
+        "subject": "Mathematics",
+        "paper_name": "fast_paper_3(37-55)",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Functions and Limits",
+        "sub_topic": "Composite Functions",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Composite function of g(x) = x^2 − 1, f(x) = 2x − 1 is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "2x^2 − 1"
+        },
+        {
+          "key": "b",
+          "value": "4x^2 − 4x − 2"
+        },
+        {
+          "key": "c",
+          "value": "4x^2 − 4x"
+        },
+        {
+          "key": "d",
+          "value": "None of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "4x^2 − 4x",
+        "explanation": ""
+      },
+      "embedding_text": "Functions and Limits - Composite Functions: Composite function of g(x) = x^2 − 1, f(x) = 2x − 1 is Options: 2x^2 − 1, 4x^2 − 4x − 2, 4x^2 − 4x, None of these. Correct answer: 4x^2 − 4x",
+      "metadata": {
+        "keywords": [
+          "function",
+          "polynomial"
+        ],
+        "related_concepts": [
+          "function properties",
+          "limit evaluation",
+          "continuity"
+        ],
+        "prerequisites": [
+          "functions and limits"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "dataset_info": {
+    "dataset_name": "FAST Mathematics - Analytical Geometry",
+    "version": "1.0",
+    "created_date": "2025-11-14",
+    "total_questions": 2,
+    "source_file": "fast_paper_2(17-37).txt",
+    "exam_type": "FAST",
+    "subject": "Mathematics",
+    "main_topic": "Analytical Geometry"
+  },
+  "questions": [
+    {
+      "question_id": "FAS_M_AG_Q002",
+      "source": {
+        "exam_type": "FAST",
+        "subject": "Mathematics",
+        "paper_name": "fast_paper_2(17-37)",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Analytical Geometry",
+        "sub_topic": "Analytical Geometry",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "When any circle in 2nd Quadrant then what will be the equation of the circle when radius is 5 cm",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "x^2 + y^2 + 10x + 10y + 25 = 0"
+        },
+        {
+          "key": "b",
+          "value": "x^2 + y^2 + 10x - 10y + 25 = 0"
+        },
+        {
+          "key": "c",
+          "value": "x^2 + y^2 - 10x - 10y + 25 = 0"
+        },
+        {
+          "key": "d",
+          "value": "x^2 + y^2 - 10x + 10y + 25 = 0"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "x^2 + y^2 + 10x - 10y + 25 = 0",
+        "explanation": ""
+      },
+      "embedding_text": "Analytical Geometry - Analytical Geometry: When any circle in 2nd Quadrant then what will be the equation of the circle when radius is 5 cm Options: x^2 + y^2 + 10x + 10y + 25 = 0, x^2 + y^2 + 10x - 10y + 25 = 0, x^2 + y^2 - 10x - 10y + 25 = 0, x^2 + y^2 - 10x + 10y + 25 = 0. Correct answer: x^2 + y^2 + 10x - 10y + 25 = 0",
+      "metadata": {
+        "keywords": [
+          "equation"
+        ],
+        "related_concepts": [
+          "analytical geometry"
+        ],
+        "prerequisites": [
+          "analytical geometry"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "FAS_M_AG_Q003",
+      "source": {
+        "exam_type": "FAST",
+        "subject": "Mathematics",
+        "paper_name": "fast_paper_2(17-37)",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Analytical Geometry",
+        "sub_topic": "Analytical Geometry",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "If a line contains a point P1 (3, -3) and P2 (-3, 3) then the slope of line is?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "2"
+        },
+        {
+          "key": "b",
+          "value": "1"
+        },
+        {
+          "key": "c",
+          "value": "-1"
+        },
+        {
+          "key": "d",
+          "value": "-2"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "-1",
+        "explanation": ""
+      },
+      "embedding_text": "Analytical Geometry - Analytical Geometry: If a line contains a point P1 (3, -3) and P2 (-3, 3) then the slope of line is? Options: 2, 1, -1, -2. Correct answer: -1",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "analytical geometry"
+        ],
+        "prerequisites": [
+          "analytical geometry"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

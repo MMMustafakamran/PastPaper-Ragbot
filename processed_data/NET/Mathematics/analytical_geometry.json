@@ -1,0 +1,124 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Analytical Geometry",
+    "version": "1.0",
+    "created_date": "2025-11-14",
+    "total_questions": 2,
+    "source_file": "topic_7_vector.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Analytical Geometry"
+  },
+  "questions": [
+    {
+      "question_id": "NET_M_AG_Q013",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_7_vector",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Analytical Geometry",
+        "sub_topic": "Analytical Geometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "A point P in space has ____ coordinates",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1"
+        },
+        {
+          "key": "b",
+          "value": "2"
+        },
+        {
+          "key": "c",
+          "value": "3"
+        },
+        {
+          "key": "d",
+          "value": "infinitely many"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "3",
+        "explanation": ""
+      },
+      "embedding_text": "Analytical Geometry - Analytical Geometry: A point P in space has ____ coordinates Options: 1, 2, 3, infinitely many. Correct answer: 3",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "analytical geometry"
+        ],
+        "prerequisites": [
+          "analytical geometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_AG_Q046",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_7_vector",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Analytical Geometry",
+        "sub_topic": "Analytical Geometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The angle in a semi-circle is equal to:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "π/2"
+        },
+        {
+          "key": "b",
+          "value": "π"
+        },
+        {
+          "key": "c",
+          "value": "π/3"
+        },
+        {
+          "key": "d",
+          "value": "3π"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "π/2",
+        "explanation": ""
+      },
+      "embedding_text": "Analytical Geometry - Analytical Geometry: The angle in a semi-circle is equal to: Options: π/2, π, π/3, 3π. Correct answer: π/2",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "analytical geometry"
+        ],
+        "prerequisites": [
+          "analytical geometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

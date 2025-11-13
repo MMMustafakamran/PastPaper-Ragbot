@@ -1,0 +1,69 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Probability and Statistics",
+    "version": "1.0",
+    "created_date": "2025-11-14",
+    "total_questions": 1,
+    "source_file": "topic_6_conic.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Probability and Statistics"
+  },
+  "questions": [
+    {
+      "question_id": "NET_M_PA_Q030",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_6_conic",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Probability and Statistics",
+        "sub_topic": "Probability and Statistics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Perpendicular dropped from any point of the circle on a diameter is the mean proportion between the segments into which it divides the diameter",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "diameter"
+        },
+        {
+          "key": "b",
+          "value": "any chord"
+        },
+        {
+          "key": "c",
+          "value": "radius"
+        },
+        {
+          "key": "d",
+          "value": "circle"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "diameter",
+        "explanation": ""
+      },
+      "embedding_text": "Probability and Statistics - Probability and Statistics: Perpendicular dropped from any point of the circle on a diameter is the mean proportion between the segments into which it divides the diameter Options: diameter, any chord, radius, circle. Correct answer: diameter",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "probability and statistics"
+        ],
+        "prerequisites": [
+          "probability and statistics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

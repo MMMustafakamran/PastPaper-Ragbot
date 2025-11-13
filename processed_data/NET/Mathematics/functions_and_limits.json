@@ -1,0 +1,313 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Functions and Limits",
+    "version": "1.0",
+    "created_date": "2025-11-14",
+    "total_questions": 5,
+    "source_file": "topic_6_conic.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Functions and Limits"
+  },
+  "questions": [
+    {
+      "question_id": "NET_M_FA_Q045",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_6_conic",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Functions and Limits",
+        "sub_topic": "Parametric Functions",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "x = a t^2, y = 2 a t are the parametric equations of",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "parabola"
+        },
+        {
+          "key": "b",
+          "value": "circle"
+        },
+        {
+          "key": "c",
+          "value": "ellipse"
+        },
+        {
+          "key": "d",
+          "value": "hyperbola"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "parabola",
+        "explanation": ""
+      },
+      "embedding_text": "Functions and Limits - Parametric Functions: x = a t^2, y = 2 a t are the parametric equations of Options: parabola, circle, ellipse, hyperbola. Correct answer: parabola",
+      "metadata": {
+        "keywords": [
+          "equation"
+        ],
+        "related_concepts": [
+          "function properties",
+          "limit evaluation",
+          "continuity"
+        ],
+        "prerequisites": [
+          "functions and limits"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_FA_Q046",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_6_conic",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Functions and Limits",
+        "sub_topic": "Parametric Functions",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "x = a cos t, y = a sin t are the parametric equations of",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "parabola"
+        },
+        {
+          "key": "b",
+          "value": "circle"
+        },
+        {
+          "key": "c",
+          "value": "ellipse"
+        },
+        {
+          "key": "d",
+          "value": "hyperbola"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "circle",
+        "explanation": ""
+      },
+      "embedding_text": "Functions and Limits - Parametric Functions: x = a cos t, y = a sin t are the parametric equations of Options: parabola, circle, ellipse, hyperbola. Correct answer: circle",
+      "metadata": {
+        "keywords": [
+          "equation",
+          "trigonometric"
+        ],
+        "related_concepts": [
+          "function properties",
+          "limit evaluation",
+          "continuity"
+        ],
+        "prerequisites": [
+          "functions and limits"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_FA_Q047",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_6_conic",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Functions and Limits",
+        "sub_topic": "Parametric Functions",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "x = a cos t, y = b sin t are the parametric equations of",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "parabola"
+        },
+        {
+          "key": "b",
+          "value": "circle"
+        },
+        {
+          "key": "c",
+          "value": "ellipse"
+        },
+        {
+          "key": "d",
+          "value": "hyperbola"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "ellipse",
+        "explanation": ""
+      },
+      "embedding_text": "Functions and Limits - Parametric Functions: x = a cos t, y = b sin t are the parametric equations of Options: parabola, circle, ellipse, hyperbola. Correct answer: ellipse",
+      "metadata": {
+        "keywords": [
+          "equation",
+          "trigonometric"
+        ],
+        "related_concepts": [
+          "function properties",
+          "limit evaluation",
+          "continuity"
+        ],
+        "prerequisites": [
+          "functions and limits"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_FA_Q048",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_6_conic",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Functions and Limits",
+        "sub_topic": "Parametric Functions",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "x = a sec t, y = b tan t are the parametric equations of",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "parabola"
+        },
+        {
+          "key": "b",
+          "value": "circle"
+        },
+        {
+          "key": "c",
+          "value": "ellipse"
+        },
+        {
+          "key": "d",
+          "value": "hyperbola"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "hyperbola",
+        "explanation": ""
+      },
+      "embedding_text": "Functions and Limits - Parametric Functions: x = a sec t, y = b tan t are the parametric equations of Options: parabola, circle, ellipse, hyperbola. Correct answer: hyperbola",
+      "metadata": {
+        "keywords": [
+          "equation",
+          "trigonometric"
+        ],
+        "related_concepts": [
+          "function properties",
+          "limit evaluation",
+          "continuity"
+        ],
+        "prerequisites": [
+          "functions and limits"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_FA_Q049",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "topic_6_conic",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Functions and Limits",
+        "sub_topic": "Hyperbolic Functions",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "x = a cosh t, y = b sinh t are the parametric equations of",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "parabola"
+        },
+        {
+          "key": "b",
+          "value": "circle"
+        },
+        {
+          "key": "c",
+          "value": "ellipse"
+        },
+        {
+          "key": "d",
+          "value": "hyperbola"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "hyperbola",
+        "explanation": ""
+      },
+      "embedding_text": "Functions and Limits - Hyperbolic Functions: x = a cosh t, y = b sinh t are the parametric equations of Options: parabola, circle, ellipse, hyperbola. Correct answer: hyperbola",
+      "metadata": {
+        "keywords": [
+          "equation",
+          "trigonometric"
+        ],
+        "related_concepts": [
+          "function properties",
+          "limit evaluation",
+          "continuity"
+        ],
+        "prerequisites": [
+          "functions and limits"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}
