@@ -4,7 +4,16 @@ Tests parsing, classification, and JSON generation on a single file
 """
 
 import json
-from mcq_processor import MCQParser, TopicClassifier, JSONGenerator, BatchProcessor
+import sys
+from pathlib import Path
+
+# Handle both module and standalone execution
+try:
+    from .mcq_processor import MCQParser, TopicClassifier, JSONGenerator, BatchProcessor
+except ImportError:
+    # Standalone execution
+    sys.path.insert(0, str(Path(__file__).parent.parent))
+    from processors.mcq_processor import MCQParser, TopicClassifier, JSONGenerator, BatchProcessor
 
 
 def test_parser():
@@ -239,7 +248,7 @@ def main():
     print("\n" + "=" * 60)
     if all_passed:
         print("[PASS] ALL TESTS PASSED!")
-        print("\nYou can now run: python mcq_processor.py")
+        print("\nYou can now run: python main.py process")
     else:
         print("[FAIL] SOME TESTS FAILED")
         print("\nPlease fix errors before processing all files")

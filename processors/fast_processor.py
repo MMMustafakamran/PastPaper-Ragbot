@@ -440,7 +440,8 @@ def format_question_output(q_num: int, q_text: str, options: List[str], answer: 
     return output
 
 
-def main():
+def process_fast_papers():
+    """Process FAST papers - main entry point"""
     base_dir = Path('data/output/OCR/FAST/FAST ENTRY TEST PAST PAPERS PLSPOT_watermark')
     
     for paper_num, paper_info in PAPERS.items():
@@ -495,6 +496,10 @@ def main():
     
     print("\nDone! Generated 3 paper files.")
 
+
+def main():
+    """Main function for direct execution"""
+    process_fast_papers()
 
 if __name__ == '__main__':
     main()

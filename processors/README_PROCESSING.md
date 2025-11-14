@@ -77,7 +77,7 @@ This will:
 ### Process Specific Directory
 
 ```python
-from mcq_processor import BatchProcessor
+from processors.mcq_processor import BatchProcessor
 
 processor = BatchProcessor(
     topics_file="Topics_net",
@@ -90,7 +90,7 @@ processor.process_directory("data/Standard_text/NET")
 ### Process Single File
 
 ```python
-from mcq_processor import BatchProcessor
+from processors.mcq_processor import BatchProcessor
 
 processor = BatchProcessor(
     topics_file="Topics_net", 
@@ -130,7 +130,7 @@ Processes multiple files:
 
 ## Configuration
 
-Edit these variables in `mcq_processor.py`:
+Edit these variables in `processors/mcq_processor.py`:
 
 ```python
 TOPICS_FILE = "Topics_net"          # Topic taxonomy file

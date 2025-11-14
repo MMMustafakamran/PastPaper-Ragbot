@@ -22,65 +22,58 @@ past papers parsing/
 │   ├── IMPLEMENTATION_PLAN.md
 │   └── ...
 │
-├── scripts/                   # Utility scripts
-│   ├── image_to_text.py      # OpenAI vision API converter
-│   └── test_extraction.py    # Test extraction script
+├── scripts/                   # Extraction scripts
+│   ├── image_to_text.py      # OCR image to text converter
+│   ├── extract_ocr.py         # OCR extraction workflow helper
+│   └── extract_noocr.py      # NO_OCR extraction workflow
 │
-├── src/                       # Source code (main pipeline)
-│   ├── pdf_extractor.py      # PDF text extraction
-│   ├── ocr_extractor.py      # Tesseract OCR (legacy)
-│   ├── text_cleaner.py       # Text cleaning
-│   ├── question_parser.py    # Question parsing
-│   ├── enhance_simple.py     # Metadata enhancement
-│   ├── parsers/              # Format-specific parsers
-│   └── enhancers/            # Embedding generators
+├── processors/                 # Processing modules
+│   ├── mcq_processor.py      # Main MCQ processor
+│   ├── fast_processor.py     # FAST-specific processor
+│   └── test_processor.py     # Test suite
+│
+├── src/                       # Core modules
+│   ├── pdf_extractor.py      # PDF text extraction (NO_OCR)
+│   └── parsers/              # Format-specific parsers
 │
 └── data/                      # All data folders
     ├── input/                 # Input PDFs (Solved_PastPapers)
     │   ├── NO_OCR/           # PDFs with selectable text
-    │   └── OCR/              # Scanned PDFs
-    ├── extracted/             # Extracted text
-    ├── cleaned/               # Cleaned text
-    ├── images/                # PDF pages converted to images
-    │   ├── NO_OCR/           # NO_OCR PDFs converted to images (for OpenAI Vision)
-    │   └── OCR/              # OCR PDFs converted to images (future)
-    ├── output/                # OpenAI vision API output (text from images)
-    └── processed/             # Final JSON files
+    │   └── OCR/              # Scanned PDFs (with images/)
+    ├── output/                # Temporary extraction output
+    │   ├── NO_OCR/           # NO_OCR extracted text
+    │   └── OCR/              # OCR extracted text
+    ├── Standard_text/         # Final cleaned/formatted text (input for processing)
+    └── processed_data/        # Final JSON output
 ```
 
 ## 📋 Pipeline Steps
 
 1. **Extract** - PDF → Text (pdfplumber for NO_OCR, OpenAI Vision for OCR)
-2. **Clean** - Remove promotional content, URLs, and noise
-3. **Parse** - Extract questions, options, and metadata
-4. **Enhance** - Add topics, tags, difficulty, embeddings
+2. **Clean/Format** - Manual cleanup and formatting → `data/Standard_text/`
+3. **Process** - Parse questions, classify topics, generate JSON
 
 ## 🚀 Usage
 
-### Main Pipeline
+### Main Processing
 
 ```bash
-# Run full pipeline
-python main.py pipeline
+# Process all files in Standard_text/
+python main.py process
 
-# Or run steps individually
-python main.py extract    # Extract text from PDFs
-python main.py clean      # Clean extracted text
-python main.py parse      # Parse questions into JSON
-python main.py enhance    # Add metadata for quiz generation
+# Run tests
+python main.py test
 ```
 
-### Utility Scripts
+### Extraction Scripts
 
 ```bash
-# Test text extraction (NO_OCR and OCR)
-python scripts/test_extraction.py
+# Extract NO_OCR PDFs
+python scripts/extract_noocr.py
 
-# Convert images to text using OpenAI Vision API
-python scripts/image_to_text.py
-
-# Process limited images (testing)
-python scripts/image_to_text.py --limit 5
+# Extract OCR images
+python scripts/image_to_text.py --filter NET
+python scripts/image_to_text.py --filter FAST
 ```
 
 ## 📦 Setup
@@ -107,34 +100,34 @@ python scripts/image_to_text.py --limit 5
 
 ## 🔄 Workflow
 
-### For NO_OCR PDFs:
-1. PDF → Text extraction (pdfplumber)
-2. Clean text
-3. Parse questions
-4. Enhance metadata
+### Phase 1: Extraction
 
-### For OCR PDFs (scanned):
-1. PDF → Images (PyMuPDF)
-2. Images → Text (OpenAI Vision API via `scripts/image_to_text.py`)
-3. Clean text
-4. Parse questions
-5. Enhance metadata
+**NO_OCR PDFs:**
+1. Run `python scripts/extract_noocr.py`
+2. Review extracted text in `data/output/NO_OCR/`
+3. Clean/format manually
+4. Copy to `data/Standard_text/`
 
-### For NO_OCR PDFs (when using OpenAI Vision):
-1. PDF → Images (PyMuPDF) - saved to `data/images/NO_OCR/`
-2. Images → Text (OpenAI Vision API via `scripts/image_to_text.py`)
-3. Clean text
-4. Parse questions
-5. Enhance metadata
+**OCR PDFs:**
+1. Run `python scripts/image_to_text.py --filter NET` or `--filter FAST`
+2. Review extracted text in `data/output/OCR/`
+3. Clean/format manually
+4. Copy to `data/Standard_text/`
+
+### Phase 2: Processing
+
+1. Run `python main.py process`
+2. Processes all files in `data/Standard_text/`
+3. Generates JSON files in `processed_data/`
 
 ## 📊 Output
 
-Final JSON files are saved to `data/processed/` with:
+Final JSON files are saved to `processed_data/` with:
 - Questions with options
 - Correct answers (when available)
 - Topics and tags
 - Difficulty scores
-- Enhanced embeddings (400+ chars)
+- Embedding text for RAG
 
 ## 📝 Notes
 

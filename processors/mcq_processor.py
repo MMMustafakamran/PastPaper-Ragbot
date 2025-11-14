@@ -141,22 +141,38 @@ class TopicClassifier:
             for line in content.split('\n'):
                 line = line.strip()
                 
-                if 'Mathematics' in line:
+                if 'Mathematics' in line and 'weightage' in line.lower():
                     current_subject = 'Mathematics'
-                elif 'Physics' in line:
+                    current_topic = None
+                elif 'Physics' in line and 'weightage' in line.lower():
                     current_subject = 'Physics'
-                elif 'Chemistry' in line:
+                    current_topic = None
+                elif 'Chemistry' in line and 'weightage' in line.lower():
                     current_subject = 'Chemistry'
-                elif 'English' in line:
+                    current_topic = None
+                elif 'English' in line and 'weightage' in line.lower():
                     current_subject = 'English'
-                elif 'Intelligence' in line:
+                    current_topic = None
+                elif 'Intelligence' in line and 'weightage' in line.lower():
                     current_subject = 'Intelligence'
+                    current_topic = None
                 
                 # Extract topics (look for numbered items or **bold** items)
                 topic_match = re.match(r'^\d+\.\s+\*\*(.+?)\*\*', line)
                 if topic_match and current_subject:
                     current_topic = topic_match.group(1)
                     topics[current_subject][current_topic] = []
+                
+                # For English and Intelligence, topics are listed as "1. Topic name" (without **)
+                if current_subject in ['English', 'Intelligence']:
+                    simple_topic_match = re.match(r'^\d+\.\s+(.+)$', line)
+                    if simple_topic_match and not topic_match:  # Not already matched as bold topic
+                        topic_name = simple_topic_match.group(1).strip()
+                        # Skip if it's the subject header line
+                        if topic_name and 'weightage' not in topic_name.lower():
+                            current_topic = topic_name
+                            if current_topic not in topics[current_subject]:
+                                topics[current_subject][current_topic] = []
                 
                 # Extract sub-topics (items with - or *)
                 subtopic_match = re.match(r'^\s*[-*]\s+(.+)$', line)
@@ -192,9 +208,37 @@ class TopicClassifier:
             "Conic Sections": ["parabola", "ellipse", "hyperbola", "conic", "focus", "directrix", "eccentricity"],
         }
         
+        # English keywords (English is a subject, these are topics matching Topics_net)
+        english_keywords = {
+            "Grammar and syntax": ["grammar", "syntax", "noun", "verb", "adjective", "adverb", "pronoun", 
+                                   "preposition", "conjunction", "article", "tense", "sentence", "clause", "phrase"],
+            "Vocabulary (synonyms, antonyms)": ["vocabulary", "synonym", "antonym", "meaning", "word", "definition"],
+            "Reading comprehension": ["reading comprehension", "comprehension", "passage", "reading", "paragraph", "text"],
+            "Sentence correction": ["sentence correction", "correct", "error", "mistake", "grammatical"],
+            "Idioms and phrases": ["idiom", "phrase", "expression", "proverb"],
+        }
+        
+        # Intelligence/IQ keywords (Intelligence is a subject, these are topics matching Topics_net)
+        intelligence_keywords = {
+            "Logical reasoning": ["logical reasoning", "logical", "reasoning", "logic", "deduce", "infer", "conclusion", "premise"],
+            "Pattern recognition": ["pattern recognition", "pattern", "recognition", "visual pattern"],
+            "Series completion": ["series completion", "complete", "series", "sequence", "next number", "next term"],
+            "Analogies": ["analogy", "analogous", "similar", "like", "as", "relationship"],
+            "Critical thinking": ["critical thinking", "critical", "think", "analyze", "evaluate", "assess", "judge"],
+        }
+        
+        # Add all keywords to map
         for topic, keywords in math_keywords.items():
             for keyword in keywords:
                 keyword_map[keyword.lower()] = ("Mathematics", topic)
+        
+        for topic, keywords in english_keywords.items():
+            for keyword in keywords:
+                keyword_map[keyword.lower()] = ("English", topic)
+        
+        for topic, keywords in intelligence_keywords.items():
+            for keyword in keywords:
+                keyword_map[keyword.lower()] = ("Intelligence", topic)
         
         return keyword_map
     
@@ -248,7 +292,49 @@ class TopicClassifier:
                 "Trigonometric Functions": ["sin", "cos", "tan", "cot", "sec", "cosec"],
                 "Identities": ["identity", "identities"],
                 "Inverse Trigonometric": ["sin^-1", "cos^-1", "tan^-1", "inverse"],
-            }
+            },
+            "Grammar and syntax": {
+                "Parts of Speech": ["noun", "verb", "adjective", "adverb", "pronoun"],
+                "Tenses": ["tense", "present", "past", "future", "perfect", "continuous"],
+                "Sentence Structure": ["sentence", "clause", "phrase", "subject", "predicate"],
+            },
+            "Vocabulary (synonyms, antonyms)": {
+                "Synonyms": ["synonym", "similar meaning", "same meaning"],
+                "Antonyms": ["antonym", "opposite", "opposite meaning"],
+                "Word Meaning": ["meaning", "definition", "define"],
+            },
+            "Reading comprehension": {
+                "Passage Analysis": ["passage", "paragraph", "text", "reading"],
+                "Comprehension": ["comprehension", "understand", "interpret"],
+            },
+            "Sentence correction": {
+                "Error Detection": ["error", "mistake", "incorrect"],
+                "Correction": ["correct", "fix", "improve"],
+            },
+            "Idioms and phrases": {
+                "Idioms": ["idiom", "expression"],
+                "Phrases": ["phrase", "proverb"],
+            },
+            "Logical reasoning": {
+                "Deductive": ["deduce", "deduction", "conclusion", "premise"],
+                "Inductive": ["inductive", "infer", "inference"],
+            },
+            "Pattern recognition": {
+                "Number Patterns": ["number", "digit", "sequence"],
+                "Visual Patterns": ["pattern", "shape", "figure"],
+            },
+            "Series completion": {
+                "Number Series": ["number", "sequence", "series"],
+                "Pattern Completion": ["complete", "next", "missing"],
+            },
+            "Analogies": {
+                "Word Analogies": ["analogy", "similar", "relationship"],
+                "Pattern Analogies": ["like", "as", "analogous"],
+            },
+            "Critical thinking": {
+                "Analysis": ["analyze", "examine", "evaluate"],
+                "Assessment": ["assess", "judge", "critical"],
+            },
         }
         
         if main_topic in subtopic_keywords:
@@ -300,31 +386,33 @@ class JSONGenerator:
             processed_q = self._process_question(q, idx, source_info)
             processed_questions.append(processed_q)
         
-        # Group by main topic
-        topic_groups = {}
+        # Group by subject and main topic (to handle multi-subject papers like FAST)
+        subject_topic_groups = {}
         for q in processed_questions:
+            subject = q["source"]["subject"]  # Actual subject from classifier
             main_topic = q["topic"]["main_topic"]
-            if main_topic not in topic_groups:
-                topic_groups[main_topic] = []
-            topic_groups[main_topic].append(q)
+            key = (subject, main_topic)
+            if key not in subject_topic_groups:
+                subject_topic_groups[key] = []
+            subject_topic_groups[key].append(q)
         
-        # Create separate files per topic
+        # Create separate files per subject-topic combination
         datasets = {}
-        for main_topic, questions in topic_groups.items():
+        for (subject, main_topic), questions in subject_topic_groups.items():
             dataset = {
                 "dataset_info": {
-                    "dataset_name": f"{source_info['exam_type']} {source_info['subject']} - {main_topic}",
+                    "dataset_name": f"{source_info['exam_type']} {subject} - {main_topic}",
                     "version": "1.0",
                     "created_date": datetime.now().strftime("%Y-%m-%d"),
                     "total_questions": len(questions),
                     "source_file": source_info['source_file'],
                     "exam_type": source_info['exam_type'],
-                    "subject": source_info['subject'],
+                    "subject": subject,  # Use actual subject from classifier
                     "main_topic": main_topic
                 },
                 "questions": questions
             }
-            datasets[main_topic] = dataset
+            datasets[(subject, main_topic)] = dataset
         
         return datasets
     
@@ -497,12 +585,14 @@ class BatchProcessor:
         # Determine source info from filepath
         source_info = self._extract_source_info(filepath)
         
-        # Generate datasets (one per topic)
+        # Generate datasets (one per subject-topic combination)
         datasets = self.generator.generate_dataset(questions, source_info)
         
         # Save each dataset
-        for main_topic, dataset in datasets.items():
-            output_path = self._get_output_path(source_info, main_topic)
+        for key, dataset in datasets.items():
+            # key is (subject, main_topic) tuple
+            subject, main_topic = key
+            output_path = self._get_output_path(source_info, main_topic, subject=subject)
             output_path.parent.mkdir(parents=True, exist_ok=True)
             
             with open(output_path, 'w', encoding='utf-8') as f:
@@ -513,6 +603,7 @@ class BatchProcessor:
     def _extract_source_info(self, filepath: str) -> Dict:
         """Extract source information from filepath"""
         path_parts = Path(filepath).parts
+        filepath_obj = Path(filepath)
         
         # Determine exam type
         exam_type = "Unknown"
@@ -521,33 +612,69 @@ class BatchProcessor:
         elif "FAST" in path_parts:
             exam_type = "FAST"
         
-        # Determine subject
+        # Determine subject (default, will be overridden by classifier)
         subject = "Mathematics"  # Default
-        filename = Path(filepath).stem.lower()
+        filename = filepath_obj.stem.lower()
         if "physics" in filename:
             subject = "Physics"
         elif "chemistry" in filename:
             subject = "Chemistry"
         elif "english" in filename:
             subject = "English"
+        elif "intelligence" in filename or "iq" in filename:
+            subject = "Intelligence"
+        
+        # Extract paper/source folder name for NET papers
+        # Example: data/Standard_text/NET/100_netquestions/file.txt -> paper_folder = "100_netquestions"
+        paper_folder = None
+        if exam_type == "NET":
+            # Find the folder name after NET in the path
+            try:
+                net_index = None
+                for i, part in enumerate(path_parts):
+                    if "NET" in part.upper() and i + 1 < len(path_parts):
+                        net_index = i
+                        break
+                if net_index is not None and net_index + 1 < len(path_parts):
+                    # Get the folder after NET (e.g., "100_netquestions" or "497992392-NUST-NET-Solved-MCQs")
+                    paper_folder = path_parts[net_index + 1]
+            except (IndexError, ValueError):
+                pass
         
         return {
             "exam_type": exam_type,
-            "subject": subject,
-            "source_file": Path(filepath).name,
-            "paper_name": Path(filepath).stem,
+            "subject": subject,  # Default subject, actual subject determined by classifier per question
+            "source_file": filepath_obj.name,
+            "paper_name": filepath_obj.stem,
+            "paper_folder": paper_folder,  # For NET papers, keep separate folders
             "year": "2024"
         }
     
-    def _get_output_path(self, source_info: Dict, main_topic: str) -> Path:
-        """Generate output file path"""
+    def _get_output_path(self, source_info: Dict, main_topic: str, subject: str = None) -> Path:
+        """Generate output file path
+        
+        Args:
+            source_info: Source information dictionary
+            main_topic: Main topic name
+            subject: Actual subject (from classifier, overrides source_info['subject'])
+        """
+        # Use actual subject from classifier if provided
+        actual_subject = subject if subject else source_info['subject']
+        
         # Sanitize topic name for filename
         topic_filename = re.sub(r'[^\w\s-]', '', main_topic).strip().replace(' ', '_').lower()
         
-        return (self.output_dir / 
-                source_info['exam_type'] / 
-                source_info['subject'] / 
-                f"{topic_filename}.json")
+        # Build path
+        path_parts = [self.output_dir, source_info['exam_type']]
+        
+        # For NET papers, include paper folder to keep them separate
+        if source_info['exam_type'] == "NET" and source_info.get('paper_folder'):
+            path_parts.append(source_info['paper_folder'])
+        
+        path_parts.append(actual_subject)
+        path_parts.append(f"{topic_filename}.json")
+        
+        return Path(*path_parts)
 
 
 def main():
