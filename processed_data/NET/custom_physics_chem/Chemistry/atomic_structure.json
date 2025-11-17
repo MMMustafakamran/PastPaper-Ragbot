@@ -1,0 +1,179 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Chemistry - Atomic Structure",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 3,
+    "source_file": "nust_phyiscs_chem_unsolved.txt",
+    "exam_type": "NET",
+    "subject": "Chemistry",
+    "main_topic": "Atomic Structure"
+  },
+  "questions": [
+    {
+      "question_id": "NET_CHE_ATOMIC_STRUCTURE_Q065",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Atomic Structure",
+        "sub_topic": "Atomic Structure",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Which one has the same number of electrons, protons, and neutrons?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "N\u2082 and CO"
+        },
+        {
+          "key": "b",
+          "value": "H\u2082 and O\u2082"
+        },
+        {
+          "key": "c",
+          "value": "N\u2082 and CO\u2082"
+        },
+        {
+          "key": "d",
+          "value": "H\u2082O and H\u2082S"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "N\u2082 and CO",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Atomic Structure: Which one has the same number of electrons, protons, and neutrons? Options: N\u2082 and CO, H\u2082 and O\u2082, N\u2082 and CO\u2082, H\u2082O and H\u2082S. Correct answer: N\u2082 and CO",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "atomic structure"
+        ],
+        "prerequisites": [
+          "atomic structure"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_ATOMIC_STRUCTURE_Q070",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Atomic Structure",
+        "sub_topic": "Atomic Structure",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The relative atomic mass of chlorine is 35.5. What is the mass of 2 moles of chlorine gas?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "142 g"
+        },
+        {
+          "key": "b",
+          "value": "35.5 g"
+        },
+        {
+          "key": "c",
+          "value": "71 g"
+        },
+        {
+          "key": "d",
+          "value": "18.75 g"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "142 g",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Atomic Structure: The relative atomic mass of chlorine is 35.5. What is the mass of 2 moles of chlorine gas? Options: 142 g, 35.5 g, 71 g, 18.75 g. Correct answer: 142 g",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "atomic structure"
+        ],
+        "prerequisites": [
+          "atomic structure"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_ATOMIC_STRUCTURE_Q075",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Atomic Structure",
+        "sub_topic": "Atomic Structure",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Isotopes differ in the",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Number of atoms"
+        },
+        {
+          "key": "b",
+          "value": "Number of neutrons"
+        },
+        {
+          "key": "c",
+          "value": "Number of protons"
+        },
+        {
+          "key": "d",
+          "value": "Number of electrons"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Number of neutrons",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Atomic Structure: Isotopes differ in the Options: Number of atoms, Number of neutrons, Number of protons, Number of electrons. Correct answer: Number of neutrons",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "atomic structure"
+        ],
+        "prerequisites": [
+          "atomic structure"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

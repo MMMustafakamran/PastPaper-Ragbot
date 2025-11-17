@@ -1,0 +1,509 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Chemistry - Chemical Reactions",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 9,
+    "source_file": "nust_phyiscs_chem_unsolved.txt",
+    "exam_type": "NET",
+    "subject": "Chemistry",
+    "main_topic": "Chemical Reactions"
+  },
+  "questions": [
+    {
+      "question_id": "NET_CHE_CHEMICAL_REACTIONS_Q063",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Chemical Reactions",
+        "sub_topic": "Chemical Reactions",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The reaction is spontaneous if the cell potential is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Positive"
+        },
+        {
+          "key": "b",
+          "value": "Negative"
+        },
+        {
+          "key": "c",
+          "value": "0"
+        },
+        {
+          "key": "d",
+          "value": "Infinite"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Positive",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Chemical Reactions: The reaction is spontaneous if the cell potential is Options: Positive, Negative, 0, Infinite. Correct answer: Positive",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "chemical reactions"
+        ],
+        "prerequisites": [
+          "chemical reactions"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_CHEMICAL_REACTIONS_Q068",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Chemical Reactions",
+        "sub_topic": "Chemical Reactions",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "At the start of a reaction, concentration of reactants is on the",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Higher side"
+        },
+        {
+          "key": "b",
+          "value": "Lower side"
+        },
+        {
+          "key": "c",
+          "value": "Optimum side"
+        },
+        {
+          "key": "d",
+          "value": "Constant"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Higher side",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Chemical Reactions: At the start of a reaction, concentration of reactants is on the Options: Higher side, Lower side, Optimum side, Constant. Correct answer: Higher side",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "chemical reactions"
+        ],
+        "prerequisites": [
+          "chemical reactions"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_CHEMICAL_REACTIONS_Q071",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Chemical Reactions",
+        "sub_topic": "Chemical Reactions",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Which of the following factors will favor the reverse reaction in a chemical equilibrium?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Increase in concentration of one of the reactants"
+        },
+        {
+          "key": "b",
+          "value": "Increase in concentration of one of the products"
+        },
+        {
+          "key": "c",
+          "value": "Removal of one of the products regularly"
+        },
+        {
+          "key": "d",
+          "value": "None of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Increase in concentration of one of the products",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Chemical Reactions: Which of the following factors will favor the reverse reaction in a chemical equilibrium? Options: Increase in concentration of one of the reactants, Increase in concentration of one of the products, Removal of one of the products regularly, None of these. Correct answer: Increase in concentration of one of the products",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "chemical reactions"
+        ],
+        "prerequisites": [
+          "chemical reactions"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_CHEMICAL_REACTIONS_Q073",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Chemical Reactions",
+        "sub_topic": "Chemical Reactions",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Rate expression for NH\u2083 synthesis is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Kc = X\u00b2/(a\u2212x)(b\u2212x)"
+        },
+        {
+          "key": "b",
+          "value": "Kc = X\u00b2/v(a\u2212x)"
+        },
+        {
+          "key": "c",
+          "value": "Kc = 4X\u00b2/v(a\u2212x)"
+        },
+        {
+          "key": "d",
+          "value": "Kc = 4X\u00b2v\u00b2/(a\u2212x)(b\u22123x)\u00b3"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Kc = 4X\u00b2v\u00b2/(a\u2212x)(b\u22123x)\u00b3",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Chemical Reactions: Rate expression for NH\u2083 synthesis is: Options: Kc = X\u00b2/(a\u2212x)(b\u2212x), Kc = X\u00b2/v(a\u2212x), Kc = 4X\u00b2/v(a\u2212x), Kc = 4X\u00b2v\u00b2/(a\u2212x)(b\u22123x)\u00b3. Correct answer: Kc = 4X\u00b2v\u00b2/(a\u2212x)(b\u22123x)\u00b3",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "chemical reactions"
+        ],
+        "prerequisites": [
+          "chemical reactions"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_CHEMICAL_REACTIONS_Q074",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Chemical Reactions",
+        "sub_topic": "Chemical Reactions",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "AgCl dissolved with concentration (Z \u00d7 10\u207b\u00b2). Ksp will be:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "3.6 \u00d7 10\u207b\u2076"
+        },
+        {
+          "key": "b",
+          "value": "3.6 \u00d7 10\u207b\u2075"
+        },
+        {
+          "key": "c",
+          "value": "7.2 \u00d7 10\u207b\u2076"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "None",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Chemical Reactions: AgCl dissolved with concentration (Z \u00d7 10\u207b\u00b2). Ksp will be: Options: 3.6 \u00d7 10\u207b\u2076, 3.6 \u00d7 10\u207b\u2075, 7.2 \u00d7 10\u207b\u2076, None. Correct answer: None",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "chemical reactions"
+        ],
+        "prerequisites": [
+          "chemical reactions"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_CHEMICAL_REACTIONS_Q076",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Chemical Reactions",
+        "sub_topic": "Chemical Reactions",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Which of the following will not change the concentration of ammonia in the equilibrium?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Increase of pressure"
+        },
+        {
+          "key": "b",
+          "value": "Increase of temperature"
+        },
+        {
+          "key": "c",
+          "value": "Decrease of volume"
+        },
+        {
+          "key": "d",
+          "value": "Addition of catalyst"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Addition of catalyst",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Chemical Reactions: Which of the following will not change the concentration of ammonia in the equilibrium? Options: Increase of pressure, Increase of temperature, Decrease of volume, Addition of catalyst. Correct answer: Addition of catalyst",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "chemical reactions"
+        ],
+        "prerequisites": [
+          "chemical reactions"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_CHEMICAL_REACTIONS_Q077",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Chemical Reactions",
+        "sub_topic": "Chemical Reactions",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "According to Le Chatelier\u2019s principle, adding heat to a solid\u2013liquid equilibrium will cause the",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Amount of solid to decrease"
+        },
+        {
+          "key": "b",
+          "value": "Amount of liquid to decrease"
+        },
+        {
+          "key": "c",
+          "value": "Temperature to rise"
+        },
+        {
+          "key": "d",
+          "value": "Temperature to fall"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Amount of solid to decrease",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Chemical Reactions: According to Le Chatelier\u2019s principle, adding heat to a solid\u2013liquid equilibrium will cause the Options: Amount of solid to decrease, Amount of liquid to decrease, Temperature to rise, Temperature to fall. Correct answer: Amount of solid to decrease",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "chemical reactions"
+        ],
+        "prerequisites": [
+          "chemical reactions"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_CHEMICAL_REACTIONS_Q078",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Chemical Reactions",
+        "sub_topic": "Chemical Reactions",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "In a reaction A + B \u21cc C + D, the initial concentrations of A and B were 0.9 mol/dm\u00b3 each. At equilibrium, the concentration of D was found to be 0.6 mol/dm\u00b3. What is the value of the equilibrium constant for the reaction?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "8"
+        },
+        {
+          "key": "b",
+          "value": "9"
+        },
+        {
+          "key": "c",
+          "value": "4"
+        },
+        {
+          "key": "d",
+          "value": "3"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "4",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Chemical Reactions: In a reaction A + B \u21cc C + D, the initial concentrations of A and B were 0.9 mol/dm\u00b3 each. At equilibrium, the concentration of D was found to be 0.6 mol/dm\u00b3. What is the value of the equilibrium constant for the reaction? Options: 8, 9, 4, 3. Correct answer: 4",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "chemical reactions"
+        ],
+        "prerequisites": [
+          "chemical reactions"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_CHEMICAL_REACTIONS_Q080",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Chemical Reactions",
+        "sub_topic": "Chemical Reactions",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "For most chemical reactions, the rate of reaction",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Increases as the reaction proceeds"
+        },
+        {
+          "key": "b",
+          "value": "Decreases as the reaction proceeds"
+        },
+        {
+          "key": "c",
+          "value": "May increase or decrease during reaction"
+        },
+        {
+          "key": "d",
+          "value": "Remains constant as the reaction proceeds"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Decreases as the reaction proceeds",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Chemical Reactions: For most chemical reactions, the rate of reaction Options: Increases as the reaction proceeds, Decreases as the reaction proceeds, May increase or decrease during reaction, Remains constant as the reaction proceeds. Correct answer: Decreases as the reaction proceeds",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "chemical reactions"
+        ],
+        "prerequisites": [
+          "chemical reactions"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

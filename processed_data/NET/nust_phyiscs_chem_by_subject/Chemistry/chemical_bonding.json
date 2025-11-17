@@ -1,0 +1,69 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Chemistry - Chemical Bonding",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 1,
+    "source_file": "nust_phyiscs_chem_unsolved.txt",
+    "exam_type": "NET",
+    "subject": "Chemistry",
+    "main_topic": "Chemical Bonding"
+  },
+  "questions": [
+    {
+      "question_id": "NET_CHE_CHEMICAL_BONDING_Q053",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Chemical Bonding",
+        "sub_topic": "Chemical Bonding",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The bonding in an inert gas crystal is due to",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Metallic binding"
+        },
+        {
+          "key": "b",
+          "value": "Covalent bonding"
+        },
+        {
+          "key": "c",
+          "value": "Ionic binding"
+        },
+        {
+          "key": "d",
+          "value": "Van der Waals binding"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Van der Waals binding",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Chemical Bonding: The bonding in an inert gas crystal is due to Options: Metallic binding, Covalent bonding, Ionic binding, Van der Waals binding. Correct answer: Van der Waals binding",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "chemical bonding"
+        ],
+        "prerequisites": [
+          "chemical bonding"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

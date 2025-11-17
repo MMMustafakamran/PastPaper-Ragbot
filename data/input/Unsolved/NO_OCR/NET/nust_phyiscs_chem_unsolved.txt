@@ -1,0 +1,790 @@
+81) What type of science is physics?
+a. Living things
+b. Nonliving things
+c. Experimental science
+d. Study of action and reaction and experimental science
+82) The magnitude of the resultant of two forces Is 2F. if the magnitude of each force Is F, then the
+angle between these forces is
+a. 00
+b. 900
+c. 1200
+d. 1800
+83) If the measuring scale has a least count of 10kg then in 8000kg the significant figures are
+a. 4
+b. 1
+c. 3
+d. 0
+84) Supplementary S.I units of radian and steradian were established to measure
+a. Geometrical quantities
+b. Luminous intensity
+c. Electric current
+d. Temperature
+85) S.I unit of magnetic flux is
+a. Weber meter 2
+b. Weber
+c. Weber /meter
+d. Weber / meter4
+86) The physical quantity which produces angular acceleration in the body is
+a. Force
+www.educatedzone.com
+b. Moment of inertia
+c. Impulse
+d. Torque
+87) When a vector is multiplied by a scalar of positive value, the product of the quantity will be
+a. Multiple of the vector quantity in same direction
+b. Multiple of the vector quantity in opposite direction
+c. Multiple of the vector quantity in perpendicular to the original vector
+d. None of these
+88) The magnitude of the vector A,B and C are respectively 12,5 and 13 units and vector A+B=C
+then the angle between vector A and B is
+a. 0
+b. π
+c. π/2
+d. π/4
+89) three vector satisfy the relation vector A .B =0 and A.C= 0 then A is parallel to
+a. B X C
+b. B.C
+c. C
+d. B
+90) No Work Is done by the body when angle between forces and displacement is
+a. 00
+b. 450
+c. 900
+d. 600
+91) If the acceleration due to gravity at the earth’s surface I s 9.8m/s2 and the mass of the earth is
+80 times that of the moon and radius of earth 4 times that moon, the value of g at the
+moon’s surface will be
+a. 9.8m/s2
+b. 1.96 m/s2
+c. 4.9m/s2
+d. None
+92) The particle of mass ‘m’ at rest is acted upon by a force ‘p’ for a time‘t’. its kinetic energy after
+an interval ‘t’ is
+a. P2 t2/m
+b. P2 t2/2m
+c. P2 t2/3m
+d. P t/2m
+93) The dot product of force and velocity is equal to
+a. Power
+b. Impulse
+c. Couple
+www.educatedzone.com
+d. Momentum
+94) If a force acts on a body whose action line does not pass through its centre of gravity, then the
+body will experience
+a. Angular acceleration
+b. Linear acceleration
+c. No acceleration
+d. None of these
+95) In which case application of angular velocity is useful?
+a. When a body is rotating
+b. When velocity of body is in a straight line
+c. When velocity is in a straight line
+d. None of these
+96) Center of mass is a point
+a. Which is geometric center of a body
+b. From which distance of particles are same
+c. Where the whole mass of the body is supposed to be cantered
+d. Which is origin of reference frame
+97) Angular momentum has the same unit as
+a. Impulse x distance
+b. Linear momentum x time
+c. Work x frequency
+d. Power x time
+98) The flow is said to streamline or laminar when every particle
+a. Moves in different direction
+b. Moves along the same path as
+c. Slowly moves in one direction
+d. None of these
+99) The pressure will be low where the speed of the fluid is
+a. 0
+b. high
+c. low
+d. constant
+100)
+A two meter high tank is full of water. A hole is made in the middle of tank .The speed
+of efflux is
+a. 4.9m/s1
+b. 9.8m/s1
+c. 4.42 m/s1
+d. 3.75 m/s1
+www.educatedzone.com
+101)
+In case of a vibrating pendulum, the potential energy is maximum at
+a. Mean position
+b. Extreme position
+c. Both a and b
+d. None
+102)
+Specific response of as system which is able to oscillate with a certain period, to an
+external force acting with the same period is called
+a. TIME period
+b. Wavelength
+c. Resonance
+d. Dopplar effects
+103)
+A simple harmonic oscillator has period of 0.01 second and amplitude of 0.2m. the
+magnitude of the velocity in m/s at the center of oscillation is
+a. 100
+b. 100 π
+c. 20 π
+d. 40 π
+104)
+A spherical wave front is that which has
+a. A source
+b. A point source
+c. An extended source
+d. None of these
+105)
+We can hear sound around the corner but cannot see because of
+a. Interference
+b. Diffraction
+c. Polarization
+d. Dispersion
+106)
+Huygens’s wave theory of light cannot explain
+a. Diffraction
+b. Interference
+c. Polarization
+d. Photoelectric effect
+107)
+The tip of a needle does not give a sharp image. It is due to
+a. Polarization
+b. Interference
+c. Diffraction
+d. none
+www.educatedzone.com
+108)
+sun has elliptical shape when it rises and sets due to
+a. Refraction
+b. Reflection
+c. Scattering
+d. Dispersion
+109)
+Number of electric lines of force passing through a certain area is knownas
+a. Electric field
+b. Electric flux
+c. Electric intensity
+d. Gravitational field
+110)
+When a ray of light enters a glass slab from air
+a. Its wavelength night increases
+b. Neither Its wavelength nor its frequency changes
+c. its frequency increases
+d. Its wavelength decreases
+111)
+Which of the following statements is correct for any thermodynamic system?
+a. The internal energy changes in all processes
+b. Internal energy and entropy are state functions
+c. The change in entropy can never be 0
+d. The work done in an adiabatic process is always 0
+112)
+Kelvin scale can be applied ar very low temperature because
+a. It is independent of nature of working substance
+b. It is linear over a wide range of temperature
+c. It is based on triple point of water
+d. None
+113)
+Two metal rods A and have their initial length in the ratio 2:3 and coefficients of linear
+expansion in the ratio of 4:3. When they are heated through same temperature difference the
+ratio of their linear expansion is
+a. 1:2
+b. 2:3
+c. 3:4
+d. 8:9
+114)
+Melting point of ice is
+a. Increases with increasing pressure
+b. Decreases with increasing pressure
+c. Is independent of pressure
+d. Is proportional to pressure
+www.educatedzone.com
+115)
+Two metallic wires are lying parallel. If the current In these wires be flowing in same
+direction, the wires will :
+a. Attract each other
+b. Repel each other
+c. Have no force of attraction or repulsion
+d. Remain stationary
+116)
+On moving a charge of 20 coulombs by 2 cm, 2J of work is done then the potential
+difference between the points is
+a. 0.1v
+b. 8v
+c. 2v
+d. 0.5v
+117)
+In a millikan’s oil drop experiment the charge on an oil drop is calculated to be 6.35 x 10-
+19C. the number of excess electrons on the drop is
+a. 3.9
+b. 4
+c. 4.2
+d. 6
+118)
+A charge Q is divided into two parts q and Q-q and separated by a distance R.The
+force of repulsion between them will be maximum when:
+a. q = Q/4
+b. q =Q/2
+c. q =Q
+d. none
+119)
+The color coded resistances are made by
+a. High grade silver rods
+b. High grade ceramic rods
+c. High grade copper rods
+d. High grade iron rods
+120)
+A wire of radius r has resistances R.if it is stretched to a wire of r/2 radius, then the
+resistance becomes
+a. 2R
+b. 4R
+c. 16R
+d. Zero
+121)
+A uniform resistance wire of length L and diameter d has a resistance R.Another wire of
+same material has length, 4L and diameter 2d , the resistance will be
+a. 2R
+www.educatedzone.com
+b. R
+c. R/2
+d. R/4
+122)
+In RLC series circuit when the frequency of AC source is very low the circuit is a /an
+a. Resistive circuit
+b. Capacitive circuit
+c. Inductive circuit
+d. Resonant circuit
+123)
+An electron of charge e coulomb passes through a potential difference of V volts. Its
+energy in ‘joules’ will be
+a. V/e
+b. eV
+c. e/V
+d. V
+124)
+The resistance of voltmeter must have very high resistance because
+a. It does not draw any current
+b. It is very accurate
+c. It does not change circuit current considerably
+d. None of these
+125)
+The voltage that is applied across the X plates is usually provided by a circuit that is built
+in the CRO. It is known as
+a. Time base generator
+b. Electric base generator
+c. X supplier
+d. Power supply
+126)
+A voltmeter has resistance of 2000 ohms and it can measure up to 2V. if we want to
+increase its range to 10V then required resistance in series will be
+a. 2000 Ώ
+b. 4000 Ώ
+c. 6000 Ώ
+d. 8000 Ώ
+127)
+In A.C. through capacitor circuit the v and q are as
+a. V leads q
+b. V legs q
+c. V and q are in phase
+d. None of these
+128)
+At resonance, the phase angle for RLC series resonance circuit equals
+a. 00
+b. 900
+c. 1800
+d. 2700
+www.educatedzone.com
+129)
+An inductor coil when consume no energy is called
+a. A coil
+b. Choke
+c. Toroid
+d. None
+130)
+The color of light by light emitting diode depends upon:
+a. Forward voltage
+b. Reverse current
+c. Forward current
+d. Type of semiconductor
+131)
+Which one of the following physical quantities does not have the dimensions of force
+per unit area
+a. Stress
+b. Strain
+c. Young’s modulus
+d. Pressure
+132)
+The bulk properties of materials such as their mode of fracture can be related to their
+a. Polymerization
+b. Cleavage
+c. Microstructure
+d. Dislocation
+133)
+The bonding in an inert gas crystal is due to
+a. Metallic binding
+b. Covalent bonding
+c. Ionic binding
+d. Vander waals binding
+134)
+A certain transistor has collector current of 10 mA and a base current of 40uA. What is
+the current gain of the transistor?
+a. 150
+b. 250
+c. 300
+d. None
+135)
+In a full wave rectifier with input frequency 50 Hz the ripple in the output is mainly of
+the frequency (in Hz).
+a. 25
+b. 50
+c. 100
+d. None
+136)
+place is : If an atom exists in the excited state n=5, the maximum number of transition takes
+a. 6
+www.educatedzone.com
+b. 4
+c. 10
+d. 3
+137)
+In a common base amplifier, the phase difference between the input signal voltage
+and output voltage is
+a. π
+b. π/4
+c. π/2
+d. 0
+138)
+If we consider electrons and photons of the same wavelength , then they will have the
+same
+a. Velocity
+b. Angular momentum
+c. Energy
+d. Momentum
+139)
+The situation in which then excited state i.e. metastable state contains more number of
+electrons than the ground is called:
+a. Ionized state
+b. Stimulations
+c. Population inversion
+d. All of these
+140)
+The minimum energy in electron volt required to strip off ten times ionized sodium
+atom (i.e. z=11) of its last electron is
+a. 13.6MeV
+b. 13.6 x11 eV
+c. 13.6 x112eV
+d. 13.6 x113eV
+141)
+Diameter of an atom is in the range of
+a. 0.2m
+b. 0.2nm
+c. 2x 10-10nm
+d. 0.2Pm
+142)
+ΔH neutralization is always
+a. +ive
+b. –ive
+c. 0
+d. +ive or -ive
+143)
+The reaction is spontaneous if the cell potential is
+a. Positive
+b. Negative
+c. 0
+www.educatedzone.com
+d. Infinite
+144)
+Mechanical work is especially important in systems that contain
+a. Solid-liquid
+b. Liquid-liquid
+c. Solid –solid
+d. Gases
+145)
+Which one has same number of electrons protons and neutrons?
+a. N2 and CO
+b. H2 and O2
+c. N2 and CO2
+d. H2 O and H2S
+146)
+Which of the following is not correct?
+a. Dissolution of NH4Cl in excess of water is an endo thermic process
+b. Neutralization is always exothermic
+c. The absolute value of enthalpy (H) can be determined experimentally.
+d. The heat of reaction at constant volume is denoted by ΔE.
+147)
+Which of the following aqueous solution will be basic?
+a. NaCl
+b. Na2S O4
+c. Na2 CO3
+d. FeCl3
+148)
+A start of reaction, concentration of reactants are on
+a. Higher side
+b. Lower side
+c. Optimum side
+d. Constant
+149)
+Idea of PH and POH was put forward by
+a. Gibbs
+b. Einstein
+c. Sorenson
+d. Chadwick
+150)
+The relative atomic mass of chlorine is 35.5. what is the mass of 2 moles of chlorine gas
+a. 142g
+b. 35.5g
+c. 71g
+d. 18.75g
+151)
+Which of the following factors will favor the reverse reaction in a chemical
+equilibrium
+www.educatedzone.com
+a. Increase in concentration of one of the reactants
+b. Increase in concentration of one of the products
+c. Removal of one of the products regularly
+d. None of these
+152)
+Hydrogen gas and iodine vapors combine to form HI at 425 degree centigrade. The same
+composition of mixture is present if we start with decomposition of HI. It suggests
+a. Law of mass action
+b. A static equilibrium
+c. Irreversible reaction
+d. A dynamic equilibrium
+153)
+Rate expression fo NH3 synthesis is
+a. Kc =X2/(a-x)(b-x)
+b. Kc = X2/v(a-x)
+c. Kc = 4X2/v(a-x)
+d. Kc = 4X2 v2/(a-x)(b-3x)3
+154)
+Agcl dissolved with concentration (Z x 10-2)ksp will be
+a. 3.6 x 10-6
+b. 3.6 x10-5
+c. 7.2 x 10-6
+d. None
+155)
+Isotopes differ in the
+a. Number of atoms
+b. Number of neutron
+c. Number of protons
+d. Number of electrons
+156)
+Which of the following will not change the concentration of ammonia in the
+equilibrium?
+N2(g) +3H2
+2 NH3
+ΔH=-xkj
+a) Increase of pressure
+b) Increase of temperature
+c) Decrease of volume
+d) Addition of catalyst
+157)
+According to le chatelier’s principal, adding the heat to a solid and liquid in
+equilibrium will cause the
+www.educatedzone.com
+a. Amount of solid to decrease
+b. Amount of liquid to decrease
+c. Temperature to rise
+d. Temperature to fall
+158)
+In a reaction
+A+B
+C+D
+The initial concentrations of A and B were 0.9 mol/dm3 each. At equilibrium the concentration
+of D was found to be 0.6 mol/dm3. What is the value of equilibrium constant for the reaction?
+a. 8
+b. 9
+c. 4
+159) d. 3
+One mole of compound AB reacts with one mole of a compound CD according to the
+equation AB (g) +CD (g)
+AD (g) +CB (g). When equilibrium had been established it was
+found that ¾ mole each of reactants AB and CD had been converted to AD and CB. There is no;
+change in volume .The equilibrium constant for the reaction is
+a. 9/16
+b. 1/9
+c. 16/9
+d. 9
+160)
+For most of the chemical reactions the rate of reaction
+a. Increases as the reaction proceeds
+b. Decreases as the reaction proceeds
+c. May increase or decrease during reaction
+d. Remains constant as the reaction proceeds
+161)
+The rate of reaction A+B
+products the given by equation r=K[A][B] if
+the B is taken in large excess, the order of the reaction would be
+a. 2
+b. 1
+c. 0
+d. Unpredictable
+162)
+The Weight of 11.2 litres of co2 at S.T.P would be
+a. 88g
+b. 44g
+c. 32g
+d. 22g
+www.educatedzone.com
+163)
+With increase in 10degree centigrade the rate of reaction doubles. This increase in rate
+of reaction is due to
+a. Decrease in activation energy of reaction
+b. Decrease in the number collisions between reactant molecules
+c. Increase in activation energy of reactants
+d. Increase in number of effective collisions
+164)
+The time taken for 90% of a 1st order reaction to complete is approximately
+a. 1.1 times that of half life
+b. 2.2 times that of half life
+c. 3.3 times that of half life
+d. 4.4 times that of half life
+165)
+The volume occupied by 1.4g of N2 at S.T.P is
+a. 2.24 dm3
+b. 22.4 dm3
+c. 1.12 dm3
+d. 112 cm3
+166)
+A reaction involving two different reactants can never be
+a. Uni-molecular reaction
+b. First order reaction
+c. Second order reaction
+d. Bimolecular reaction
+167)
+According to law of mass action rate of a chemical reaction is proportional to
+a. Concentration of reactants
+b. Molar concentration of reactant
+c. Concentration of products
+d. Molar concentrations of products
+168)
+Equal volumes of 0.1M AgNo3 and 0.2 M NaCl are mixed.the concentration of NO-3 ions
+in the mixture will be
+a. 0.1M
+b. 0.05M
+c. 0.2M
+d. 0.15M
+169)
+The set of numerical coefficients that balances the chemical equation
+K2CrO4+HCl
+K2Cr2O7+KCl+H2O
+a. 1,1,2,2,1
+b. 2,2,1,1,1
+c. 2,1,1,2,1
+www.educatedzone.com
+d. 2,2,1,2,1
+170)
+The Van’t Hoff factor (i) accounts for
+a. Degree of solubilisation of solute
+b. The extent of dissolution of solute
+c. The extent of dissociation of solute
+d. The degree of decomposition of solution
+Fill in the blanks with appropriate word /phrase (1-5)
+171)
+According to Dr. Daniel , when the companions of the king, saw the king after he had
+risen from the ground, they said,____ and we’ll fight again
+a. It is him
+b. It is he
+c. It is his
+d. It is himself
+172)
+When the machines are not lubricated,______ decreases the speed, putting more load
+on the lifts.
+a. Then
+b. Than
+c. So
+d. It
+173)
+When the chairman became ;very ill his wife began to take more active role in business
+activities, and many people belived that______ and the chairman shared his responsibilities.
+a. Her
+b. She
+c. Herself
+d. Hers
+174)
+Although most species of cat are black in color, ____ is often pure white.
+a. The Iranian cat
+b. Nevertheless the Iranian cat
+c. That the Iranian cat
+d. But the Iranian cat
+175)
+Punjab. _____, regarded as the world’s oldest continuously in habited city, is the main city of
+a. The Multan
+b. Multan being
+c. Multan
+www.educatedzone.com
+d. That Multan
+Read the paragraph carefully and give answer below:
+The history of literature really began was earliest of the arts. Man danced for joy round his
+primitive camp fire after the defeat and slaughter of his enemy. He yelled and shouted as he
+danced and gradually the yells and shouts become coherent and caught the measure of the
+coherent and caught the measure of the dance and thus the first war song was sung. As the
+idea of God developed prayers were framed. The songs and prayers became traditional and
+were repeated from one generation to another generation, each generation adding something
+of its own.
+As man slowly grew more civilized, he was compelled to invent some method of writing by three
+urgent necessities. There were certain things that it was dangerous to forget and which,
+therefore, had to be recorded. It was often necessary to protect one’s property by making tools,
+cattle and so on, in some distinctive manner. So man taught himself to write and having learned
+to write purely for utilitarian reasons he used this new method for preserving his war songs and
+his prayers. Of course, among these ancient peoples, there were only a very few individuals who
+176) learned to write, and only a few could read what was written
+Before man invented writing
+a. Literature was passed on by word of month
+b. Prayers were considered literature
+c. Literature was just singing and dancing
+d. There was no literature
+177)
+As for the war songs and prayers each generation
+a. Added something of its own to the stock
+b. Blindly; repeated the songs and prayers
+c. Composed its own songs and prayers
+d. Repeated what has handed down to it
+178)
+The first war song
+a. Was inspired by God
+b. Developed spontaneously
+c. Was a song traditionally handed down
+d. Was composed by leading dancers
+179)
+The war song evolved out of
+a. Creative inspiration
+b. There was no literature
+c. Artistic urge
+d. Yelling and shouting
+180)
+Man invented writing because he wanted
+a. To be artistic
+b. To write war song
+c. To write literature
+www.educatedzone.com
+d. To record and communicate
+181)
+Iron: blacksmith (analogy)
+a. Cotton : cloth
+b. Food :gourmet
+c. Clay :potter
+d. Silver; miner
+182)
+Fish : scales (analogy)
+a. Book : papers
+b. Snakes : fangs
+c. Birds : feather
+d. Car : wheels
+183)
+Nose : smell (analogy)
+a. Tongue : speak
+b. Foot : hit
+c. Hand : finger
+d. Teeth : chew
+184)
+Collage : images (analogy)
+a. Cement : building
+b. Medley : songs
+c. furniture : sofa
+d. Grains : tree
+185)
+Sketch : artist (analogy)
+a. Secret : confident
+b. Cell : prisoner
+c. Palette : painter
+d. Draft :writer
+186)
+Fragile : (synonyms)
+a. Strong
+b. Grave
+c. Weak
+d. Showy
+187)
+Esoteric : (synonyms)
+a. Fair
+b. Popular
+c. Alluring
+d. Private
+188)
+Synchronized : (antonym)
+a. Arrhythmic
+www.educatedzone.com
+b. Resonating
+c. Harmonized
+d. Brought into accord
+189)
+Chaotic : (antonym)
+a. Immersive
+b. Orderly
+c. Hectic
+d. Steady
+190)
+Bombastic : (antonym)
+a. Creative
+b. Selfish
+c. Astounded
+d. Polite
+191)
+The current president of European union belong to which country
+a. Greece
+b. Austria
+c. Germany
+d. Latavia
+192)
+When did nuclear scientist Dr. Abdul Qadeer Khan dissolve his political party tehreek-i-
+tahafuz-i- Pakistan?
+a. 27 jan,2014
+b. 18 jan,2014
+c. 1 jan,2014
+d. 10 jan,2014
+193)
+Who visited Pakistan and agreed to enhance their defense cooperation and support
+each other’s position on regional issues, including Syria and Afghanistan?
+a. Saudi foreign minister
+b. American foreign minister
+c. German foreign minister
+d. French foreign minister
+194)
+The international day of peace sometime unofficially known as world peace day, is
+observed annually on:
+a. 21st September
+b. 23rd September
+c. 12th October
+d. None of these
+www.educatedzone.com
+195)
+International day for the elimination of violence against racial discrimination is
+observed annually on:
+a. 23rd may
+b. 21st march
+c. 1st march
+d. None of these
+196)
+The ‘KASHAF-UL-MAHJUB’ was written by?
+a. HAZRAT DATA GUNJ BUKSH(R.A)
+b. Maulana Altaf Hussain Hali
+c. Maulana Shibli Nomani
+d. Maulana Zakaullah
+197)
+Which are five international languages of the world that has been classified as the
+classical languages?
+a. Chinese , Sanskrit, Arabic, Russian, and Latin
+b. Chinese , French , English , Greek , and Latin
+c. Chinese , Sanskrit, Arabic, Greek, and Latin
+d. None of these
+198)
+In which nuclear plant of japan did the radioactive water leak of 100 tones took place?
+a. Ikata nuclear power plant
+b. Kashiwazaki ,karima nuclear power plant
+c. Fukushima nuclear power plant
+d. Hamaoka nuclear power plant
+199)
+The book titled “the Meaning of success: Insight from women” has been released by
+which world famous university to address the decline of women professors in the university?
+a. Oxford university
+b. London school of economics
+c. Cambridge university
+d. Harvard university
+200)
+Which player of England is only bats man to achieve the rare feat? He made 333 and
+123 against India at lord’s in 1990?
+a. Graham Gooch
+b. Ricky pointing
+c. Mathew
+d. Gilchres

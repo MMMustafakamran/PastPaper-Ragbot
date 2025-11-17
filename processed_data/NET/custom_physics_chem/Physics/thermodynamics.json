@@ -1,0 +1,234 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Physics - Thermodynamics",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 4,
+    "source_file": "nust_phyiscs_chem_unsolved.txt",
+    "exam_type": "NET",
+    "subject": "Physics",
+    "main_topic": "Thermodynamics"
+  },
+  "questions": [
+    {
+      "question_id": "NET_PHY_THERMODYNAMICS_Q032",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Thermodynamics",
+        "sub_topic": "Thermodynamics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Kelvin scale can be applied at very low temperature because",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "It is independent of nature of working substance"
+        },
+        {
+          "key": "b",
+          "value": "It is linear over a wide range of temperature"
+        },
+        {
+          "key": "c",
+          "value": "It is based on triple point of water"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "It is independent of nature of working substance",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Thermodynamics: Kelvin scale can be applied at very low temperature because Options: It is independent of nature of working substance, It is linear over a wide range of temperature, It is based on triple point of water, None. Correct answer: It is independent of nature of working substance",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "thermodynamics"
+        ],
+        "prerequisites": [
+          "thermodynamics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_THERMODYNAMICS_Q033",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Thermodynamics",
+        "sub_topic": "Thermodynamics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Two metal rods A and B have their initial length in the ratio 2:3 and coefficients of linear expansion in the ratio of 4:3. When they are heated through same temperature difference the ratio of their linear expansion is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1:2"
+        },
+        {
+          "key": "b",
+          "value": "2:3"
+        },
+        {
+          "key": "c",
+          "value": "3:4"
+        },
+        {
+          "key": "d",
+          "value": "8:9"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "8:9",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Thermodynamics: Two metal rods A and B have their initial length in the ratio 2:3 and coefficients of linear expansion in the ratio of 4:3. When they are heated through same temperature difference the ratio of their linear expansion is Options: 1:2, 2:3, 3:4, 8:9. Correct answer: 8:9",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "thermodynamics"
+        ],
+        "prerequisites": [
+          "thermodynamics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_THERMODYNAMICS_Q034",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Thermodynamics",
+        "sub_topic": "Thermodynamics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Melting point of ice is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Increases with increasing pressure"
+        },
+        {
+          "key": "b",
+          "value": "Decreases with increasing pressure"
+        },
+        {
+          "key": "c",
+          "value": "Is independent of pressure"
+        },
+        {
+          "key": "d",
+          "value": "Is proportional to pressure"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Decreases with increasing pressure",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Thermodynamics: Melting point of ice is Options: Increases with increasing pressure, Decreases with increasing pressure, Is independent of pressure, Is proportional to pressure. Correct answer: Decreases with increasing pressure",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "thermodynamics"
+        ],
+        "prerequisites": [
+          "thermodynamics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_THERMODYNAMICS_Q053",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Thermodynamics",
+        "sub_topic": "Thermodynamics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The bonding in an inert gas crystal is due to",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Metallic binding"
+        },
+        {
+          "key": "b",
+          "value": "Covalent bonding"
+        },
+        {
+          "key": "c",
+          "value": "Ionic binding"
+        },
+        {
+          "key": "d",
+          "value": "Van der Waals binding"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Van der Waals binding",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Thermodynamics: The bonding in an inert gas crystal is due to Options: Metallic binding, Covalent bonding, Ionic binding, Van der Waals binding. Correct answer: Van der Waals binding",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "thermodynamics"
+        ],
+        "prerequisites": [
+          "thermodynamics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

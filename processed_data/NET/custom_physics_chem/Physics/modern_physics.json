@@ -1,0 +1,124 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Physics - Modern Physics",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 2,
+    "source_file": "nust_phyiscs_chem_unsolved.txt",
+    "exam_type": "NET",
+    "subject": "Physics",
+    "main_topic": "Modern Physics"
+  },
+  "questions": [
+    {
+      "question_id": "NET_PHY_MODERN_PHYSICS_Q056",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Modern Physics",
+        "sub_topic": "Modern Physics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "If an atom exists in the excited state n = 5, the maximum number of transitions that can take place is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "6"
+        },
+        {
+          "key": "b",
+          "value": "4"
+        },
+        {
+          "key": "c",
+          "value": "10"
+        },
+        {
+          "key": "d",
+          "value": "3"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "10",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Modern Physics: If an atom exists in the excited state n = 5, the maximum number of transitions that can take place is: Options: 6, 4, 10, 3. Correct answer: 10",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "modern physics"
+        ],
+        "prerequisites": [
+          "modern physics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MODERN_PHYSICS_Q061",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Modern Physics",
+        "sub_topic": "Modern Physics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Diameter of an atom is in the range of",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "0.2 m"
+        },
+        {
+          "key": "b",
+          "value": "0.2 nm"
+        },
+        {
+          "key": "c",
+          "value": "2 \u00d7 10\u207b\u00b9\u2070 nm"
+        },
+        {
+          "key": "d",
+          "value": "0.2 pm"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "0.2 nm",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Modern Physics: Diameter of an atom is in the range of Options: 0.2 m, 0.2 nm, 2 \u00d7 10\u207b\u00b9\u2070 nm, 0.2 pm. Correct answer: 0.2 nm",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "modern physics"
+        ],
+        "prerequisites": [
+          "modern physics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

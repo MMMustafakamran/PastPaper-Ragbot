@@ -1,0 +1,784 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Physics - Electricity and Magnetism",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 14,
+    "source_file": "nust_phyiscs_chem_unsolved.txt",
+    "exam_type": "NET",
+    "subject": "Physics",
+    "main_topic": "Electricity and Magnetism"
+  },
+  "questions": [
+    {
+      "question_id": "NET_PHY_ELECTRICITY_AND_MAGNETISM_Q005",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Electricity and Magnetism",
+        "sub_topic": "Electricity and Magnetism",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "S.I unit of magnetic flux is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Weber meter\u00b2"
+        },
+        {
+          "key": "b",
+          "value": "Weber"
+        },
+        {
+          "key": "c",
+          "value": "Weber/meter"
+        },
+        {
+          "key": "d",
+          "value": "Weber/meter\u2074"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Weber",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Electricity and Magnetism: S.I unit of magnetic flux is Options: Weber meter\u00b2, Weber, Weber/meter, Weber/meter\u2074. Correct answer: Weber",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "electricity and magnetism"
+        ],
+        "prerequisites": [
+          "electricity and magnetism"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_ELECTRICITY_AND_MAGNETISM_Q020",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Electricity and Magnetism",
+        "sub_topic": "Electricity and Magnetism",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "A two meter high tank is full of water. A hole is made in the middle of tank. The speed of efflux is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "4.9 m/s"
+        },
+        {
+          "key": "b",
+          "value": "9.8 m/s"
+        },
+        {
+          "key": "c",
+          "value": "4.42 m/s"
+        },
+        {
+          "key": "d",
+          "value": "3.75 m/s"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "4.42 m/s",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Electricity and Magnetism: A two meter high tank is full of water. A hole is made in the middle of tank. The speed of efflux is Options: 4.9 m/s, 9.8 m/s, 4.42 m/s, 3.75 m/s. Correct answer: 4.42 m/s",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "electricity and magnetism"
+        ],
+        "prerequisites": [
+          "electricity and magnetism"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_ELECTRICITY_AND_MAGNETISM_Q035",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Electricity and Magnetism",
+        "sub_topic": "Electricity and Magnetism",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Two metallic wires are lying parallel. If the current in these wires be flowing in same direction, the wires will:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Attract each other"
+        },
+        {
+          "key": "b",
+          "value": "Repel each other"
+        },
+        {
+          "key": "c",
+          "value": "Have no force of attraction or repulsion"
+        },
+        {
+          "key": "d",
+          "value": "Remain stationary"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Attract each other",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Electricity and Magnetism: Two metallic wires are lying parallel. If the current in these wires be flowing in same direction, the wires will: Options: Attract each other, Repel each other, Have no force of attraction or repulsion, Remain stationary. Correct answer: Attract each other",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "electricity and magnetism"
+        ],
+        "prerequisites": [
+          "electricity and magnetism"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_ELECTRICITY_AND_MAGNETISM_Q037",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Electricity and Magnetism",
+        "sub_topic": "Electricity and Magnetism",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "In a Millikan\u2019s oil drop experiment the charge on an oil drop is calculated to be 6.35 \u00d7 10\u207b\u00b9\u2079 C. The number of excess electrons on the drop is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "3.9"
+        },
+        {
+          "key": "b",
+          "value": "4"
+        },
+        {
+          "key": "c",
+          "value": "4.2"
+        },
+        {
+          "key": "d",
+          "value": "6"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "4",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Electricity and Magnetism: In a Millikan\u2019s oil drop experiment the charge on an oil drop is calculated to be 6.35 \u00d7 10\u207b\u00b9\u2079 C. The number of excess electrons on the drop is Options: 3.9, 4, 4.2, 6. Correct answer: 4",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "electricity and magnetism"
+        ],
+        "prerequisites": [
+          "electricity and magnetism"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_ELECTRICITY_AND_MAGNETISM_Q039",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Electricity and Magnetism",
+        "sub_topic": "Electricity and Magnetism",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The color coded resistances are made by",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "High grade silver rods"
+        },
+        {
+          "key": "b",
+          "value": "High grade ceramic rods"
+        },
+        {
+          "key": "c",
+          "value": "High grade copper rods"
+        },
+        {
+          "key": "d",
+          "value": "High grade iron rods"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "High grade ceramic rods",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Electricity and Magnetism: The color coded resistances are made by Options: High grade silver rods, High grade ceramic rods, High grade copper rods, High grade iron rods. Correct answer: High grade ceramic rods",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "electricity and magnetism"
+        ],
+        "prerequisites": [
+          "electricity and magnetism"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_ELECTRICITY_AND_MAGNETISM_Q040",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Electricity and Magnetism",
+        "sub_topic": "Electricity and Magnetism",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "A wire of radius r has resistance R. If it is stretched to a wire of r/2 radius, then the resistance becomes",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "2R"
+        },
+        {
+          "key": "b",
+          "value": "4R"
+        },
+        {
+          "key": "c",
+          "value": "16R"
+        },
+        {
+          "key": "d",
+          "value": "Zero"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "16R",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Electricity and Magnetism: A wire of radius r has resistance R. If it is stretched to a wire of r/2 radius, then the resistance becomes Options: 2R, 4R, 16R, Zero. Correct answer: 16R",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "electricity and magnetism"
+        ],
+        "prerequisites": [
+          "electricity and magnetism"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_ELECTRICITY_AND_MAGNETISM_Q041",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Electricity and Magnetism",
+        "sub_topic": "Electricity and Magnetism",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "A uniform resistance wire of length L and diameter d has a resistance R. Another wire of the same material has length 4L and diameter 2d. The resistance will be",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "2R"
+        },
+        {
+          "key": "b",
+          "value": "R"
+        },
+        {
+          "key": "c",
+          "value": "R/2"
+        },
+        {
+          "key": "d",
+          "value": "R/4"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "R",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Electricity and Magnetism: A uniform resistance wire of length L and diameter d has a resistance R. Another wire of the same material has length 4L and diameter 2d. The resistance will be Options: 2R, R, R/2, R/4. Correct answer: R",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "electricity and magnetism"
+        ],
+        "prerequisites": [
+          "electricity and magnetism"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_ELECTRICITY_AND_MAGNETISM_Q044",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Electricity and Magnetism",
+        "sub_topic": "Electricity and Magnetism",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The resistance of a voltmeter must be very high because",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "It does not draw any current"
+        },
+        {
+          "key": "b",
+          "value": "It is very accurate"
+        },
+        {
+          "key": "c",
+          "value": "It does not change circuit current considerably"
+        },
+        {
+          "key": "d",
+          "value": "None of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "It does not change circuit current considerably",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Electricity and Magnetism: The resistance of a voltmeter must be very high because Options: It does not draw any current, It is very accurate, It does not change circuit current considerably, None of these. Correct answer: It does not change circuit current considerably",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "electricity and magnetism"
+        ],
+        "prerequisites": [
+          "electricity and magnetism"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_ELECTRICITY_AND_MAGNETISM_Q045",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Electricity and Magnetism",
+        "sub_topic": "Electricity and Magnetism",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The voltage applied across the X-plates is usually provided by a circuit built in the CRO. It is known as",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Time base generator"
+        },
+        {
+          "key": "b",
+          "value": "Electric base generator"
+        },
+        {
+          "key": "c",
+          "value": "X supplier"
+        },
+        {
+          "key": "d",
+          "value": "Power supply"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Time base generator",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Electricity and Magnetism: The voltage applied across the X-plates is usually provided by a circuit built in the CRO. It is known as Options: Time base generator, Electric base generator, X supplier, Power supply. Correct answer: Time base generator",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "electricity and magnetism"
+        ],
+        "prerequisites": [
+          "electricity and magnetism"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_ELECTRICITY_AND_MAGNETISM_Q046",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Electricity and Magnetism",
+        "sub_topic": "Electricity and Magnetism",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "A voltmeter has a resistance of 2000 ohms and can measure up to 2V. If we want to increase its range to 10V, the required resistance in series will be",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "2000 \u03a9"
+        },
+        {
+          "key": "b",
+          "value": "4000 \u03a9"
+        },
+        {
+          "key": "c",
+          "value": "6000 \u03a9"
+        },
+        {
+          "key": "d",
+          "value": "8000 \u03a9"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "8000 \u03a9",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Electricity and Magnetism: A voltmeter has a resistance of 2000 ohms and can measure up to 2V. If we want to increase its range to 10V, the required resistance in series will be Options: 2000 \u03a9, 4000 \u03a9, 6000 \u03a9, 8000 \u03a9. Correct answer: 8000 \u03a9",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "electricity and magnetism"
+        ],
+        "prerequisites": [
+          "electricity and magnetism"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_ELECTRICITY_AND_MAGNETISM_Q047",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Electricity and Magnetism",
+        "sub_topic": "Electricity and Magnetism",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "In an AC circuit through a capacitor, V and Q are:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "V leads Q"
+        },
+        {
+          "key": "b",
+          "value": "V lags Q"
+        },
+        {
+          "key": "c",
+          "value": "V and Q are in phase"
+        },
+        {
+          "key": "d",
+          "value": "None of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "V and Q are in phase",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Electricity and Magnetism: In an AC circuit through a capacitor, V and Q are: Options: V leads Q, V lags Q, V and Q are in phase, None of these. Correct answer: V and Q are in phase",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "electricity and magnetism"
+        ],
+        "prerequisites": [
+          "electricity and magnetism"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_ELECTRICITY_AND_MAGNETISM_Q054",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Electricity and Magnetism",
+        "sub_topic": "Electricity and Magnetism",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "A certain transistor has a collector current of 10 mA and a base current of 40 \u03bcA. What is the current gain of the transistor?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "150"
+        },
+        {
+          "key": "b",
+          "value": "250"
+        },
+        {
+          "key": "c",
+          "value": "300"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "250",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Electricity and Magnetism: A certain transistor has a collector current of 10 mA and a base current of 40 \u03bcA. What is the current gain of the transistor? Options: 150, 250, 300, None. Correct answer: 250",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "electricity and magnetism"
+        ],
+        "prerequisites": [
+          "electricity and magnetism"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_ELECTRICITY_AND_MAGNETISM_Q057",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Electricity and Magnetism",
+        "sub_topic": "Electricity and Magnetism",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "In a common base amplifier, the phase difference between the input signal voltage and output voltage is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "\u03c0"
+        },
+        {
+          "key": "b",
+          "value": "\u03c0/4"
+        },
+        {
+          "key": "c",
+          "value": "\u03c0/2"
+        },
+        {
+          "key": "d",
+          "value": "0"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "0",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Electricity and Magnetism: In a common base amplifier, the phase difference between the input signal voltage and output voltage is Options: \u03c0, \u03c0/4, \u03c0/2, 0. Correct answer: 0",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "electricity and magnetism"
+        ],
+        "prerequisites": [
+          "electricity and magnetism"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_ELECTRICITY_AND_MAGNETISM_Q059",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Electricity and Magnetism",
+        "sub_topic": "Electricity and Magnetism",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The situation in which the excited state (i.e., metastable state) contains more number of electrons than the ground is called:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Ionized state"
+        },
+        {
+          "key": "b",
+          "value": "Stimulation"
+        },
+        {
+          "key": "c",
+          "value": "Population inversion"
+        },
+        {
+          "key": "d",
+          "value": "All of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Population inversion",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Electricity and Magnetism: The situation in which the excited state (i.e., metastable state) contains more number of electrons than the ground is called: Options: Ionized state, Stimulation, Population inversion, All of these. Correct answer: Population inversion",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "electricity and magnetism"
+        ],
+        "prerequisites": [
+          "electricity and magnetism"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

@@ -1,0 +1,399 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Physics - General",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 7,
+    "source_file": "nust_phyiscs_chem_unsolved.txt",
+    "exam_type": "NET",
+    "subject": "Physics",
+    "main_topic": "General"
+  },
+  "questions": [
+    {
+      "question_id": "NET_PHY_GENERAL_Q001",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "What type of science is physics?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Living things"
+        },
+        {
+          "key": "b",
+          "value": "Nonliving things"
+        },
+        {
+          "key": "c",
+          "value": "Experimental science"
+        },
+        {
+          "key": "d",
+          "value": "Study of action and reaction and experimental science"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Experimental science",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - General: What type of science is physics? Options: Living things, Nonliving things, Experimental science, Study of action and reaction and experimental science. Correct answer: Experimental science",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_GENERAL_Q003",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "If the measuring scale has a least count of 10kg, then in 8000kg the significant figures are",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "4"
+        },
+        {
+          "key": "b",
+          "value": "1"
+        },
+        {
+          "key": "c",
+          "value": "3"
+        },
+        {
+          "key": "d",
+          "value": "0"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "3",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - General: If the measuring scale has a least count of 10kg, then in 8000kg the significant figures are Options: 4, 1, 3, 0. Correct answer: 3",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_GENERAL_Q004",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Supplementary S.I units of radian and steradian were established to measure",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Geometrical quantities"
+        },
+        {
+          "key": "b",
+          "value": "Luminous intensity"
+        },
+        {
+          "key": "c",
+          "value": "Electric current"
+        },
+        {
+          "key": "d",
+          "value": "Temperature"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Geometrical quantities",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - General: Supplementary S.I units of radian and steradian were established to measure Options: Geometrical quantities, Luminous intensity, Electric current, Temperature. Correct answer: Geometrical quantities",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_GENERAL_Q018",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The flow is said to be streamline or laminar when every particle",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Moves in different direction"
+        },
+        {
+          "key": "b",
+          "value": "Moves along the same path as"
+        },
+        {
+          "key": "c",
+          "value": "Slowly moves in one direction"
+        },
+        {
+          "key": "d",
+          "value": "None of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Moves along the same path as",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - General: The flow is said to be streamline or laminar when every particle Options: Moves in different direction, Moves along the same path as, Slowly moves in one direction, None of these. Correct answer: Moves along the same path as",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_GENERAL_Q025",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "We can hear sound around the corner but cannot see because of",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Interference"
+        },
+        {
+          "key": "b",
+          "value": "Diffraction"
+        },
+        {
+          "key": "c",
+          "value": "Polarization"
+        },
+        {
+          "key": "d",
+          "value": "Dispersion"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Diffraction",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - General: We can hear sound around the corner but cannot see because of Options: Interference, Diffraction, Polarization, Dispersion. Correct answer: Diffraction",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_GENERAL_Q028",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Sun has elliptical shape when it rises and sets due to",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Refraction"
+        },
+        {
+          "key": "b",
+          "value": "Reflection"
+        },
+        {
+          "key": "c",
+          "value": "Scattering"
+        },
+        {
+          "key": "d",
+          "value": "Dispersion"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Refraction",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - General: Sun has elliptical shape when it rises and sets due to Options: Refraction, Reflection, Scattering, Dispersion. Correct answer: Refraction",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_GENERAL_Q031",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Which of the following statements is correct for any thermodynamic system?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "The internal energy changes in all processes"
+        },
+        {
+          "key": "b",
+          "value": "Internal energy and entropy are state functions"
+        },
+        {
+          "key": "c",
+          "value": "The change in entropy can never be 0"
+        },
+        {
+          "key": "d",
+          "value": "The work done in an adiabatic process is always 0"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Internal energy and entropy are state functions",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - General: Which of the following statements is correct for any thermodynamic system? Options: The internal energy changes in all processes, Internal energy and entropy are state functions, The change in entropy can never be 0, The work done in an adiabatic process is always 0. Correct answer: Internal energy and entropy are state functions",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

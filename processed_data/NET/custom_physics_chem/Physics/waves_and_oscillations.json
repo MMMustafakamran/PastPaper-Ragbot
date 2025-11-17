@@ -1,0 +1,124 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Physics - Waves and Oscillations",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 2,
+    "source_file": "nust_phyiscs_chem_unsolved.txt",
+    "exam_type": "NET",
+    "subject": "Physics",
+    "main_topic": "Waves and Oscillations"
+  },
+  "questions": [
+    {
+      "question_id": "NET_PHY_WAVES_AND_OSCILLATIONS_Q042",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Waves and Oscillations",
+        "sub_topic": "Waves and Oscillations",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "In an RLC series circuit, when the frequency of the AC source is very low, the circuit is a/an",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Resistive circuit"
+        },
+        {
+          "key": "b",
+          "value": "Capacitive circuit"
+        },
+        {
+          "key": "c",
+          "value": "Inductive circuit"
+        },
+        {
+          "key": "d",
+          "value": "Resonant circuit"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Capacitive circuit",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Waves and Oscillations: In an RLC series circuit, when the frequency of the AC source is very low, the circuit is a/an Options: Resistive circuit, Capacitive circuit, Inductive circuit, Resonant circuit. Correct answer: Capacitive circuit",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "waves and oscillations"
+        ],
+        "prerequisites": [
+          "waves and oscillations"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_WAVES_AND_OSCILLATIONS_Q048",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Waves and Oscillations",
+        "sub_topic": "Waves and Oscillations",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "At resonance, the phase angle for an RLC series circuit equals",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "0\u00b0"
+        },
+        {
+          "key": "b",
+          "value": "90\u00b0"
+        },
+        {
+          "key": "c",
+          "value": "180\u00b0"
+        },
+        {
+          "key": "d",
+          "value": "270\u00b0"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "0\u00b0",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Waves and Oscillations: At resonance, the phase angle for an RLC series circuit equals Options: 0\u00b0, 90\u00b0, 180\u00b0, 270\u00b0. Correct answer: 0\u00b0",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "waves and oscillations"
+        ],
+        "prerequisites": [
+          "waves and oscillations"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

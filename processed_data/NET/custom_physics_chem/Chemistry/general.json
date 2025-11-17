@@ -1,0 +1,289 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Chemistry - General",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 5,
+    "source_file": "nust_phyiscs_chem_unsolved.txt",
+    "exam_type": "NET",
+    "subject": "Chemistry",
+    "main_topic": "General"
+  },
+  "questions": [
+    {
+      "question_id": "NET_CHE_GENERAL_Q064",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Mechanical work is especially important in systems that contain",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Solid\u2013liquid"
+        },
+        {
+          "key": "b",
+          "value": "Liquid\u2013liquid"
+        },
+        {
+          "key": "c",
+          "value": "Solid\u2013solid"
+        },
+        {
+          "key": "d",
+          "value": "Gases"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Gases",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - General: Mechanical work is especially important in systems that contain Options: Solid\u2013liquid, Liquid\u2013liquid, Solid\u2013solid, Gases. Correct answer: Gases",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_GENERAL_Q066",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Which of the following is not correct?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Dissolution of NH\u2084Cl in excess water is an endothermic process"
+        },
+        {
+          "key": "b",
+          "value": "Neutralization is always exothermic"
+        },
+        {
+          "key": "c",
+          "value": "The absolute value of enthalpy (H) can be determined experimentally"
+        },
+        {
+          "key": "d",
+          "value": "The heat of reaction at constant volume is denoted by \u0394E"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "The absolute value of enthalpy (H) can be determined experimentally",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - General: Which of the following is not correct? Options: Dissolution of NH\u2084Cl in excess water is an endothermic process, Neutralization is always exothermic, The absolute value of enthalpy (H) can be determined experimentally, The heat of reaction at constant volume is denoted by \u0394E. Correct answer: The absolute value of enthalpy (H) can be determined experimentally",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_GENERAL_Q067",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Which of the following aqueous solutions will be basic?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "NaCl"
+        },
+        {
+          "key": "b",
+          "value": "Na\u2082SO\u2084"
+        },
+        {
+          "key": "c",
+          "value": "Na\u2082CO\u2083"
+        },
+        {
+          "key": "d",
+          "value": "FeCl\u2083"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Na\u2082CO\u2083",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - General: Which of the following aqueous solutions will be basic? Options: NaCl, Na\u2082SO\u2084, Na\u2082CO\u2083, FeCl\u2083. Correct answer: Na\u2082CO\u2083",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_GENERAL_Q072",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Hydrogen gas and iodine vapors combine to form HI at 425\u00b0C. The same composition of mixture is present if we start with decomposition of HI. It suggests",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Law of mass action"
+        },
+        {
+          "key": "b",
+          "value": "A static equilibrium"
+        },
+        {
+          "key": "c",
+          "value": "Irreversible reaction"
+        },
+        {
+          "key": "d",
+          "value": "A dynamic equilibrium"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "A dynamic equilibrium",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - General: Hydrogen gas and iodine vapors combine to form HI at 425\u00b0C. The same composition of mixture is present if we start with decomposition of HI. It suggests Options: Law of mass action, A static equilibrium, Irreversible reaction, A dynamic equilibrium. Correct answer: A dynamic equilibrium",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_GENERAL_Q079",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "One mole of compound AB reacts with one mole of compound CD according to the equation:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "9/16"
+        },
+        {
+          "key": "b",
+          "value": "1/9"
+        },
+        {
+          "key": "c",
+          "value": "16/9"
+        },
+        {
+          "key": "d",
+          "value": "9"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "9",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - General: One mole of compound AB reacts with one mole of compound CD according to the equation: Options: 9/16, 1/9, 16/9, 9. Correct answer: 9",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

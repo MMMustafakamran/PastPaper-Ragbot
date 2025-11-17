@@ -1,0 +1,1389 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Physics - Mechanics",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 25,
+    "source_file": "nust_phyiscs_chem_unsolved.txt",
+    "exam_type": "NET",
+    "subject": "Physics",
+    "main_topic": "Mechanics"
+  },
+  "questions": [
+    {
+      "question_id": "NET_PHY_MECHANICS_Q002",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The magnitude of the resultant of two forces is 2F. If the magnitude of each force is F, then the angle between these forces is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "0\u00b0"
+        },
+        {
+          "key": "b",
+          "value": "90\u00b0"
+        },
+        {
+          "key": "c",
+          "value": "120\u00b0"
+        },
+        {
+          "key": "d",
+          "value": "180\u00b0"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "0\u00b0",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: The magnitude of the resultant of two forces is 2F. If the magnitude of each force is F, then the angle between these forces is Options: 0\u00b0, 90\u00b0, 120\u00b0, 180\u00b0. Correct answer: 0\u00b0",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q006",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The physical quantity which produces angular acceleration in the body is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Force"
+        },
+        {
+          "key": "b",
+          "value": "Moment of inertia"
+        },
+        {
+          "key": "c",
+          "value": "Impulse"
+        },
+        {
+          "key": "d",
+          "value": "Torque"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Torque",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: The physical quantity which produces angular acceleration in the body is Options: Force, Moment of inertia, Impulse, Torque. Correct answer: Torque",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q007",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "When a vector is multiplied by a scalar of positive value, the product of the quantity will be",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Multiple of the vector quantity in same direction"
+        },
+        {
+          "key": "b",
+          "value": "Multiple of the vector quantity in opposite direction"
+        },
+        {
+          "key": "c",
+          "value": "Multiple of the vector quantity in perpendicular to the original vector"
+        },
+        {
+          "key": "d",
+          "value": "None of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Multiple of the vector quantity in same direction",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: When a vector is multiplied by a scalar of positive value, the product of the quantity will be Options: Multiple of the vector quantity in same direction, Multiple of the vector quantity in opposite direction, Multiple of the vector quantity in perpendicular to the original vector, None of these. Correct answer: Multiple of the vector quantity in same direction",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q008",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The magnitude of the vectors A, B, and C are respectively 12, 5, and 13 units and vector A + B = C, then the angle between vector A and B is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "0"
+        },
+        {
+          "key": "b",
+          "value": "\u03c0"
+        },
+        {
+          "key": "c",
+          "value": "\u03c0/2"
+        },
+        {
+          "key": "d",
+          "value": "\u03c0/4"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "\u03c0/2",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: The magnitude of the vectors A, B, and C are respectively 12, 5, and 13 units and vector A + B = C, then the angle between vector A and B is Options: 0, \u03c0, \u03c0/2, \u03c0/4. Correct answer: \u03c0/2",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q009",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Three vectors satisfy the relation vector A \u00b7 B = 0 and A \u00b7 C = 0, then A is parallel to",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "B \u00d7 C"
+        },
+        {
+          "key": "b",
+          "value": "B \u00b7 C"
+        },
+        {
+          "key": "c",
+          "value": "C"
+        },
+        {
+          "key": "d",
+          "value": "B"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "B \u00d7 C",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: Three vectors satisfy the relation vector A \u00b7 B = 0 and A \u00b7 C = 0, then A is parallel to Options: B \u00d7 C, B \u00b7 C, C, B. Correct answer: B \u00d7 C",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q010",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "No work is done by the body when angle between force and displacement is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "0\u00b0"
+        },
+        {
+          "key": "b",
+          "value": "45\u00b0"
+        },
+        {
+          "key": "c",
+          "value": "90\u00b0"
+        },
+        {
+          "key": "d",
+          "value": "60\u00b0"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "90\u00b0",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: No work is done by the body when angle between force and displacement is Options: 0\u00b0, 45\u00b0, 90\u00b0, 60\u00b0. Correct answer: 90\u00b0",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q011",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "If the acceleration due to gravity at the earth\u2019s surface is 9.8 m/s\u00b2 and the mass of the earth is 80 times that of the moon and radius of earth 4 times that of the moon, the value of g at the moon\u2019s surface will be",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "9.8 m/s\u00b2"
+        },
+        {
+          "key": "b",
+          "value": "1.96 m/s\u00b2"
+        },
+        {
+          "key": "c",
+          "value": "4.9 m/s\u00b2"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "1.96 m/s\u00b2",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: If the acceleration due to gravity at the earth\u2019s surface is 9.8 m/s\u00b2 and the mass of the earth is 80 times that of the moon and radius of earth 4 times that of the moon, the value of g at the moon\u2019s surface will be Options: 9.8 m/s\u00b2, 1.96 m/s\u00b2, 4.9 m/s\u00b2, None. Correct answer: 1.96 m/s\u00b2",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q012",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The particle of mass \u2018m\u2019 at rest is acted upon by a force \u2018p\u2019 for a time \u2018t\u2019. Its kinetic energy after an interval \u2018t\u2019 is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "P\u00b2t\u00b2/m"
+        },
+        {
+          "key": "b",
+          "value": "P\u00b2t\u00b2/2m"
+        },
+        {
+          "key": "c",
+          "value": "P\u00b2t\u00b2/3m"
+        },
+        {
+          "key": "d",
+          "value": "Pt/2m"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "P\u00b2t\u00b2/2m",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: The particle of mass \u2018m\u2019 at rest is acted upon by a force \u2018p\u2019 for a time \u2018t\u2019. Its kinetic energy after an interval \u2018t\u2019 is Options: P\u00b2t\u00b2/m, P\u00b2t\u00b2/2m, P\u00b2t\u00b2/3m, Pt/2m. Correct answer: P\u00b2t\u00b2/2m",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q013",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The dot product of force and velocity is equal to",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Power"
+        },
+        {
+          "key": "b",
+          "value": "Impulse"
+        },
+        {
+          "key": "c",
+          "value": "Couple"
+        },
+        {
+          "key": "d",
+          "value": "Momentum"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Power",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: The dot product of force and velocity is equal to Options: Power, Impulse, Couple, Momentum. Correct answer: Power",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q014",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "If a force acts on a body whose action line does not pass through its centre of gravity, then the body will experience",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Angular acceleration"
+        },
+        {
+          "key": "b",
+          "value": "Linear acceleration"
+        },
+        {
+          "key": "c",
+          "value": "No acceleration"
+        },
+        {
+          "key": "d",
+          "value": "None of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Angular acceleration",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: If a force acts on a body whose action line does not pass through its centre of gravity, then the body will experience Options: Angular acceleration, Linear acceleration, No acceleration, None of these. Correct answer: Angular acceleration",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q015",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "In which case application of angular velocity is useful?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "When a body is rotating"
+        },
+        {
+          "key": "b",
+          "value": "When velocity of body is in a straight line"
+        },
+        {
+          "key": "c",
+          "value": "When velocity is in a straight line"
+        },
+        {
+          "key": "d",
+          "value": "None of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "When a body is rotating",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: In which case application of angular velocity is useful? Options: When a body is rotating, When velocity of body is in a straight line, When velocity is in a straight line, None of these. Correct answer: When a body is rotating",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q016",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Center of mass is a point",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Which is geometric center of a body"
+        },
+        {
+          "key": "b",
+          "value": "From which distance of particles are same"
+        },
+        {
+          "key": "c",
+          "value": "Where the whole mass of the body is supposed to be centered"
+        },
+        {
+          "key": "d",
+          "value": "Which is origin of reference frame"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Where the whole mass of the body is supposed to be centered",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: Center of mass is a point Options: Which is geometric center of a body, From which distance of particles are same, Where the whole mass of the body is supposed to be centered, Which is origin of reference frame. Correct answer: Where the whole mass of the body is supposed to be centered",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q017",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Angular momentum has the same unit as",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Impulse \u00d7 distance"
+        },
+        {
+          "key": "b",
+          "value": "Linear momentum \u00d7 time"
+        },
+        {
+          "key": "c",
+          "value": "Work \u00d7 frequency"
+        },
+        {
+          "key": "d",
+          "value": "Power \u00d7 time"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Impulse \u00d7 distance",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: Angular momentum has the same unit as Options: Impulse \u00d7 distance, Linear momentum \u00d7 time, Work \u00d7 frequency, Power \u00d7 time. Correct answer: Impulse \u00d7 distance",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q019",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The pressure will be low where the speed of the fluid is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "0"
+        },
+        {
+          "key": "b",
+          "value": "high"
+        },
+        {
+          "key": "c",
+          "value": "low"
+        },
+        {
+          "key": "d",
+          "value": "constant"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "high",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: The pressure will be low where the speed of the fluid is Options: 0, high, low, constant. Correct answer: high",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q021",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "In case of a vibrating pendulum, the potential energy is maximum at",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Mean position"
+        },
+        {
+          "key": "b",
+          "value": "Extreme position"
+        },
+        {
+          "key": "c",
+          "value": "Both a and b"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Extreme position",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: In case of a vibrating pendulum, the potential energy is maximum at Options: Mean position, Extreme position, Both a and b, None. Correct answer: Extreme position",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q022",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Specific response of a system which is able to oscillate with a certain period, to an external force acting with the same period is called",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Time period"
+        },
+        {
+          "key": "b",
+          "value": "Wavelength"
+        },
+        {
+          "key": "c",
+          "value": "Resonance"
+        },
+        {
+          "key": "d",
+          "value": "Doppler effects"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Resonance",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: Specific response of a system which is able to oscillate with a certain period, to an external force acting with the same period is called Options: Time period, Wavelength, Resonance, Doppler effects. Correct answer: Resonance",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q023",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "A simple harmonic oscillator has period of 0.01 second and amplitude of 0.2 m. The magnitude of the velocity in m/s at the center of oscillation is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "100"
+        },
+        {
+          "key": "b",
+          "value": "100\u03c0"
+        },
+        {
+          "key": "c",
+          "value": "20\u03c0"
+        },
+        {
+          "key": "d",
+          "value": "40\u03c0"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "40\u03c0",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: A simple harmonic oscillator has period of 0.01 second and amplitude of 0.2 m. The magnitude of the velocity in m/s at the center of oscillation is Options: 100, 100\u03c0, 20\u03c0, 40\u03c0. Correct answer: 40\u03c0",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q024",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "A spherical wave front is that which has",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "A source"
+        },
+        {
+          "key": "b",
+          "value": "A point source"
+        },
+        {
+          "key": "c",
+          "value": "An extended source"
+        },
+        {
+          "key": "d",
+          "value": "None of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "A point source",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: A spherical wave front is that which has Options: A source, A point source, An extended source, None of these. Correct answer: A point source",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q026",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Huygens\u2019s wave theory of light cannot explain",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Diffraction"
+        },
+        {
+          "key": "b",
+          "value": "Interference"
+        },
+        {
+          "key": "c",
+          "value": "Polarization"
+        },
+        {
+          "key": "d",
+          "value": "Photoelectric effect"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Photoelectric effect",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: Huygens\u2019s wave theory of light cannot explain Options: Diffraction, Interference, Polarization, Photoelectric effect. Correct answer: Photoelectric effect",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q029",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Number of electric lines of force passing through a certain area is known as",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Electric field"
+        },
+        {
+          "key": "b",
+          "value": "Electric flux"
+        },
+        {
+          "key": "c",
+          "value": "Electric intensity"
+        },
+        {
+          "key": "d",
+          "value": "Gravitational field"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Electric flux",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: Number of electric lines of force passing through a certain area is known as Options: Electric field, Electric flux, Electric intensity, Gravitational field. Correct answer: Electric flux",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q036",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "On moving a charge of 20 coulombs by 2 cm, 2J of work is done, then the potential difference between the points is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "0.1 V"
+        },
+        {
+          "key": "b",
+          "value": "8 V"
+        },
+        {
+          "key": "c",
+          "value": "2 V"
+        },
+        {
+          "key": "d",
+          "value": "0.5 V"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "0.1 V",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: On moving a charge of 20 coulombs by 2 cm, 2J of work is done, then the potential difference between the points is Options: 0.1 V, 8 V, 2 V, 0.5 V. Correct answer: 0.1 V",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q038",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "A charge Q is divided into two parts q and Q-q and separated by a distance R. The force of repulsion between them will be maximum when:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "q = Q/4"
+        },
+        {
+          "key": "b",
+          "value": "q = Q/2"
+        },
+        {
+          "key": "c",
+          "value": "q = Q"
+        },
+        {
+          "key": "d",
+          "value": "none"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "q = Q/2",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: A charge Q is divided into two parts q and Q-q and separated by a distance R. The force of repulsion between them will be maximum when: Options: q = Q/4, q = Q/2, q = Q, none. Correct answer: q = Q/2",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q043",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "An electron of charge e coulomb passes through a potential difference of V volts. Its energy in joules will be",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "V/e"
+        },
+        {
+          "key": "b",
+          "value": "eV"
+        },
+        {
+          "key": "c",
+          "value": "e/V"
+        },
+        {
+          "key": "d",
+          "value": "V"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "eV",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: An electron of charge e coulomb passes through a potential difference of V volts. Its energy in joules will be Options: V/e, eV, e/V, V. Correct answer: eV",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q049",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "An inductor coil that consumes no energy is called",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "A coil"
+        },
+        {
+          "key": "b",
+          "value": "Choke"
+        },
+        {
+          "key": "c",
+          "value": "Toroid"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Choke",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: An inductor coil that consumes no energy is called Options: A coil, Choke, Toroid, None. Correct answer: Choke",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q051",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Which one of the following physical quantities does not have the dimensions of force per unit area?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Stress"
+        },
+        {
+          "key": "b",
+          "value": "Strain"
+        },
+        {
+          "key": "c",
+          "value": "Young\u2019s modulus"
+        },
+        {
+          "key": "d",
+          "value": "Pressure"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Strain",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: Which one of the following physical quantities does not have the dimensions of force per unit area? Options: Stress, Strain, Young\u2019s modulus, Pressure. Correct answer: Strain",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

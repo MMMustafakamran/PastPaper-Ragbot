@@ -1,0 +1,179 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Physics - Optics",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 3,
+    "source_file": "nust_phyiscs_chem_unsolved.txt",
+    "exam_type": "NET",
+    "subject": "Physics",
+    "main_topic": "Optics"
+  },
+  "questions": [
+    {
+      "question_id": "NET_PHY_OPTICS_Q027",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Optics",
+        "sub_topic": "Optics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The tip of a needle does not give a sharp image. It is due to",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Polarization"
+        },
+        {
+          "key": "b",
+          "value": "Interference"
+        },
+        {
+          "key": "c",
+          "value": "Diffraction"
+        },
+        {
+          "key": "d",
+          "value": "none"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Diffraction",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Optics: The tip of a needle does not give a sharp image. It is due to Options: Polarization, Interference, Diffraction, none. Correct answer: Diffraction",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "optics"
+        ],
+        "prerequisites": [
+          "optics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_OPTICS_Q030",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Optics",
+        "sub_topic": "Optics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "When a ray of light enters a glass slab from air",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Its wavelength might increase"
+        },
+        {
+          "key": "b",
+          "value": "Neither its wavelength nor its frequency changes"
+        },
+        {
+          "key": "c",
+          "value": "its frequency increases"
+        },
+        {
+          "key": "d",
+          "value": "Its wavelength decreases"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Its wavelength decreases",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Optics: When a ray of light enters a glass slab from air Options: Its wavelength might increase, Neither its wavelength nor its frequency changes, its frequency increases, Its wavelength decreases. Correct answer: Its wavelength decreases",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "optics"
+        ],
+        "prerequisites": [
+          "optics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_OPTICS_Q050",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Optics",
+        "sub_topic": "Optics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The color of light emitted by a light-emitting diode depends upon:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Forward voltage"
+        },
+        {
+          "key": "b",
+          "value": "Reverse current"
+        },
+        {
+          "key": "c",
+          "value": "Forward current"
+        },
+        {
+          "key": "d",
+          "value": "Type of semiconductor"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Type of semiconductor",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Optics: The color of light emitted by a light-emitting diode depends upon: Options: Forward voltage, Reverse current, Forward current, Type of semiconductor. Correct answer: Type of semiconductor",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "optics"
+        ],
+        "prerequisites": [
+          "optics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Chemistry - Acids and Bases",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 4,
+    "source_file": "nust_phyiscs_chem_unsolved.txt",
+    "exam_type": "NET",
+    "subject": "Chemistry",
+    "main_topic": "Acids and Bases"
+  },
+  "questions": [
+    {
+      "question_id": "NET_CHE_ACIDS_AND_BASES_Q054",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Acids and Bases",
+        "sub_topic": "Acids and Bases",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "A certain transistor has a collector current of 10 mA and a base current of 40 \u03bcA. What is the current gain of the transistor?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "150"
+        },
+        {
+          "key": "b",
+          "value": "250"
+        },
+        {
+          "key": "c",
+          "value": "300"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "250",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Acids and Bases: A certain transistor has a collector current of 10 mA and a base current of 40 \u03bcA. What is the current gain of the transistor? Options: 150, 250, 300, None. Correct answer: 250",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "acids and bases"
+        ],
+        "prerequisites": [
+          "acids and bases"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_ACIDS_AND_BASES_Q057",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Acids and Bases",
+        "sub_topic": "Acids and Bases",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "In a common base amplifier, the phase difference between the input signal voltage and output voltage is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "\u03c0"
+        },
+        {
+          "key": "b",
+          "value": "\u03c0/4"
+        },
+        {
+          "key": "c",
+          "value": "\u03c0/2"
+        },
+        {
+          "key": "d",
+          "value": "0"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "0",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Acids and Bases: In a common base amplifier, the phase difference between the input signal voltage and output voltage is Options: \u03c0, \u03c0/4, \u03c0/2, 0. Correct answer: 0",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "acids and bases"
+        ],
+        "prerequisites": [
+          "acids and bases"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_ACIDS_AND_BASES_Q062",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Acids and Bases",
+        "sub_topic": "Acids and Bases",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "\u0394H neutralization is always",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Positive"
+        },
+        {
+          "key": "b",
+          "value": "Negative"
+        },
+        {
+          "key": "c",
+          "value": "0"
+        },
+        {
+          "key": "d",
+          "value": "Positive or negative"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Negative",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Acids and Bases: \u0394H neutralization is always Options: Positive, Negative, 0, Positive or negative. Correct answer: Negative",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "acids and bases"
+        ],
+        "prerequisites": [
+          "acids and bases"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_ACIDS_AND_BASES_Q069",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "nust_phyiscs_chem_unsolved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Acids and Bases",
+        "sub_topic": "Acids and Bases",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The idea of pH and pOH was put forward by",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Gibbs"
+        },
+        {
+          "key": "b",
+          "value": "Einstein"
+        },
+        {
+          "key": "c",
+          "value": "Sorenson"
+        },
+        {
+          "key": "d",
+          "value": "Chadwick"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Sorenson",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Acids and Bases: The idea of pH and pOH was put forward by Options: Gibbs, Einstein, Sorenson, Chadwick. Correct answer: Sorenson",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "acids and bases"
+        ],
+        "prerequisites": [
+          "acids and bases"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}
