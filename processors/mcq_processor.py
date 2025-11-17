@@ -209,22 +209,33 @@ class TopicClassifier:
         }
         
         # English keywords (English is a subject, these are topics matching Topics_net)
+        # Note: Avoid generic words that appear in math questions (e.g., "word" appears in permutation problems)
         english_keywords = {
             "Grammar and syntax": ["grammar", "syntax", "noun", "verb", "adjective", "adverb", "pronoun", 
-                                   "preposition", "conjunction", "article", "tense", "sentence", "clause", "phrase"],
-            "Vocabulary (synonyms, antonyms)": ["vocabulary", "synonym", "antonym", "meaning", "word", "definition"],
-            "Reading comprehension": ["reading comprehension", "comprehension", "passage", "reading", "paragraph", "text"],
-            "Sentence correction": ["sentence correction", "correct", "error", "mistake", "grammatical"],
-            "Idioms and phrases": ["idiom", "phrase", "expression", "proverb"],
+                                   "preposition", "prepositions", "conjunction", "article", "tense", "sentence structure", "clause", "phrase"],
+            "Vocabulary (synonyms, antonyms)": ["synonym of", "antonym of", "synonyms", "antonyms", "vocabulary", 
+                                                "word meaning", "definition of", "means the same", "opposite meaning", 
+                                                "synonym", "antonym"],
+            "Reading comprehension": ["reading comprehension", "comprehension passage", "read the passage", 
+                                     "according to the passage", "paragraph", "text says"],
+            "Sentence correction": ["sentence correction", "sentence completion", "grammatical error", 
+                                   "grammatically correct", "grammatical mistake", "correct the sentence"],
+            "Idioms and phrases": ["idiom", "idiomatic expression", "phrase means", "proverb", "figure of speech"],
         }
         
         # Intelligence/IQ keywords (Intelligence is a subject, these are topics matching Topics_net)
+        # NOTE: These must be very specific to avoid matching math questions
+        # Only match when clearly IQ/intelligence questions, NOT math
         intelligence_keywords = {
-            "Logical reasoning": ["logical reasoning", "logical", "reasoning", "logic", "deduce", "infer", "conclusion", "premise"],
-            "Pattern recognition": ["pattern recognition", "pattern", "recognition", "visual pattern"],
-            "Series completion": ["series completion", "complete", "series", "sequence", "next number", "next term"],
-            "Analogies": ["analogy", "analogous", "similar", "like", "as", "relationship"],
-            "Critical thinking": ["critical thinking", "critical", "think", "analyze", "evaluate", "assess", "judge"],
+            "Logical reasoning": ["logical reasoning", "deduce", "infer", "conclusion", "premise", "syllogism"],
+            "Pattern recognition": ["pattern recognition", "visual pattern", "identify the pattern"],
+            # Series completion - only for IQ number/letter patterns, NOT math sequences
+            "Series completion": ["complete the series", "what comes next in", "next in the pattern"],
+            # Analogies - only for word/relationship analogies with explicit "is to" pattern
+            # Pattern: WORD1 is to WORD2 as WORD3 is to WORD4
+            "Analogies": ["word analogy", "verbal analogy", "is to", "is to", "as"],
+            # Critical thinking - only for logic puzzles, NOT math evaluations
+            "Critical thinking": ["critical thinking", "logical puzzle", "reasoning puzzle"],
         }
         
         # Add all keywords to map
@@ -255,14 +266,71 @@ class TopicClassifier:
         sub_topic = "General"
         
         # Try to match keywords
+        # FIRST: Check if question has strong math indicators - if so, skip English/Intelligence classification
+        has_math_indicators = any(indicator in text_lower for indicator in [
+            'sin', 'cos', 'tan', 'derivative', 'integral', 'matrix', 'vector', 'equation',
+            'solve', 'evaluate', 'calculate', 'find the value', 'coordinate', 'point',
+            'ratio', 'proportion', 'fraction', '=', '^', 'sqrt', 'log', 'ln', 'x^', 'y^',
+            'polynomial', 'roots', 'slope', 'parallel', 'perpendicular', 'intersect',
+            'geometric sequence', 'arithmetic sequence', 'nth term', 'determinant', 'determinants',
+            'quadratic', 'alpha', 'beta', 'α', 'β', 'determinant', '|', 'determinant of',
+            'period', 'function', 'tangent function', 'sine function', 'cosine function',
+            'diagonal', 'square', 'side', 'units', 'played', 'out of', 'total', 'boys',
+            'cricket', 'hockey', 'basketball', 'f(x)', 'with respect to', 'defined as',
+            'same as', 'has the same', 'pairs has', 'length of'
+        ]) or re.search(r'[0-9]+\s*[+\-*/=]\s*[0-9]|\([0-9]+,\s*[0-9]+\)|x\^[0-9]|y\^[0-9]|α|β|2x\^|3x\^|f\(x\)|sqrt\(', question_text)
+        
         matched_topics = []
         for keyword, (subj, topic) in self.keyword_map.items():
+            # Skip English and Intelligence keywords if math indicators are present
+            if (subj in ["English", "Intelligence"]) and has_math_indicators:
+                continue
+            # For Intelligence "as" keyword, only match if it's part of an analogy pattern
+            if subj == "Intelligence" and keyword == "as":
+                # Only match "as" if it's in an analogy pattern: WORD is to WORD as WORD is to WORD
+                if not re.search(r'\b\w+\s+is\s+to\s+\w+\s+as\s+\w+\s+is\s+to\s+\w+', text_lower, re.IGNORECASE):
+                    continue
             if keyword in text_lower:
                 matched_topics.append((subj, topic))
         
+        # Special patterns for English questions (only if no strong math indicators)
+        if not has_math_indicators:
+            # Check for analogies pattern (WORD1 : WORD2) - must be actual words
+            # Look for pattern like "BANDAGE : LACERATION" (all caps words, no numbers)
+            # Pattern: word(s) in caps followed by colon followed by word(s) in caps
+            analogy_pattern = re.search(r'([A-Z][A-Z\s]{1,})\s*:\s*([A-Z][A-Z\s]{1,})', question_text)
+            if analogy_pattern:
+                word1, word2 = analogy_pattern.groups()
+                word1_clean = word1.strip()
+                word2_clean = word2.strip()
+                # Must be actual words (no numbers, no math symbols, reasonable length)
+                if (not re.search(r'[0-9+\-*/^=()\[\]{}]', word1_clean + word2_clean) and
+                    len(word1_clean) >= 3 and len(word2_clean) >= 3 and
+                    # Exclude common math patterns
+                    'coordinate' not in text_lower and 'point' not in text_lower and
+                    'ratio' not in text_lower and 'proportion' not in text_lower):
+                    matched_topics.append(("English", "Analogies"))
+            
+            # Check for synonym/antonym patterns (explicit)
+            if re.search(r'\b(synonym|antonym)\s+of\s+[A-Z]', question_text, re.IGNORECASE):
+                matched_topics.append(("English", "Vocabulary (synonyms, antonyms)"))
+            
+            # Check for sentence completion pattern
+            if re.search(r'after having\s+\w+|offered to\s+\w+|would like to\s+\w+', text_lower):
+                matched_topics.append(("English", "Sentence correction"))
+            
+            # Check for preposition questions (specific patterns)
+            if re.search(r'\b(appear|move|trust|hostile)\s+\w+\s+(the|to|in|on|at|for|before|behind)', text_lower):
+                matched_topics.append(("English", "Grammar and syntax"))
+        
         if matched_topics:
-            # Use the first match (you can enhance this with scoring)
-            subject, main_topic = matched_topics[0]
+            # Prioritize English matches if found (English questions are often misclassified)
+            english_matches = [m for m in matched_topics if m[0] == "English"]
+            if english_matches:
+                subject, main_topic = english_matches[0]
+            else:
+                # Use the first match
+                subject, main_topic = matched_topics[0]
             sub_topic = self._infer_subtopic(text_lower, main_topic)
         
         return subject, main_topic, sub_topic
@@ -297,6 +365,7 @@ class TopicClassifier:
                 "Parts of Speech": ["noun", "verb", "adjective", "adverb", "pronoun"],
                 "Tenses": ["tense", "present", "past", "future", "perfect", "continuous"],
                 "Sentence Structure": ["sentence", "clause", "phrase", "subject", "predicate"],
+                "Prepositions": ["preposition", "prepositions", "appear", "move", "trust", "hostile"],
             },
             "Vocabulary (synonyms, antonyms)": {
                 "Synonyms": ["synonym", "similar meaning", "same meaning"],
@@ -310,10 +379,15 @@ class TopicClassifier:
             "Sentence correction": {
                 "Error Detection": ["error", "mistake", "incorrect"],
                 "Correction": ["correct", "fix", "improve"],
+                "Sentence Completion": ["sentence completion", "after having", "offered to", "would like to"],
             },
             "Idioms and phrases": {
                 "Idioms": ["idiom", "expression"],
                 "Phrases": ["phrase", "proverb"],
+            },
+            "Analogies": {
+                "Word Analogies": ["analogy", "similar", "relationship", ":"],
+                "Pattern Analogies": ["like", "as", "analogous"],
             },
             "Logical reasoning": {
                 "Deductive": ["deduce", "deduction", "conclusion", "premise"],

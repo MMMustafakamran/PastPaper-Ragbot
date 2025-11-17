@@ -1,0 +1,2181 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - General",
+    "version": "1.0",
+    "created_date": "2025-11-14",
+    "total_questions": 39,
+    "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "General"
+  },
+  "questions": [
+    {
+      "question_id": "NET_M_G_Q006",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "How many terms are there in the expansion of (1+x)^n; considering that 'n' is positive?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "n+1"
+        },
+        {
+          "key": "b",
+          "value": "n"
+        },
+        {
+          "key": "c",
+          "value": "Infinite"
+        },
+        {
+          "key": "d",
+          "value": "n-1"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "n+1",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: How many terms are there in the expansion of (1+x)^n; considering that 'n' is positive? Options: n+1, n, Infinite, n-1. Correct answer: n+1",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q011",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Which one of the following properties of sets is said to be the commutative property?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "AUB=BUA"
+        },
+        {
+          "key": "b",
+          "value": "A=B"
+        },
+        {
+          "key": "c",
+          "value": "AU(BUC)=(AUB)UC"
+        },
+        {
+          "key": "d",
+          "value": "A'=U-A"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "AUB=BUA",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: Which one of the following properties of sets is said to be the commutative property? Options: AUB=BUA, A=B, AU(BUC)=(AUB)UC, A'=U-A. Correct answer: AUB=BUA",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q012",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "If x^4-3x^2+4=0 then its roots are:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "2, -2, i and –i"
+        },
+        {
+          "key": "b",
+          "value": "1, -1, i and -i"
+        },
+        {
+          "key": "c",
+          "value": "iota only"
+        },
+        {
+          "key": "d",
+          "value": "Impossible to determine"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "2, -2, i and –i",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: If x^4-3x^2+4=0 then its roots are: Options: 2, -2, i and –i, 1, -1, i and -i, iota only, Impossible to determine. Correct answer: 2, -2, i and –i",
+      "metadata": {
+        "keywords": [
+          "polynomial"
+        ],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q013",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "What are the cube roots of unity?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1, -1, i and -i"
+        },
+        {
+          "key": "b",
+          "value": "1, -1 and i"
+        },
+        {
+          "key": "c",
+          "value": "There doesn't exist such entities in mathematics"
+        },
+        {
+          "key": "d",
+          "value": "1, [-1+sqrt(3)*i]/2 and [-1-sqrt(3)*i]/2"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "1, [-1+sqrt(3)*i]/2 and [-1-sqrt(3)*i]/2",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: What are the cube roots of unity? Options: 1, -1, i and -i, 1, -1 and i, There doesn't exist such entities in mathematics, 1, [-1+sqrt(3)*i]/2 and [-1-sqrt(3)*i]/2. Correct answer: 1, [-1+sqrt(3)*i]/2 and [-1-sqrt(3)*i]/2",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q014",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "If 4x/(x-1)(x+1)=A/(x-1)+B/(x+1) then the values of 'A' and 'B' are:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "2 and 2"
+        },
+        {
+          "key": "b",
+          "value": "2 and -2"
+        },
+        {
+          "key": "c",
+          "value": "1 and -1"
+        },
+        {
+          "key": "d",
+          "value": "Impossible to determine"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "2 and 2",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: If 4x/(x-1)(x+1)=A/(x-1)+B/(x+1) then the values of 'A' and 'B' are: Options: 2 and 2, 2 and -2, 1 and -1, Impossible to determine. Correct answer: 2 and 2",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q016",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "What are the two numbers whose sum is 20 but their product is minimum?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "10, 10"
+        },
+        {
+          "key": "b",
+          "value": "15, 5"
+        },
+        {
+          "key": "c",
+          "value": "0, 20"
+        },
+        {
+          "key": "d",
+          "value": "1, 19"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "0, 20",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: What are the two numbers whose sum is 20 but their product is minimum? Options: 10, 10, 15, 5, 0, 20, 1, 19. Correct answer: 0, 20",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q017",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The set of points P(x,y) in which x and y both are less than zero, lie in which quadrant?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "I"
+        },
+        {
+          "key": "b",
+          "value": "II"
+        },
+        {
+          "key": "c",
+          "value": "III"
+        },
+        {
+          "key": "d",
+          "value": "IV"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "III",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: The set of points P(x,y) in which x and y both are less than zero, lie in which quadrant? Options: I, II, III, IV. Correct answer: III",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q020",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "If f(x)=x^3, then what is its inverse?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "x^(1/3)"
+        },
+        {
+          "key": "b",
+          "value": "3^x"
+        },
+        {
+          "key": "c",
+          "value": "[x^(2/3)]^0.5"
+        },
+        {
+          "key": "d",
+          "value": "Both A and C"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Both A and C",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: If f(x)=x^3, then what is its inverse? Options: x^(1/3), 3^x, [x^(2/3)]^0.5, Both A and C. Correct answer: Both A and C",
+      "metadata": {
+        "keywords": [
+          "polynomial"
+        ],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "recall",
+        "bloom_level": "L1_Remember"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q022",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "Use analytical geometry to determine to classify the quadrilateral ABCD with vertices A(-1,0), B(3,3), C(6,-1), and D(2,-4).",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Parallelogram"
+        },
+        {
+          "key": "b",
+          "value": "Square"
+        },
+        {
+          "key": "c",
+          "value": "Rhombus"
+        },
+        {
+          "key": "d",
+          "value": "Trapezium"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Square",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: Use analytical geometry to determine to classify the quadrilateral ABCD with vertices A(-1,0), B(3,3), C(6,-1), and D(2,-4). Options: Parallelogram, Square, Rhombus, Trapezium. Correct answer: Square",
+      "metadata": {
+        "keywords": [
+          "determine"
+        ],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q023",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "Tell the relationship between x and y. x 0 1 2 3 4 5 6 7 8 y Undefined 0 0.693 1.099 1.386 1.609 1.792 1.946 2.079",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "y=ln x"
+        },
+        {
+          "key": "b",
+          "value": "y=log x"
+        },
+        {
+          "key": "c",
+          "value": "y=1/x"
+        },
+        {
+          "key": "d",
+          "value": "y=e^x"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "y=ln x",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: Tell the relationship between x and y. x 0 1 2 3 4 5 6 7 8 y Undefined 0 0.693 1.099 1.386 1.609 1.792 1.946 2.079 Options: y=ln x, y=log x, y=1/x, y=e^x. Correct answer: y=ln x",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "recall",
+        "bloom_level": "L1_Remember"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q026",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "If one of the lengths of the sides of an equilateral triangle is 10, then what is the area of the triangle?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "25*sqrt(3)"
+        },
+        {
+          "key": "b",
+          "value": "43.30"
+        },
+        {
+          "key": "c",
+          "value": "Both A and B"
+        },
+        {
+          "key": "d",
+          "value": "Missing information"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Both A and B",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: If one of the lengths of the sides of an equilateral triangle is 10, then what is the area of the triangle? Options: 25*sqrt(3), 43.30, Both A and B, Missing information. Correct answer: Both A and B",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "recall",
+        "bloom_level": "L1_Remember"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q028",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "What is the sum of angles in a quadrilateral?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "120"
+        },
+        {
+          "key": "b",
+          "value": "180"
+        },
+        {
+          "key": "c",
+          "value": "270"
+        },
+        {
+          "key": "d",
+          "value": "360"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "360",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: What is the sum of angles in a quadrilateral? Options: 120, 180, 270, 360. Correct answer: 360",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "recall",
+        "bloom_level": "L1_Remember"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q029",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "What is the power of fourth power of 'x' in the sixth power of (2-x)?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "24"
+        },
+        {
+          "key": "b",
+          "value": "10"
+        },
+        {
+          "key": "c",
+          "value": "6/4"
+        },
+        {
+          "key": "d",
+          "value": "2"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "24",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: What is the power of fourth power of 'x' in the sixth power of (2-x)? Options: 24, 10, 6/4, 2. Correct answer: 24",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "recall",
+        "bloom_level": "L1_Remember"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q030",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "What is the sum of the first 50 real numbers?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "500"
+        },
+        {
+          "key": "b",
+          "value": "1275"
+        },
+        {
+          "key": "c",
+          "value": "1200"
+        },
+        {
+          "key": "d",
+          "value": "8900"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "1275",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: What is the sum of the first 50 real numbers? Options: 500, 1275, 1200, 8900. Correct answer: 1275",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "recall",
+        "bloom_level": "L1_Remember"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q031",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Orders of some matrices are given in the following. Which one of them cannot be multiplied?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "mxn, nxp where m, n and p are all positive integers"
+        },
+        {
+          "key": "b",
+          "value": "axb, bxc where a, b and c are all positive integers"
+        },
+        {
+          "key": "c",
+          "value": "1x2, 2x6"
+        },
+        {
+          "key": "d",
+          "value": "3x5, 4x1"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "3x5, 4x1",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: Orders of some matrices are given in the following. Which one of them cannot be multiplied? Options: mxn, nxp where m, n and p are all positive integers, axb, bxc where a, b and c are all positive integers, 1x2, 2x6, 3x5, 4x1. Correct answer: 3x5, 4x1",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q036",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Solve: (22/7)*sqrt(3)",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "5.44"
+        },
+        {
+          "key": "b",
+          "value": "5.20"
+        },
+        {
+          "key": "c",
+          "value": "5.85"
+        },
+        {
+          "key": "d",
+          "value": "5.69"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "5.44",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: Solve: (22/7)*sqrt(3) Options: 5.44, 5.20, 5.85, 5.69. Correct answer: 5.44",
+      "metadata": {
+        "keywords": [
+          "solve"
+        ],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q039",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "If A={1,2,3}, B={0,4,5} and U={0,3,6}, then find n(AUB).",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "64"
+        },
+        {
+          "key": "b",
+          "value": "8"
+        },
+        {
+          "key": "c",
+          "value": "16"
+        },
+        {
+          "key": "d",
+          "value": "32"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "64",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: If A={1,2,3}, B={0,4,5} and U={0,3,6}, then find n(AUB). Options: 64, 8, 16, 32. Correct answer: 64",
+      "metadata": {
+        "keywords": [
+          "find"
+        ],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q045",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "What are three AMs between -18 and 4?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "12.5, 7 and 1.5"
+        },
+        {
+          "key": "b",
+          "value": "AM can't be found between a negative and a positive number"
+        },
+        {
+          "key": "c",
+          "value": "-12.5, -7 and -1.5"
+        },
+        {
+          "key": "d",
+          "value": "1, 2 and 3"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "-12.5, -7 and -1.5",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: What are three AMs between -18 and 4? Options: 12.5, 7 and 1.5, AM can't be found between a negative and a positive number, -12.5, -7 and -1.5, 1, 2 and 3. Correct answer: -12.5, -7 and -1.5",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q046",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Find the sum: 1+3+5…+(2n+1)",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "n^2"
+        },
+        {
+          "key": "b",
+          "value": "ln e^2"
+        },
+        {
+          "key": "c",
+          "value": "2^n"
+        },
+        {
+          "key": "d",
+          "value": "n^e"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "n^2",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: Find the sum: 1+3+5…+(2n+1) Options: n^2, ln e^2, 2^n, n^e. Correct answer: n^2",
+      "metadata": {
+        "keywords": [
+          "find"
+        ],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q048",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Which one of the following pairs has the same period?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Tangent function and cotangent function"
+        },
+        {
+          "key": "b",
+          "value": "Sine function and tangent function"
+        },
+        {
+          "key": "c",
+          "value": "Cosine function and cotangent function"
+        },
+        {
+          "key": "d",
+          "value": "Cosecant function and tangent function"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Tangent function and cotangent function",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: Which one of the following pairs has the same period? Options: Tangent function and cotangent function, Sine function and tangent function, Cosine function and cotangent function, Cosecant function and tangent function. Correct answer: Tangent function and cotangent function",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q051",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "If α and β are the roots of the equation x^2-x+1=0, then find 2α and 2β.",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1+sqrt(3)*i, 1-sqrt(3)*i"
+        },
+        {
+          "key": "b",
+          "value": "only i"
+        },
+        {
+          "key": "c",
+          "value": "Impossible to determine"
+        },
+        {
+          "key": "d",
+          "value": "i and -i"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "1+sqrt(3)*i, 1-sqrt(3)*i",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: If α and β are the roots of the equation x^2-x+1=0, then find 2α and 2β. Options: 1+sqrt(3)*i, 1-sqrt(3)*i, only i, Impossible to determine, i and -i. Correct answer: 1+sqrt(3)*i, 1-sqrt(3)*i",
+      "metadata": {
+        "keywords": [
+          "equation",
+          "find",
+          "polynomial"
+        ],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q052",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "If A={a,b,c} then the number of possible subsets is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "3"
+        },
+        {
+          "key": "b",
+          "value": "8"
+        },
+        {
+          "key": "c",
+          "value": "6"
+        },
+        {
+          "key": "d",
+          "value": "None of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "8",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: If A={a,b,c} then the number of possible subsets is: Options: 3, 8, 6, None of these. Correct answer: 8",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q053",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "How many 6-digit numbers can be formed without repeating any digit from the digits 0, 1, 2, 3, 4 and 5?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "120"
+        },
+        {
+          "key": "b",
+          "value": "720"
+        },
+        {
+          "key": "c",
+          "value": "96"
+        },
+        {
+          "key": "d",
+          "value": "4920"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "720",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: How many 6-digit numbers can be formed without repeating any digit from the digits 0, 1, 2, 3, 4 and 5? Options: 120, 720, 96, 4920. Correct answer: 720",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q056",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The product of all the three cube roots of unity is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1"
+        },
+        {
+          "key": "b",
+          "value": "-1"
+        },
+        {
+          "key": "c",
+          "value": "-1+sqrt(3)*i"
+        },
+        {
+          "key": "d",
+          "value": "0"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "1",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: The product of all the three cube roots of unity is: Options: 1, -1, -1+sqrt(3)*i, 0. Correct answer: 1",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q057",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "2/3 is a/an ________ number.",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Irrational"
+        },
+        {
+          "key": "b",
+          "value": "Rational"
+        },
+        {
+          "key": "c",
+          "value": "Positive"
+        },
+        {
+          "key": "d",
+          "value": "Both B and C"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Both B and C",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: 2/3 is a/an ________ number. Options: Irrational, Rational, Positive, Both B and C. Correct answer: Both B and C",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q063",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The sum of coefficients in the expansion of (x+y)^5 is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "128"
+        },
+        {
+          "key": "b",
+          "value": "64"
+        },
+        {
+          "key": "c",
+          "value": "32"
+        },
+        {
+          "key": "d",
+          "value": "16"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "32",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: The sum of coefficients in the expansion of (x+y)^5 is: Options: 128, 64, 32, 16. Correct answer: 32",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q067",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Men and women are in a ratio of P:Q. What is the percentage of men?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "P/P+Q"
+        },
+        {
+          "key": "b",
+          "value": "Q/P+Q"
+        },
+        {
+          "key": "c",
+          "value": "100/P+Q"
+        },
+        {
+          "key": "d",
+          "value": "50/50"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "P/P+Q",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: Men and women are in a ratio of P:Q. What is the percentage of men? Options: P/P+Q, Q/P+Q, 100/P+Q, 50/50. Correct answer: P/P+Q",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "recall",
+        "bloom_level": "L1_Remember"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q068",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Which of the following is the biggest number?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1"
+        },
+        {
+          "key": "b",
+          "value": "2*sqrt(2)"
+        },
+        {
+          "key": "c",
+          "value": "3*sqrt(3)"
+        },
+        {
+          "key": "d",
+          "value": "4*sqrt(4)"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "4*sqrt(4)",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: Which of the following is the biggest number? Options: 1, 2*sqrt(2), 3*sqrt(3), 4*sqrt(4). Correct answer: 4*sqrt(4)",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q070",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Differentiate ln (e) with respect to 'x'.",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1/e"
+        },
+        {
+          "key": "b",
+          "value": "0"
+        },
+        {
+          "key": "c",
+          "value": "1/x"
+        },
+        {
+          "key": "d",
+          "value": "e"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "0",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: Differentiate ln (e) with respect to 'x'. Options: 1/e, 0, 1/x, e. Correct answer: 0",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q072",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "Evaluate: w^-23+w^-28",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "-1"
+        },
+        {
+          "key": "b",
+          "value": "1"
+        },
+        {
+          "key": "c",
+          "value": "w"
+        },
+        {
+          "key": "d",
+          "value": "w^2"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "-1",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: Evaluate: w^-23+w^-28 Options: -1, 1, w, w^2. Correct answer: -1",
+      "metadata": {
+        "keywords": [
+          "evaluate"
+        ],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "evaluation",
+        "bloom_level": "L5_Evaluate"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q073",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The derivate of f(x) with respect to 'x' is defined as:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "The rate of change in f(x) with respect to 'x'"
+        },
+        {
+          "key": "b",
+          "value": "The increase in the relevance rate of f(x) with respect to 'x'"
+        },
+        {
+          "key": "c",
+          "value": "The decrease in the relevance rate of f(x) with respect to 'x'"
+        },
+        {
+          "key": "d",
+          "value": "None of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "The rate of change in f(x) with respect to 'x'",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: The derivate of f(x) with respect to 'x' is defined as: Options: The rate of change in f(x) with respect to 'x', The increase in the relevance rate of f(x) with respect to 'x', The decrease in the relevance rate of f(x) with respect to 'x', None of these. Correct answer: The rate of change in f(x) with respect to 'x'",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "recall",
+        "bloom_level": "L1_Remember"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q074",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Which one of the following is the additive inverse for 2+sqrt(3)?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "sqrt(3)"
+        },
+        {
+          "key": "b",
+          "value": "-2+sqrt(3)"
+        },
+        {
+          "key": "c",
+          "value": "-2-sqrt(3)"
+        },
+        {
+          "key": "d",
+          "value": "2+sqrt(3)"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "-2-sqrt(3)",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: Which one of the following is the additive inverse for 2+sqrt(3)? Options: sqrt(3), -2+sqrt(3), -2-sqrt(3), 2+sqrt(3). Correct answer: -2-sqrt(3)",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q075",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "What are the angles of an equilateral triangle?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "45 degrees, 45 degrees and 90 degrees"
+        },
+        {
+          "key": "b",
+          "value": "45 degrees, 90 degrees and 45 degrees"
+        },
+        {
+          "key": "c",
+          "value": "120 degrees, 30 degrees and 30 degrees"
+        },
+        {
+          "key": "d",
+          "value": "60 degrees, 60 degrees and 60 degrees"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "60 degrees, 60 degrees and 60 degrees",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: What are the angles of an equilateral triangle? Options: 45 degrees, 45 degrees and 90 degrees, 45 degrees, 90 degrees and 45 degrees, 120 degrees, 30 degrees and 30 degrees, 60 degrees, 60 degrees and 60 degrees. Correct answer: 60 degrees, 60 degrees and 60 degrees",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q076",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "If a square has a side of 2 units, then what is the length of its diagonal?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "2*sqrt(2)"
+        },
+        {
+          "key": "b",
+          "value": "8"
+        },
+        {
+          "key": "c",
+          "value": "4"
+        },
+        {
+          "key": "d",
+          "value": "16"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "2*sqrt(2)",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: If a square has a side of 2 units, then what is the length of its diagonal? Options: 2*sqrt(2), 8, 4, 16. Correct answer: 2*sqrt(2)",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "recall",
+        "bloom_level": "L1_Remember"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q078",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "The length of all the sides of a square and an equilateral triangle is 5 units. What is the ratio of the area of the square to the area of the triangle?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "8/sqrt(3)"
+        },
+        {
+          "key": "b",
+          "value": "[8*sqrt(3)]/5"
+        },
+        {
+          "key": "c",
+          "value": "4/sqrt(3)"
+        },
+        {
+          "key": "d",
+          "value": "sqrt(3)/8"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "4/sqrt(3)",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: The length of all the sides of a square and an equilateral triangle is 5 units. What is the ratio of the area of the square to the area of the triangle? Options: 8/sqrt(3), [8*sqrt(3)]/5, 4/sqrt(3), sqrt(3)/8. Correct answer: 4/sqrt(3)",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "recall",
+        "bloom_level": "L1_Remember"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q079",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Two figures having the same shape but different sizes are called:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Congruent figures"
+        },
+        {
+          "key": "b",
+          "value": "Similar figures"
+        },
+        {
+          "key": "c",
+          "value": "Equal figures"
+        },
+        {
+          "key": "d",
+          "value": "All of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Similar figures",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: Two figures having the same shape but different sizes are called: Options: Congruent figures, Similar figures, Equal figures, All of these. Correct answer: Similar figures",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q084",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Differentiate 3^2x with respect to 'x'.",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "2*ln 2*(3^2x)"
+        },
+        {
+          "key": "b",
+          "value": "ln 2*(3^2x)"
+        },
+        {
+          "key": "c",
+          "value": "3^2x"
+        },
+        {
+          "key": "d",
+          "value": "2x/3"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "2*ln 2*(3^2x)",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: Differentiate 3^2x with respect to 'x'. Options: 2*ln 2*(3^2x), ln 2*(3^2x), 3^2x, 2x/3. Correct answer: 2*ln 2*(3^2x)",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q087",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "Calculate the exact value of the decimal 0.4545…",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "5/11"
+        },
+        {
+          "key": "b",
+          "value": "50/11"
+        },
+        {
+          "key": "c",
+          "value": "500/11"
+        },
+        {
+          "key": "d",
+          "value": "5000/11"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "5/11",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: Calculate the exact value of the decimal 0.4545… Options: 5/11, 50/11, 500/11, 5000/11. Correct answer: 5/11",
+      "metadata": {
+        "keywords": [
+          "calculate"
+        ],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_G_Q097",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The equation which doesn't change by replacing 'x' with '1/x' is called:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Linear"
+        },
+        {
+          "key": "b",
+          "value": "Quadratic"
+        },
+        {
+          "key": "c",
+          "value": "Proportional"
+        },
+        {
+          "key": "d",
+          "value": "None of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "None of these",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: The equation which doesn't change by replacing 'x' with '1/x' is called: Options: Linear, Quadratic, Proportional, None of these. Correct answer: None of these",
+      "metadata": {
+        "keywords": [
+          "equation"
+        ],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

@@ -1,0 +1,722 @@
+Q81. What type of science is physics?  
+(a) Living things  
+(b) Nonliving things  
+(c) Experimental science  
+(d) Study of action and reaction and experimental science  
+ans: c
+
+
+
+Q82. The magnitude of the resultant of two forces is 2F. If the magnitude of each force is F, then the angle between these forces is  
+(a) 0°  
+(b) 90°  
+(c) 120°  
+(d) 180°  
+ans: a
+
+
+
+Q83. If the measuring scale has a least count of 10kg, then in 8000kg the significant figures are  
+(a) 4  
+(b) 1  
+(c) 3  
+(d) 0  
+ans: c
+
+
+
+Q84. Supplementary S.I units of radian and steradian were established to measure  
+(a) Geometrical quantities  
+(b) Luminous intensity  
+(c) Electric current  
+(d) Temperature  
+ans: a
+
+
+
+Q85. S.I unit of magnetic flux is  
+(a) Weber meter²  
+(b) Weber  
+(c) Weber/meter  
+(d) Weber/meter⁴  
+ans: b
+
+
+
+Q86. The physical quantity which produces angular acceleration in the body is  
+(a) Force  
+(b) Moment of inertia  
+(c) Impulse  
+(d) Torque  
+ans: d
+
+
+
+Q87. When a vector is multiplied by a scalar of positive value, the product of the quantity will be  
+(a) Multiple of the vector quantity in same direction  
+(b) Multiple of the vector quantity in opposite direction  
+(c) Multiple of the vector quantity in perpendicular to the original vector  
+(d) None of these  
+ans: a
+
+
+
+Q88. The magnitude of the vectors A, B, and C are respectively 12, 5, and 13 units and vector A + B = C, then the angle between vector A and B is  
+(a) 0  
+(b) π  
+(c) π/2  
+(d) π/4  
+ans: c
+
+
+
+Q89. Three vectors satisfy the relation vector A · B = 0 and A · C = 0, then A is parallel to  
+(a) B × C  
+(b) B · C  
+(c) C  
+(d) B  
+ans: a
+
+
+
+Q90. No work is done by the body when angle between force and displacement is  
+(a) 0°  
+(b) 45°  
+(c) 90°  
+(d) 60°  
+ans: c
+
+
+
+Q91. If the acceleration due to gravity at the earth’s surface is 9.8 m/s² and the mass of the earth is 80 times that of the moon and radius of earth 4 times that of the moon, the value of g at the moon’s surface will be  
+(a) 9.8 m/s²  
+(b) 1.96 m/s²  
+(c) 4.9 m/s²  
+(d) None  
+ans: b
+
+
+
+Q92. The particle of mass ‘m’ at rest is acted upon by a force ‘p’ for a time ‘t’. Its kinetic energy after an interval ‘t’ is  
+(a) P²t²/m  
+(b) P²t²/2m  
+(c) P²t²/3m  
+(d) Pt/2m  
+ans: b
+
+
+
+Q93. The dot product of force and velocity is equal to  
+(a) Power  
+(b) Impulse  
+(c) Couple  
+(d) Momentum  
+ans: a
+
+
+
+Q94. If a force acts on a body whose action line does not pass through its centre of gravity, then the body will experience  
+(a) Angular acceleration  
+(b) Linear acceleration  
+(c) No acceleration  
+(d) None of these  
+ans: a
+
+
+
+Q95. In which case application of angular velocity is useful?  
+(a) When a body is rotating  
+(b) When velocity of body is in a straight line  
+(c) When velocity is in a straight line  
+(d) None of these  
+ans: a
+
+
+
+Q96. Center of mass is a point  
+(a) Which is geometric center of a body  
+(b) From which distance of particles are same  
+(c) Where the whole mass of the body is supposed to be centered  
+(d) Which is origin of reference frame  
+ans: c
+
+
+
+Q97. Angular momentum has the same unit as  
+(a) Impulse × distance  
+(b) Linear momentum × time  
+(c) Work × frequency  
+(d) Power × time  
+ans: a
+
+
+
+Q98. The flow is said to be streamline or laminar when every particle  
+(a) Moves in different direction  
+(b) Moves along the same path as  
+(c) Slowly moves in one direction  
+(d) None of these  
+ans: b
+
+
+
+Q99. The pressure will be low where the speed of the fluid is  
+(a) 0  
+(b) high  
+(c) low  
+(d) constant  
+ans: b
+
+
+
+Q100. A two meter high tank is full of water. A hole is made in the middle of tank. The speed of efflux is  
+(a) 4.9 m/s  
+(b) 9.8 m/s  
+(c) 4.42 m/s  
+(d) 3.75 m/s  
+ans: c
+
+
+
+Q101. In case of a vibrating pendulum, the potential energy is maximum at  
+(a) Mean position  
+(b) Extreme position  
+(c) Both a and b  
+(d) None  
+ans: b
+
+
+
+Q102. Specific response of a system which is able to oscillate with a certain period, to an external force acting with the same period is called  
+(a) Time period  
+(b) Wavelength  
+(c) Resonance  
+(d) Doppler effects  
+ans: c
+
+
+
+Q103. A simple harmonic oscillator has period of 0.01 second and amplitude of 0.2 m. The magnitude of the velocity in m/s at the center of oscillation is  
+(a) 100  
+(b) 100π  
+(c) 20π  
+(d) 40π  
+ans: d
+
+
+
+Q104. A spherical wave front is that which has  
+(a) A source  
+(b) A point source  
+(c) An extended source  
+(d) None of these  
+ans: b
+
+
+
+Q105. We can hear sound around the corner but cannot see because of  
+(a) Interference  
+(b) Diffraction  
+(c) Polarization  
+(d) Dispersion  
+ans: b
+
+
+
+Q106. Huygens’s wave theory of light cannot explain  
+(a) Diffraction  
+(b) Interference  
+(c) Polarization  
+(d) Photoelectric effect  
+ans: d
+
+
+
+Q107. The tip of a needle does not give a sharp image. It is due to  
+(a) Polarization  
+(b) Interference  
+(c) Diffraction  
+(d) none  
+ans: c
+
+
+
+Q108. Sun has elliptical shape when it rises and sets due to  
+(a) Refraction  
+(b) Reflection  
+(c) Scattering  
+(d) Dispersion  
+ans: a
+
+
+
+Q109. Number of electric lines of force passing through a certain area is known as  
+(a) Electric field  
+(b) Electric flux  
+(c) Electric intensity  
+(d) Gravitational field  
+ans: b
+
+
+
+Q110. When a ray of light enters a glass slab from air  
+(a) Its wavelength might increase  
+(b) Neither its wavelength nor its frequency changes  
+(c) its frequency increases  
+(d) Its wavelength decreases  
+ans: d
+
+
+
+Q111. Which of the following statements is correct for any thermodynamic system?  
+(a) The internal energy changes in all processes  
+(b) Internal energy and entropy are state functions  
+(c) The change in entropy can never be 0  
+(d) The work done in an adiabatic process is always 0  
+ans: b
+
+
+
+Q112. Kelvin scale can be applied at very low temperature because  
+(a) It is independent of nature of working substance  
+(b) It is linear over a wide range of temperature  
+(c) It is based on triple point of water  
+(d) None  
+ans: a
+
+
+
+Q113. Two metal rods A and B have their initial length in the ratio 2:3 and coefficients of linear expansion in the ratio of 4:3. When they are heated through same temperature difference the ratio of their linear expansion is  
+(a) 1:2  
+(b) 2:3  
+(c) 3:4  
+(d) 8:9  
+ans: d
+
+
+
+Q114. Melting point of ice is  
+(a) Increases with increasing pressure  
+(b) Decreases with increasing pressure  
+(c) Is independent of pressure  
+(d) Is proportional to pressure  
+ans: b
+
+
+
+Q115. Two metallic wires are lying parallel. If the current in these wires be flowing in same direction, the wires will:  
+(a) Attract each other  
+(b) Repel each other  
+(c) Have no force of attraction or repulsion  
+(d) Remain stationary  
+ans: a
+
+
+
+Q116. On moving a charge of 20 coulombs by 2 cm, 2J of work is done, then the potential difference between the points is  
+(a) 0.1 V  
+(b) 8 V  
+(c) 2 V  
+(d) 0.5 V  
+ans: a
+
+
+
+Q117. In a Millikan’s oil drop experiment the charge on an oil drop is calculated to be 6.35 × 10⁻¹⁹ C. The number of excess electrons on the drop is  
+(a) 3.9  
+(b) 4  
+(c) 4.2  
+(d) 6  
+ans: b
+
+
+
+Q118. A charge Q is divided into two parts q and Q-q and separated by a distance R. The force of repulsion between them will be maximum when:  
+(a) q = Q/4  
+(b) q = Q/2  
+(c) q = Q  
+(d) none  
+ans: b
+
+
+
+Q119. The color coded resistances are made by  
+(a) High grade silver rods  
+(b) High grade ceramic rods  
+(c) High grade copper rods  
+(d) High grade iron rods  
+ans: b
+
+
+
+Q120. A wire of radius r has resistance R. If it is stretched to a wire of r/2 radius, then the resistance becomes  
+(a) 2R  
+(b) 4R  
+(c) 16R  
+(d) Zero  
+ans: c
+
+
+
+
+Q121. A uniform resistance wire of length L and diameter d has a resistance R. Another wire of the same material has length 4L and diameter 2d. The resistance will be  
+(a) 2R  
+(b) R  
+(c) R/2  
+(d) R/4  
+ans: b
+
+
+
+Q122. In an RLC series circuit, when the frequency of the AC source is very low, the circuit is a/an  
+(a) Resistive circuit  
+(b) Capacitive circuit  
+(c) Inductive circuit  
+(d) Resonant circuit  
+ans: b
+
+
+
+Q123. An electron of charge e coulomb passes through a potential difference of V volts. Its energy in joules will be  
+(a) V/e  
+(b) eV  
+(c) e/V  
+(d) V  
+ans: b
+
+
+
+Q124. The resistance of a voltmeter must be very high because  
+(a) It does not draw any current  
+(b) It is very accurate  
+(c) It does not change circuit current considerably  
+(d) None of these  
+ans: c
+
+
+
+Q125. The voltage applied across the X-plates is usually provided by a circuit built in the CRO. It is known as  
+(a) Time base generator  
+(b) Electric base generator  
+(c) X supplier  
+(d) Power supply  
+ans: a
+
+
+
+Q126. A voltmeter has a resistance of 2000 ohms and can measure up to 2V. If we want to increase its range to 10V, the required resistance in series will be  
+(a) 2000 Ω  
+(b) 4000 Ω  
+(c) 6000 Ω  
+(d) 8000 Ω  
+ans: d
+
+
+
+Q127. In an AC circuit through a capacitor, V and Q are:  
+(a) V leads Q  
+(b) V lags Q  
+(c) V and Q are in phase  
+(d) None of these  
+ans: c
+
+
+
+Q128. At resonance, the phase angle for an RLC series circuit equals  
+(a) 0°  
+(b) 90°  
+(c) 180°  
+(d) 270°  
+ans: a
+
+
+
+Q129. An inductor coil that consumes no energy is called  
+(a) A coil  
+(b) Choke  
+(c) Toroid  
+(d) None  
+ans: b
+
+
+
+Q130. The color of light emitted by a light-emitting diode depends upon:  
+(a) Forward voltage  
+(b) Reverse current  
+(c) Forward current  
+(d) Type of semiconductor  
+ans: d
+
+
+
+Q131. Which one of the following physical quantities does not have the dimensions of force per unit area?  
+(a) Stress  
+(b) Strain  
+(c) Young’s modulus  
+(d) Pressure  
+ans: b
+
+
+
+Q132. The bulk properties of materials, such as their mode of fracture, can be related to their  
+(a) Polymerization  
+(b) Cleavage  
+(c) Microstructure  
+(d) Dislocation  
+ans: c
+
+
+
+Q133. The bonding in an inert gas crystal is due to  
+(a) Metallic binding  
+(b) Covalent bonding  
+(c) Ionic binding  
+(d) Van der Waals binding  
+ans: d
+
+
+
+Q134. A certain transistor has a collector current of 10 mA and a base current of 40 μA. What is the current gain of the transistor?  
+(a) 150  
+(b) 250  
+(c) 300  
+(d) None  
+ans: b
+
+
+
+Q135. In a full-wave rectifier with input frequency 50 Hz, the ripple in the output is mainly of the frequency (in Hz):  
+(a) 25  
+(b) 50  
+(c) 100  
+(d) None  
+ans: c
+
+
+
+Q136. If an atom exists in the excited state n = 5, the maximum number of transitions that can take place is:  
+(a) 6  
+(b) 4  
+(c) 10  
+(d) 3  
+ans: c
+
+
+
+Q137. In a common base amplifier, the phase difference between the input signal voltage and output voltage is  
+(a) π  
+(b) π/4  
+(c) π/2  
+(d) 0  
+ans: d
+
+
+
+Q138. If we consider electrons and photons of the same wavelength, then they will have the same  
+(a) Velocity  
+(b) Angular momentum  
+(c) Energy  
+(d) Momentum  
+ans: d
+
+
+
+Q139. The situation in which the excited state (i.e., metastable state) contains more number of electrons than the ground is called:  
+(a) Ionized state  
+(b) Stimulation  
+(c) Population inversion  
+(d) All of these  
+ans: c
+
+
+
+Q140. The minimum energy in electron volts required to strip off a ten-times ionized sodium atom (i.e., Z = 11) of its last electron is:  
+(a) 13.6 MeV  
+(b) 13.6 × 11 eV  
+(c) 13.6 × 11² eV  
+(d) 13.6 × 11³ eV  
+ans: c
+
+
+
+Q141. Diameter of an atom is in the range of  
+(a) 0.2 m  
+(b) 0.2 nm  
+(c) 2 × 10⁻¹⁰ nm  
+(d) 0.2 pm  
+ans: b
+
+
+
+Q142. ΔH neutralization is always  
+(a) Positive  
+(b) Negative  
+(c) 0  
+(d) Positive or negative  
+ans: b
+
+
+
+Q143. The reaction is spontaneous if the cell potential is  
+(a) Positive  
+(b) Negative  
+(c) 0  
+(d) Infinite  
+ans: a
+
+
+
+Q144. Mechanical work is especially important in systems that contain  
+(a) Solid–liquid  
+(b) Liquid–liquid  
+(c) Solid–solid  
+(d) Gases  
+ans: d
+
+
+
+Q145. Which one has the same number of electrons, protons, and neutrons?  
+(a) N₂ and CO  
+(b) H₂ and O₂  
+(c) N₂ and CO₂  
+(d) H₂O and H₂S  
+ans: a
+
+
+
+Q146. Which of the following is not correct?  
+(a) Dissolution of NH₄Cl in excess water is an endothermic process  
+(b) Neutralization is always exothermic  
+(c) The absolute value of enthalpy (H) can be determined experimentally  
+(d) The heat of reaction at constant volume is denoted by ΔE  
+ans: c
+
+
+
+Q147. Which of the following aqueous solutions will be basic?  
+(a) NaCl  
+(b) Na₂SO₄  
+(c) Na₂CO₃  
+(d) FeCl₃  
+ans: c
+
+
+
+Q148. At the start of a reaction, concentration of reactants is on the  
+(a) Higher side  
+(b) Lower side  
+(c) Optimum side  
+(d) Constant  
+ans: a
+
+
+
+Q149. The idea of pH and pOH was put forward by  
+(a) Gibbs  
+(b) Einstein  
+(c) Sorenson  
+(d) Chadwick  
+ans: c
+
+
+
+Q150. The relative atomic mass of chlorine is 35.5. What is the mass of 2 moles of chlorine gas?  
+(a) 142 g  
+(b) 35.5 g  
+(c) 71 g  
+(d) 18.75 g  
+ans: a
+
+
+
+Q151. Which of the following factors will favor the reverse reaction in a chemical equilibrium?  
+(a) Increase in concentration of one of the reactants  
+(b) Increase in concentration of one of the products  
+(c) Removal of one of the products regularly  
+(d) None of these  
+ans: b
+
+
+
+Q152. Hydrogen gas and iodine vapors combine to form HI at 425°C. The same composition of mixture is present if we start with decomposition of HI. It suggests  
+(a) Law of mass action  
+(b) A static equilibrium  
+(c) Irreversible reaction  
+(d) A dynamic equilibrium  
+ans: d
+
+
+
+Q153. Rate expression for NH₃ synthesis is:  
+(a) Kc = X²/(a−x)(b−x)  
+(b) Kc = X²/v(a−x)  
+(c) Kc = 4X²/v(a−x)  
+(d) Kc = 4X²v²/(a−x)(b−3x)³  
+ans: d
+
+
+
+Q154. AgCl dissolved with concentration (Z × 10⁻²). Ksp will be:  
+(a) 3.6 × 10⁻⁶  
+(b) 3.6 × 10⁻⁵  
+(c) 7.2 × 10⁻⁶  
+(d) None  
+ans: d
+
+
+
+Q155. Isotopes differ in the  
+(a) Number of atoms  
+(b) Number of neutrons  
+(c) Number of protons  
+(d) Number of electrons  
+ans: b
+
+
+
+Q156. Which of the following will not change the concentration of ammonia in the equilibrium?  
+N₂(g) + 3H₂ ⇌ 2NH₃ ΔH = −x kJ  
+(a) Increase of pressure  
+(b) Increase of temperature  
+(c) Decrease of volume  
+(d) Addition of catalyst  
+ans: d
+
+
+
+Q157. According to Le Chatelier’s principle, adding heat to a solid–liquid equilibrium will cause the  
+(a) Amount of solid to decrease  
+(b) Amount of liquid to decrease  
+(c) Temperature to rise  
+(d) Temperature to fall  
+ans: a
+
+
+
+Q158. In a reaction A + B ⇌ C + D, the initial concentrations of A and B were 0.9 mol/dm³ each. At equilibrium, the concentration of D was found to be 0.6 mol/dm³. What is the value of the equilibrium constant for the reaction?  
+(a) 8  
+(b) 9  
+(c) 4  
+(d) 3  
+ans: c
+
+
+
+Q159. One mole of compound AB reacts with one mole of compound CD according to the equation:  
+AB(g) + CD(g) ⇌ AD(g) + CB(g)  
+When equilibrium had been established, it was found that ¾ mole each of reactants AB and CD had been converted to AD and CB. There is no change in volume. The equilibrium constant for the reaction is:  
+(a) 9/16  
+(b) 1/9  
+(c) 16/9  
+(d) 9  
+ans: d
+
+
+
+Q160. For most chemical reactions, the rate of reaction  
+(a) Increases as the reaction proceeds  
+(b) Decreases as the reaction proceeds  
+(c) May increase or decrease during reaction  
+(d) Remains constant as the reaction proceeds  
+ans: b
+

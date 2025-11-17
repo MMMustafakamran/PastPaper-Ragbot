@@ -1,0 +1,340 @@
+FAST Past Paper 2
+=================
+
+1. If the ratio of AB to BC is 4:9, what is the area of Parallelogram ABCD?
+(a) 36
+(b) 26
+(c) 18
+(d) Cannot be determined
+ans:c
+
+2. When any circle in 2nd Quadrant then what will be the equation of the circle when radius is 5 cm
+(a) x^2 + y^2 + 10x + 10y + 25 = 0
+(b) x^2 + y^2 + 10x - 10y + 25 = 0
+(c) x^2 + y^2 - 10x - 10y + 25 = 0
+(d) x^2 + y^2 - 10x + 10y + 25 = 0
+ans:a
+
+3. If a line contains a point P1 (3, -3) and P2 (-3, 3) then the slope of line is?
+(a) 2
+(b) 1
+(c) -1
+(d) -2
+ans:c
+
+4. If z = (1,2) then z^{-1} = ?
+(a) (0.2, 0.4)
+(b) (-0.2, 0.4)
+(c) (0.2, -0.4)
+(d) (-0.2, -0.4)
+ans:b
+
+5. Z̄ =
+(a) Z̄
+(b) −Z
+(c) Z
+(d) None
+ans:a
+
+6. The multiplicative inverse of 1 – 2i is
+(a) 1/5 + 2/5i
+(b) -1/5 + 2/5i
+(c) 1/5 - 2/5i
+(d) -1/5 - 2/5i
+ans:a
+
+7. Which of the following is not monoid w.r.t. addition?
+(a) Z
+(b) W
+(c) N
+(d) R
+ans:d
+
+8. The middle term is the expansion of (a + b)^12 is
+(a) 13th
+(b) 12th
+(c) 11th
+(d) None
+ans:b
+
+9. If A = {4,3} then P(A) is
+(a) { φ, {4}, {3}, {4,3} }
+(b) { {3}, {4}, {4,3} }
+(c) { φ, {3}, {4}, {4,3} }
+(d) { φ, {3,4} }
+ans:a
+
+10. The set (Q, +)
+(a) Forms a group
+(b) Does not form a group
+(c) Contains not additive identity
+(d) Contain no additive inverse
+ans:c
+
+11. The expansion of (1 – 3x)^3 is valid?
+(a) |x| < 1/3
+(b) |x| < 1/2
+(c) |x| < 2/3
+(d) |x| < 1
+ans:d
+
+13. Power set of X P(X)...... Under the binary operation of union U
+(a) Forms a group
+(b) Does not form a group
+(c) Has no identity
+(d) ∞ Set although X is ∞
+ans:c
+
+14. If A is non-singular matrix then (A⁻¹)⁻¹=?
+(a) A
+(b) −A
+(c) 1
+(d) None
+ans:e
+
+15. Out of 800 boys in a school, 334 played cricket, 240 played hockey and 336 played basketball of the total 64 played both basketball and hockey 80 played cricket and basketball and 40 played cricket and hockey 24 played all the games the number of boys who did not play any game is?
+(a) 40
+(b) 56
+(c) 24
+(d) 50
+ans:e
+
+16. Let the equation ax² - bx + c = 0 have district real roots both lying in the open interval (0, 1) where a, b, c are given to be positive integers then the value of the ordered triplet (a, b, c) can be?
+(a) (5, 3, 1)
+(b) (4, 3, 2)
+(c) (5, 5, 1)
+(d) (6, 4, 1)
+ans:a
+
+17. If A and B are disjoint sets, then A ∩ B is
+(a) A
+(b) B
+(c) Null set
+(d) A ∪ B
+ans:b
+
+18. {1, -1, i, -i} is a group closed under
+(a) Multiplication
+(b) Addition
+(c) Division
+(d) Both A & C
+ans:e
+
+19. If ω is complex cube root of unity then ω⁶ is
+(a) 1
+(b) 0
+(c) ω
+(d) -1
+ans:c
+
+20. One root of 2x² + kx + 16 = 0 is 4 is the other root is
+(a) 2
+(b) 3
+(c) 4
+(d) Cannot be found
+ans:d
+
+21. If A = Aᵀ then matrix A is
+(a) Symmetric
+(b) Screw Symmetric
+(c) Square
+(d) None of these
+ans:a
+
+22. The next term of the following sequence is 1/7, -3/7, 9/7, __________
+(a) -9/7
+(b) -11/7
+(c) 29/7
+(d) -29/7
+ans:d
+
+23. The nth term of the following sequence is 0, 6, 24, 60, ….
+(a) n² − n
+(b) n² − 2n
+(c) n³ − 2n
+(d) n³ − n
+ans:d
+
+24. If the sum of n terms is n² − 3n then its 6th term is
+(a) 6
+(b) 8
+(c) 10
+(d) 12
+ans:b
+
+25. Three arithmetic means between 15 and 7 are
+(a) 13,10,4
+(b) 13,9,11
+(c) 13,11,9
+(d) 13,10,8
+ans:c
+
+26. If the sum of n natural numbers is 325 then n is
+(a) 20
+(b) 30
+(c) 15
+(d) 25
+ans:d
+
+27. The product of (2, 3) and (-2, -3) is
+(a) (5, 12)
+(b) (5, -12)
+(c) (-5, -12)
+(d) (-5, 12)
+ans:b
+
+28. A coin is tossed twice. The probability of getting at least one head is
+(a) 1/2
+(b) 3/4
+(c) 1/4
+(d) 1
+ans:b
+
+29. In the expansion of (x−1/x)^10, the term independent of x is the rth term. Find r?
+(a) 6
+(b) 5
+(c) 7
+(d) 8
+ans:b
+
+30. How many different words can be formed using three letters of the word "TABLE"?
+(a) 15
+(b) 50
+(c) 60
+(d) 120
+ans:c
+
+31. The equation 2x^2+3y^2-4x = 0 represents
+(a) A point
+(b) ellipse
+(c) Parabola
+(d) circle
+ans:b
+
+32. The length of latus rectum of the parabola y^2 + 12x = 0 is
+(a) 12
+(b) -12
+(c) 3
+(d) -3
+ans:a
+
+33. Distance of point (3 . -2) from the line 3x + 4y + 10 = 0 is
+(a) 11/5
+(b) 10
+(c) 11/17
+(d) 2
+ans:a
+
+34. The limit of e^(3x) - 1 / x as x tends to zero is
+(a) 0
+(b) 3
+(c) 2
+(d) 1
+ans:b
+
+35. Second derivative of e^(2x+1) at x = 1 is
+(a) e^3
+(b) 2e^3
+(c) 4e^3
+(d) 5e^3
+ans:c
+
+36. The derivative of secx^2 w.r.t 'x' is
+(a) sec^2x
+(b) sec^2x tanx
+(c) 2x sec x² tanx
+(d) 2 sec tanx
+ans:c
+
+37. The derivative of (x²+1)/x w.r.t 'x' is
+(a) 2
+(b) 1 + 1/x
+(c) 1 − 1/x
+(d) 1 − 1/x²
+ans:d
+
+38. For the curve y = 2x − x², x = 1 is a point of
+(a) Minima
+(b) Maxima
+(c) Inflection
+(d) None
+ans:b
+
+39. If A = {4,5,6,7,8,9,10}, B = {1,2,3,4,5,6} then A − B =
+(a) {7,8,9,10}
+(b) {4,5,6,7}
+(c) {1,2,3,5}
+(d) {1,2,3}
+ans:a
+
+40. ∫ sin x e^(cos x) dx =
+(a) e^(sin x) + C
+(b) e^(cos x) + C
+(c) − e^(cos x) + C
+(d) − e^(sin x) + C
+ans:c
+
+41. The nature of roots of the quadratic equation shown in the diagram is / can
+(a) real and equal.
+(b) real and different.
+(c) not be determined.
+(d) complex and imaginary.
+ans:b
+
+43. The value of k so that difference between the roots of 5x^2 − kx + 1 = 0 is unity, is
+(a) 2√2
+(b) 4√2
+(c) 3√5
+(d) 7√7
+ans:d
+
+44. The nature of the roots of the quadratic equation x^2 − 2 cot θ x − 1 = 0 are
+(
+(a) real and equal
+(b) complex and equal
+(c) real and irrational
+(d) real and rational
+ans:d
+
+45. If a, b, c are odd integers then the quadratic equation ax^2 + bx + c = 0
+(a) cannot have rational roots
+(b) cannot have irrational roots
+(c) have equal roots only
+(d) have complex roots only
+ans:a
+
+46. If 2 + i√3 is a root of the equation x^2 + px + q = 0, where p and q are real numbers then (p, q) is
+(a) (−4, 7)
+(b) (4, −7)
+(c) (−4, −7)
+(d) (4, 7)
+ans:a
+
+47. If one root of a quadratic equation x^2 + bx + c = 0 is (2 + i a) then other root is
+(a) −b + 2 + i + a
+(b) b − 2 − i − a
+(c) b − 2 − i − a
+(d) −b − 2 i − a
+ans:b
+
+48. sin(−248π/11) is equal to
+(a) −1
+(b) 0
+(c) 1
+(d) ∞
+ans:e
+
+49. The value of (3 sin θ + 5 cos φ) / (3 sin θ - 5 cos φ), when value of sin θ = 1/√2 and sin φ = 1/3
+(a) 29/11
+(b) -29/11
+(c) 11/29
+(d) -11/29
+ans:d
+
+50. If tan α = 1/√3 and sin β = 1/2, then tan(α + β) is equal to
+(a) -1
+(b) 1
+(c) 2
+(d) √3
+ans:d
+

@@ -1,0 +1,1963 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Trigonometry",
+    "version": "1.0",
+    "created_date": "2025-11-14",
+    "total_questions": 33,
+    "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Trigonometry"
+  },
+  "questions": [
+    {
+      "question_id": "NET_M_T_Q001",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometric Functions",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "What is the sine inverse of sin(pi/2)?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1"
+        },
+        {
+          "key": "b",
+          "value": "pi/2 radians"
+        },
+        {
+          "key": "c",
+          "value": "90 degrees"
+        },
+        {
+          "key": "d",
+          "value": "Both B and C"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Both B and C",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometric Functions: What is the sine inverse of sin(pi/2)? Options: 1, pi/2 radians, 90 degrees, Both B and C. Correct answer: Both B and C",
+      "metadata": {
+        "keywords": [
+          "trigonometric"
+        ],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "recall",
+        "bloom_level": "L1_Remember"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q004",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometric Functions",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "Evaluate: [sin^-1][3/4]+[sin^-1][sqrt(7)/4]",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "[cos^-1](0)"
+        },
+        {
+          "key": "b",
+          "value": "[sin^-1](1)"
+        },
+        {
+          "key": "c",
+          "value": "[tan^-1](infinity)"
+        },
+        {
+          "key": "d",
+          "value": "All of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "All of these",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometric Functions: Evaluate: [sin^-1][3/4]+[sin^-1][sqrt(7)/4] Options: [cos^-1](0), [sin^-1](1), [tan^-1](infinity), All of these. Correct answer: All of these",
+      "metadata": {
+        "keywords": [
+          "evaluate",
+          "trigonometric"
+        ],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "evaluation",
+        "bloom_level": "L5_Evaluate"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q005",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "How many hours are there in 360 degrees?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "21600"
+        },
+        {
+          "key": "b",
+          "value": "360"
+        },
+        {
+          "key": "c",
+          "value": "60"
+        },
+        {
+          "key": "d",
+          "value": "3.14"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "360",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometry: How many hours are there in 360 degrees? Options: 21600, 360, 60, 3.14. Correct answer: 360",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q018",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometric Functions",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "What is the same as sin(-a)?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "–sin(a)"
+        },
+        {
+          "key": "b",
+          "value": "sin(a)"
+        },
+        {
+          "key": "c",
+          "value": "–tan(a)/sec(a)"
+        },
+        {
+          "key": "d",
+          "value": "Both A and C"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Both A and C",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometric Functions: What is the same as sin(-a)? Options: –sin(a), sin(a), –tan(a)/sec(a), Both A and C. Correct answer: Both A and C",
+      "metadata": {
+        "keywords": [
+          "trigonometric"
+        ],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "recall",
+        "bloom_level": "L1_Remember"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q021",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "If in a triangle, a=200, b=120 and γ=150 degrees, then what is the area of the triangle?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "10932"
+        },
+        {
+          "key": "b",
+          "value": "Impossible to determine"
+        },
+        {
+          "key": "c",
+          "value": "7050"
+        },
+        {
+          "key": "d",
+          "value": "6000"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "6000",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometry: If in a triangle, a=200, b=120 and γ=150 degrees, then what is the area of the triangle? Options: 10932, Impossible to determine, 7050, 6000. Correct answer: 6000",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "recall",
+        "bloom_level": "L1_Remember"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q025",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometric Functions",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "Evaluate: (sin(θ)-1)^2+(sin(θ)+1)^2",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "2[1+[sin^2](θ)]"
+        },
+        {
+          "key": "b",
+          "value": "1+[sin^2](θ)"
+        },
+        {
+          "key": "c",
+          "value": "1"
+        },
+        {
+          "key": "d",
+          "value": "2+(sin^2)(θ)"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "2[1+[sin^2](θ)]",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometric Functions: Evaluate: (sin(θ)-1)^2+(sin(θ)+1)^2 Options: 2[1+[sin^2](θ)], 1+[sin^2](θ), 1, 2+(sin^2)(θ). Correct answer: 2[1+[sin^2](θ)]",
+      "metadata": {
+        "keywords": [
+          "evaluate",
+          "trigonometric"
+        ],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "evaluation",
+        "bloom_level": "L5_Evaluate"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q032",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometric Functions",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "sin (pi/3) is equal to?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "0.866"
+        },
+        {
+          "key": "b",
+          "value": "0.500"
+        },
+        {
+          "key": "c",
+          "value": "0.707"
+        },
+        {
+          "key": "d",
+          "value": "0.966"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "0.866",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometric Functions: sin (pi/3) is equal to? Options: 0.866, 0.500, 0.707, 0.966. Correct answer: 0.866",
+      "metadata": {
+        "keywords": [
+          "trigonometric"
+        ],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q033",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometric Functions",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "What is the formula for tan θ?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "sin θ/cos θ"
+        },
+        {
+          "key": "b",
+          "value": "1/cot θ"
+        },
+        {
+          "key": "c",
+          "value": "tan(180+ θ)"
+        },
+        {
+          "key": "d",
+          "value": "All of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "All of these",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometric Functions: What is the formula for tan θ? Options: sin θ/cos θ, 1/cot θ, tan(180+ θ), All of these. Correct answer: All of these",
+      "metadata": {
+        "keywords": [
+          "formula",
+          "trigonometric"
+        ],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "recall",
+        "bloom_level": "L1_Remember"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q034",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometric Functions",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "What is the formula for cos 2θ?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "[1-[tan^2](θ)]/[1+[tan^2](θ)]"
+        },
+        {
+          "key": "b",
+          "value": "1-2sin^2(θ)"
+        },
+        {
+          "key": "c",
+          "value": "Both A and B"
+        },
+        {
+          "key": "d",
+          "value": "None of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Both A and B",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometric Functions: What is the formula for cos 2θ? Options: [1-[tan^2](θ)]/[1+[tan^2](θ)], 1-2sin^2(θ), Both A and B, None of these. Correct answer: Both A and B",
+      "metadata": {
+        "keywords": [
+          "formula",
+          "trigonometric"
+        ],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "recall",
+        "bloom_level": "L1_Remember"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q035",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometric Functions",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "Evaluate: cos θ+tan θ*sin θ",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "sec θ"
+        },
+        {
+          "key": "b",
+          "value": "1/cos θ"
+        },
+        {
+          "key": "c",
+          "value": "sqrt[1-sin^2(θ)]"
+        },
+        {
+          "key": "d",
+          "value": "All of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "All of these",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometric Functions: Evaluate: cos θ+tan θ*sin θ Options: sec θ, 1/cos θ, sqrt[1-sin^2(θ)], All of these. Correct answer: All of these",
+      "metadata": {
+        "keywords": [
+          "evaluate",
+          "trigonometric"
+        ],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "evaluation",
+        "bloom_level": "L5_Evaluate"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q037",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometric Functions",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "What is the cosine inverse of cos(0.5)?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1/6"
+        },
+        {
+          "key": "b",
+          "value": "1/2"
+        },
+        {
+          "key": "c",
+          "value": "1/3"
+        },
+        {
+          "key": "d",
+          "value": "1/4"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "1/2",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometric Functions: What is the cosine inverse of cos(0.5)? Options: 1/6, 1/2, 1/3, 1/4. Correct answer: 1/2",
+      "metadata": {
+        "keywords": [
+          "trigonometric"
+        ],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "recall",
+        "bloom_level": "L1_Remember"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q040",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometric Functions",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "When both nappes of a double-napped cone are intersected by a plane (not passing through the vertex), the cross section produces a/an:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Hyperbola"
+        },
+        {
+          "key": "b",
+          "value": "Circle"
+        },
+        {
+          "key": "c",
+          "value": "Ellipse"
+        },
+        {
+          "key": "d",
+          "value": "Parabola"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Hyperbola",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometric Functions: When both nappes of a double-napped cone are intersected by a plane (not passing through the vertex), the cross section produces a/an: Options: Hyperbola, Circle, Ellipse, Parabola. Correct answer: Hyperbola",
+      "metadata": {
+        "keywords": [
+          "trigonometric"
+        ],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q041",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometric Functions",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "Find the value of cos[(tan^-1)(-1)].",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "0.766"
+        },
+        {
+          "key": "b",
+          "value": "0.707"
+        },
+        {
+          "key": "c",
+          "value": "0.500"
+        },
+        {
+          "key": "d",
+          "value": "0.087"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "0.707",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometric Functions: Find the value of cos[(tan^-1)(-1)]. Options: 0.766, 0.707, 0.500, 0.087. Correct answer: 0.707",
+      "metadata": {
+        "keywords": [
+          "find",
+          "trigonometric"
+        ],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q042",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometric Functions",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "Evaluate: tan (θ/2)",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "sqrt[(1-cos θ)/(1+cos θ)]"
+        },
+        {
+          "key": "b",
+          "value": "1/cot (θ/2)"
+        },
+        {
+          "key": "c",
+          "value": "tan(180+θ/2)"
+        },
+        {
+          "key": "d",
+          "value": "All of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "All of these",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometric Functions: Evaluate: tan (θ/2) Options: sqrt[(1-cos θ)/(1+cos θ)], 1/cot (θ/2), tan(180+θ/2), All of these. Correct answer: All of these",
+      "metadata": {
+        "keywords": [
+          "evaluate",
+          "trigonometric"
+        ],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "evaluation",
+        "bloom_level": "L5_Evaluate"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q043",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometric Functions",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "Evaluate: [tan^-1][1/sqrt(3)]",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "pi/6 radians"
+        },
+        {
+          "key": "b",
+          "value": "pi/3 radians"
+        },
+        {
+          "key": "c",
+          "value": "13pi/6 radians"
+        },
+        {
+          "key": "d",
+          "value": "Both A and C"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Both A and C",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometric Functions: Evaluate: [tan^-1][1/sqrt(3)] Options: pi/6 radians, pi/3 radians, 13pi/6 radians, Both A and C. Correct answer: Both A and C",
+      "metadata": {
+        "keywords": [
+          "evaluate",
+          "trigonometric"
+        ],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "evaluation",
+        "bloom_level": "L5_Evaluate"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q044",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometric Functions",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Find the distance AB between the two points: A(3,1) and B(-2,-4).",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "sqrt(50)"
+        },
+        {
+          "key": "b",
+          "value": "sqrt(26)"
+        },
+        {
+          "key": "c",
+          "value": "sqrt(34)"
+        },
+        {
+          "key": "d",
+          "value": "sqrt(10)"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "sqrt(50)",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometric Functions: Find the distance AB between the two points: A(3,1) and B(-2,-4). Options: sqrt(50), sqrt(26), sqrt(34), sqrt(10). Correct answer: sqrt(50)",
+      "metadata": {
+        "keywords": [
+          "find",
+          "trigonometric"
+        ],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q049",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometric Functions",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "30 degrees, 45 minutes and 47 seconds are equal to _____ degrees:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "30.56"
+        },
+        {
+          "key": "b",
+          "value": "30.66"
+        },
+        {
+          "key": "c",
+          "value": "30.67"
+        },
+        {
+          "key": "d",
+          "value": "30.86"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "30.86",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometric Functions: 30 degrees, 45 minutes and 47 seconds are equal to _____ degrees: Options: 30.56, 30.66, 30.67, 30.86. Correct answer: 30.86",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q058",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "How many radians are there in a degree?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "0.07145"
+        },
+        {
+          "key": "b",
+          "value": "0.06250"
+        },
+        {
+          "key": "c",
+          "value": "0.06145"
+        },
+        {
+          "key": "d",
+          "value": "0.07135"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "0.07145",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometry: How many radians are there in a degree? Options: 0.07145, 0.06250, 0.06145, 0.07135. Correct answer: 0.07145",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q064",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometric Functions",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "If the sum of two consecutive integers is 'x', then what is the product of them?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "(x^2-1)/4"
+        },
+        {
+          "key": "b",
+          "value": "(x^2-1)/2"
+        },
+        {
+          "key": "c",
+          "value": "x^2-1"
+        },
+        {
+          "key": "d",
+          "value": "None of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "(x^2-1)/4",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometric Functions: If the sum of two consecutive integers is 'x', then what is the product of them? Options: (x^2-1)/4, (x^2-1)/2, x^2-1, None of these. Correct answer: (x^2-1)/4",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "recall",
+        "bloom_level": "L1_Remember"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q066",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometric Functions",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Differentiate 'sin 2x' with respect to x.",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "2cos 2x"
+        },
+        {
+          "key": "b",
+          "value": "2sin 2x"
+        },
+        {
+          "key": "c",
+          "value": "2[1-2[sin^2](x)]"
+        },
+        {
+          "key": "d",
+          "value": "Both A and C"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Both A and C",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometric Functions: Differentiate 'sin 2x' with respect to x. Options: 2cos 2x, 2sin 2x, 2[1-2[sin^2](x)], Both A and C. Correct answer: Both A and C",
+      "metadata": {
+        "keywords": [
+          "trigonometric"
+        ],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q071",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometric Functions",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "Evaluate: cos x * sin x * tan x * cot x * csc x",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "cos x"
+        },
+        {
+          "key": "b",
+          "value": "1/sec x"
+        },
+        {
+          "key": "c",
+          "value": "Both A and B"
+        },
+        {
+          "key": "d",
+          "value": "sin x"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Both A and B",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometric Functions: Evaluate: cos x * sin x * tan x * cot x * csc x Options: cos x, 1/sec x, Both A and B, sin x. Correct answer: Both A and B",
+      "metadata": {
+        "keywords": [
+          "evaluate",
+          "trigonometric"
+        ],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "evaluation",
+        "bloom_level": "L5_Evaluate"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q080",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometric Functions",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "Evaluate: cos(-θ)*cos(-θ)*[-cos(θ)]*cos(θ)*[-cos(-θ)]",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "[cos^5](θ)"
+        },
+        {
+          "key": "b",
+          "value": "-[cos^5](θ)"
+        },
+        {
+          "key": "c",
+          "value": "[cos^3](θ)"
+        },
+        {
+          "key": "d",
+          "value": "cos (θ)"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "[cos^5](θ)",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometric Functions: Evaluate: cos(-θ)*cos(-θ)*[-cos(θ)]*cos(θ)*[-cos(-θ)] Options: [cos^5](θ), -[cos^5](θ), [cos^3](θ), cos (θ). Correct answer: [cos^5](θ)",
+      "metadata": {
+        "keywords": [
+          "evaluate",
+          "trigonometric"
+        ],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "evaluation",
+        "bloom_level": "L5_Evaluate"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q081",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometric Functions",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "Evaluate: [sin^-1][3/5]",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "[cos^-1][4/5]"
+        },
+        {
+          "key": "b",
+          "value": "[sec^-1][5/4]"
+        },
+        {
+          "key": "c",
+          "value": "[csc^-1][5/3]"
+        },
+        {
+          "key": "d",
+          "value": "All of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "All of these",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometric Functions: Evaluate: [sin^-1][3/5] Options: [cos^-1][4/5], [sec^-1][5/4], [csc^-1][5/3], All of these. Correct answer: All of these",
+      "metadata": {
+        "keywords": [
+          "evaluate",
+          "trigonometric"
+        ],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "evaluation",
+        "bloom_level": "L5_Evaluate"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q082",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometric Functions",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "What is the period of sin 3x?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "(2*pi)/3"
+        },
+        {
+          "key": "b",
+          "value": "2*pi"
+        },
+        {
+          "key": "c",
+          "value": "3*pi"
+        },
+        {
+          "key": "d",
+          "value": "(3*pi)/2"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "(2*pi)/3",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometric Functions: What is the period of sin 3x? Options: (2*pi)/3, 2*pi, 3*pi, (3*pi)/2. Correct answer: (2*pi)/3",
+      "metadata": {
+        "keywords": [
+          "trigonometric"
+        ],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "recall",
+        "bloom_level": "L1_Remember"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q083",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometric Functions",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "What is the formula of cos 3α?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "cos 2α*cos α"
+        },
+        {
+          "key": "b",
+          "value": "4[cos^3](α)-3cos α"
+        },
+        {
+          "key": "c",
+          "value": "(1+cos α)/sin α"
+        },
+        {
+          "key": "d",
+          "value": "Both A and C"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "4[cos^3](α)-3cos α",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometric Functions: What is the formula of cos 3α? Options: cos 2α*cos α, 4[cos^3](α)-3cos α, (1+cos α)/sin α, Both A and C. Correct answer: 4[cos^3](α)-3cos α",
+      "metadata": {
+        "keywords": [
+          "formula",
+          "trigonometric"
+        ],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "recall",
+        "bloom_level": "L1_Remember"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q086",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometric Functions",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "If two coordinates of a rectangle are present in the first quadrant, then which one of the following coordinates is NOT to be of that rectangle?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "(2, 8)"
+        },
+        {
+          "key": "b",
+          "value": "(2, -8)"
+        },
+        {
+          "key": "c",
+          "value": "(8, -2)"
+        },
+        {
+          "key": "d",
+          "value": "(-2, -8)"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "(-2, -8)",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometric Functions: If two coordinates of a rectangle are present in the first quadrant, then which one of the following coordinates is NOT to be of that rectangle? Options: (2, 8), (2, -8), (8, -2), (-2, -8). Correct answer: (-2, -8)",
+      "metadata": {
+        "keywords": [
+          "trigonometric"
+        ],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q088",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometric Functions",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "What is the cosine inverse of cos(-1/2)?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "-1/2"
+        },
+        {
+          "key": "b",
+          "value": "1/2"
+        },
+        {
+          "key": "c",
+          "value": "1/4"
+        },
+        {
+          "key": "d",
+          "value": "(2*pi)/3 radians"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "-1/2",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometric Functions: What is the cosine inverse of cos(-1/2)? Options: -1/2, 1/2, 1/4, (2*pi)/3 radians. Correct answer: -1/2",
+      "metadata": {
+        "keywords": [
+          "trigonometric"
+        ],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "recall",
+        "bloom_level": "L1_Remember"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q091",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometric Functions",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "If cos θ = 1, then what is the possible value of θ?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "0 degrees"
+        },
+        {
+          "key": "b",
+          "value": "360 degrees"
+        },
+        {
+          "key": "c",
+          "value": "720 degrees"
+        },
+        {
+          "key": "d",
+          "value": "All of these are possible"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "All of these are possible",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometric Functions: If cos θ = 1, then what is the possible value of θ? Options: 0 degrees, 360 degrees, 720 degrees, All of these are possible. Correct answer: All of these are possible",
+      "metadata": {
+        "keywords": [
+          "trigonometric"
+        ],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "recall",
+        "bloom_level": "L1_Remember"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q093",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometric Functions",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Every homogenous second degree equation ax^2+2hxy+by^2 represents a pair of lines through the origin. When are these lines coincident?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "(a*b) < h^2"
+        },
+        {
+          "key": "b",
+          "value": "h^2 = 0"
+        },
+        {
+          "key": "c",
+          "value": "h^2 < (a*b)"
+        },
+        {
+          "key": "d",
+          "value": "h^2 = a*b"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "h^2 = a*b",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometric Functions: Every homogenous second degree equation ax^2+2hxy+by^2 represents a pair of lines through the origin. When are these lines coincident? Options: (a*b) < h^2, h^2 = 0, h^2 < (a*b), h^2 = a*b. Correct answer: h^2 = a*b",
+      "metadata": {
+        "keywords": [
+          "equation",
+          "polynomial"
+        ],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q095",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometric Functions",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "Simplify: (1+tan x)/(1-tan x)",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "tan(45+x)"
+        },
+        {
+          "key": "b",
+          "value": "Can't be further simplified"
+        },
+        {
+          "key": "c",
+          "value": "tan(45-x)"
+        },
+        {
+          "key": "d",
+          "value": "tan(x+1)"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "tan(45+x)",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometric Functions: Simplify: (1+tan x)/(1-tan x) Options: tan(45+x), Can't be further simplified, tan(45-x), tan(x+1). Correct answer: tan(45+x)",
+      "metadata": {
+        "keywords": [
+          "trigonometric"
+        ],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q096",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "If in a triangle, α=49 degrees, b=5 inches and c=7 inches, then what is the length of 'a'?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "5.29"
+        },
+        {
+          "key": "b",
+          "value": "7.31"
+        },
+        {
+          "key": "c",
+          "value": "12.07"
+        },
+        {
+          "key": "d",
+          "value": "9.65"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "5.29",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometry: If in a triangle, α=49 degrees, b=5 inches and c=7 inches, then what is the length of 'a'? Options: 5.29, 7.31, 12.07, 9.65. Correct answer: 5.29",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "recall",
+        "bloom_level": "L1_Remember"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q098",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometric Functions",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Differentiate tan[sqrt(x)] with respect to 'x'.",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "[sec^2][x]/[2sqrt(x)]"
+        },
+        {
+          "key": "b",
+          "value": "[sec^2][sqrt(x)]/[2sqrt(x)]"
+        },
+        {
+          "key": "c",
+          "value": "[sec^2][sqrt(x)]/[2sqrt(x)]"
+        },
+        {
+          "key": "d",
+          "value": "None of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "[sec^2][sqrt(x)]/[2sqrt(x)]",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometric Functions: Differentiate tan[sqrt(x)] with respect to 'x'. Options: [sec^2][x]/[2sqrt(x)], [sec^2][sqrt(x)]/[2sqrt(x)], [sec^2][sqrt(x)]/[2sqrt(x)], None of these. Correct answer: [sec^2][sqrt(x)]/[2sqrt(x)]",
+      "metadata": {
+        "keywords": [
+          "trigonometric"
+        ],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_T_Q099",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometric Functions",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Which one of the following is the same as sin (75)?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "[sqrt(3)+1]/sqrt(8)"
+        },
+        {
+          "key": "b",
+          "value": "It is impossible to determine"
+        },
+        {
+          "key": "c",
+          "value": "[sqrt(3)-1]/sqrt(8)"
+        },
+        {
+          "key": "d",
+          "value": "[sqrt(3)+1]/8"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "[sqrt(3)+1]/sqrt(8)",
+        "explanation": ""
+      },
+      "embedding_text": "Trigonometry - Trigonometric Functions: Which one of the following is the same as sin (75)? Options: [sqrt(3)+1]/sqrt(8), It is impossible to determine, [sqrt(3)-1]/sqrt(8), [sqrt(3)+1]/8. Correct answer: [sqrt(3)+1]/sqrt(8)",
+      "metadata": {
+        "keywords": [
+          "trigonometric"
+        ],
+        "related_concepts": [
+          "trigonometric identities",
+          "angle measurement",
+          "periodic functions"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

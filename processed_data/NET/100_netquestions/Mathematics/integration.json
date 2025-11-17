@@ -1,0 +1,74 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Integration",
+    "version": "1.0",
+    "created_date": "2025-11-14",
+    "total_questions": 1,
+    "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Integration"
+  },
+  "questions": [
+    {
+      "question_id": "NET_M_I_Q085",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Integration",
+        "sub_topic": "Integration",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Find the integral with respect to x: e^x/(e^x+1)",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "ln |e^x+1|+c"
+        },
+        {
+          "key": "b",
+          "value": "ln |e^x|+c"
+        },
+        {
+          "key": "c",
+          "value": "Impossible to determine"
+        },
+        {
+          "key": "d",
+          "value": "e^x+c"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "ln |e^x+1|+c",
+        "explanation": ""
+      },
+      "embedding_text": "Integration - Integration: Find the integral with respect to x: e^x/(e^x+1) Options: ln |e^x+1|+c, ln |e^x|+c, Impossible to determine, e^x+c. Correct answer: ln |e^x+1|+c",
+      "metadata": {
+        "keywords": [
+          "integral",
+          "find"
+        ],
+        "related_concepts": [
+          "antiderivatives",
+          "area calculation",
+          "integration techniques"
+        ],
+        "prerequisites": [
+          "integration"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

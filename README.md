@@ -1,5 +1,5 @@
 # Past Papers Parsing Pipeline
-
+python main.py process
 A modular data extraction pipeline for converting exam past papers (PDFs) into structured JSON format for RAG (Retrieval Augmented Generation) applications.
 
 ## 🎯 Goal

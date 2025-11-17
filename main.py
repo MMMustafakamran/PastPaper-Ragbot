@@ -33,9 +33,9 @@ def process_all():
     print("[1/2] Processing FAST papers...")
     try:
         process_fast_papers()
-        print("✓ FAST papers processed")
+        print("[OK] FAST papers processed")
     except Exception as e:
-        print(f"⚠ FAST processing error: {e}")
+        print(f"[WARNING] FAST processing error: {e}")
     
     print()
     
@@ -48,7 +48,7 @@ def process_all():
     processor.process_directory("data/Standard_text")
     
     print("\n" + "="*60)
-    print("✅ Processing complete!")
+    print("[SUCCESS] Processing complete!")
     print("="*60)
 
 def print_help():

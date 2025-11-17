@@ -1,0 +1,179 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Complex Numbers",
+    "version": "1.0",
+    "created_date": "2025-11-14",
+    "total_questions": 3,
+    "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Complex Numbers"
+  },
+  "questions": [
+    {
+      "question_id": "NET_M_CN_Q010",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Complex Numbers",
+        "sub_topic": "Complex Numbers",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "What is the real component of the complex number (4-i)^2?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "-8"
+        },
+        {
+          "key": "b",
+          "value": "17"
+        },
+        {
+          "key": "c",
+          "value": "15"
+        },
+        {
+          "key": "d",
+          "value": "Missing information"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "15",
+        "explanation": ""
+      },
+      "embedding_text": "Complex Numbers - Complex Numbers: What is the real component of the complex number (4-i)^2? Options: -8, 17, 15, Missing information. Correct answer: 15",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "complex numbers"
+        ],
+        "prerequisites": [
+          "complex numbers"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "recall",
+        "bloom_level": "L1_Remember"
+      }
+    },
+    {
+      "question_id": "NET_M_CN_Q027",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Complex Numbers",
+        "sub_topic": "Complex Numbers",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Iota expressed in the form of coordinates is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "(0,1)"
+        },
+        {
+          "key": "b",
+          "value": "(1,0)"
+        },
+        {
+          "key": "c",
+          "value": "(0,0)"
+        },
+        {
+          "key": "d",
+          "value": "It is impossible to express a complex number in the form of coordinates"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "(0,1)",
+        "explanation": ""
+      },
+      "embedding_text": "Complex Numbers - Complex Numbers: Iota expressed in the form of coordinates is: Options: (0,1), (1,0), (0,0), It is impossible to express a complex number in the form of coordinates. Correct answer: (0,1)",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "complex numbers"
+        ],
+        "prerequisites": [
+          "complex numbers"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_CN_Q094",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Complex Numbers",
+        "sub_topic": "Complex Numbers",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Which one of the following is the real part of the complex number: 6(2-3i)?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "2"
+        },
+        {
+          "key": "b",
+          "value": "12"
+        },
+        {
+          "key": "c",
+          "value": "-3"
+        },
+        {
+          "key": "d",
+          "value": "6"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "12",
+        "explanation": ""
+      },
+      "embedding_text": "Complex Numbers - Complex Numbers: Which one of the following is the real part of the complex number: 6(2-3i)? Options: 2, 12, -3, 6. Correct answer: 12",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "complex numbers"
+        ],
+        "prerequisites": [
+          "complex numbers"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

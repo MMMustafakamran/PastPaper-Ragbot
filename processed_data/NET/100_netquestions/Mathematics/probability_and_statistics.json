@@ -1,0 +1,183 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Probability and Statistics",
+    "version": "1.0",
+    "created_date": "2025-11-14",
+    "total_questions": 3,
+    "source_file": "NET-Mathematics-100-MCQs(2)(1).doc.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Probability and Statistics"
+  },
+  "questions": [
+    {
+      "question_id": "NET_M_PA_Q038",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Probability and Statistics",
+        "sub_topic": "Probability and Statistics",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Probability of any event cannot have the value of:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1/5"
+        },
+        {
+          "key": "b",
+          "value": "1/8"
+        },
+        {
+          "key": "c",
+          "value": "1/2"
+        },
+        {
+          "key": "d",
+          "value": "3/2"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "3/2",
+        "explanation": ""
+      },
+      "embedding_text": "Probability and Statistics - Probability and Statistics: Probability of any event cannot have the value of: Options: 1/5, 1/8, 1/2, 3/2. Correct answer: 3/2",
+      "metadata": {
+        "keywords": [
+          "probability"
+        ],
+        "related_concepts": [
+          "probability and statistics"
+        ],
+        "prerequisites": [
+          "probability and statistics"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_M_PA_Q050",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Probability and Statistics",
+        "sub_topic": "Probability and Statistics",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "Tickets numbered 1 to 20 are mixed up and then a ticket is drawn at random. What is the probability that the ticket drawn has a number which is a multiple of 3 or 5?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1/2"
+        },
+        {
+          "key": "b",
+          "value": "2/5"
+        },
+        {
+          "key": "c",
+          "value": "8/15"
+        },
+        {
+          "key": "d",
+          "value": "9/20"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "9/20",
+        "explanation": ""
+      },
+      "embedding_text": "Probability and Statistics - Probability and Statistics: Tickets numbered 1 to 20 are mixed up and then a ticket is drawn at random. What is the probability that the ticket drawn has a number which is a multiple of 3 or 5? Options: 1/2, 2/5, 8/15, 9/20. Correct answer: 9/20",
+      "metadata": {
+        "keywords": [
+          "probability"
+        ],
+        "related_concepts": [
+          "probability and statistics"
+        ],
+        "prerequisites": [
+          "probability and statistics"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "recall",
+        "bloom_level": "L1_Remember"
+      }
+    },
+    {
+      "question_id": "NET_M_PA_Q061",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NET-Mathematics-100-MCQs(2)(1).doc",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Probability and Statistics",
+        "sub_topic": "Probability and Statistics",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "In a right-angled triangle, if a median drawn from the right angle to the hypotenuse has a length of 6 meters, then what is the length of the hypotenuse?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "12 meters"
+        },
+        {
+          "key": "b",
+          "value": "6 meters"
+        },
+        {
+          "key": "c",
+          "value": "3 meters"
+        },
+        {
+          "key": "d",
+          "value": "36 meters"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "12 meters",
+        "explanation": ""
+      },
+      "embedding_text": "Probability and Statistics - Probability and Statistics: In a right-angled triangle, if a median drawn from the right angle to the hypotenuse has a length of 6 meters, then what is the length of the hypotenuse? Options: 12 meters, 6 meters, 3 meters, 36 meters. Correct answer: 12 meters",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "probability and statistics"
+        ],
+        "prerequisites": [
+          "probability and statistics"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "recall",
+        "bloom_level": "L1_Remember"
+      }
+    }
+  ]
+}
