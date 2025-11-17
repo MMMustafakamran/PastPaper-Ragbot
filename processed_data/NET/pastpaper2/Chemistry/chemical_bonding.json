@@ -1,0 +1,69 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Chemistry - Chemical Bonding",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 1,
+    "source_file": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Chemistry",
+    "main_topic": "Chemical Bonding"
+  },
+  "questions": [
+    {
+      "question_id": "NET_CHE_CHEMICAL_BONDING_Q154",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Chemical Bonding",
+        "sub_topic": "Chemical Bonding",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The presence of common ions ___ the solubility of a slightly soluble ionic compound.",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Decreases"
+        },
+        {
+          "key": "b",
+          "value": "Increases"
+        },
+        {
+          "key": "c",
+          "value": "Neither decrease nor increase"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Decreases",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Chemical Bonding: The presence of common ions ___ the solubility of a slightly soluble ionic compound. Options: Decreases, Increases, Neither decrease nor increase, None. Correct answer: Decreases",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "chemical bonding"
+        ],
+        "prerequisites": [
+          "chemical bonding"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Analytical Geometry",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 4,
+    "source_file": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Analytical Geometry"
+  },
+  "questions": [
+    {
+      "question_id": "NET_MAT_ANALYTICAL_GEOMETRY_Q009",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Analytical Geometry",
+        "sub_topic": "Analytical Geometry",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Let P be the midpoint of a chord joining the vertex of the parabola y² = 8x to another point on it. Then the locus of P is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "y = 2x"
+        },
+        {
+          "key": "b",
+          "value": "y² = 4x"
+        },
+        {
+          "key": "c",
+          "value": "x²/4 + y² = 1"
+        },
+        {
+          "key": "d",
+          "value": "x² + y²/4 = 1"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "y² = 4x",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Analytical Geometry: Let P be the midpoint of a chord joining the vertex of the parabola y² = 8x to another point on it. Then the locus of P is Options: y = 2x, y² = 4x, x²/4 + y² = 1, x² + y²/4 = 1. Correct answer: y² = 4x",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "analytical geometry"
+        ],
+        "prerequisites": [
+          "analytical geometry"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_ANALYTICAL_GEOMETRY_Q015",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Analytical Geometry",
+        "sub_topic": "Analytical Geometry",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "If a straight line passes through the point (α,β) and the portion of the line intercepted between the axes is divided equally at the point, then x/a + y/b is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "0"
+        },
+        {
+          "key": "b",
+          "value": "1"
+        },
+        {
+          "key": "c",
+          "value": "2"
+        },
+        {
+          "key": "d",
+          "value": "4"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "1",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Analytical Geometry: If a straight line passes through the point (α,β) and the portion of the line intercepted between the axes is divided equally at the point, then x/a + y/b is Options: 0, 1, 2, 4. Correct answer: 1",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "analytical geometry"
+        ],
+        "prerequisites": [
+          "analytical geometry"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_ANALYTICAL_GEOMETRY_Q032",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Analytical Geometry",
+        "sub_topic": "Analytical Geometry",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "If four distinct points (2k, 3k), (2, 0), (0, 3), (0, 0) lie on a circle, then",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "K < 0"
+        },
+        {
+          "key": "b",
+          "value": "0 < K < 1"
+        },
+        {
+          "key": "c",
+          "value": "K = 1"
+        },
+        {
+          "key": "d",
+          "value": "K > 1"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "K = 1",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Analytical Geometry: If four distinct points (2k, 3k), (2, 0), (0, 3), (0, 0) lie on a circle, then Options: K < 0, 0 < K < 1, K = 1, K > 1. Correct answer: K = 1",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "analytical geometry"
+        ],
+        "prerequisites": [
+          "analytical geometry"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_ANALYTICAL_GEOMETRY_Q071",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Analytical Geometry",
+        "sub_topic": "Analytical Geometry",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The system of linear equations λx + y + z = 3, x - y - 2z = 6, -x + y + z = μ",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Infinite number of solutions for λ ≠ -1 and all μ"
+        },
+        {
+          "key": "b",
+          "value": "Infinite number of solutions for λ = -1 and μ = 3"
+        },
+        {
+          "key": "c",
+          "value": "No solution for λ ≠ -1"
+        },
+        {
+          "key": "d",
+          "value": "Unique solution for λ = -1 and all μ = 3"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Infinite number of solutions for λ = -1 and μ = 3",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Analytical Geometry: The system of linear equations λx + y + z = 3, x - y - 2z = 6, -x + y + z = μ Options: Infinite number of solutions for λ ≠ -1 and all μ, Infinite number of solutions for λ = -1 and μ = 3, No solution for λ ≠ -1, Unique solution for λ = -1 and all μ = 3. Correct answer: Infinite number of solutions for λ = -1 and μ = 3",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "analytical geometry"
+        ],
+        "prerequisites": [
+          "analytical geometry"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

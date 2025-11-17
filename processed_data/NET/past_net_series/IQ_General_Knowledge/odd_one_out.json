@@ -1,0 +1,124 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET IQ / General Knowledge - Odd One Out",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 2,
+    "source_file": "PAST NET SEIRES 200 MCQS(1) solved.txt",
+    "exam_type": "NET",
+    "subject": "IQ / General Knowledge",
+    "main_topic": "Odd One Out"
+  },
+  "questions": [
+    {
+      "question_id": "NET_IQ__ODD_ONE_OUT_Q198",
+      "source": {
+        "exam_type": "NET",
+        "subject": "IQ / General Knowledge",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Odd One Out",
+        "sub_topic": "Odd One Out",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Pick the odd one out:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "March"
+        },
+        {
+          "key": "b",
+          "value": "July"
+        },
+        {
+          "key": "c",
+          "value": "September"
+        },
+        {
+          "key": "d",
+          "value": "October"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "October",
+        "explanation": ""
+      },
+      "embedding_text": "IQ / General Knowledge - Odd One Out: Pick the odd one out: Options: March, July, September, October. Correct answer: October",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "odd one out"
+        ],
+        "prerequisites": [
+          "odd one out"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_IQ__ODD_ONE_OUT_Q199",
+      "source": {
+        "exam_type": "NET",
+        "subject": "IQ / General Knowledge",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Odd One Out",
+        "sub_topic": "Odd One Out",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Pick the odd one:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Trunk"
+        },
+        {
+          "key": "b",
+          "value": "Tree"
+        },
+        {
+          "key": "c",
+          "value": "Leaf"
+        },
+        {
+          "key": "d",
+          "value": "Flower"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Tree",
+        "explanation": ""
+      },
+      "embedding_text": "IQ / General Knowledge - Odd One Out: Pick the odd one: Options: Trunk, Tree, Leaf, Flower. Correct answer: Tree",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "odd one out"
+        ],
+        "prerequisites": [
+          "odd one out"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

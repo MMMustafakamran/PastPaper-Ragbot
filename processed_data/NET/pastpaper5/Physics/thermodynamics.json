@@ -1,0 +1,344 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Physics - Thermodynamics",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 6,
+    "source_file": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Physics",
+    "main_topic": "Thermodynamics"
+  },
+  "questions": [
+    {
+      "question_id": "NET_PHY_THERMODYNAMICS_Q099",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Thermodynamics",
+        "sub_topic": "Thermodynamics",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "When the temperature of a body increases from T to T+ΔT, its moment of inertia increases from I to I+ΔI. If α is the coefficient of linear expansion of the material of the body then ΔI/I (neglect higher orders of α):",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "αΔT"
+        },
+        {
+          "key": "b",
+          "value": "2αΔT"
+        },
+        {
+          "key": "c",
+          "value": "ΔT/α"
+        },
+        {
+          "key": "d",
+          "value": "2α/ΔT"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "2αΔT",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Thermodynamics: When the temperature of a body increases from T to T+ΔT, its moment of inertia increases from I to I+ΔI. If α is the coefficient of linear expansion of the material of the body then ΔI/I (neglect higher orders of α): Options: αΔT, 2αΔT, ΔT/α, 2α/ΔT. Correct answer: 2αΔT",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "thermodynamics"
+        ],
+        "prerequisites": [
+          "thermodynamics"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_THERMODYNAMICS_Q101",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Thermodynamics",
+        "sub_topic": "Thermodynamics",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "Power radiated by black body at temperature T₁ is P and it radiates maximum energy at a wavelength λ₁. If the temperature of the black body is changed from T₁ to T₂, it radiates max energy at a wavelength of λ₁/2. The power radiated at T₂:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "2P"
+        },
+        {
+          "key": "b",
+          "value": "4P"
+        },
+        {
+          "key": "c",
+          "value": "8P"
+        },
+        {
+          "key": "d",
+          "value": "6P"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "8P",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Thermodynamics: Power radiated by black body at temperature T₁ is P and it radiates maximum energy at a wavelength λ₁. If the temperature of the black body is changed from T₁ to T₂, it radiates max energy at a wavelength of λ₁/2. The power radiated at T₂: Options: 2P, 4P, 8P, 6P. Correct answer: 8P",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "thermodynamics"
+        ],
+        "prerequisites": [
+          "thermodynamics"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_THERMODYNAMICS_Q115",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Thermodynamics",
+        "sub_topic": "Thermodynamics",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "A glass flask of volume one liter is filled completely with mercury at 0°C. The flask is now heated to 100°C. Coefficient of volume expansion of mercury is 1.82×10⁻⁴/°C and coefficient of linear expansion of glass is 0.1×10⁻⁴/°C. During this process, amount of mercury which overflow is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "21.2 cc"
+        },
+        {
+          "key": "b",
+          "value": "15.2 cc"
+        },
+        {
+          "key": "c",
+          "value": "2.12 cc"
+        },
+        {
+          "key": "d",
+          "value": "18.2 cc"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "15.2 cc",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Thermodynamics: A glass flask of volume one liter is filled completely with mercury at 0°C. The flask is now heated to 100°C. Coefficient of volume expansion of mercury is 1.82×10⁻⁴/°C and coefficient of linear expansion of glass is 0.1×10⁻⁴/°C. During this process, amount of mercury which overflow is: Options: 21.2 cc, 15.2 cc, 2.12 cc, 18.2 cc. Correct answer: 15.2 cc",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "thermodynamics"
+        ],
+        "prerequisites": [
+          "thermodynamics"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_THERMODYNAMICS_Q116",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Thermodynamics",
+        "sub_topic": "Thermodynamics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "On a temperature scale y, water freezes at -160°y and boils at -50°y. On this y scale, a temperature of 340K is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "-106.30°y"
+        },
+        {
+          "key": "b",
+          "value": "-96.30°y"
+        },
+        {
+          "key": "c",
+          "value": "-86.30°y"
+        },
+        {
+          "key": "d",
+          "value": "-76.30°y"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "-86.30°y",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Thermodynamics: On a temperature scale y, water freezes at -160°y and boils at -50°y. On this y scale, a temperature of 340K is: Options: -106.30°y, -96.30°y, -86.30°y, -76.30°y. Correct answer: -86.30°y",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "thermodynamics"
+        ],
+        "prerequisites": [
+          "thermodynamics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_THERMODYNAMICS_Q117",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Thermodynamics",
+        "sub_topic": "Thermodynamics",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "Efficiency of heat engine whose sink is at a temperature of 300K is 40%. To increase the efficiency to 60%, keeping the sink temperature constant, the source temperature must be increased by:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "750K"
+        },
+        {
+          "key": "b",
+          "value": "500K"
+        },
+        {
+          "key": "c",
+          "value": "250K"
+        },
+        {
+          "key": "d",
+          "value": "1000K"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "250K",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Thermodynamics: Efficiency of heat engine whose sink is at a temperature of 300K is 40%. To increase the efficiency to 60%, keeping the sink temperature constant, the source temperature must be increased by: Options: 750K, 500K, 250K, 1000K. Correct answer: 250K",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "thermodynamics"
+        ],
+        "prerequisites": [
+          "thermodynamics"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_THERMODYNAMICS_Q135",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Thermodynamics",
+        "sub_topic": "Thermodynamics",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The ratio of volumetric strain to volumetric stress is called:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Compressibility"
+        },
+        {
+          "key": "b",
+          "value": "Young's modulus"
+        },
+        {
+          "key": "c",
+          "value": "Bulk's modulus"
+        },
+        {
+          "key": "d",
+          "value": "Shear's modulus"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Compressibility",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Thermodynamics: The ratio of volumetric strain to volumetric stress is called: Options: Compressibility, Young's modulus, Bulk's modulus, Shear's modulus. Correct answer: Compressibility",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "thermodynamics"
+        ],
+        "prerequisites": [
+          "thermodynamics"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

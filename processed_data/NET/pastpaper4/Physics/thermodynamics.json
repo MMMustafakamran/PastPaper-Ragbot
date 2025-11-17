@@ -1,0 +1,124 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Physics - Thermodynamics",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 2,
+    "source_file": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Physics",
+    "main_topic": "Thermodynamics"
+  },
+  "questions": [
+    {
+      "question_id": "NET_PHY_THERMODYNAMICS_Q111",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Thermodynamics",
+        "sub_topic": "Thermodynamics",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "With the increase of temperature viscosity",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Increase"
+        },
+        {
+          "key": "b",
+          "value": "Decrease"
+        },
+        {
+          "key": "c",
+          "value": "Remain constant"
+        },
+        {
+          "key": "d",
+          "value": "Doubles"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Decrease",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Thermodynamics: With the increase of temperature viscosity Options: Increase, Decrease, Remain constant, Doubles. Correct answer: Decrease",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "thermodynamics"
+        ],
+        "prerequisites": [
+          "thermodynamics"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_THERMODYNAMICS_Q117",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Thermodynamics",
+        "sub_topic": "Thermodynamics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Total pressure on 1m x 1m gate immersed vertically at a depth of 2m below the free water surface will be",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1000 kg"
+        },
+        {
+          "key": "b",
+          "value": "2000 kg"
+        },
+        {
+          "key": "c",
+          "value": "4000 kg"
+        },
+        {
+          "key": "d",
+          "value": "8000 kg"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "2000 kg",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Thermodynamics: Total pressure on 1m x 1m gate immersed vertically at a depth of 2m below the free water surface will be Options: 1000 kg, 2000 kg, 4000 kg, 8000 kg. Correct answer: 2000 kg",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "thermodynamics"
+        ],
+        "prerequisites": [
+          "thermodynamics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

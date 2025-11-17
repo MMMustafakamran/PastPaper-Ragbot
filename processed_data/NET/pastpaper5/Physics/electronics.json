@@ -1,0 +1,124 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Physics - Electronics",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 2,
+    "source_file": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Physics",
+    "main_topic": "Electronics"
+  },
+  "questions": [
+    {
+      "question_id": "NET_PHY_ELECTRONICS_Q091",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Electronics",
+        "sub_topic": "Electronics",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "In a transistor if Ic/Ie=α and Ic/Ib=β. If α varies between 20/21 and 100/101. Then value of β lies between:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1-10"
+        },
+        {
+          "key": "b",
+          "value": "0.95-0.99"
+        },
+        {
+          "key": "c",
+          "value": "20-100"
+        },
+        {
+          "key": "d",
+          "value": "200-300"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "20-100",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Electronics: In a transistor if Ic/Ie=α and Ic/Ib=β. If α varies between 20/21 and 100/101. Then value of β lies between: Options: 1-10, 0.95-0.99, 20-100, 200-300. Correct answer: 20-100",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "electronics"
+        ],
+        "prerequisites": [
+          "electronics"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_ELECTRONICS_Q136",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Electronics",
+        "sub_topic": "Electronics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The base current in a transistor circuit changes from 45mA to 140mA. Accordingly, the collector current changes from 0.2mA to 4mA. The gain in current is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "9.5"
+        },
+        {
+          "key": "b",
+          "value": "1"
+        },
+        {
+          "key": "c",
+          "value": "40"
+        },
+        {
+          "key": "d",
+          "value": "20"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "40",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Electronics: The base current in a transistor circuit changes from 45mA to 140mA. Accordingly, the collector current changes from 0.2mA to 4mA. The gain in current is: Options: 9.5, 1, 40, 20. Correct answer: 40",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "electronics"
+        ],
+        "prerequisites": [
+          "electronics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

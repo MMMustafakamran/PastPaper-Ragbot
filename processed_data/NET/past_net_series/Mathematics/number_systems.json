@@ -1,0 +1,509 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Number Systems",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 9,
+    "source_file": "PAST NET SEIRES 200 MCQS(1) solved.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Number Systems"
+  },
+  "questions": [
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q005",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "A complex number is real if:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "z = z̅"
+        },
+        {
+          "key": "b",
+          "value": "z̅ = -z"
+        },
+        {
+          "key": "c",
+          "value": "z̅ = 1/z"
+        },
+        {
+          "key": "d",
+          "value": "None of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "z = z̅",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: A complex number is real if: Options: z = z̅, z̅ = -z, z̅ = 1/z, None of these. Correct answer: z = z̅",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q006",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The roots of the equation v²-3v-5=0 are:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Real, irrational & equal"
+        },
+        {
+          "key": "b",
+          "value": "Imaginary, unequal"
+        },
+        {
+          "key": "c",
+          "value": "Rational unequal"
+        },
+        {
+          "key": "d",
+          "value": "Real, irrational & unequal"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Real, irrational & unequal",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: The roots of the equation v²-3v-5=0 are: Options: Real, irrational & equal, Imaginary, unequal, Rational unequal, Real, irrational & unequal. Correct answer: Real, irrational & unequal",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q011",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "1, 1/3, 1/5, 1/7,...is?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Geometric"
+        },
+        {
+          "key": "b",
+          "value": "Arithmetic"
+        },
+        {
+          "key": "c",
+          "value": "Harmonic"
+        },
+        {
+          "key": "d",
+          "value": "None of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Harmonic",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: 1, 1/3, 1/5, 1/7,...is? Options: Geometric, Arithmetic, Harmonic, None of these. Correct answer: Harmonic",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q024",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "How many 4 digit numbers less than 4000 can be formed from the digits 1,2,3,4,5 without repetition?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "120"
+        },
+        {
+          "key": "b",
+          "value": "96"
+        },
+        {
+          "key": "c",
+          "value": "72"
+        },
+        {
+          "key": "d",
+          "value": "48"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "72",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: How many 4 digit numbers less than 4000 can be formed from the digits 1,2,3,4,5 without repetition? Options: 120, 96, 72, 48. Correct answer: 72",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q037",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Calculate exact value of repeating decimal 0.4545...",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "5/11"
+        },
+        {
+          "key": "b",
+          "value": "50/11"
+        },
+        {
+          "key": "c",
+          "value": "0.5/11"
+        },
+        {
+          "key": "d",
+          "value": "None of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "5/11",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: Calculate exact value of repeating decimal 0.4545... Options: 5/11, 50/11, 0.5/11, None of these. Correct answer: 5/11",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q047",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The product of first n natural numbers is ?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "n!"
+        },
+        {
+          "key": "b",
+          "value": "(n+1)!"
+        },
+        {
+          "key": "c",
+          "value": "(n-1)!"
+        },
+        {
+          "key": "d",
+          "value": "None of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "n!",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: The product of first n natural numbers is ? Options: n!, (n+1)!, (n-1)!, None of these. Correct answer: n!",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q062",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "If we have f(x,y)=c then we solve by",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Implicit differentiation"
+        },
+        {
+          "key": "b",
+          "value": "Product rule"
+        },
+        {
+          "key": "c",
+          "value": "Chain rule"
+        },
+        {
+          "key": "d",
+          "value": "Cannot be solved"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Implicit differentiation",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: If we have f(x,y)=c then we solve by Options: Implicit differentiation, Product rule, Chain rule, Cannot be solved. Correct answer: Implicit differentiation",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q065",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Differentiate ln(e) with respect to 'x'",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1/e"
+        },
+        {
+          "key": "b",
+          "value": "0"
+        },
+        {
+          "key": "c",
+          "value": "1/x"
+        },
+        {
+          "key": "d",
+          "value": "e"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "0",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: Differentiate ln(e) with respect to 'x' Options: 1/e, 0, 1/x, e. Correct answer: 0",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q068",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The product of first n natural numbers is ?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "n!"
+        },
+        {
+          "key": "b",
+          "value": "(n+1)!"
+        },
+        {
+          "key": "c",
+          "value": "(n-1)!"
+        },
+        {
+          "key": "d",
+          "value": "None of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "n!",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: The product of first n natural numbers is ? Options: n!, (n+1)!, (n-1)!, None of these. Correct answer: n!",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

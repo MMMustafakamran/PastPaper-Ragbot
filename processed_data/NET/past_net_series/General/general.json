@@ -1,0 +1,399 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET General - General",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 7,
+    "source_file": "PAST NET SEIRES 200 MCQS(1) solved.txt",
+    "exam_type": "NET",
+    "subject": "General",
+    "main_topic": "General"
+  },
+  "questions": [
+    {
+      "question_id": "NET_GEN_GENERAL_Q201",
+      "source": {
+        "exam_type": "NET",
+        "subject": "General",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "What will be the next term in the series? 4,8,16,32,64...",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "89"
+        },
+        {
+          "key": "b",
+          "value": "92"
+        },
+        {
+          "key": "c",
+          "value": "128"
+        },
+        {
+          "key": "d",
+          "value": "120"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "128",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: What will be the next term in the series? 4,8,16,32,64... Options: 89, 92, 128, 120. Correct answer: 128",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_GEN_GENERAL_Q202",
+      "source": {
+        "exam_type": "NET",
+        "subject": "General",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "6,9,18,21,63,66,... Next number in the series will be?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "132"
+        },
+        {
+          "key": "b",
+          "value": "264"
+        },
+        {
+          "key": "c",
+          "value": "112"
+        },
+        {
+          "key": "d",
+          "value": "198"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "132",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: 6,9,18,21,63,66,... Next number in the series will be? Options: 132, 264, 112, 198. Correct answer: 132",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_GEN_GENERAL_Q203",
+      "source": {
+        "exam_type": "NET",
+        "subject": "General",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "1514131616121718?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "11"
+        },
+        {
+          "key": "b",
+          "value": "17"
+        },
+        {
+          "key": "c",
+          "value": "19"
+        },
+        {
+          "key": "d",
+          "value": "23"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "11",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: 1514131616121718? Options: 11, 17, 19, 23. Correct answer: 11",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_GEN_GENERAL_Q204",
+      "source": {
+        "exam_type": "NET",
+        "subject": "General",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Pick the odd one?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Natural gas"
+        },
+        {
+          "key": "b",
+          "value": "Gasoline"
+        },
+        {
+          "key": "c",
+          "value": "Coal"
+        },
+        {
+          "key": "d",
+          "value": "Biogas"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Coal",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: Pick the odd one? Options: Natural gas, Gasoline, Coal, Biogas. Correct answer: Coal",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_GEN_GENERAL_Q205",
+      "source": {
+        "exam_type": "NET",
+        "subject": "General",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Pick the odd one out:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Brinjal"
+        },
+        {
+          "key": "b",
+          "value": "Potato"
+        },
+        {
+          "key": "c",
+          "value": "Tomato"
+        },
+        {
+          "key": "d",
+          "value": "Cucumber"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Potato",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: Pick the odd one out: Options: Brinjal, Potato, Tomato, Cucumber. Correct answer: Potato",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_GEN_GENERAL_Q206",
+      "source": {
+        "exam_type": "NET",
+        "subject": "General",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "If SHELNXR stands for TEDIOUS, in the same way how would GLAMOUR be coded?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "FODPNUQ"
+        },
+        {
+          "key": "b",
+          "value": "FOBPNXS"
+        },
+        {
+          "key": "c",
+          "value": "FOBPNXQ"
+        },
+        {
+          "key": "d",
+          "value": "FODPNUS"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "FODPNUS",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: If SHELNXR stands for TEDIOUS, in the same way how would GLAMOUR be coded? Options: FODPNUQ, FOBPNXS, FOBPNXQ, FODPNUS. Correct answer: FODPNUS",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_GEN_GENERAL_Q207",
+      "source": {
+        "exam_type": "NET",
+        "subject": "General",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "If RTTHHX encodes for purify, then code for blanch will be:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "DKDSHG"
+        },
+        {
+          "key": "b",
+          "value": "AOCGTY"
+        },
+        {
+          "key": "c",
+          "value": "DKCMEG"
+        },
+        {
+          "key": "d",
+          "value": "EMGCKD"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "DKCMEG",
+        "explanation": ""
+      },
+      "embedding_text": "General - General: If RTTHHX encodes for purify, then code for blanch will be: Options: DKDSHG, AOCGTY, DKCMEG, EMGCKD. Correct answer: DKCMEG",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

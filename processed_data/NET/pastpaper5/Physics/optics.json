@@ -1,0 +1,69 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Physics - Optics",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 1,
+    "source_file": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Physics",
+    "main_topic": "Optics"
+  },
+  "questions": [
+    {
+      "question_id": "NET_PHY_OPTICS_Q121",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Optics",
+        "sub_topic": "Optics",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "A microscope consist of an objective of focal length 1.9cm and eye piece of focal length 5cm. The two lenses are kept at a distance of 10.5cm. If the image is to be formed at least distance of distinct vision, the distance at which the object is to be placed before the objective is (least distance of distinct vision is 25cm):",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "6.2cm"
+        },
+        {
+          "key": "b",
+          "value": "2.7cm"
+        },
+        {
+          "key": "c",
+          "value": "21.0cm"
+        },
+        {
+          "key": "d",
+          "value": "4.17cm"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "2.7cm",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Optics: A microscope consist of an objective of focal length 1.9cm and eye piece of focal length 5cm. The two lenses are kept at a distance of 10.5cm. If the image is to be formed at least distance of distinct vision, the distance at which the object is to be placed before the objective is (least distance of distinct vision is 25cm): Options: 6.2cm, 2.7cm, 21.0cm, 4.17cm. Correct answer: 2.7cm",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "optics"
+        ],
+        "prerequisites": [
+          "optics"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

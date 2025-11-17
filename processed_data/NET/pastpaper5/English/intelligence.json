@@ -1,0 +1,289 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET English - Intelligence",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 5,
+    "source_file": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "English",
+    "main_topic": "Intelligence"
+  },
+  "questions": [
+    {
+      "question_id": "NET_ENG_INTELLIGENCE_Q181",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Intelligence",
+        "sub_topic": "Intelligence",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Iron : blacksmith :: ______ : ______:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Cotton : cloth"
+        },
+        {
+          "key": "b",
+          "value": "Food : gourmet"
+        },
+        {
+          "key": "c",
+          "value": "Clay : potter"
+        },
+        {
+          "key": "d",
+          "value": "Silver : miner"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Clay : potter",
+        "explanation": ""
+      },
+      "embedding_text": "English - Intelligence: Iron : blacksmith :: ______ : ______: Options: Cotton : cloth, Food : gourmet, Clay : potter, Silver : miner. Correct answer: Clay : potter",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "intelligence"
+        ],
+        "prerequisites": [
+          "intelligence"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_INTELLIGENCE_Q182",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Intelligence",
+        "sub_topic": "Intelligence",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Fish : scales :: ______ : ______:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Book : papers"
+        },
+        {
+          "key": "b",
+          "value": "Snakes : fangs"
+        },
+        {
+          "key": "c",
+          "value": "Birds : feathers"
+        },
+        {
+          "key": "d",
+          "value": "Car : wheels"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Birds : feathers",
+        "explanation": ""
+      },
+      "embedding_text": "English - Intelligence: Fish : scales :: ______ : ______: Options: Book : papers, Snakes : fangs, Birds : feathers, Car : wheels. Correct answer: Birds : feathers",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "intelligence"
+        ],
+        "prerequisites": [
+          "intelligence"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_INTELLIGENCE_Q183",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Intelligence",
+        "sub_topic": "Intelligence",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Nose : smell :: ______ : ______:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Tongue : speak"
+        },
+        {
+          "key": "b",
+          "value": "Foot : hit"
+        },
+        {
+          "key": "c",
+          "value": "Hand : finger"
+        },
+        {
+          "key": "d",
+          "value": "Teeth : chew"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Teeth : chew",
+        "explanation": ""
+      },
+      "embedding_text": "English - Intelligence: Nose : smell :: ______ : ______: Options: Tongue : speak, Foot : hit, Hand : finger, Teeth : chew. Correct answer: Teeth : chew",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "intelligence"
+        ],
+        "prerequisites": [
+          "intelligence"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_INTELLIGENCE_Q184",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Intelligence",
+        "sub_topic": "Intelligence",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Collage : images :: ______ : ______:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Cement : building"
+        },
+        {
+          "key": "b",
+          "value": "Medley : songs"
+        },
+        {
+          "key": "c",
+          "value": "Furniture : sofa"
+        },
+        {
+          "key": "d",
+          "value": "Grains : tree"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Medley : songs",
+        "explanation": ""
+      },
+      "embedding_text": "English - Intelligence: Collage : images :: ______ : ______: Options: Cement : building, Medley : songs, Furniture : sofa, Grains : tree. Correct answer: Medley : songs",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "intelligence"
+        ],
+        "prerequisites": [
+          "intelligence"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_INTELLIGENCE_Q185",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Intelligence",
+        "sub_topic": "Intelligence",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Sketch : artist :: ______ : ______:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Secret : confident"
+        },
+        {
+          "key": "b",
+          "value": "Cell : prisoner"
+        },
+        {
+          "key": "c",
+          "value": "Palette : painter"
+        },
+        {
+          "key": "d",
+          "value": "Draft : writer"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Draft : writer",
+        "explanation": ""
+      },
+      "embedding_text": "English - Intelligence: Sketch : artist :: ______ : ______: Options: Secret : confident, Cell : prisoner, Palette : painter, Draft : writer. Correct answer: Draft : writer",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "intelligence"
+        ],
+        "prerequisites": [
+          "intelligence"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

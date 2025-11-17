@@ -1,0 +1,289 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Conic Sections",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 5,
+    "source_file": "PAST NET SEIRES 200 MCQS(1) solved.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Conic Sections"
+  },
+  "questions": [
+    {
+      "question_id": "NET_MAT_CONIC_SECTIONS_Q004",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Conic Sections",
+        "sub_topic": "Conic Sections",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "If e>1 the conic is called",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Circle"
+        },
+        {
+          "key": "b",
+          "value": "Parabola"
+        },
+        {
+          "key": "c",
+          "value": "Ellipse"
+        },
+        {
+          "key": "d",
+          "value": "Hyperbola"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Hyperbola",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Conic Sections: If e>1 the conic is called Options: Circle, Parabola, Ellipse, Hyperbola. Correct answer: Hyperbola",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "conic sections"
+        ],
+        "prerequisites": [
+          "conic sections"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_CONIC_SECTIONS_Q014",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Conic Sections",
+        "sub_topic": "Conic Sections",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Eccentricity of Earth..??",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "e>0"
+        },
+        {
+          "key": "b",
+          "value": "e=0"
+        },
+        {
+          "key": "c",
+          "value": "e<0"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "e>0",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Conic Sections: Eccentricity of Earth..?? Options: e>0, e=0, e<0, None. Correct answer: e>0",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "conic sections"
+        ],
+        "prerequisites": [
+          "conic sections"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_CONIC_SECTIONS_Q051",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Conic Sections",
+        "sub_topic": "Conic Sections",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "If one cut is parallel we get which conic section ?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Circle"
+        },
+        {
+          "key": "b",
+          "value": "Parabola"
+        },
+        {
+          "key": "c",
+          "value": "Hyperbola"
+        },
+        {
+          "key": "d",
+          "value": "Ellipse"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Parabola",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Conic Sections: If one cut is parallel we get which conic section ? Options: Circle, Parabola, Hyperbola, Ellipse. Correct answer: Parabola",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "conic sections"
+        ],
+        "prerequisites": [
+          "conic sections"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_CONIC_SECTIONS_Q063",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Conic Sections",
+        "sub_topic": "Conic Sections",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "A hyperbola has",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "One focus two directrices"
+        },
+        {
+          "key": "b",
+          "value": "Two foci two directrices"
+        },
+        {
+          "key": "c",
+          "value": "Two focus one directrices"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Two foci two directrices",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Conic Sections: A hyperbola has Options: One focus two directrices, Two foci two directrices, Two focus one directrices, None. Correct answer: Two foci two directrices",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "conic sections"
+        ],
+        "prerequisites": [
+          "conic sections"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_CONIC_SECTIONS_Q072",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Conic Sections",
+        "sub_topic": "Conic Sections",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "If one cut is parallel we get which conic section ?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Circle"
+        },
+        {
+          "key": "b",
+          "value": "Parabola"
+        },
+        {
+          "key": "c",
+          "value": "Hyperbola"
+        },
+        {
+          "key": "d",
+          "value": "Ellipse"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Parabola",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Conic Sections: If one cut is parallel we get which conic section ? Options: Circle, Parabola, Hyperbola, Ellipse. Correct answer: Parabola",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "conic sections"
+        ],
+        "prerequisites": [
+          "conic sections"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

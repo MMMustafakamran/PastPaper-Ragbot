@@ -1,0 +1,289 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET English - Intelligence",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 5,
+    "source_file": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "English",
+    "main_topic": "Intelligence"
+  },
+  "questions": [
+    {
+      "question_id": "NET_ENG_INTELLIGENCE_Q181",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Intelligence",
+        "sub_topic": "Intelligence",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "RIB CAGE : LUNGS::",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Skull: brain"
+        },
+        {
+          "key": "b",
+          "value": "Appendix: organ"
+        },
+        {
+          "key": "c",
+          "value": "Sock: foot"
+        },
+        {
+          "key": "d",
+          "value": "Skeleton:body"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Skull: brain",
+        "explanation": ""
+      },
+      "embedding_text": "English - Intelligence: RIB CAGE : LUNGS:: Options: Skull: brain, Appendix: organ, Sock: foot, Skeleton:body. Correct answer: Skull: brain",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "intelligence"
+        ],
+        "prerequisites": [
+          "intelligence"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_INTELLIGENCE_Q182",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Intelligence",
+        "sub_topic": "Intelligence",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Scientist: laboratory (analogy)",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Teacher: classroom"
+        },
+        {
+          "key": "b",
+          "value": "Dentist: drill"
+        },
+        {
+          "key": "c",
+          "value": "Lawyer: client"
+        },
+        {
+          "key": "d",
+          "value": "Actor: playwright"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Teacher: classroom",
+        "explanation": ""
+      },
+      "embedding_text": "English - Intelligence: Scientist: laboratory (analogy) Options: Teacher: classroom, Dentist: drill, Lawyer: client, Actor: playwright. Correct answer: Teacher: classroom",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "intelligence"
+        ],
+        "prerequisites": [
+          "intelligence"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_INTELLIGENCE_Q183",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Intelligence",
+        "sub_topic": "Intelligence",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Brittle: fracture (analogy)",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Rain: umbrella"
+        },
+        {
+          "key": "b",
+          "value": "Flammable: burn"
+        },
+        {
+          "key": "c",
+          "value": "Perpetual: stop"
+        },
+        {
+          "key": "d",
+          "value": "Ice: cold"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Flammable: burn",
+        "explanation": ""
+      },
+      "embedding_text": "English - Intelligence: Brittle: fracture (analogy) Options: Rain: umbrella, Flammable: burn, Perpetual: stop, Ice: cold. Correct answer: Flammable: burn",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "intelligence"
+        ],
+        "prerequisites": [
+          "intelligence"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_INTELLIGENCE_Q184",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Intelligence",
+        "sub_topic": "Intelligence",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Gymnasium: exercise (analogy)",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Diseases: diagnose"
+        },
+        {
+          "key": "b",
+          "value": "Birthday: celebrate"
+        },
+        {
+          "key": "c",
+          "value": "Store: shop"
+        },
+        {
+          "key": "d",
+          "value": "Army: discharge"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Store: shop",
+        "explanation": ""
+      },
+      "embedding_text": "English - Intelligence: Gymnasium: exercise (analogy) Options: Diseases: diagnose, Birthday: celebrate, Store: shop, Army: discharge. Correct answer: Store: shop",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "intelligence"
+        ],
+        "prerequisites": [
+          "intelligence"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_INTELLIGENCE_Q185",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Intelligence",
+        "sub_topic": "Intelligence",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Compass: navigation",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Clock: dial"
+        },
+        {
+          "key": "b",
+          "value": "Physician: disease"
+        },
+        {
+          "key": "c",
+          "value": "Camera: photography"
+        },
+        {
+          "key": "d",
+          "value": "Pilot: flight"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Camera: photography",
+        "explanation": ""
+      },
+      "embedding_text": "English - Intelligence: Compass: navigation Options: Clock: dial, Physician: disease, Camera: photography, Pilot: flight. Correct answer: Camera: photography",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "intelligence"
+        ],
+        "prerequisites": [
+          "intelligence"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

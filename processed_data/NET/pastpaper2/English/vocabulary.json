@@ -1,0 +1,399 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET English - Vocabulary",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 7,
+    "source_file": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "English",
+    "main_topic": "Vocabulary"
+  },
+  "questions": [
+    {
+      "question_id": "NET_ENG_VOCABULARY_Q179",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Vocabulary",
+        "sub_topic": "Vocabulary",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The word \"square\" as used in the passage means",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Rich"
+        },
+        {
+          "key": "b",
+          "value": "Sumptuous"
+        },
+        {
+          "key": "c",
+          "value": "Sufficient"
+        },
+        {
+          "key": "d",
+          "value": "Quality"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Sufficient",
+        "explanation": ""
+      },
+      "embedding_text": "English - Vocabulary: The word \"square\" as used in the passage means Options: Rich, Sumptuous, Sufficient, Quality. Correct answer: Sufficient",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "vocabulary"
+        ],
+        "prerequisites": [
+          "vocabulary"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_VOCABULARY_Q180",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Vocabulary",
+        "sub_topic": "Vocabulary",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Which of the following words is the same in meaning as \"power\" as used in the passage?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Vigour"
+        },
+        {
+          "key": "b",
+          "value": "Energy"
+        },
+        {
+          "key": "c",
+          "value": "Influence"
+        },
+        {
+          "key": "d",
+          "value": "Capacity"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Capacity",
+        "explanation": ""
+      },
+      "embedding_text": "English - Vocabulary: Which of the following words is the same in meaning as \"power\" as used in the passage? Options: Vigour, Energy, Influence, Capacity. Correct answer: Capacity",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "vocabulary"
+        ],
+        "prerequisites": [
+          "vocabulary"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_VOCABULARY_Q186",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Vocabulary",
+        "sub_topic": "Vocabulary",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "He is believed to be a very industrious worker: synonym",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Successful"
+        },
+        {
+          "key": "b",
+          "value": "Sensible"
+        },
+        {
+          "key": "c",
+          "value": "Punctual"
+        },
+        {
+          "key": "d",
+          "value": "Diligent"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Diligent",
+        "explanation": ""
+      },
+      "embedding_text": "English - Vocabulary: He is believed to be a very industrious worker: synonym Options: Successful, Sensible, Punctual, Diligent. Correct answer: Diligent",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "vocabulary"
+        ],
+        "prerequisites": [
+          "vocabulary"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_VOCABULARY_Q187",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Vocabulary",
+        "sub_topic": "Vocabulary",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "He had the nerve to suggest that I was cheating. (synonyms)",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Strength"
+        },
+        {
+          "key": "b",
+          "value": "Capacity"
+        },
+        {
+          "key": "c",
+          "value": "Audacity"
+        },
+        {
+          "key": "d",
+          "value": "Courage"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Audacity",
+        "explanation": ""
+      },
+      "embedding_text": "English - Vocabulary: He had the nerve to suggest that I was cheating. (synonyms) Options: Strength, Capacity, Audacity, Courage. Correct answer: Audacity",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "vocabulary"
+        ],
+        "prerequisites": [
+          "vocabulary"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_VOCABULARY_Q188",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Vocabulary",
+        "sub_topic": "Vocabulary",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Apathy (antonyms)",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Enemy"
+        },
+        {
+          "key": "b",
+          "value": "Love"
+        },
+        {
+          "key": "c",
+          "value": "Noble"
+        },
+        {
+          "key": "d",
+          "value": "Temptation"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Love",
+        "explanation": ""
+      },
+      "embedding_text": "English - Vocabulary: Apathy (antonyms) Options: Enemy, Love, Noble, Temptation. Correct answer: Love",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "vocabulary"
+        ],
+        "prerequisites": [
+          "vocabulary"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_VOCABULARY_Q189",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Vocabulary",
+        "sub_topic": "Vocabulary",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Outbreak (antonyms)",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Confined"
+        },
+        {
+          "key": "b",
+          "value": "Smash"
+        },
+        {
+          "key": "c",
+          "value": "Reliability"
+        },
+        {
+          "key": "d",
+          "value": "Tumult"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Confined",
+        "explanation": ""
+      },
+      "embedding_text": "English - Vocabulary: Outbreak (antonyms) Options: Confined, Smash, Reliability, Tumult. Correct answer: Confined",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "vocabulary"
+        ],
+        "prerequisites": [
+          "vocabulary"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_VOCABULARY_Q190",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Vocabulary",
+        "sub_topic": "Vocabulary",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Indulgent: (antonyms)",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Active"
+        },
+        {
+          "key": "b",
+          "value": "Agile"
+        },
+        {
+          "key": "c",
+          "value": "Squander"
+        },
+        {
+          "key": "d",
+          "value": "Oppressive"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Oppressive",
+        "explanation": ""
+      },
+      "embedding_text": "English - Vocabulary: Indulgent: (antonyms) Options: Active, Agile, Squander, Oppressive. Correct answer: Oppressive",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "vocabulary"
+        ],
+        "prerequisites": [
+          "vocabulary"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

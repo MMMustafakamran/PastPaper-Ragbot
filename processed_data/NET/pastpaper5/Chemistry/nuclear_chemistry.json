@@ -1,0 +1,124 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Chemistry - Nuclear Chemistry",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 2,
+    "source_file": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Chemistry",
+    "main_topic": "Nuclear Chemistry"
+  },
+  "questions": [
+    {
+      "question_id": "NET_CHE_NUCLEAR_CHEMISTRY_Q147",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Nuclear Chemistry",
+        "sub_topic": "Nuclear Chemistry",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "The C¹⁴ to C¹² ratio in a wooden article is 13% that of the fresh wood. Calculate the age of the wooden article. Given that the half-life of C¹⁴ is 5770 years:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "16989yr"
+        },
+        {
+          "key": "b",
+          "value": "16858yr"
+        },
+        {
+          "key": "c",
+          "value": "15675yr"
+        },
+        {
+          "key": "d",
+          "value": "17700yr"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "16989yr",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Nuclear Chemistry: The C¹⁴ to C¹² ratio in a wooden article is 13% that of the fresh wood. Calculate the age of the wooden article. Given that the half-life of C¹⁴ is 5770 years: Options: 16989yr, 16858yr, 15675yr, 17700yr. Correct answer: 16989yr",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "nuclear chemistry"
+        ],
+        "prerequisites": [
+          "nuclear chemistry"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_NUCLEAR_CHEMISTRY_Q148",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Nuclear Chemistry",
+        "sub_topic": "Nuclear Chemistry",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The number of neutrons in the parent nucleus which gives N¹⁴ on β emission is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "7"
+        },
+        {
+          "key": "b",
+          "value": "14"
+        },
+        {
+          "key": "c",
+          "value": "6"
+        },
+        {
+          "key": "d",
+          "value": "8"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "8",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Nuclear Chemistry: The number of neutrons in the parent nucleus which gives N¹⁴ on β emission is: Options: 7, 14, 6, 8. Correct answer: 8",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "nuclear chemistry"
+        ],
+        "prerequisites": [
+          "nuclear chemistry"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

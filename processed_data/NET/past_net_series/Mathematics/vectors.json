@@ -1,0 +1,124 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Vectors",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 2,
+    "source_file": "PAST NET SEIRES 200 MCQS(1) solved.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Vectors"
+  },
+  "questions": [
+    {
+      "question_id": "NET_MAT_VECTORS_Q027",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Vectors",
+        "sub_topic": "Vectors",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Magnitude of unit vector is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1"
+        },
+        {
+          "key": "b",
+          "value": "-1"
+        },
+        {
+          "key": "c",
+          "value": "0"
+        },
+        {
+          "key": "d",
+          "value": "All of them"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "1",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Vectors: Magnitude of unit vector is Options: 1, -1, 0, All of them. Correct answer: 1",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "vectors"
+        ],
+        "prerequisites": [
+          "vectors"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_VECTORS_Q041",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Vectors",
+        "sub_topic": "Vectors",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "If U, V, W are three vectors, then (UxV).W represents volume of",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Triangle"
+        },
+        {
+          "key": "b",
+          "value": "Cube"
+        },
+        {
+          "key": "c",
+          "value": "Cylinder"
+        },
+        {
+          "key": "d",
+          "value": "Parallelepiped"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Parallelepiped",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Vectors: If U, V, W are three vectors, then (UxV).W represents volume of Options: Triangle, Cube, Cylinder, Parallelepiped. Correct answer: Parallelepiped",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "vectors"
+        ],
+        "prerequisites": [
+          "vectors"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

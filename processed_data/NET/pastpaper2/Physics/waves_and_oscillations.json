@@ -1,0 +1,344 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Physics - Waves and Oscillations",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 6,
+    "source_file": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Physics",
+    "main_topic": "Waves and Oscillations"
+  },
+  "questions": [
+    {
+      "question_id": "NET_PHY_WAVES_AND_OSCILLATIONS_Q102",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Waves and Oscillations",
+        "sub_topic": "Waves and Oscillations",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The number of loops in stationary waves depends upon",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Velocity of waves"
+        },
+        {
+          "key": "b",
+          "value": "Wavelength of wave"
+        },
+        {
+          "key": "c",
+          "value": "Nature of the medium"
+        },
+        {
+          "key": "d",
+          "value": "Frequency of waves"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Frequency of waves",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Waves and Oscillations: The number of loops in stationary waves depends upon Options: Velocity of waves, Wavelength of wave, Nature of the medium, Frequency of waves. Correct answer: Frequency of waves",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "waves and oscillations"
+        ],
+        "prerequisites": [
+          "waves and oscillations"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_WAVES_AND_OSCILLATIONS_Q105",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Waves and Oscillations",
+        "sub_topic": "Waves and Oscillations",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "We can hear sound around the corner but cannot see because of",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Interface"
+        },
+        {
+          "key": "b",
+          "value": "Diffraction"
+        },
+        {
+          "key": "c",
+          "value": "Polarization"
+        },
+        {
+          "key": "d",
+          "value": "Dispersion"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Diffraction",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Waves and Oscillations: We can hear sound around the corner but cannot see because of Options: Interface, Diffraction, Polarization, Dispersion. Correct answer: Diffraction",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "waves and oscillations"
+        ],
+        "prerequisites": [
+          "waves and oscillations"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_WAVES_AND_OSCILLATIONS_Q110",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Waves and Oscillations",
+        "sub_topic": "Waves and Oscillations",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The wave nature of an electron is illustrated by its",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Photoelectric effect"
+        },
+        {
+          "key": "b",
+          "value": "Compton effect"
+        },
+        {
+          "key": "c",
+          "value": "Penetrating effect"
+        },
+        {
+          "key": "d",
+          "value": "Diffraction"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Diffraction",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Waves and Oscillations: The wave nature of an electron is illustrated by its Options: Photoelectric effect, Compton effect, Penetrating effect, Diffraction. Correct answer: Diffraction",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "waves and oscillations"
+        ],
+        "prerequisites": [
+          "waves and oscillations"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_WAVES_AND_OSCILLATIONS_Q124",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Waves and Oscillations",
+        "sub_topic": "Waves and Oscillations",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The process of combining low frequency signal with high frequency carrier waves is called",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Rectification"
+        },
+        {
+          "key": "b",
+          "value": "Amplification"
+        },
+        {
+          "key": "c",
+          "value": "Modulation"
+        },
+        {
+          "key": "d",
+          "value": "Magnification"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Modulation",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Waves and Oscillations: The process of combining low frequency signal with high frequency carrier waves is called Options: Rectification, Amplification, Modulation, Magnification. Correct answer: Modulation",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "waves and oscillations"
+        ],
+        "prerequisites": [
+          "waves and oscillations"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_WAVES_AND_OSCILLATIONS_Q133",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Waves and Oscillations",
+        "sub_topic": "Waves and Oscillations",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The scattering angle for which the Compton shift in wavelength is equal to Compton wavelength is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "$\\theta=90^{\\circ}$"
+        },
+        {
+          "key": "b",
+          "value": "$\\theta=0^{\\circ}$"
+        },
+        {
+          "key": "c",
+          "value": "$\\theta=45^{\\circ}$"
+        },
+        {
+          "key": "d",
+          "value": "$\\theta=180^{\\circ}$"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "$\\theta=90^{\\circ}$",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Waves and Oscillations: The scattering angle for which the Compton shift in wavelength is equal to Compton wavelength is Options: $\\theta=90^{\\circ}$, $\\theta=0^{\\circ}$, $\\theta=45^{\\circ}$, $\\theta=180^{\\circ}$. Correct answer: $\\theta=90^{\\circ}$",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "waves and oscillations"
+        ],
+        "prerequisites": [
+          "waves and oscillations"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_WAVES_AND_OSCILLATIONS_Q138",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Waves and Oscillations",
+        "sub_topic": "Waves and Oscillations",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The frequency of light having wavelength $3\\times10^{-5}$m is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "$1\\times10^{6}$"
+        },
+        {
+          "key": "b",
+          "value": "$1\\times10^{7}$"
+        },
+        {
+          "key": "c",
+          "value": "$10\\times10^{10}$"
+        },
+        {
+          "key": "d",
+          "value": "$1\\times10^{13}$"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "$1\\times10^{13}$",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Waves and Oscillations: The frequency of light having wavelength $3\\times10^{-5}$m is Options: $1\\times10^{6}$, $1\\times10^{7}$, $10\\times10^{10}$, $1\\times10^{13}$. Correct answer: $1\\times10^{13}$",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "waves and oscillations"
+        ],
+        "prerequisites": [
+          "waves and oscillations"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

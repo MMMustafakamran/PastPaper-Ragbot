@@ -1,0 +1,784 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Chemistry - General",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 14,
+    "source_file": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Chemistry",
+    "main_topic": "General"
+  },
+  "questions": [
+    {
+      "question_id": "NET_CHE_GENERAL_Q141",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Which one of the following solution has the highest boiling point?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "0.1M BaCl₂"
+        },
+        {
+          "key": "b",
+          "value": "0.1M glucose"
+        },
+        {
+          "key": "c",
+          "value": "0.1M urea"
+        },
+        {
+          "key": "d",
+          "value": "0.1M NaCl"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "0.1M BaCl₂",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - General: Which one of the following solution has the highest boiling point? Options: 0.1M BaCl₂, 0.1M glucose, 0.1M urea, 0.1M NaCl. Correct answer: 0.1M BaCl₂",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_GENERAL_Q144",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Number of moles of NaOH present in 2L of 0.5M NaOH is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1.5"
+        },
+        {
+          "key": "b",
+          "value": "2.0"
+        },
+        {
+          "key": "c",
+          "value": "1.0"
+        },
+        {
+          "key": "d",
+          "value": "2.5"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "1.0",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - General: Number of moles of NaOH present in 2L of 0.5M NaOH is Options: 1.5, 2.0, 1.0, 2.5. Correct answer: 1.0",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_GENERAL_Q146",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Substances exist because they posses",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Material"
+        },
+        {
+          "key": "b",
+          "value": "Molecular bonds"
+        },
+        {
+          "key": "c",
+          "value": "Volume"
+        },
+        {
+          "key": "d",
+          "value": "Heat"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Molecular bonds",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - General: Substances exist because they posses Options: Material, Molecular bonds, Volume, Heat. Correct answer: Molecular bonds",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_GENERAL_Q149",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Correct order among the following is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1 erg > 1 J > 1 cal"
+        },
+        {
+          "key": "b",
+          "value": "1 cal > 1 J > 1 erg"
+        },
+        {
+          "key": "c",
+          "value": "1 erg > 1 cal > 1 J"
+        },
+        {
+          "key": "d",
+          "value": "1 J > 1 cal > 1 erg"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "1 cal > 1 J > 1 erg",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - General: Correct order among the following is Options: 1 erg > 1 J > 1 cal, 1 cal > 1 J > 1 erg, 1 erg > 1 cal > 1 J, 1 J > 1 cal > 1 erg. Correct answer: 1 cal > 1 J > 1 erg",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_GENERAL_Q151",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The volatile metal is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Fe"
+        },
+        {
+          "key": "b",
+          "value": "Zn"
+        },
+        {
+          "key": "c",
+          "value": "Cu"
+        },
+        {
+          "key": "d",
+          "value": "Ag"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Zn",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - General: The volatile metal is Options: Fe, Zn, Cu, Ag. Correct answer: Zn",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_GENERAL_Q152",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Gypsum on heating 120°C - 130°C gives",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Anhydrous salt"
+        },
+        {
+          "key": "b",
+          "value": "Hemihydrate"
+        },
+        {
+          "key": "c",
+          "value": "Monohydrate"
+        },
+        {
+          "key": "d",
+          "value": "Dehydrates"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Hemihydrate",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - General: Gypsum on heating 120°C - 130°C gives Options: Anhydrous salt, Hemihydrate, Monohydrate, Dehydrates. Correct answer: Hemihydrate",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_GENERAL_Q153",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Substances exist because they posses",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Material"
+        },
+        {
+          "key": "b",
+          "value": "Molecular bonds"
+        },
+        {
+          "key": "c",
+          "value": "Volume"
+        },
+        {
+          "key": "d",
+          "value": "Heat"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Molecular bonds",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - General: Substances exist because they posses Options: Material, Molecular bonds, Volume, Heat. Correct answer: Molecular bonds",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_GENERAL_Q154",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "O₂, N₂ are present in the ratio of 1:4 by weight the ratio of number of molecules",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "7:32"
+        },
+        {
+          "key": "b",
+          "value": "1:4"
+        },
+        {
+          "key": "c",
+          "value": "2:1"
+        },
+        {
+          "key": "d",
+          "value": "4:1"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "7:32",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - General: O₂, N₂ are present in the ratio of 1:4 by weight the ratio of number of molecules Options: 7:32, 1:4, 2:1, 4:1. Correct answer: 7:32",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_GENERAL_Q156",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Farming's salt is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "NaCl"
+        },
+        {
+          "key": "b",
+          "value": "HF"
+        },
+        {
+          "key": "c",
+          "value": "KHF₂"
+        },
+        {
+          "key": "d",
+          "value": "KClO₃"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "KHF₂",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - General: Farming's salt is Options: NaCl, HF, KHF₂, KClO₃. Correct answer: KHF₂",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_GENERAL_Q158",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Transfer of heat from hot surrounding to cold refrigerator is an example of",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Spontaneous reaction"
+        },
+        {
+          "key": "b",
+          "value": "Non spontaneous reaction"
+        },
+        {
+          "key": "c",
+          "value": "First law of thermodynamics"
+        },
+        {
+          "key": "d",
+          "value": "All of above"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Non spontaneous reaction",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - General: Transfer of heat from hot surrounding to cold refrigerator is an example of Options: Spontaneous reaction, Non spontaneous reaction, First law of thermodynamics, All of above. Correct answer: Non spontaneous reaction",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_GENERAL_Q164",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Which molecule is planar?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "SF₄"
+        },
+        {
+          "key": "b",
+          "value": "XeF₄"
+        },
+        {
+          "key": "c",
+          "value": "NF₃"
+        },
+        {
+          "key": "d",
+          "value": "SiF₄"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "XeF₄",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - General: Which molecule is planar? Options: SF₄, XeF₄, NF₃, SiF₄. Correct answer: XeF₄",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_GENERAL_Q166",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "The RMS speed at NTP of a gas can be calculated from the expression:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "√(3P/d)"
+        },
+        {
+          "key": "b",
+          "value": "√(3PV/M)²"
+        },
+        {
+          "key": "c",
+          "value": "√(3RT/φM)"
+        },
+        {
+          "key": "d",
+          "value": "All of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "All of these",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - General: The RMS speed at NTP of a gas can be calculated from the expression: Options: √(3P/d), √(3PV/M)², √(3RT/φM), All of these. Correct answer: All of these",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_GENERAL_Q167",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Prussian blue is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "K₂Fe[Fe(CN)₆]"
+        },
+        {
+          "key": "b",
+          "value": "K₄[Fe(CN)₆]"
+        },
+        {
+          "key": "c",
+          "value": "Fe₄(Fe(CN)₆)"
+        },
+        {
+          "key": "d",
+          "value": "K₃(Fe(CN)₆)"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "K₂Fe[Fe(CN)₆]",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - General: Prussian blue is Options: K₂Fe[Fe(CN)₆], K₄[Fe(CN)₆], Fe₄(Fe(CN)₆), K₃(Fe(CN)₆). Correct answer: K₂Fe[Fe(CN)₆]",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_GENERAL_Q168",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Following are fundamental ways of transferring energy",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Pressure and work"
+        },
+        {
+          "key": "b",
+          "value": "Volume and pressure"
+        },
+        {
+          "key": "c",
+          "value": "Heat and work"
+        },
+        {
+          "key": "d",
+          "value": "Pressure and heat"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Heat and work",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - General: Following are fundamental ways of transferring energy Options: Pressure and work, Volume and pressure, Heat and work, Pressure and heat. Correct answer: Heat and work",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

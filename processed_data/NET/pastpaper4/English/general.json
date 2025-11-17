@@ -1,0 +1,831 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET English - General",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 15,
+    "source_file": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "English",
+    "main_topic": "General"
+  },
+  "questions": [
+    {
+      "question_id": "NET_ENG_GENERAL_Q170",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "_________ is a very difficult profession for a lazy person as you",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "That copper mining"
+        },
+        {
+          "key": "b",
+          "value": "It is copper mining"
+        },
+        {
+          "key": "c",
+          "value": "Although copper mining"
+        },
+        {
+          "key": "d",
+          "value": "Copper mining"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Copper mining",
+        "explanation": ""
+      },
+      "embedding_text": "English - General: _________ is a very difficult profession for a lazy person as you Options: That copper mining, It is copper mining, Although copper mining, Copper mining. Correct answer: Copper mining",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_GENERAL_Q171",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "She read _______",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Several chapters in the library last night"
+        },
+        {
+          "key": "b",
+          "value": "Last night several chapters in the library"
+        },
+        {
+          "key": "c",
+          "value": "Last night in library several chapters"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Several chapters in the library last night",
+        "explanation": ""
+      },
+      "embedding_text": "English - General: She read _______ Options: Several chapters in the library last night, Last night several chapters in the library, Last night in library several chapters. Correct answer: Several chapters in the library last night",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_GENERAL_Q172",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "He is taking some ________ this semester",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Histories class"
+        },
+        {
+          "key": "b",
+          "value": "History classes"
+        },
+        {
+          "key": "c",
+          "value": "History class"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "History classes",
+        "explanation": ""
+      },
+      "embedding_text": "English - General: He is taking some ________ this semester Options: Histories class, History classes, History class, None. Correct answer: History classes",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_GENERAL_Q173",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The _________ death",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "wages of sins are"
+        },
+        {
+          "key": "b",
+          "value": "Wage of sin are"
+        },
+        {
+          "key": "c",
+          "value": "Wages of sin is"
+        },
+        {
+          "key": "d",
+          "value": "Wage of sins are"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Wages of sin is",
+        "explanation": ""
+      },
+      "embedding_text": "English - General: The _________ death Options: wages of sins are, Wage of sin are, Wages of sin is, Wage of sins are. Correct answer: Wages of sin is",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_GENERAL_Q174",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Murtaza scored _________ in his last entry test",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "The least points"
+        },
+        {
+          "key": "b",
+          "value": "A least points"
+        },
+        {
+          "key": "c",
+          "value": "The fewest points"
+        },
+        {
+          "key": "d",
+          "value": "The fewer points"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "The fewest points",
+        "explanation": ""
+      },
+      "embedding_text": "English - General: Murtaza scored _________ in his last entry test Options: The least points, A least points, The fewest points, The fewer points. Correct answer: The fewest points",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_GENERAL_Q176",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The advent of science and technology has increased the",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "freedom of people"
+        },
+        {
+          "key": "b",
+          "value": "tyranny of political parties"
+        },
+        {
+          "key": "c",
+          "value": "powers of the government"
+        },
+        {
+          "key": "d",
+          "value": "chances of economic inequality"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "powers of the government",
+        "explanation": ""
+      },
+      "embedding_text": "English - General: The advent of science and technology has increased the Options: freedom of people, tyranny of political parties, powers of the government, chances of economic inequality. Correct answer: powers of the government",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_GENERAL_Q191",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "An index that estimates true rate of exchange among the currencies is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Human development index"
+        },
+        {
+          "key": "b",
+          "value": "Exchange rate"
+        },
+        {
+          "key": "c",
+          "value": "Purchasing rate"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Purchasing rate",
+        "explanation": ""
+      },
+      "embedding_text": "English - General: An index that estimates true rate of exchange among the currencies is Options: Human development index, Exchange rate, Purchasing rate, None. Correct answer: Purchasing rate",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_GENERAL_Q192",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "LRR is stand for",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Lahore ring road"
+        },
+        {
+          "key": "b",
+          "value": "Large ring road"
+        },
+        {
+          "key": "c",
+          "value": ". Lahore ring road"
+        },
+        {
+          "key": "d",
+          "value": "Long ring road"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Lahore ring road",
+        "explanation": ""
+      },
+      "embedding_text": "English - General: LRR is stand for Options: Lahore ring road, Large ring road, . Lahore ring road, Long ring road. Correct answer: Lahore ring road",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_GENERAL_Q193",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Who is allegedly the current head of al-Qaida?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Khalid sheikh MOHAMMAD"
+        },
+        {
+          "key": "b",
+          "value": "Osama bin laden (late)"
+        },
+        {
+          "key": "c",
+          "value": "Ayman ul Zawahiri"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Ayman ul Zawahiri",
+        "explanation": ""
+      },
+      "embedding_text": "English - General: Who is allegedly the current head of al-Qaida? Options: Khalid sheikh MOHAMMAD, Osama bin laden (late), Ayman ul Zawahiri, None. Correct answer: Ayman ul Zawahiri",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_GENERAL_Q194",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Who is chancellor of Germany",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Joachim Gauck"
+        },
+        {
+          "key": "b",
+          "value": "Angela Merkel"
+        },
+        {
+          "key": "c",
+          "value": "John Atta Mills"
+        },
+        {
+          "key": "d",
+          "value": "Laszlo Kover"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Angela Merkel",
+        "explanation": ""
+      },
+      "embedding_text": "English - General: Who is chancellor of Germany Options: Joachim Gauck, Angela Merkel, John Atta Mills, Laszlo Kover. Correct answer: Angela Merkel",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_GENERAL_Q196",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "BCB stand for",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Bhutan cricket board"
+        },
+        {
+          "key": "b",
+          "value": "Bangladesh cricket board"
+        },
+        {
+          "key": "c",
+          "value": "Belgium cricket board"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Bangladesh cricket board",
+        "explanation": ""
+      },
+      "embedding_text": "English - General: BCB stand for Options: Bhutan cricket board, Bangladesh cricket board, Belgium cricket board, None. Correct answer: Bangladesh cricket board",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_GENERAL_Q197",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Who was honored with highest cultural award of France the commander of the order on 17th July 2013",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "David bowie"
+        },
+        {
+          "key": "b",
+          "value": "Paul hewson"
+        },
+        {
+          "key": "c",
+          "value": "Bruce Willis"
+        },
+        {
+          "key": "d",
+          "value": "Bob Dylan"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Bob Dylan",
+        "explanation": ""
+      },
+      "embedding_text": "English - General: Who was honored with highest cultural award of France the commander of the order on 17th July 2013 Options: David bowie, Paul hewson, Bruce Willis, Bob Dylan. Correct answer: Bob Dylan",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_GENERAL_Q198",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Identify the current hajj year",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1432"
+        },
+        {
+          "key": "b",
+          "value": "1433"
+        },
+        {
+          "key": "c",
+          "value": "1434"
+        },
+        {
+          "key": "d",
+          "value": "1435"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "1435",
+        "explanation": ""
+      },
+      "embedding_text": "English - General: Identify the current hajj year Options: 1432, 1433, 1434, 1435. Correct answer: 1435",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_GENERAL_Q199",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Du plessis is player of",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Hockey"
+        },
+        {
+          "key": "c",
+          "value": "Football"
+        },
+        {
+          "key": "d",
+          "value": "Snooker"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "",
+        "explanation": ""
+      },
+      "embedding_text": "English - General: Du plessis is player of Options: Hockey, Football, Snooker. Correct answer: ",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_GENERAL_Q200",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General",
+        "sub_topic": "General",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Easy jet is airline of",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Uk"
+        },
+        {
+          "key": "b",
+          "value": "Malaysia"
+        },
+        {
+          "key": "c",
+          "value": "Spain"
+        },
+        {
+          "key": "d",
+          "value": "Turkey"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Uk",
+        "explanation": ""
+      },
+      "embedding_text": "English - General: Easy jet is airline of Options: Uk, Malaysia, Spain, Turkey. Correct answer: Uk",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general"
+        ],
+        "prerequisites": [
+          "general"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

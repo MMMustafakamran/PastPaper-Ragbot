@@ -1,0 +1,234 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Functions and Limits",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 4,
+    "source_file": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Functions and Limits"
+  },
+  "questions": [
+    {
+      "question_id": "NET_MAT_FUNCTIONS_AND_LIMITS_Q019",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Functions and Limits",
+        "sub_topic": "Functions and Limits",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "If t₁ and t₂ are the times of flight of two particles having the same initial velocity u and range R on the horizontal, then t₁²+t₂² is equal to:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "u²/g"
+        },
+        {
+          "key": "b",
+          "value": "4u²/g"
+        },
+        {
+          "key": "c",
+          "value": "u²/2g"
+        },
+        {
+          "key": "d",
+          "value": "4"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "4u²/g",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Functions and Limits: If t₁ and t₂ are the times of flight of two particles having the same initial velocity u and range R on the horizontal, then t₁²+t₂² is equal to: Options: u²/g, 4u²/g, u²/2g, 4. Correct answer: 4u²/g",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "functions and limits"
+        ],
+        "prerequisites": [
+          "functions and limits"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_FUNCTIONS_AND_LIMITS_Q025",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Functions and Limits",
+        "sub_topic": "Functions and Limits",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The domain of the function f(x)=cos⁻¹x/|x| is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "[-1,0)∪{1}"
+        },
+        {
+          "key": "b",
+          "value": "[-1,1]"
+        },
+        {
+          "key": "c",
+          "value": "[-1,1)"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "None",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Functions and Limits: The domain of the function f(x)=cos⁻¹x/|x| is: Options: [-1,0)∪{1}, [-1,1], [-1,1), None. Correct answer: None",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "functions and limits"
+        ],
+        "prerequisites": [
+          "functions and limits"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_FUNCTIONS_AND_LIMITS_Q065",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Functions and Limits",
+        "sub_topic": "Functions and Limits",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "If the projectile motion range R is max then relation between H and R is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "H=R/2"
+        },
+        {
+          "key": "b",
+          "value": "H=R/4"
+        },
+        {
+          "key": "c",
+          "value": "H=2R"
+        },
+        {
+          "key": "d",
+          "value": "H=R/8"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "H=R/4",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Functions and Limits: If the projectile motion range R is max then relation between H and R is: Options: H=R/2, H=R/4, H=2R, H=R/8. Correct answer: H=R/4",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "functions and limits"
+        ],
+        "prerequisites": [
+          "functions and limits"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_FUNCTIONS_AND_LIMITS_Q069",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Functions and Limits",
+        "sub_topic": "Functions and Limits",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The value of limit x→0 (4ˣ-1)³/[sin(x²/4)log(1+3x)] is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "4/3(ln 4)²"
+        },
+        {
+          "key": "b",
+          "value": "4/3(ln 4)³"
+        },
+        {
+          "key": "c",
+          "value": "3/2(ln 4)²"
+        },
+        {
+          "key": "d",
+          "value": "3/2(ln 4)³"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "4/3(ln 4)³",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Functions and Limits: The value of limit x→0 (4ˣ-1)³/[sin(x²/4)log(1+3x)] is: Options: 4/3(ln 4)², 4/3(ln 4)³, 3/2(ln 4)², 3/2(ln 4)³. Correct answer: 4/3(ln 4)³",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "functions and limits"
+        ],
+        "prerequisites": [
+          "functions and limits"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

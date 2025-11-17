@@ -1,0 +1,234 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Physics - Optics",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 4,
+    "source_file": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Physics",
+    "main_topic": "Optics"
+  },
+  "questions": [
+    {
+      "question_id": "NET_PHY_OPTICS_Q103",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Optics",
+        "sub_topic": "Optics",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "When the light enters from air to glass, it suffers a change in the",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Wavelength of light"
+        },
+        {
+          "key": "b",
+          "value": "Speed of light"
+        },
+        {
+          "key": "c",
+          "value": "Frequency of light"
+        },
+        {
+          "key": "d",
+          "value": "Wavelength and speed of light"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Wavelength and speed of light",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Optics: When the light enters from air to glass, it suffers a change in the Options: Wavelength of light, Speed of light, Frequency of light, Wavelength and speed of light. Correct answer: Wavelength and speed of light",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "optics"
+        ],
+        "prerequisites": [
+          "optics"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_OPTICS_Q104",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Optics",
+        "sub_topic": "Optics",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Which one of the following properties of light does not change with the nature of medium?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Frequency of light"
+        },
+        {
+          "key": "b",
+          "value": "Wavelength of light"
+        },
+        {
+          "key": "c",
+          "value": "Speed of light"
+        },
+        {
+          "key": "d",
+          "value": "All of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Frequency of light",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Optics: Which one of the following properties of light does not change with the nature of medium? Options: Frequency of light, Wavelength of light, Speed of light, All of these. Correct answer: Frequency of light",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "optics"
+        ],
+        "prerequisites": [
+          "optics"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_OPTICS_Q106",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Optics",
+        "sub_topic": "Optics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The powers of the objective and eye piece of telescope are 0.5 diopter and 10 diopter respectively. The magnifying power of telescope is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "0.5"
+        },
+        {
+          "key": "b",
+          "value": "10"
+        },
+        {
+          "key": "c",
+          "value": "20"
+        },
+        {
+          "key": "d",
+          "value": "0.05"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "20",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Optics: The powers of the objective and eye piece of telescope are 0.5 diopter and 10 diopter respectively. The magnifying power of telescope is Options: 0.5, 10, 20, 0.05. Correct answer: 20",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "optics"
+        ],
+        "prerequisites": [
+          "optics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_OPTICS_Q130",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Optics",
+        "sub_topic": "Optics",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The color of light emitted by light emitting diode depends upon",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Forward voltage"
+        },
+        {
+          "key": "b",
+          "value": "Reverse current"
+        },
+        {
+          "key": "c",
+          "value": "Forward current"
+        },
+        {
+          "key": "d",
+          "value": "Type of semiconductors"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Type of semiconductors",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Optics: The color of light emitted by light emitting diode depends upon Options: Forward voltage, Reverse current, Forward current, Type of semiconductors. Correct answer: Type of semiconductors",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "optics"
+        ],
+        "prerequisites": [
+          "optics"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

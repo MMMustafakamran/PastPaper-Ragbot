@@ -1,0 +1,344 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Physics - Electricity and Magnetism",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 6,
+    "source_file": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Physics",
+    "main_topic": "Electricity and Magnetism"
+  },
+  "questions": [
+    {
+      "question_id": "NET_PHY_ELECTRICITY_AND_MAGNETISM_Q083",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Electricity and Magnetism",
+        "sub_topic": "Electricity and Magnetism",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "A parallel plate capacitor has a capacity 80×10⁻⁶F when air is present between the plates. The volume between the plates is then completely filled with a dielectric slab of dielectric constant 20. The capacitor is now connected to a battery of 30v by wires. The dielectric slab is then removed. Then the charge that passes now through the wire is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "45.6×10⁻³c"
+        },
+        {
+          "key": "b",
+          "value": "25.3×10⁻³c"
+        },
+        {
+          "key": "c",
+          "value": "120×10⁻³c"
+        },
+        {
+          "key": "d",
+          "value": "120×10⁻³c"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "45.6×10⁻³c",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Electricity and Magnetism: A parallel plate capacitor has a capacity 80×10⁻⁶F when air is present between the plates. The volume between the plates is then completely filled with a dielectric slab of dielectric constant 20. The capacitor is now connected to a battery of 30v by wires. The dielectric slab is then removed. Then the charge that passes now through the wire is: Options: 45.6×10⁻³c, 25.3×10⁻³c, 120×10⁻³c, 120×10⁻³c. Correct answer: 45.6×10⁻³c",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "electricity and magnetism"
+        ],
+        "prerequisites": [
+          "electricity and magnetism"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_ELECTRICITY_AND_MAGNETISM_Q086",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Electricity and Magnetism",
+        "sub_topic": "Electricity and Magnetism",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "A primary coil and secondary coil are placed close to each other. The current which changes at the rate of 25 amps in a millisecond, is present in the primary coil. If the mutual inductance is 92×10⁻⁶ henries, then the value of induced Emf in the secondary coil is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "4.6v"
+        },
+        {
+          "key": "b",
+          "value": "2.3v"
+        },
+        {
+          "key": "c",
+          "value": "(missing)"
+        },
+        {
+          "key": "d",
+          "value": "(missing)"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "2.3v",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Electricity and Magnetism: A primary coil and secondary coil are placed close to each other. The current which changes at the rate of 25 amps in a millisecond, is present in the primary coil. If the mutual inductance is 92×10⁻⁶ henries, then the value of induced Emf in the secondary coil is: Options: 4.6v, 2.3v, (missing), (missing). Correct answer: 2.3v",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "electricity and magnetism"
+        ],
+        "prerequisites": [
+          "electricity and magnetism"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_ELECTRICITY_AND_MAGNETISM_Q092",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Electricity and Magnetism",
+        "sub_topic": "Electricity and Magnetism",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "Let [ε₀] denote the dimensional formula of the permittivity of vacuum. If M=mass, L=length, T=time and A=electric current, then:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "[ε₀]=[M⁻¹L⁻³T⁴A²]"
+        },
+        {
+          "key": "b",
+          "value": "[ε₀]=[M⁻¹L²T¹A⁻²]"
+        },
+        {
+          "key": "c",
+          "value": "[ε₀]=[M⁻¹L²T⁻¹A]"
+        },
+        {
+          "key": "d",
+          "value": "[ε₀]=[M⁻¹L⁻³T²A]"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "[ε₀]=[M⁻¹L⁻³T⁴A²]",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Electricity and Magnetism: Let [ε₀] denote the dimensional formula of the permittivity of vacuum. If M=mass, L=length, T=time and A=electric current, then: Options: [ε₀]=[M⁻¹L⁻³T⁴A²], [ε₀]=[M⁻¹L²T¹A⁻²], [ε₀]=[M⁻¹L²T⁻¹A], [ε₀]=[M⁻¹L⁻³T²A]. Correct answer: [ε₀]=[M⁻¹L⁻³T⁴A²]",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "electricity and magnetism"
+        ],
+        "prerequisites": [
+          "electricity and magnetism"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_ELECTRICITY_AND_MAGNETISM_Q120",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Electricity and Magnetism",
+        "sub_topic": "Electricity and Magnetism",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "A wire of uniform cross section A, length L and resistance R is cut into two equal pieces. The resistivity of each piece will be:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "The same"
+        },
+        {
+          "key": "b",
+          "value": "One fourth"
+        },
+        {
+          "key": "c",
+          "value": "Double"
+        },
+        {
+          "key": "d",
+          "value": "One half"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "The same",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Electricity and Magnetism: A wire of uniform cross section A, length L and resistance R is cut into two equal pieces. The resistivity of each piece will be: Options: The same, One fourth, Double, One half. Correct answer: The same",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "electricity and magnetism"
+        ],
+        "prerequisites": [
+          "electricity and magnetism"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_ELECTRICITY_AND_MAGNETISM_Q124",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Electricity and Magnetism",
+        "sub_topic": "Electricity and Magnetism",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "Two short bar magnets have their magnetic moments 1.2Am² and 1.0Am². They are placed on a horizontal table parallel to each other at a distance of 20cm between their centers, such that their north poles pointing towards geographic south. They have common magnetic equatorial line. Horizontal component of earth's field is 3.6×10⁻⁵T. Then, the resultant horizontal magnetic induction at mid-point of the line joining their centers:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "3.6×10⁻⁵T"
+        },
+        {
+          "key": "b",
+          "value": "1.84×10⁻⁴T"
+        },
+        {
+          "key": "c",
+          "value": "2.56×10⁻⁴T"
+        },
+        {
+          "key": "d",
+          "value": "5.8×10⁻⁵T"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "1.84×10⁻⁴T",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Electricity and Magnetism: Two short bar magnets have their magnetic moments 1.2Am² and 1.0Am². They are placed on a horizontal table parallel to each other at a distance of 20cm between their centers, such that their north poles pointing towards geographic south. They have common magnetic equatorial line. Horizontal component of earth's field is 3.6×10⁻⁵T. Then, the resultant horizontal magnetic induction at mid-point of the line joining their centers: Options: 3.6×10⁻⁵T, 1.84×10⁻⁴T, 2.56×10⁻⁴T, 5.8×10⁻⁵T. Correct answer: 1.84×10⁻⁴T",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "electricity and magnetism"
+        ],
+        "prerequisites": [
+          "electricity and magnetism"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_ELECTRICITY_AND_MAGNETISM_Q125",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Electricity and Magnetism",
+        "sub_topic": "Electricity and Magnetism",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The S.I unit of magnetic flux is weber which is equal to:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "NmA⁻¹"
+        },
+        {
+          "key": "b",
+          "value": "Nm²/A"
+        },
+        {
+          "key": "c",
+          "value": "NA/m"
+        },
+        {
+          "key": "d",
+          "value": "Nm/A⁻²"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "NmA⁻¹",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Electricity and Magnetism: The S.I unit of magnetic flux is weber which is equal to: Options: NmA⁻¹, Nm²/A, NA/m, Nm/A⁻². Correct answer: NmA⁻¹",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "electricity and magnetism"
+        ],
+        "prerequisites": [
+          "electricity and magnetism"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

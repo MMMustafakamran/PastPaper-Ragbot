@@ -1,0 +1,1114 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Chemistry - Atomic Structure",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 20,
+    "source_file": "PAST NET SEIRES 200 MCQS(1) solved.txt",
+    "exam_type": "NET",
+    "subject": "Chemistry",
+    "main_topic": "Atomic Structure"
+  },
+  "questions": [
+    {
+      "question_id": "NET_CHE_ATOMIC_STRUCTURE_Q141",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Atomic Structure",
+        "sub_topic": "Atomic Structure",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Which series is emitted when electron jumps from a higher orbit to fifth orbit?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Lymann"
+        },
+        {
+          "key": "b",
+          "value": "Balmer"
+        },
+        {
+          "key": "c",
+          "value": "Pfund"
+        },
+        {
+          "key": "d",
+          "value": "Brackett"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Pfund",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Atomic Structure: Which series is emitted when electron jumps from a higher orbit to fifth orbit? Options: Lymann, Balmer, Pfund, Brackett. Correct answer: Pfund",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "atomic structure"
+        ],
+        "prerequisites": [
+          "atomic structure"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_ATOMIC_STRUCTURE_Q142",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Atomic Structure",
+        "sub_topic": "Atomic Structure",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Sky appears blue due to the?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Light interference"
+        },
+        {
+          "key": "b",
+          "value": "Light diffraction"
+        },
+        {
+          "key": "c",
+          "value": "Light scattering"
+        },
+        {
+          "key": "d",
+          "value": "Light polarization"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Light scattering",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Atomic Structure: Sky appears blue due to the? Options: Light interference, Light diffraction, Light scattering, Light polarization. Correct answer: Light scattering",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "atomic structure"
+        ],
+        "prerequisites": [
+          "atomic structure"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_ATOMIC_STRUCTURE_Q143",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Atomic Structure",
+        "sub_topic": "Atomic Structure",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Kinetic energy of photoelectrons depends on",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "intensity of light"
+        },
+        {
+          "key": "b",
+          "value": "frequency of light"
+        },
+        {
+          "key": "c",
+          "value": "both"
+        },
+        {
+          "key": "d",
+          "value": "none"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "frequency of light",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Atomic Structure: Kinetic energy of photoelectrons depends on Options: intensity of light, frequency of light, both, none. Correct answer: frequency of light",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "atomic structure"
+        ],
+        "prerequisites": [
+          "atomic structure"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_ATOMIC_STRUCTURE_Q144",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Atomic Structure",
+        "sub_topic": "Atomic Structure",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "in a parallel plate capacitor if 'd' is the separation between plates and 'A' is the area, what will be capacitance if separation is doubled and area is halved?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "C/4"
+        },
+        {
+          "key": "b",
+          "value": "C/2"
+        },
+        {
+          "key": "c",
+          "value": "2C"
+        },
+        {
+          "key": "d",
+          "value": "4C"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "C/4",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Atomic Structure: in a parallel plate capacitor if 'd' is the separation between plates and 'A' is the area, what will be capacitance if separation is doubled and area is halved? Options: C/4, C/2, 2C, 4C. Correct answer: C/4",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "atomic structure"
+        ],
+        "prerequisites": [
+          "atomic structure"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_ATOMIC_STRUCTURE_Q145",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Atomic Structure",
+        "sub_topic": "Atomic Structure",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "If number of rulings (lines) are halved what will be effect on grating element of spectrometer?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Half"
+        },
+        {
+          "key": "b",
+          "value": "Doubled"
+        },
+        {
+          "key": "c",
+          "value": "No effect"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Doubled",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Atomic Structure: If number of rulings (lines) are halved what will be effect on grating element of spectrometer? Options: Half, Doubled, No effect, None. Correct answer: Doubled",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "atomic structure"
+        ],
+        "prerequisites": [
+          "atomic structure"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_ATOMIC_STRUCTURE_Q146",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Atomic Structure",
+        "sub_topic": "Atomic Structure",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "What effect become on time period of simple pendulum when its length become doubled",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Reduced to half"
+        },
+        {
+          "key": "b",
+          "value": "Increase two time"
+        },
+        {
+          "key": "c",
+          "value": "1.4 time reduced"
+        },
+        {
+          "key": "d",
+          "value": "increases four time"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "increases four time",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Atomic Structure: What effect become on time period of simple pendulum when its length become doubled Options: Reduced to half, Increase two time, 1.4 time reduced, increases four time. Correct answer: increases four time",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "atomic structure"
+        ],
+        "prerequisites": [
+          "atomic structure"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_ATOMIC_STRUCTURE_Q147",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Atomic Structure",
+        "sub_topic": "Atomic Structure",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "What will be the force between two charges if the distance between them is halved?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Half"
+        },
+        {
+          "key": "b",
+          "value": "Increase by 2times"
+        },
+        {
+          "key": "c",
+          "value": "4times increase"
+        },
+        {
+          "key": "d",
+          "value": "1/4"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "4times increase",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Atomic Structure: What will be the force between two charges if the distance between them is halved? Options: Half, Increase by 2times, 4times increase, 1/4. Correct answer: 4times increase",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "atomic structure"
+        ],
+        "prerequisites": [
+          "atomic structure"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_ATOMIC_STRUCTURE_Q148",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Atomic Structure",
+        "sub_topic": "Atomic Structure",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "If w=0.50m/s , diameter of circle is half a meter then projection on diameter has time period ?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1sec"
+        },
+        {
+          "key": "b",
+          "value": "2sec"
+        },
+        {
+          "key": "c",
+          "value": "Pi sec"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Pi sec",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Atomic Structure: If w=0.50m/s , diameter of circle is half a meter then projection on diameter has time period ? Options: 1sec, 2sec, Pi sec, None. Correct answer: Pi sec",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "atomic structure"
+        ],
+        "prerequisites": [
+          "atomic structure"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_ATOMIC_STRUCTURE_Q151",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Atomic Structure",
+        "sub_topic": "Atomic Structure",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "In mass spectrometry, ionization occurs on:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "solid form"
+        },
+        {
+          "key": "b",
+          "value": "liquid form"
+        },
+        {
+          "key": "c",
+          "value": "vapor form"
+        },
+        {
+          "key": "d",
+          "value": "no ionization"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "vapor form",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Atomic Structure: In mass spectrometry, ionization occurs on: Options: solid form, liquid form, vapor form, no ionization. Correct answer: vapor form",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "atomic structure"
+        ],
+        "prerequisites": [
+          "atomic structure"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_ATOMIC_STRUCTURE_Q152",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Atomic Structure",
+        "sub_topic": "Atomic Structure",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Chemical properties of an atom depend upon number of?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "electrons"
+        },
+        {
+          "key": "b",
+          "value": "neutrons"
+        },
+        {
+          "key": "c",
+          "value": "protons"
+        },
+        {
+          "key": "d",
+          "value": "nucleons"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "electrons",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Atomic Structure: Chemical properties of an atom depend upon number of? Options: electrons, neutrons, protons, nucleons. Correct answer: electrons",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "atomic structure"
+        ],
+        "prerequisites": [
+          "atomic structure"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_ATOMIC_STRUCTURE_Q153",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Atomic Structure",
+        "sub_topic": "Atomic Structure",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Physical and chemical properties of an element depend upon:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "only atomic mass"
+        },
+        {
+          "key": "b",
+          "value": "only atomic number"
+        },
+        {
+          "key": "c",
+          "value": "atomic mass and atomic number respectively"
+        },
+        {
+          "key": "d",
+          "value": "atomic number and atomic mass respectively"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "only atomic number",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Atomic Structure: Physical and chemical properties of an element depend upon: Options: only atomic mass, only atomic number, atomic mass and atomic number respectively, atomic number and atomic mass respectively. Correct answer: only atomic number",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "atomic structure"
+        ],
+        "prerequisites": [
+          "atomic structure"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_ATOMIC_STRUCTURE_Q154",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Atomic Structure",
+        "sub_topic": "Atomic Structure",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "the velocity of electron in outer most shell",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "maximum"
+        },
+        {
+          "key": "b",
+          "value": "minimum"
+        },
+        {
+          "key": "c",
+          "value": "intermediate"
+        },
+        {
+          "key": "d",
+          "value": "none"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "minimum",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Atomic Structure: the velocity of electron in outer most shell Options: maximum, minimum, intermediate, none. Correct answer: minimum",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "atomic structure"
+        ],
+        "prerequisites": [
+          "atomic structure"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_ATOMIC_STRUCTURE_Q155",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Atomic Structure",
+        "sub_topic": "Atomic Structure",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "which of the following has highest boiling point?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "He"
+        },
+        {
+          "key": "b",
+          "value": "Ne"
+        },
+        {
+          "key": "c",
+          "value": "Kr"
+        },
+        {
+          "key": "d",
+          "value": "Ar"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Kr",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Atomic Structure: which of the following has highest boiling point? Options: He, Ne, Kr, Ar. Correct answer: Kr",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "atomic structure"
+        ],
+        "prerequisites": [
+          "atomic structure"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_ATOMIC_STRUCTURE_Q156",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Atomic Structure",
+        "sub_topic": "Atomic Structure",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Which one of the following has the higher bond forces among its molecules?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Water"
+        },
+        {
+          "key": "b",
+          "value": "Nitrogen"
+        },
+        {
+          "key": "c",
+          "value": "Neon"
+        },
+        {
+          "key": "d",
+          "value": "Hydrogen Fluoride"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Hydrogen Fluoride",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Atomic Structure: Which one of the following has the higher bond forces among its molecules? Options: Water, Nitrogen, Neon, Hydrogen Fluoride. Correct answer: Hydrogen Fluoride",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "atomic structure"
+        ],
+        "prerequisites": [
+          "atomic structure"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_ATOMIC_STRUCTURE_Q157",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Atomic Structure",
+        "sub_topic": "Atomic Structure",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Which of the following does not have an incomplete d orbital?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Ag"
+        },
+        {
+          "key": "b",
+          "value": "Cu"
+        },
+        {
+          "key": "c",
+          "value": "Au"
+        },
+        {
+          "key": "d",
+          "value": "Ti"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Ti",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Atomic Structure: Which of the following does not have an incomplete d orbital? Options: Ag, Cu, Au, Ti. Correct answer: Ti",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "atomic structure"
+        ],
+        "prerequisites": [
+          "atomic structure"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_ATOMIC_STRUCTURE_Q158",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Atomic Structure",
+        "sub_topic": "Atomic Structure",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Each carbon in benzene is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Sp³ hybridize"
+        },
+        {
+          "key": "b",
+          "value": "Sp² hybridize"
+        },
+        {
+          "key": "c",
+          "value": "Sp hybridize"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Sp² hybridize",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Atomic Structure: Each carbon in benzene is Options: Sp³ hybridize, Sp² hybridize, Sp hybridize, None. Correct answer: Sp² hybridize",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "atomic structure"
+        ],
+        "prerequisites": [
+          "atomic structure"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_ATOMIC_STRUCTURE_Q160",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Atomic Structure",
+        "sub_topic": "Atomic Structure",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "colligative properties depend upon ....?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Solute"
+        },
+        {
+          "key": "b",
+          "value": "Solvent"
+        },
+        {
+          "key": "c",
+          "value": "Both"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Solute",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Atomic Structure: colligative properties depend upon ....? Options: Solute, Solvent, Both, None. Correct answer: Solute",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "atomic structure"
+        ],
+        "prerequisites": [
+          "atomic structure"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_ATOMIC_STRUCTURE_Q161",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Atomic Structure",
+        "sub_topic": "Atomic Structure",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "WHICH ONE ARE GASES?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Methane"
+        },
+        {
+          "key": "b",
+          "value": "Ethane"
+        },
+        {
+          "key": "c",
+          "value": "Propane"
+        },
+        {
+          "key": "d",
+          "value": "All"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "All",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Atomic Structure: WHICH ONE ARE GASES? Options: Methane, Ethane, Propane, All. Correct answer: All",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "atomic structure"
+        ],
+        "prerequisites": [
+          "atomic structure"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_ATOMIC_STRUCTURE_Q164",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Atomic Structure",
+        "sub_topic": "Atomic Structure",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "transmutation is the decay of:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "alpha"
+        },
+        {
+          "key": "b",
+          "value": "beta"
+        },
+        {
+          "key": "c",
+          "value": "gamma"
+        },
+        {
+          "key": "d",
+          "value": "All"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "All",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Atomic Structure: transmutation is the decay of: Options: alpha, beta, gamma, All. Correct answer: All",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "atomic structure"
+        ],
+        "prerequisites": [
+          "atomic structure"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_ATOMIC_STRUCTURE_Q167",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Atomic Structure",
+        "sub_topic": "Atomic Structure",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Grignard's Reagant on hydrolysis gives",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Lower hydrocarbon"
+        },
+        {
+          "key": "b",
+          "value": "Higher hydrocarbon"
+        },
+        {
+          "key": "c",
+          "value": "Alcohols"
+        },
+        {
+          "key": "d",
+          "value": "Alkyl halide"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Alcohols",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Atomic Structure: Grignard's Reagant on hydrolysis gives Options: Lower hydrocarbon, Higher hydrocarbon, Alcohols, Alkyl halide. Correct answer: Alcohols",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "atomic structure"
+        ],
+        "prerequisites": [
+          "atomic structure"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

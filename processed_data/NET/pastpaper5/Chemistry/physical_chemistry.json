@@ -1,0 +1,179 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Chemistry - Physical Chemistry",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 3,
+    "source_file": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Chemistry",
+    "main_topic": "Physical Chemistry"
+  },
+  "questions": [
+    {
+      "question_id": "NET_CHE_PHYSICAL_CHEMISTRY_Q141",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Physical Chemistry",
+        "sub_topic": "Physical Chemistry",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The gas leaked from a storage tank of union carbide plant in Bhopal gas tragedy was:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "methylamine"
+        },
+        {
+          "key": "b",
+          "value": "ammonia"
+        },
+        {
+          "key": "c",
+          "value": "phosgene"
+        },
+        {
+          "key": "d",
+          "value": "methylisocyanate"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "methylisocyanate",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Physical Chemistry: The gas leaked from a storage tank of union carbide plant in Bhopal gas tragedy was: Options: methylamine, ammonia, phosgene, methylisocyanate. Correct answer: methylisocyanate",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "physical chemistry"
+        ],
+        "prerequisites": [
+          "physical chemistry"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_PHYSICAL_CHEMISTRY_Q151",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Physical Chemistry",
+        "sub_topic": "Physical Chemistry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Which of the following will have highest coagulating power for As₂S₃ colloids?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Al³⁺"
+        },
+        {
+          "key": "b",
+          "value": "PO₄³⁻"
+        },
+        {
+          "key": "c",
+          "value": "SO₄²⁻"
+        },
+        {
+          "key": "d",
+          "value": "Na⁺"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Al³⁺",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Physical Chemistry: Which of the following will have highest coagulating power for As₂S₃ colloids? Options: Al³⁺, PO₄³⁻, SO₄²⁻, Na⁺. Correct answer: Al³⁺",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "physical chemistry"
+        ],
+        "prerequisites": [
+          "physical chemistry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_PHYSICAL_CHEMISTRY_Q152",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Physical Chemistry",
+        "sub_topic": "Physical Chemistry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The low density of ice compared to water is due to:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Induced dipole-induced dipole interactions"
+        },
+        {
+          "key": "b",
+          "value": "Dipole-induced dipole interactions"
+        },
+        {
+          "key": "c",
+          "value": "Hydrogen bonding interaction"
+        },
+        {
+          "key": "d",
+          "value": "Dipole-dipole interaction"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Hydrogen bonding interaction",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Physical Chemistry: The low density of ice compared to water is due to: Options: Induced dipole-induced dipole interactions, Dipole-induced dipole interactions, Hydrogen bonding interaction, Dipole-dipole interaction. Correct answer: Hydrogen bonding interaction",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "physical chemistry"
+        ],
+        "prerequisites": [
+          "physical chemistry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

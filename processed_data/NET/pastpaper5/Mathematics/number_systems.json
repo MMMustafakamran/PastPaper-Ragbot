@@ -1,0 +1,564 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Number Systems",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 10,
+    "source_file": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Number Systems"
+  },
+  "questions": [
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q001",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "∀a,b,εR,abεR represents:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Commutative law of multiplication"
+        },
+        {
+          "key": "b",
+          "value": "Associative law of multiplication"
+        },
+        {
+          "key": "c",
+          "value": "Closure law of multiplication"
+        },
+        {
+          "key": "d",
+          "value": "Multiplicative identity"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Closure law of multiplication",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: ∀a,b,εR,abεR represents: Options: Commutative law of multiplication, Associative law of multiplication, Closure law of multiplication, Multiplicative identity. Correct answer: Closure law of multiplication",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q009",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Consider the following statements:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Only i"
+        },
+        {
+          "key": "b",
+          "value": "Only ii"
+        },
+        {
+          "key": "c",
+          "value": "Only iii"
+        },
+        {
+          "key": "d",
+          "value": "Only i and iii"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Only i",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: Consider the following statements: Options: Only i, Only ii, Only iii, Only i and iii. Correct answer: Only i",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q013",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "If z=(1,2) then z⁻¹=?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "(1/5,2/5)"
+        },
+        {
+          "key": "b",
+          "value": "(-1/5,2/5)"
+        },
+        {
+          "key": "c",
+          "value": "(1/5,-2/5)"
+        },
+        {
+          "key": "d",
+          "value": "(-1/5,-2/5)"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "(1/5,-2/5)",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: If z=(1,2) then z⁻¹=? Options: (1/5,2/5), (-1/5,2/5), (1/5,-2/5), (-1/5,-2/5). Correct answer: (1/5,-2/5)",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q016",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Three forces P,Q,R acting along IA,IB and IC where I is the in-center of a ΔABC, are in equilibrium. Then P:Q:R is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "cos A/2:cos B/2:cos C/2"
+        },
+        {
+          "key": "b",
+          "value": "sin A/2:sin B/2:sin C/2"
+        },
+        {
+          "key": "c",
+          "value": "sec A/2:sec B/2:sec C/2"
+        },
+        {
+          "key": "d",
+          "value": "cosec A/2:cosec B/2:cosec C/2"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "cos A/2:cos B/2:cos C/2",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: Three forces P,Q,R acting along IA,IB and IC where I is the in-center of a ΔABC, are in equilibrium. Then P:Q:R is: Options: cos A/2:cos B/2:cos C/2, sin A/2:sin B/2:sin C/2, sec A/2:sec B/2:sec C/2, cosec A/2:cosec B/2:cosec C/2. Correct answer: cos A/2:cos B/2:cos C/2",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q031",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The equation (x-b)(x-c)+(x-a)(x-b)+(x-a)(x-c)=0 has all its roots:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Positive"
+        },
+        {
+          "key": "b",
+          "value": "Real"
+        },
+        {
+          "key": "c",
+          "value": "Imaginary"
+        },
+        {
+          "key": "d",
+          "value": "Negative"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Real",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: The equation (x-b)(x-c)+(x-a)(x-b)+(x-a)(x-c)=0 has all its roots: Options: Positive, Real, Imaginary, Negative. Correct answer: Real",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q033",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The area enclosed between the curves y=x and y=2x-x² is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1/2"
+        },
+        {
+          "key": "b",
+          "value": "1/6"
+        },
+        {
+          "key": "c",
+          "value": "1/3"
+        },
+        {
+          "key": "d",
+          "value": "1/4"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "1/6",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: The area enclosed between the curves y=x and y=2x-x² is: Options: 1/2, 1/6, 1/3, 1/4. Correct answer: 1/6",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q041",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "√0.0001 is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "An integer number"
+        },
+        {
+          "key": "b",
+          "value": "An irrational number"
+        },
+        {
+          "key": "c",
+          "value": "A rational number"
+        },
+        {
+          "key": "d",
+          "value": "An imaginary number"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "A rational number",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: √0.0001 is: Options: An integer number, An irrational number, A rational number, An imaginary number. Correct answer: A rational number",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q044",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The number of values of k for which (log x)² - log x - log k = 0 is/are:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1"
+        },
+        {
+          "key": "b",
+          "value": "2"
+        },
+        {
+          "key": "c",
+          "value": "3"
+        },
+        {
+          "key": "d",
+          "value": "4"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "2",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: The number of values of k for which (log x)² - log x - log k = 0 is/are: Options: 1, 2, 3, 4. Correct answer: 2",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q061",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "If A.M of two numbers is twice of their G.M then the ratio of greatest number to smallest number is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "7-4√3"
+        },
+        {
+          "key": "b",
+          "value": "7+4√3"
+        },
+        {
+          "key": "c",
+          "value": "21"
+        },
+        {
+          "key": "d",
+          "value": "5"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "7+4√3",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: If A.M of two numbers is twice of their G.M then the ratio of greatest number to smallest number is: Options: 7-4√3, 7+4√3, 21, 5. Correct answer: 7+4√3",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q074",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Σ_{r=3}^{∞}(rC₃-3r)/r! is equal to:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "6e²/2"
+        },
+        {
+          "key": "b",
+          "value": "6e³/2"
+        },
+        {
+          "key": "c",
+          "value": "9e²/2"
+        },
+        {
+          "key": "d",
+          "value": "9e³/2"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "6e²/2",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: Σ_{r=3}^{∞}(rC₃-3r)/r! is equal to: Options: 6e²/2, 6e³/2, 9e²/2, 9e³/2. Correct answer: 6e²/2",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

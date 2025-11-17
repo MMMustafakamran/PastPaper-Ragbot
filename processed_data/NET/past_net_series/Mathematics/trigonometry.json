@@ -1,0 +1,1224 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Trigonometry",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 22,
+    "source_file": "PAST NET SEIRES 200 MCQS(1) solved.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Trigonometry"
+  },
+  "questions": [
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q012",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "A circle with area 60cm² has an arc 8cm long, the angle subtended at the centre is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1.83r"
+        },
+        {
+          "key": "b",
+          "value": "2.1r"
+        },
+        {
+          "key": "c",
+          "value": "1.05r"
+        },
+        {
+          "key": "d",
+          "value": "1.25r"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "1.83r",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: A circle with area 60cm² has an arc 8cm long, the angle subtended at the centre is Options: 1.83r, 2.1r, 1.05r, 1.25r. Correct answer: 1.83r",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q013",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "What is the angle of elevation of sun at 12:00pm?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "90"
+        },
+        {
+          "key": "b",
+          "value": "0"
+        },
+        {
+          "key": "c",
+          "value": "undefined/infinity"
+        },
+        {
+          "key": "d",
+          "value": "none"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "90",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: What is the angle of elevation of sun at 12:00pm? Options: 90, 0, undefined/infinity, none. Correct answer: 90",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q018",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "What is the formula for tan θ?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "sin θ/cos θ"
+        },
+        {
+          "key": "b",
+          "value": "1/cot θ"
+        },
+        {
+          "key": "c",
+          "value": "tan(180+θ)"
+        },
+        {
+          "key": "d",
+          "value": "All of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "All of these",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: What is the formula for tan θ? Options: sin θ/cos θ, 1/cot θ, tan(180+θ), All of these. Correct answer: All of these",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q019",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Evaluate: cos x * sin x * tan x * cot x * csc x",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "cos x"
+        },
+        {
+          "key": "b",
+          "value": "1/sec x"
+        },
+        {
+          "key": "c",
+          "value": "sin x"
+        },
+        {
+          "key": "d",
+          "value": "Both a and b"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "cos x",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: Evaluate: cos x * sin x * tan x * cot x * csc x Options: cos x, 1/sec x, sin x, Both a and b. Correct answer: cos x",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q021",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Period of cot is?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "pi"
+        },
+        {
+          "key": "b",
+          "value": "2pi"
+        },
+        {
+          "key": "c",
+          "value": "pi/2"
+        },
+        {
+          "key": "d",
+          "value": "none of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "pi",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: Period of cot is? Options: pi, 2pi, pi/2, none of these. Correct answer: pi",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q022",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Which is the same as sin(-a)?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "–sin(a)"
+        },
+        {
+          "key": "b",
+          "value": "sin(a)"
+        },
+        {
+          "key": "c",
+          "value": "–tan(a)/sec(a)"
+        },
+        {
+          "key": "d",
+          "value": "Both a and c"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Both a and c",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: Which is the same as sin(-a)? Options: –sin(a), sin(a), –tan(a)/sec(a), Both a and c. Correct answer: Both a and c",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q023",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Which one of the following pairs has the same period?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Tangent function and cotangent function"
+        },
+        {
+          "key": "b",
+          "value": "Sine function and tangent function"
+        },
+        {
+          "key": "c",
+          "value": "Cosine function and cotangent function"
+        },
+        {
+          "key": "d",
+          "value": "Cosecant function and tangent function"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Tangent function and cotangent function",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: Which one of the following pairs has the same period? Options: Tangent function and cotangent function, Sine function and tangent function, Cosine function and cotangent function, Cosecant function and tangent function. Correct answer: Tangent function and cotangent function",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q026",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "If sin(x)=1/2 where x is in 1st quadrant, find the value of tan(2x)",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1"
+        },
+        {
+          "key": "b",
+          "value": "-1"
+        },
+        {
+          "key": "c",
+          "value": "1.732"
+        },
+        {
+          "key": "d",
+          "value": "0.577"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "1.732",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: If sin(x)=1/2 where x is in 1st quadrant, find the value of tan(2x) Options: 1, -1, 1.732, 0.577. Correct answer: 1.732",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q028",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "What is the formula of cos 3α?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "cos 2α*cos α"
+        },
+        {
+          "key": "b",
+          "value": "4cos³(α)-3cos α"
+        },
+        {
+          "key": "c",
+          "value": "(1+cos α)/sin α"
+        },
+        {
+          "key": "d",
+          "value": "Both a and b"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "4cos³(α)-3cos α",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: What is the formula of cos 3α? Options: cos 2α*cos α, 4cos³(α)-3cos α, (1+cos α)/sin α, Both a and b. Correct answer: 4cos³(α)-3cos α",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q029",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Quadrilateral having opposite angles congruent is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "square"
+        },
+        {
+          "key": "b",
+          "value": "triangle"
+        },
+        {
+          "key": "c",
+          "value": "parallelogram"
+        },
+        {
+          "key": "d",
+          "value": "rectangle"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "parallelogram",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: Quadrilateral having opposite angles congruent is Options: square, triangle, parallelogram, rectangle. Correct answer: parallelogram",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q034",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Tan(180+A)Cos(90-A)+Cos(180-A)",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1/secA"
+        },
+        {
+          "key": "b",
+          "value": "1/cosA"
+        },
+        {
+          "key": "c",
+          "value": "TanA"
+        },
+        {
+          "key": "d",
+          "value": "SinA-CosA"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "1/secA",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: Tan(180+A)Cos(90-A)+Cos(180-A) Options: 1/secA, 1/cosA, TanA, SinA-CosA. Correct answer: 1/secA",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q039",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "What is the cosine inverse of cos(0.5)?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1/6"
+        },
+        {
+          "key": "b",
+          "value": "1/2"
+        },
+        {
+          "key": "c",
+          "value": "1/4"
+        },
+        {
+          "key": "d",
+          "value": "1/3"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "1/2",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: What is the cosine inverse of cos(0.5)? Options: 1/6, 1/2, 1/4, 1/3. Correct answer: 1/2",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q040",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Value of sin inverse (-1) is?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "0 degree"
+        },
+        {
+          "key": "b",
+          "value": "90 degree"
+        },
+        {
+          "key": "c",
+          "value": "-90 degree"
+        },
+        {
+          "key": "d",
+          "value": "-1 is not in the domain of sin inverse"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "-90 degree",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: Value of sin inverse (-1) is? Options: 0 degree, 90 degree, -90 degree, -1 is not in the domain of sin inverse. Correct answer: -90 degree",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q048",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The value of sin13cos77 + cos13sin77 = ?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "0"
+        },
+        {
+          "key": "b",
+          "value": "1"
+        },
+        {
+          "key": "c",
+          "value": "cos26"
+        },
+        {
+          "key": "d",
+          "value": "sin26"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "1",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: The value of sin13cos77 + cos13sin77 = ? Options: 0, 1, cos26, sin26. Correct answer: 1",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q053",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "The length of all the sides of a square and an equilateral triangle is 5 units. What is the ratio of the area of the square to the area of the triangle ?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "8/√3"
+        },
+        {
+          "key": "b",
+          "value": "8√3/5"
+        },
+        {
+          "key": "c",
+          "value": "4/√3"
+        },
+        {
+          "key": "d",
+          "value": "√3/8"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "4/√3",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: The length of all the sides of a square and an equilateral triangle is 5 units. What is the ratio of the area of the square to the area of the triangle ? Options: 8/√3, 8√3/5, 4/√3, √3/8. Correct answer: 4/√3",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q055",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Cos⁻¹(-1/2)",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "120degree"
+        },
+        {
+          "key": "b",
+          "value": "180degree"
+        },
+        {
+          "key": "c",
+          "value": "90degree"
+        },
+        {
+          "key": "d",
+          "value": "0degree"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "120degree",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: Cos⁻¹(-1/2) Options: 120degree, 180degree, 90degree, 0degree. Correct answer: 120degree",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q056",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "1 degree is equal to (in radians)?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "π/180"
+        },
+        {
+          "key": "b",
+          "value": "0.0625"
+        },
+        {
+          "key": "c",
+          "value": "0.0345"
+        },
+        {
+          "key": "d",
+          "value": "0.7154"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "π/180",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: 1 degree is equal to (in radians)? Options: π/180, 0.0625, 0.0345, 0.7154. Correct answer: π/180",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q064",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "sin⁻¹(3/5)",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Cos⁻¹(4/5)"
+        },
+        {
+          "key": "b",
+          "value": "Sec⁻¹(5/4)"
+        },
+        {
+          "key": "c",
+          "value": "Cosec⁻¹(5/3)"
+        },
+        {
+          "key": "d",
+          "value": "All"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Cos⁻¹(4/5)",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: sin⁻¹(3/5) Options: Cos⁻¹(4/5), Sec⁻¹(5/4), Cosec⁻¹(5/3), All. Correct answer: Cos⁻¹(4/5)",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q069",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The value of sin13cos77 + cos13sin77 = ?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "0"
+        },
+        {
+          "key": "b",
+          "value": "1"
+        },
+        {
+          "key": "c",
+          "value": "cos26"
+        },
+        {
+          "key": "d",
+          "value": "sin26"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "1",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: The value of sin13cos77 + cos13sin77 = ? Options: 0, 1, cos26, sin26. Correct answer: 1",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q074",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "The length of all the sides of a square and an equilateral triangle is 5 units. What is the ratio of the area of the square to the area of the triangle ?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "8/√3"
+        },
+        {
+          "key": "b",
+          "value": "8√3/5"
+        },
+        {
+          "key": "c",
+          "value": "4/√3"
+        },
+        {
+          "key": "d",
+          "value": "√3/8"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "4/√3",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: The length of all the sides of a square and an equilateral triangle is 5 units. What is the ratio of the area of the square to the area of the triangle ? Options: 8/√3, 8√3/5, 4/√3, √3/8. Correct answer: 4/√3",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q076",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Cos⁻¹(-1/2)",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "120degree"
+        },
+        {
+          "key": "b",
+          "value": "180degree"
+        },
+        {
+          "key": "c",
+          "value": "90degree"
+        },
+        {
+          "key": "d",
+          "value": "0degree"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "120degree",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: Cos⁻¹(-1/2) Options: 120degree, 180degree, 90degree, 0degree. Correct answer: 120degree",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q077",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "1 degree is equal to (in radians)?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "π/180"
+        },
+        {
+          "key": "b",
+          "value": "0.0625"
+        },
+        {
+          "key": "c",
+          "value": "0.0345"
+        },
+        {
+          "key": "d",
+          "value": "0.7154"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "π/180",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: 1 degree is equal to (in radians)? Options: π/180, 0.0625, 0.0345, 0.7154. Correct answer: π/180",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Sets and Logic",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 2,
+    "source_file": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Sets and Logic"
+  },
+  "questions": [
+    {
+      "question_id": "NET_MAT_SETS_AND_LOGIC_Q012",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sets and Logic",
+        "sub_topic": "Sets and Logic",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Division is a binary operation in:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "The set of rational numbers"
+        },
+        {
+          "key": "b",
+          "value": "The set of real numbers"
+        },
+        {
+          "key": "c",
+          "value": "The set of integers"
+        },
+        {
+          "key": "d",
+          "value": "The set R-(0)"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "The set R-(0)",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sets and Logic: Division is a binary operation in: Options: The set of rational numbers, The set of real numbers, The set of integers, The set R-(0). Correct answer: The set R-(0)",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sets and logic"
+        ],
+        "prerequisites": [
+          "sets and logic"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SETS_AND_LOGIC_Q034",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sets and Logic",
+        "sub_topic": "Sets and Logic",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The set of all rational numbers between 1 and 2 is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "An empty set"
+        },
+        {
+          "key": "b",
+          "value": "A real set"
+        },
+        {
+          "key": "c",
+          "value": "A finite set"
+        },
+        {
+          "key": "d",
+          "value": "An infinite set"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "An infinite set",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sets and Logic: The set of all rational numbers between 1 and 2 is: Options: An empty set, A real set, A finite set, An infinite set. Correct answer: An infinite set",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sets and logic"
+        ],
+        "prerequisites": [
+          "sets and logic"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

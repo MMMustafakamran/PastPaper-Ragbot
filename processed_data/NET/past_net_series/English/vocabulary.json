@@ -1,0 +1,124 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET English - Vocabulary",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 2,
+    "source_file": "PAST NET SEIRES 200 MCQS(1) solved.txt",
+    "exam_type": "NET",
+    "subject": "English",
+    "main_topic": "Vocabulary"
+  },
+  "questions": [
+    {
+      "question_id": "NET_ENG_VOCABULARY_Q188",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Vocabulary",
+        "sub_topic": "Vocabulary",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Opposite word of pauper is?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Wealthy"
+        },
+        {
+          "key": "b",
+          "value": "Rich"
+        },
+        {
+          "key": "c",
+          "value": "Poor"
+        },
+        {
+          "key": "d",
+          "value": "None of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Wealthy",
+        "explanation": ""
+      },
+      "embedding_text": "English - Vocabulary: Opposite word of pauper is? Options: Wealthy, Rich, Poor, None of these. Correct answer: Wealthy",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "vocabulary"
+        ],
+        "prerequisites": [
+          "vocabulary"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_VOCABULARY_Q189",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Vocabulary",
+        "sub_topic": "Vocabulary",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Synonym of passé is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "In"
+        },
+        {
+          "key": "b",
+          "value": "Chic"
+        },
+        {
+          "key": "c",
+          "value": "Function"
+        },
+        {
+          "key": "d",
+          "value": "archaic"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "archaic",
+        "explanation": ""
+      },
+      "embedding_text": "English - Vocabulary: Synonym of passé is Options: In, Chic, Function, archaic. Correct answer: archaic",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "vocabulary"
+        ],
+        "prerequisites": [
+          "vocabulary"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

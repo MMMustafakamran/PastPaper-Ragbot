@@ -1,0 +1,179 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET English - Reading Comprehension",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 3,
+    "source_file": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "English",
+    "main_topic": "Reading Comprehension"
+  },
+  "questions": [
+    {
+      "question_id": "NET_ENG_READING_COMPREHENSION_Q176",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Reading Comprehension",
+        "sub_topic": "Reading Comprehension",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Which of the following is the main reason for insufficient supply of enough food to the poorest?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Mismanagement of food stocks"
+        },
+        {
+          "key": "b",
+          "value": "Absence of proper public distribution system"
+        },
+        {
+          "key": "c",
+          "value": "Production of food is less than the demand"
+        },
+        {
+          "key": "d",
+          "value": "Governments apathy towards the poor"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Absence of proper public distribution system",
+        "explanation": ""
+      },
+      "embedding_text": "English - Reading Comprehension: Which of the following is the main reason for insufficient supply of enough food to the poorest? Options: Mismanagement of food stocks, Absence of proper public distribution system, Production of food is less than the demand, Governments apathy towards the poor. Correct answer: Absence of proper public distribution system",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "reading comprehension"
+        ],
+        "prerequisites": [
+          "reading comprehension"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_READING_COMPREHENSION_Q177",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Reading Comprehension",
+        "sub_topic": "Reading Comprehension",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "What, according to the passage, is the main purpose of public policy in the long run?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Reducing the cost of living index by increasing supplies"
+        },
+        {
+          "key": "b",
+          "value": "Providing enough food to all the citizens"
+        },
+        {
+          "key": "c",
+          "value": "Good standard of living through productive employment"
+        },
+        {
+          "key": "d",
+          "value": "Equalizing per capita income across different strata of society"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Good standard of living through productive employment",
+        "explanation": ""
+      },
+      "embedding_text": "English - Reading Comprehension: What, according to the passage, is the main purpose of public policy in the long run? Options: Reducing the cost of living index by increasing supplies, Providing enough food to all the citizens, Good standard of living through productive employment, Equalizing per capita income across different strata of society. Correct answer: Good standard of living through productive employment",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "reading comprehension"
+        ],
+        "prerequisites": [
+          "reading comprehension"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_READING_COMPREHENSION_Q178",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Reading Comprehension",
+        "sub_topic": "Reading Comprehension",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Which of the following is true of public distribution system?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "It has improved its effectiveness over the years."
+        },
+        {
+          "key": "b",
+          "value": "It has remained effective only in the cities"
+        },
+        {
+          "key": "c",
+          "value": "It is the unique in the world because of its effectiveness"
+        },
+        {
+          "key": "d",
+          "value": "It has reached the remotest corner of the country"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "It has remained effective only in the cities",
+        "explanation": ""
+      },
+      "embedding_text": "English - Reading Comprehension: Which of the following is true of public distribution system? Options: It has improved its effectiveness over the years., It has remained effective only in the cities, It is the unique in the world because of its effectiveness, It has reached the remotest corner of the country. Correct answer: It has remained effective only in the cities",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "reading comprehension"
+        ],
+        "prerequisites": [
+          "reading comprehension"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

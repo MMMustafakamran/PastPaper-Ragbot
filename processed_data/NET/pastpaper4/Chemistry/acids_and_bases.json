@@ -1,0 +1,344 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Chemistry - Acids and Bases",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 6,
+    "source_file": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Chemistry",
+    "main_topic": "Acids and Bases"
+  },
+  "questions": [
+    {
+      "question_id": "NET_CHE_ACIDS_AND_BASES_Q142",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Acids and Bases",
+        "sub_topic": "Acids and Bases",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The pH of 0.005 molar solution of sulphuric acid is approximately:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "0.010"
+        },
+        {
+          "key": "b",
+          "value": "1"
+        },
+        {
+          "key": "c",
+          "value": "2"
+        },
+        {
+          "key": "d",
+          "value": "0.005"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "2",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Acids and Bases: The pH of 0.005 molar solution of sulphuric acid is approximately: Options: 0.010, 1, 2, 0.005. Correct answer: 2",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "acids and bases"
+        ],
+        "prerequisites": [
+          "acids and bases"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_ACIDS_AND_BASES_Q143",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Acids and Bases",
+        "sub_topic": "Acids and Bases",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "Given that heat of neutralization of strong acid and strong base is –57.1 kJ. The heat produced when 0.25 mole of HCl is neutralized with 0.25 mole NaOH in aqueous solution is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "14.275 kJ"
+        },
+        {
+          "key": "b",
+          "value": "57.1 kJ"
+        },
+        {
+          "key": "c",
+          "value": "22.5 kJ"
+        },
+        {
+          "key": "d",
+          "value": "28.6 kJ"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "14.275 kJ",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Acids and Bases: Given that heat of neutralization of strong acid and strong base is –57.1 kJ. The heat produced when 0.25 mole of HCl is neutralized with 0.25 mole NaOH in aqueous solution is Options: 14.275 kJ, 57.1 kJ, 22.5 kJ, 28.6 kJ. Correct answer: 14.275 kJ",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "acids and bases"
+        ],
+        "prerequisites": [
+          "acids and bases"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_ACIDS_AND_BASES_Q145",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Acids and Bases",
+        "sub_topic": "Acids and Bases",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The molar solution of sulphuric acid is equal to",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "N/2 solution"
+        },
+        {
+          "key": "b",
+          "value": "N solution"
+        },
+        {
+          "key": "c",
+          "value": "2N solution"
+        },
+        {
+          "key": "d",
+          "value": "3N solution"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "2N solution",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Acids and Bases: The molar solution of sulphuric acid is equal to Options: N/2 solution, N solution, 2N solution, 3N solution. Correct answer: 2N solution",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "acids and bases"
+        ],
+        "prerequisites": [
+          "acids and bases"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_ACIDS_AND_BASES_Q161",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Acids and Bases",
+        "sub_topic": "Acids and Bases",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Blue litmus turns red in a solution of pH",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Below 7"
+        },
+        {
+          "key": "b",
+          "value": "7"
+        },
+        {
+          "key": "c",
+          "value": "Above 7"
+        },
+        {
+          "key": "d",
+          "value": "at all pH"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Below 7",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Acids and Bases: Blue litmus turns red in a solution of pH Options: Below 7, 7, Above 7, at all pH. Correct answer: Below 7",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "acids and bases"
+        ],
+        "prerequisites": [
+          "acids and bases"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_ACIDS_AND_BASES_Q163",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Acids and Bases",
+        "sub_topic": "Acids and Bases",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Strongest acid among the following is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "CCl₃COOH"
+        },
+        {
+          "key": "b",
+          "value": "CH₃COOH"
+        },
+        {
+          "key": "c",
+          "value": "CF₃COOH"
+        },
+        {
+          "key": "d",
+          "value": "CBr₃COOH"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "CF₃COOH",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Acids and Bases: Strongest acid among the following is Options: CCl₃COOH, CH₃COOH, CF₃COOH, CBr₃COOH. Correct answer: CF₃COOH",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "acids and bases"
+        ],
+        "prerequisites": [
+          "acids and bases"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_ACIDS_AND_BASES_Q169",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Acids and Bases",
+        "sub_topic": "Acids and Bases",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "A mixture of camphor and benzoic acid can be separated by",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Fractional crystallization"
+        },
+        {
+          "key": "b",
+          "value": "Sublimation"
+        },
+        {
+          "key": "c",
+          "value": "Chemical method"
+        },
+        {
+          "key": "d",
+          "value": "Extraction with solvent"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Sublimation",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Acids and Bases: A mixture of camphor and benzoic acid can be separated by Options: Fractional crystallization, Sublimation, Chemical method, Extraction with solvent. Correct answer: Sublimation",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "acids and bases"
+        ],
+        "prerequisites": [
+          "acids and bases"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

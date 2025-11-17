@@ -1,0 +1,454 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Chemistry - Chemical Reactions",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 8,
+    "source_file": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Chemistry",
+    "main_topic": "Chemical Reactions"
+  },
+  "questions": [
+    {
+      "question_id": "NET_CHE_CHEMICAL_REACTIONS_Q149",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Chemical Reactions",
+        "sub_topic": "Chemical Reactions",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "A reversible chemical reaction is having two reactants in equilibrium. If the concentration of the reactants are doubled then equilibrium constant will be:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Doubled"
+        },
+        {
+          "key": "b",
+          "value": "One fourth"
+        },
+        {
+          "key": "c",
+          "value": "Halved"
+        },
+        {
+          "key": "d",
+          "value": "Remain same"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Remain same",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Chemical Reactions: A reversible chemical reaction is having two reactants in equilibrium. If the concentration of the reactants are doubled then equilibrium constant will be: Options: Doubled, One fourth, Halved, Remain same. Correct answer: Remain same",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "chemical reactions"
+        ],
+        "prerequisites": [
+          "chemical reactions"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_CHEMICAL_REACTIONS_Q154",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Chemical Reactions",
+        "sub_topic": "Chemical Reactions",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The oxidation number of N in NH₃ is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "+3"
+        },
+        {
+          "key": "b",
+          "value": "+5"
+        },
+        {
+          "key": "c",
+          "value": "-3"
+        },
+        {
+          "key": "d",
+          "value": "0"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "-3",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Chemical Reactions: The oxidation number of N in NH₃ is: Options: +3, +5, -3, 0. Correct answer: -3",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "chemical reactions"
+        ],
+        "prerequisites": [
+          "chemical reactions"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_CHEMICAL_REACTIONS_Q155",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Chemical Reactions",
+        "sub_topic": "Chemical Reactions",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Which one of the following reactions involves oxidation-reduction?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "H₂ + Br₂ → 2HBr"
+        },
+        {
+          "key": "b",
+          "value": "NaBr + HCl → NaCl + HBr"
+        },
+        {
+          "key": "c",
+          "value": "HBr + AgNO₃ → AgBr + HNO₃"
+        },
+        {
+          "key": "d",
+          "value": "2NaOH + H₂SO₄ → Na₂SO₄ + 2H₂O"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "H₂ + Br₂ → 2HBr",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Chemical Reactions: Which one of the following reactions involves oxidation-reduction? Options: H₂ + Br₂ → 2HBr, NaBr + HCl → NaCl + HBr, HBr + AgNO₃ → AgBr + HNO₃, 2NaOH + H₂SO₄ → Na₂SO₄ + 2H₂O. Correct answer: H₂ + Br₂ → 2HBr",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "chemical reactions"
+        ],
+        "prerequisites": [
+          "chemical reactions"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_CHEMICAL_REACTIONS_Q156",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Chemical Reactions",
+        "sub_topic": "Chemical Reactions",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "How can we predict whether a reaction will be spontaneous or not?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "By calculating its energy"
+        },
+        {
+          "key": "b",
+          "value": "By understanding its free energy"
+        },
+        {
+          "key": "c",
+          "value": "By changing energy levels"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "By understanding its free energy",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Chemical Reactions: How can we predict whether a reaction will be spontaneous or not? Options: By calculating its energy, By understanding its free energy, By changing energy levels, None. Correct answer: By understanding its free energy",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "chemical reactions"
+        ],
+        "prerequisites": [
+          "chemical reactions"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_CHEMICAL_REACTIONS_Q158",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Chemical Reactions",
+        "sub_topic": "Chemical Reactions",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Spontaneous reaction is one:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Directional, irreversible, real process"
+        },
+        {
+          "key": "b",
+          "value": "Unidirectional reversible imaginary process"
+        },
+        {
+          "key": "c",
+          "value": "Irreversible, unidirectional and real process"
+        },
+        {
+          "key": "d",
+          "value": "Imaginary irreversible reaction"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Irreversible, unidirectional and real process",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Chemical Reactions: Spontaneous reaction is one: Options: Directional, irreversible, real process, Unidirectional reversible imaginary process, Irreversible, unidirectional and real process, Imaginary irreversible reaction. Correct answer: Irreversible, unidirectional and real process",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "chemical reactions"
+        ],
+        "prerequisites": [
+          "chemical reactions"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_CHEMICAL_REACTIONS_Q160",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Chemical Reactions",
+        "sub_topic": "Chemical Reactions",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Rate of reaction:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Decreases with increase in temperature"
+        },
+        {
+          "key": "b",
+          "value": "Increases with increase in temperature"
+        },
+        {
+          "key": "c",
+          "value": "May increase or decrease with increase in temperature"
+        },
+        {
+          "key": "d",
+          "value": "Does not depend on temperature"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Increases with increase in temperature",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Chemical Reactions: Rate of reaction: Options: Decreases with increase in temperature, Increases with increase in temperature, May increase or decrease with increase in temperature, Does not depend on temperature. Correct answer: Increases with increase in temperature",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "chemical reactions"
+        ],
+        "prerequisites": [
+          "chemical reactions"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_CHEMICAL_REACTIONS_Q162",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Chemical Reactions",
+        "sub_topic": "Chemical Reactions",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "A catalyst is a substance which:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Is always in the same phase as in the reactions"
+        },
+        {
+          "key": "b",
+          "value": "Alters the equilibrium in a reaction"
+        },
+        {
+          "key": "c",
+          "value": "Does not participate in the reaction but alters the rate of reaction"
+        },
+        {
+          "key": "d",
+          "value": "Participates in the reaction and provides an easier pathway for the same"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Participates in the reaction and provides an easier pathway for the same",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Chemical Reactions: A catalyst is a substance which: Options: Is always in the same phase as in the reactions, Alters the equilibrium in a reaction, Does not participate in the reaction but alters the rate of reaction, Participates in the reaction and provides an easier pathway for the same. Correct answer: Participates in the reaction and provides an easier pathway for the same",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "chemical reactions"
+        ],
+        "prerequisites": [
+          "chemical reactions"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_CHEMICAL_REACTIONS_Q167",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Chemical Reactions",
+        "sub_topic": "Chemical Reactions",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "A saturated solution of Ag₂SO₄ is 2.5×10⁻²M. The value of its solubility product is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "62.5×10⁻⁶"
+        },
+        {
+          "key": "b",
+          "value": "6.25×10⁻⁴"
+        },
+        {
+          "key": "c",
+          "value": "15.625×10⁻⁶"
+        },
+        {
+          "key": "d",
+          "value": "3.125×10⁻⁶"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "15.625×10⁻⁶",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Chemical Reactions: A saturated solution of Ag₂SO₄ is 2.5×10⁻²M. The value of its solubility product is: Options: 62.5×10⁻⁶, 6.25×10⁻⁴, 15.625×10⁻⁶, 3.125×10⁻⁶. Correct answer: 15.625×10⁻⁶",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "chemical reactions"
+        ],
+        "prerequisites": [
+          "chemical reactions"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

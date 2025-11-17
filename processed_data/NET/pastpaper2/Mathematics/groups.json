@@ -1,0 +1,234 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Groups",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 4,
+    "source_file": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Groups"
+  },
+  "questions": [
+    {
+      "question_id": "NET_MAT_GROUPS_Q013",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Groups",
+        "sub_topic": "Groups",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Associative law of multiplication",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "$ab = ba$"
+        },
+        {
+          "key": "b",
+          "value": "$a(bc)=(ab)c$"
+        },
+        {
+          "key": "c",
+          "value": "$a(a+b)=ab+bc$"
+        },
+        {
+          "key": "d",
+          "value": "$(a+b)c=ac+bc$"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "$a(bc)=(ab)c$",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Groups: Associative law of multiplication Options: $ab = ba$, $a(bc)=(ab)c$, $a(a+b)=ab+bc$, $(a+b)c=ac+bc$. Correct answer: $a(bc)=(ab)c$",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "groups"
+        ],
+        "prerequisites": [
+          "groups"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_GROUPS_Q029",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Groups",
+        "sub_topic": "Groups",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "To each element of a group there correspond how many inverse element",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Only one"
+        },
+        {
+          "key": "b",
+          "value": "At least one"
+        },
+        {
+          "key": "c",
+          "value": "More than one"
+        },
+        {
+          "key": "d",
+          "value": "Two"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Only one",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Groups: To each element of a group there correspond how many inverse element Options: Only one, At least one, More than one, Two. Correct answer: Only one",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "groups"
+        ],
+        "prerequisites": [
+          "groups"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_GROUPS_Q052",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Groups",
+        "sub_topic": "Groups",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The set of complex number forms a group under the binary operation of",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Addition"
+        },
+        {
+          "key": "b",
+          "value": "Multiplication"
+        },
+        {
+          "key": "c",
+          "value": "Division"
+        },
+        {
+          "key": "d",
+          "value": "Subtraction"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Addition",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Groups: The set of complex number forms a group under the binary operation of Options: Addition, Multiplication, Division, Subtraction. Correct answer: Addition",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "groups"
+        ],
+        "prerequisites": [
+          "groups"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_GROUPS_Q072",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Groups",
+        "sub_topic": "Groups",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "To each element of a group there corresponds inverse element",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Two"
+        },
+        {
+          "key": "b",
+          "value": "One"
+        },
+        {
+          "key": "c",
+          "value": "No"
+        },
+        {
+          "key": "d",
+          "value": "Three"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "One",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Groups: To each element of a group there corresponds inverse element Options: Two, One, No, Three. Correct answer: One",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "groups"
+        ],
+        "prerequisites": [
+          "groups"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

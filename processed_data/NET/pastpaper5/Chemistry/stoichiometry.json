@@ -1,0 +1,399 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Chemistry - Stoichiometry",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 7,
+    "source_file": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Chemistry",
+    "main_topic": "Stoichiometry"
+  },
+  "questions": [
+    {
+      "question_id": "NET_CHE_STOICHIOMETRY_Q143",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Stoichiometry",
+        "sub_topic": "Stoichiometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Transfer of heat from hot surrounding to cold refrigerator is an example of:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Spontaneous reaction"
+        },
+        {
+          "key": "b",
+          "value": "Non spontaneous reaction"
+        },
+        {
+          "key": "c",
+          "value": "First law of thermodynamic"
+        },
+        {
+          "key": "d",
+          "value": "All"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Non spontaneous reaction",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Stoichiometry: Transfer of heat from hot surrounding to cold refrigerator is an example of: Options: Spontaneous reaction, Non spontaneous reaction, First law of thermodynamic, All. Correct answer: Non spontaneous reaction",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "stoichiometry"
+        ],
+        "prerequisites": [
+          "stoichiometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_STOICHIOMETRY_Q144",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Stoichiometry",
+        "sub_topic": "Stoichiometry",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "In which of the following pairs molecules/ions both the species are not likely to exist?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "H⁻²:He²⁻"
+        },
+        {
+          "key": "b",
+          "value": "H₂⁺²:He₂"
+        },
+        {
+          "key": "c",
+          "value": "H⁻²:He₂²⁻"
+        },
+        {
+          "key": "d",
+          "value": "H⁺₂:He²⁻"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "H₂⁺²:He₂",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Stoichiometry: In which of the following pairs molecules/ions both the species are not likely to exist? Options: H⁻²:He²⁻, H₂⁺²:He₂, H⁻²:He₂²⁻, H⁺₂:He²⁻. Correct answer: H₂⁺²:He₂",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "stoichiometry"
+        ],
+        "prerequisites": [
+          "stoichiometry"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_STOICHIOMETRY_Q145",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Stoichiometry",
+        "sub_topic": "Stoichiometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "One would expect proton to have very large:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Ionization potential"
+        },
+        {
+          "key": "b",
+          "value": "Radius"
+        },
+        {
+          "key": "c",
+          "value": "Charge"
+        },
+        {
+          "key": "d",
+          "value": "Hydration energy"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Hydration energy",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Stoichiometry: One would expect proton to have very large: Options: Ionization potential, Radius, Charge, Hydration energy. Correct answer: Hydration energy",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "stoichiometry"
+        ],
+        "prerequisites": [
+          "stoichiometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_STOICHIOMETRY_Q146",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Stoichiometry",
+        "sub_topic": "Stoichiometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The mass of 1 mole of electron is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "9.1×10⁻²⁸g"
+        },
+        {
+          "key": "b",
+          "value": "1.008mg"
+        },
+        {
+          "key": "c",
+          "value": "0.55mg"
+        },
+        {
+          "key": "d",
+          "value": "9.1×10⁻²⁷g"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "0.55mg",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Stoichiometry: The mass of 1 mole of electron is: Options: 9.1×10⁻²⁸g, 1.008mg, 0.55mg, 9.1×10⁻²⁷g. Correct answer: 0.55mg",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "stoichiometry"
+        ],
+        "prerequisites": [
+          "stoichiometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_STOICHIOMETRY_Q157",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Stoichiometry",
+        "sub_topic": "Stoichiometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "What is the molarity of 0.2N Na₂CO₃ solution?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "0.1M"
+        },
+        {
+          "key": "b",
+          "value": "0M"
+        },
+        {
+          "key": "c",
+          "value": "0.4M"
+        },
+        {
+          "key": "d",
+          "value": "0.2M"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "0.1M",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Stoichiometry: What is the molarity of 0.2N Na₂CO₃ solution? Options: 0.1M, 0M, 0.4M, 0.2M. Correct answer: 0.1M",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "stoichiometry"
+        ],
+        "prerequisites": [
+          "stoichiometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_STOICHIOMETRY_Q159",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Stoichiometry",
+        "sub_topic": "Stoichiometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "One liter oxygen gas at S.T.P. will weigh:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1.43g"
+        },
+        {
+          "key": "b",
+          "value": "2.24g"
+        },
+        {
+          "key": "c",
+          "value": "11.2g"
+        },
+        {
+          "key": "d",
+          "value": "22.4g"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "1.43g",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Stoichiometry: One liter oxygen gas at S.T.P. will weigh: Options: 1.43g, 2.24g, 11.2g, 22.4g. Correct answer: 1.43g",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "stoichiometry"
+        ],
+        "prerequisites": [
+          "stoichiometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_STOICHIOMETRY_Q170",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Stoichiometry",
+        "sub_topic": "Stoichiometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "All fats are:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Carbohydrates"
+        },
+        {
+          "key": "b",
+          "value": "Hydrocarbons"
+        },
+        {
+          "key": "c",
+          "value": "Aldehydes"
+        },
+        {
+          "key": "d",
+          "value": "Esters"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Esters",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Stoichiometry: All fats are: Options: Carbohydrates, Hydrocarbons, Aldehydes, Esters. Correct answer: Esters",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "stoichiometry"
+        ],
+        "prerequisites": [
+          "stoichiometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

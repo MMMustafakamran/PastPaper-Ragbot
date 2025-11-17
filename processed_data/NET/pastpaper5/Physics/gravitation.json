@@ -1,0 +1,179 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Physics - Gravitation",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 3,
+    "source_file": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Physics",
+    "main_topic": "Gravitation"
+  },
+  "questions": [
+    {
+      "question_id": "NET_PHY_GRAVITATION_Q093",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Gravitation",
+        "sub_topic": "Gravitation",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "The gravitational field in a region is given by equation is E=(5i+12j)N/kg. If a particle of mass 2kg is moved from the origin to the point (12m,5m) in this region, the change in gravitational P.E is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "-225J"
+        },
+        {
+          "key": "b",
+          "value": "-240J"
+        },
+        {
+          "key": "c",
+          "value": "-245J"
+        },
+        {
+          "key": "d",
+          "value": "-250J"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "-240J",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Gravitation: The gravitational field in a region is given by equation is E=(5i+12j)N/kg. If a particle of mass 2kg is moved from the origin to the point (12m,5m) in this region, the change in gravitational P.E is: Options: -225J, -240J, -245J, -250J. Correct answer: -240J",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "gravitation"
+        ],
+        "prerequisites": [
+          "gravitation"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_GRAVITATION_Q103",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Gravitation",
+        "sub_topic": "Gravitation",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "What is minimum energy required to launch a satellite of mass m from the surface of a planet of mass M and radius R in a circular orbit at an altitude of 2R:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "2GmM/3R"
+        },
+        {
+          "key": "b",
+          "value": "GmM/2R"
+        },
+        {
+          "key": "c",
+          "value": "GmM/3R"
+        },
+        {
+          "key": "d",
+          "value": "5GmM/6R"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "5GmM/6R",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Gravitation: What is minimum energy required to launch a satellite of mass m from the surface of a planet of mass M and radius R in a circular orbit at an altitude of 2R: Options: 2GmM/3R, GmM/2R, GmM/3R, 5GmM/6R. Correct answer: 5GmM/6R",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "gravitation"
+        ],
+        "prerequisites": [
+          "gravitation"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_GRAVITATION_Q106",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Gravitation",
+        "sub_topic": "Gravitation",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The escape velocity from the earth gravitational field depend upon:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Rotation of earth"
+        },
+        {
+          "key": "b",
+          "value": "Mass of body"
+        },
+        {
+          "key": "c",
+          "value": "Radius of earth"
+        },
+        {
+          "key": "d",
+          "value": "Mass of earth"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Radius of earth",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Gravitation: The escape velocity from the earth gravitational field depend upon: Options: Rotation of earth, Mass of body, Radius of earth, Mass of earth. Correct answer: Radius of earth",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "gravitation"
+        ],
+        "prerequisites": [
+          "gravitation"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

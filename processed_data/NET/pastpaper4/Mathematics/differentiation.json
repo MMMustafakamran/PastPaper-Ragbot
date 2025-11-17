@@ -1,0 +1,234 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Differentiation",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 4,
+    "source_file": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Differentiation"
+  },
+  "questions": [
+    {
+      "question_id": "NET_MAT_DIFFERENTIATION_Q008",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Differentiation",
+        "sub_topic": "Differentiation",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The solution of 25d²y/dx² - 10dy/dx + y = 0, y(0) = 1, y(1) = 2e¹/⁵ is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "y = e⁵ˣ + e⁻⁵ˣ"
+        },
+        {
+          "key": "b",
+          "value": "y = (1 + x)e⁵ˣ"
+        },
+        {
+          "key": "c",
+          "value": "y = (1 + x)eˣ/⁵"
+        },
+        {
+          "key": "d",
+          "value": "y = (1 + x)eˣ/⁵"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "y = (1 + x)eˣ/⁵",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Differentiation: The solution of 25d²y/dx² - 10dy/dx + y = 0, y(0) = 1, y(1) = 2e¹/⁵ is Options: y = e⁵ˣ + e⁻⁵ˣ, y = (1 + x)e⁵ˣ, y = (1 + x)eˣ/⁵, y = (1 + x)eˣ/⁵. Correct answer: y = (1 + x)eˣ/⁵",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "differentiation"
+        ],
+        "prerequisites": [
+          "differentiation"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_DIFFERENTIATION_Q035",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Differentiation",
+        "sub_topic": "Differentiation",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The general solution of the differential equation dy/dx = (x + y + 1)/(2x + 2y + 1) is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Log|3x + 3y + 2| + 3x + 6x = c"
+        },
+        {
+          "key": "b",
+          "value": "Log|3x + 3y + 2| - 3x + 6x = c"
+        },
+        {
+          "key": "c",
+          "value": "Log|3x + 3y + 2| - 3x - 6x = c"
+        },
+        {
+          "key": "d",
+          "value": "Log|3x + 3y + 2| + 3x - 6x = c"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Log|3x + 3y + 2| - 3x + 6x = c",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Differentiation: The general solution of the differential equation dy/dx = (x + y + 1)/(2x + 2y + 1) is Options: Log|3x + 3y + 2| + 3x + 6x = c, Log|3x + 3y + 2| - 3x + 6x = c, Log|3x + 3y + 2| - 3x - 6x = c, Log|3x + 3y + 2| + 3x - 6x = c. Correct answer: Log|3x + 3y + 2| - 3x + 6x = c",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "differentiation"
+        ],
+        "prerequisites": [
+          "differentiation"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_DIFFERENTIATION_Q038",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Differentiation",
+        "sub_topic": "Differentiation",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The integrating factor of the differential equation 3x log x dy/dx + y = 2 log x is given by",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "log x³"
+        },
+        {
+          "key": "b",
+          "value": "log(log x)"
+        },
+        {
+          "key": "c",
+          "value": "log x"
+        },
+        {
+          "key": "d",
+          "value": "(log x)^(1/3)"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "(log x)^(1/3)",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Differentiation: The integrating factor of the differential equation 3x log x dy/dx + y = 2 log x is given by Options: log x³, log(log x), log x, (log x)^(1/3). Correct answer: (log x)^(1/3)",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "differentiation"
+        ],
+        "prerequisites": [
+          "differentiation"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_DIFFERENTIATION_Q060",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Differentiation",
+        "sub_topic": "Differentiation",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Let γ be the solution of the differential equation x dy/dx = y²/(1 - log x) satisfying y(1) = 1 then γ satisfies",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "y = xy - 1"
+        },
+        {
+          "key": "b",
+          "value": "y = xy"
+        },
+        {
+          "key": "c",
+          "value": "y = xy + 1"
+        },
+        {
+          "key": "d",
+          "value": "y = xy + 2"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "y = xy",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Differentiation: Let γ be the solution of the differential equation x dy/dx = y²/(1 - log x) satisfying y(1) = 1 then γ satisfies Options: y = xy - 1, y = xy, y = xy + 1, y = xy + 2. Correct answer: y = xy",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "differentiation"
+        ],
+        "prerequisites": [
+          "differentiation"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

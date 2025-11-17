@@ -1,0 +1,344 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Sequences and Series",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 6,
+    "source_file": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Sequences and Series"
+  },
+  "questions": [
+    {
+      "question_id": "NET_MAT_SEQUENCES_AND_SERIES_Q024",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sequences and Series",
+        "sub_topic": "Sequences and Series",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "Let the coefficients of powers of x in the 2nd, 3rd and 4th terms in the expansion of (1 + x)ⁿ where n is a positive integer be in arithmetic progression. Then the sum of the coefficients of odd power of x in the expansion is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "23"
+        },
+        {
+          "key": "b",
+          "value": "64"
+        },
+        {
+          "key": "c",
+          "value": "128"
+        },
+        {
+          "key": "d",
+          "value": "256"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "64",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sequences and Series: Let the coefficients of powers of x in the 2nd, 3rd and 4th terms in the expansion of (1 + x)ⁿ where n is a positive integer be in arithmetic progression. Then the sum of the coefficients of odd power of x in the expansion is Options: 23, 64, 128, 256. Correct answer: 64",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sequences and series"
+        ],
+        "prerequisites": [
+          "sequences and series"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SEQUENCES_AND_SERIES_Q025",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sequences and Series",
+        "sub_topic": "Sequences and Series",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The sum 1 × 1! + 2 × 2! + ... + 50 × 50! is equal to",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "51!"
+        },
+        {
+          "key": "b",
+          "value": "51! - 1"
+        },
+        {
+          "key": "c",
+          "value": "51! + 1"
+        },
+        {
+          "key": "d",
+          "value": "51! × 2"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "51! - 1",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sequences and Series: The sum 1 × 1! + 2 × 2! + ... + 50 × 50! is equal to Options: 51!, 51! - 1, 51! + 1, 51! × 2. Correct answer: 51! - 1",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sequences and series"
+        ],
+        "prerequisites": [
+          "sequences and series"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SEQUENCES_AND_SERIES_Q026",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sequences and Series",
+        "sub_topic": "Sequences and Series",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Six numbers are in AP such that their sum is 3, the first term is 4 times the third term. Then the fifth term is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "-15"
+        },
+        {
+          "key": "b",
+          "value": "-3"
+        },
+        {
+          "key": "c",
+          "value": "9"
+        },
+        {
+          "key": "d",
+          "value": "-4"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "-4",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sequences and Series: Six numbers are in AP such that their sum is 3, the first term is 4 times the third term. Then the fifth term is Options: -15, -3, 9, -4. Correct answer: -4",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sequences and series"
+        ],
+        "prerequisites": [
+          "sequences and series"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SEQUENCES_AND_SERIES_Q027",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sequences and Series",
+        "sub_topic": "Sequences and Series",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The sum of the infinite series 1 + 1/3 + 1·3/1·6 + 1·3·5/3·6·9 + 1·3·5·7/3·6·9·12 + ... is equal to",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "√2"
+        },
+        {
+          "key": "b",
+          "value": "√3"
+        },
+        {
+          "key": "c",
+          "value": "√3/2"
+        },
+        {
+          "key": "d",
+          "value": "√1/3"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "√3",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sequences and Series: The sum of the infinite series 1 + 1/3 + 1·3/1·6 + 1·3·5/3·6·9 + 1·3·5·7/3·6·9·12 + ... is equal to Options: √2, √3, √3/2, √1/3. Correct answer: √3",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sequences and series"
+        ],
+        "prerequisites": [
+          "sequences and series"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SEQUENCES_AND_SERIES_Q047",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sequences and Series",
+        "sub_topic": "Sequences and Series",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The sum of the series 1 + (1/2)C¹ + (1/3)C² + ... + (1/(n+1))Cⁿ is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "(2ⁿ⁺¹ - 1)/(n + 1)"
+        },
+        {
+          "key": "b",
+          "value": "3(2ⁿ - 1)/2ⁿ"
+        },
+        {
+          "key": "c",
+          "value": "2ⁿ⁺¹/(n + 1)"
+        },
+        {
+          "key": "d",
+          "value": "2ⁿ⁺¹/2ⁿ"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "(2ⁿ⁺¹ - 1)/(n + 1)",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sequences and Series: The sum of the series 1 + (1/2)C¹ + (1/3)C² + ... + (1/(n+1))Cⁿ is Options: (2ⁿ⁺¹ - 1)/(n + 1), 3(2ⁿ - 1)/2ⁿ, 2ⁿ⁺¹/(n + 1), 2ⁿ⁺¹/2ⁿ. Correct answer: (2ⁿ⁺¹ - 1)/(n + 1)",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sequences and series"
+        ],
+        "prerequisites": [
+          "sequences and series"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SEQUENCES_AND_SERIES_Q059",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sequences and Series",
+        "sub_topic": "Sequences and Series",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "If a, b, c are in arithmetic progression, then the roots of the equation ax² - 2bx + c = 0 are",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1 and c/a"
+        },
+        {
+          "key": "b",
+          "value": "-1/a and -c"
+        },
+        {
+          "key": "c",
+          "value": "-1 and -c/a"
+        },
+        {
+          "key": "d",
+          "value": "-2 and -c/2a"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "1 and c/a",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sequences and Series: If a, b, c are in arithmetic progression, then the roots of the equation ax² - 2bx + c = 0 are Options: 1 and c/a, -1/a and -c, -1 and -c/a, -2 and -c/2a. Correct answer: 1 and c/a",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sequences and series"
+        ],
+        "prerequisites": [
+          "sequences and series"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

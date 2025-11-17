@@ -1,0 +1,289 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Integration",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 5,
+    "source_file": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Integration"
+  },
+  "questions": [
+    {
+      "question_id": "NET_MAT_INTEGRATION_Q037",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Integration",
+        "sub_topic": "Integration",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The value of the integral ∫₀^(π/2) 1/(1 + (tan x)¹⁰¹) dx is equal to",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1"
+        },
+        {
+          "key": "b",
+          "value": "π/6"
+        },
+        {
+          "key": "c",
+          "value": "π/8"
+        },
+        {
+          "key": "d",
+          "value": "π/4"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "π/4",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Integration: The value of the integral ∫₀^(π/2) 1/(1 + (tan x)¹⁰¹) dx is equal to Options: 1, π/6, π/8, π/4. Correct answer: π/4",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "integration"
+        ],
+        "prerequisites": [
+          "integration"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_INTEGRATION_Q040",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Integration",
+        "sub_topic": "Integration",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The value of the integral ∫₀^(π/4) (sin x + cos x)/(3 + sin 2x) dx is equal to",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Log 2"
+        },
+        {
+          "key": "b",
+          "value": "Log 3"
+        },
+        {
+          "key": "c",
+          "value": "1/4 log 2"
+        },
+        {
+          "key": "d",
+          "value": "1/4 log 3"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "1/4 log 3",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Integration: The value of the integral ∫₀^(π/4) (sin x + cos x)/(3 + sin 2x) dx is equal to Options: Log 2, Log 3, 1/4 log 2, 1/4 log 3. Correct answer: 1/4 log 3",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "integration"
+        ],
+        "prerequisites": [
+          "integration"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_INTEGRATION_Q044",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Integration",
+        "sub_topic": "Integration",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The value of the integral ∫₋₂² (1 + 2 sin x) e^|x| dx is equal to",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "0"
+        },
+        {
+          "key": "b",
+          "value": "e² - 1"
+        },
+        {
+          "key": "c",
+          "value": "2(e² - 1)"
+        },
+        {
+          "key": "d",
+          "value": "1"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "2(e² - 1)",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Integration: The value of the integral ∫₋₂² (1 + 2 sin x) e^|x| dx is equal to Options: 0, e² - 1, 2(e² - 1), 1. Correct answer: 2(e² - 1)",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "integration"
+        ],
+        "prerequisites": [
+          "integration"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_INTEGRATION_Q062",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Integration",
+        "sub_topic": "Integration",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The value of the integral ∫₁⁵ [|x-3| + |x-1|] dx is equal to",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "4"
+        },
+        {
+          "key": "b",
+          "value": "8"
+        },
+        {
+          "key": "c",
+          "value": "12"
+        },
+        {
+          "key": "d",
+          "value": "16"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "12",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Integration: The value of the integral ∫₁⁵ [|x-3| + |x-1|] dx is equal to Options: 4, 8, 12, 16. Correct answer: 12",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "integration"
+        ],
+        "prerequisites": [
+          "integration"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_INTEGRATION_Q064",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Integration",
+        "sub_topic": "Integration",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Let [x] denote the greatest integer less than or equal to x, then the value of the integral ∫₋₁¹ [|x| - 2[x]] dx is equal to",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "3"
+        },
+        {
+          "key": "b",
+          "value": "2"
+        },
+        {
+          "key": "c",
+          "value": "-2"
+        },
+        {
+          "key": "d",
+          "value": "-3"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "3",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Integration: Let [x] denote the greatest integer less than or equal to x, then the value of the integral ∫₋₁¹ [|x| - 2[x]] dx is equal to Options: 3, 2, -2, -3. Correct answer: 3",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "integration"
+        ],
+        "prerequisites": [
+          "integration"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

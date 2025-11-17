@@ -1,0 +1,124 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET English - Grammar and Syntax",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 2,
+    "source_file": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "English",
+    "main_topic": "Grammar and Syntax"
+  },
+  "questions": [
+    {
+      "question_id": "NET_ENG_GRAMMAR_AND_SYNTAX_Q179",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Grammar and Syntax",
+        "sub_topic": "Grammar and Syntax",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "'Era of good feeling' in the second sentence refers to",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "time of prosperity"
+        },
+        {
+          "key": "b",
+          "value": "time of adversity"
+        },
+        {
+          "key": "c",
+          "value": "time without government"
+        },
+        {
+          "key": "d",
+          "value": "time of police atrocities"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "time of prosperity",
+        "explanation": ""
+      },
+      "embedding_text": "English - Grammar and Syntax: 'Era of good feeling' in the second sentence refers to Options: time of prosperity, time of adversity, time without government, time of police atrocities. Correct answer: time of prosperity",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "grammar and syntax"
+        ],
+        "prerequisites": [
+          "grammar and syntax"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_GRAMMAR_AND_SYNTAX_Q180",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Grammar and Syntax",
+        "sub_topic": "Grammar and Syntax",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "'Tolerable state of balance' in the last sentence may mean",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "an adequate level of police force"
+        },
+        {
+          "key": "b",
+          "value": "a reasonable level of economic equality"
+        },
+        {
+          "key": "c",
+          "value": "a reasonable amount of government interference"
+        },
+        {
+          "key": "d",
+          "value": "a reasonable check on economic power"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "a reasonable level of economic equality",
+        "explanation": ""
+      },
+      "embedding_text": "English - Grammar and Syntax: 'Tolerable state of balance' in the last sentence may mean Options: an adequate level of police force, a reasonable level of economic equality, a reasonable amount of government interference, a reasonable check on economic power. Correct answer: a reasonable level of economic equality",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "grammar and syntax"
+        ],
+        "prerequisites": [
+          "grammar and syntax"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

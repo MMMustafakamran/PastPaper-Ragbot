@@ -1,0 +1,234 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Complex Numbers",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 4,
+    "source_file": "PAST NET SEIRES 200 MCQS(1) solved.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Complex Numbers"
+  },
+  "questions": [
+    {
+      "question_id": "NET_MAT_COMPLEX_NUMBERS_Q001",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Complex Numbers",
+        "sub_topic": "Complex Numbers",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Which one of the following is the real part of the complex number: 6(2-3i)?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "2"
+        },
+        {
+          "key": "b",
+          "value": "12"
+        },
+        {
+          "key": "c",
+          "value": "3"
+        },
+        {
+          "key": "d",
+          "value": "6"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "12",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Complex Numbers: Which one of the following is the real part of the complex number: 6(2-3i)? Options: 2, 12, 3, 6. Correct answer: 12",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "complex numbers"
+        ],
+        "prerequisites": [
+          "complex numbers"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_COMPLEX_NUMBERS_Q043",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Complex Numbers",
+        "sub_topic": "Complex Numbers",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Product of two imaginary numbers is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Complex Number"
+        },
+        {
+          "key": "b",
+          "value": "Real number"
+        },
+        {
+          "key": "c",
+          "value": "Imaginary number"
+        },
+        {
+          "key": "d",
+          "value": "None of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Real number",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Complex Numbers: Product of two imaginary numbers is Options: Complex Number, Real number, Imaginary number, None of these. Correct answer: Real number",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "complex numbers"
+        ],
+        "prerequisites": [
+          "complex numbers"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_COMPLEX_NUMBERS_Q050",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Complex Numbers",
+        "sub_topic": "Complex Numbers",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Product of Cube root of unity is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1"
+        },
+        {
+          "key": "b",
+          "value": "0"
+        },
+        {
+          "key": "c",
+          "value": "-1"
+        },
+        {
+          "key": "d",
+          "value": "2"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "1",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Complex Numbers: Product of Cube root of unity is Options: 1, 0, -1, 2. Correct answer: 1",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "complex numbers"
+        ],
+        "prerequisites": [
+          "complex numbers"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_COMPLEX_NUMBERS_Q071",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Complex Numbers",
+        "sub_topic": "Complex Numbers",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Product of Cube root of unity is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1"
+        },
+        {
+          "key": "b",
+          "value": "0"
+        },
+        {
+          "key": "c",
+          "value": "-1"
+        },
+        {
+          "key": "d",
+          "value": "2"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "1",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Complex Numbers: Product of Cube root of unity is Options: 1, 0, -1, 2. Correct answer: 1",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "complex numbers"
+        ],
+        "prerequisites": [
+          "complex numbers"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

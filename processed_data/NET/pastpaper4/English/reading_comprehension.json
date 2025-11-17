@@ -1,0 +1,179 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET English - Reading Comprehension",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 3,
+    "source_file": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "English",
+    "main_topic": "Reading Comprehension"
+  },
+  "questions": [
+    {
+      "question_id": "NET_ENG_READING_COMPREHENSION_Q177",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Reading Comprehension",
+        "sub_topic": "Reading Comprehension",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "A spirit of moderation on the economically sound people would make the less privileged",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "unhappy with the rich people"
+        },
+        {
+          "key": "b",
+          "value": "more interested in freedom and security"
+        },
+        {
+          "key": "c",
+          "value": "unhappy with their lot"
+        },
+        {
+          "key": "d",
+          "value": "clamour less for absolute equality"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "clamour less for absolute equality",
+        "explanation": ""
+      },
+      "embedding_text": "English - Reading Comprehension: A spirit of moderation on the economically sound people would make the less privileged Options: unhappy with the rich people, more interested in freedom and security, unhappy with their lot, clamour less for absolute equality. Correct answer: clamour less for absolute equality",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "reading comprehension"
+        ],
+        "prerequisites": [
+          "reading comprehension"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_READING_COMPREHENSION_Q178",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Reading Comprehension",
+        "sub_topic": "Reading Comprehension",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The growth of government is necessitated to",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "make the rich and the poor happy"
+        },
+        {
+          "key": "b",
+          "value": "curb the accumulation of wealth in a few hands"
+        },
+        {
+          "key": "c",
+          "value": "monitor science and technology"
+        },
+        {
+          "key": "d",
+          "value": "deploy the police force wisely"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "monitor science and technology",
+        "explanation": ""
+      },
+      "embedding_text": "English - Reading Comprehension: The growth of government is necessitated to Options: make the rich and the poor happy, curb the accumulation of wealth in a few hands, monitor science and technology, deploy the police force wisely. Correct answer: monitor science and technology",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "reading comprehension"
+        ],
+        "prerequisites": [
+          "reading comprehension"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_READING_COMPREHENSION_Q195",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Reading Comprehension",
+        "sub_topic": "Reading Comprehension",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Which of the following academies grants the noble prize in literature?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "London academy"
+        },
+        {
+          "key": "b",
+          "value": "Norwegian academy"
+        },
+        {
+          "key": "c",
+          "value": "Swedish academy"
+        },
+        {
+          "key": "d",
+          "value": "New York academy"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Swedish academy",
+        "explanation": ""
+      },
+      "embedding_text": "English - Reading Comprehension: Which of the following academies grants the noble prize in literature? Options: London academy, Norwegian academy, Swedish academy, New York academy. Correct answer: Swedish academy",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "reading comprehension"
+        ],
+        "prerequisites": [
+          "reading comprehension"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

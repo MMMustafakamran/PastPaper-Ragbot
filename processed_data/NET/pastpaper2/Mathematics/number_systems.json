@@ -1,0 +1,1554 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Number Systems",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 28,
+    "source_file": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Number Systems"
+  },
+  "questions": [
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q002",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "$0.123456789123456789123456789....$ is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "An irrational number"
+        },
+        {
+          "key": "b",
+          "value": "A rational number"
+        },
+        {
+          "key": "c",
+          "value": "A whole number"
+        },
+        {
+          "key": "d",
+          "value": "A-ive number"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "A rational number",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: $0.123456789123456789123456789....$ is Options: An irrational number, A rational number, A whole number, A-ive number. Correct answer: A rational number",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q003",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Every integer number is also",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Irrational number"
+        },
+        {
+          "key": "b",
+          "value": "Whole number"
+        },
+        {
+          "key": "c",
+          "value": "Natural number"
+        },
+        {
+          "key": "d",
+          "value": "Rational number"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Rational number",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: Every integer number is also Options: Irrational number, Whole number, Natural number, Rational number. Correct answer: Rational number",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q004",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The number $\\sqrt{n}$, where $n$ is a prime number is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "A Rational number"
+        },
+        {
+          "key": "b",
+          "value": "An Irrational number"
+        },
+        {
+          "key": "c",
+          "value": "A Natural number"
+        },
+        {
+          "key": "d",
+          "value": "integer number"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "An Irrational number",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: The number $\\sqrt{n}$, where $n$ is a prime number is Options: A Rational number, An Irrational number, A Natural number, integer number. Correct answer: An Irrational number",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q005",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The additive identity of real numbers is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "0"
+        },
+        {
+          "key": "b",
+          "value": "1"
+        },
+        {
+          "key": "c",
+          "value": "2"
+        },
+        {
+          "key": "d",
+          "value": "3"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "0",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: The additive identity of real numbers is Options: 0, 1, 2, 3. Correct answer: 0",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q006",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The additive inverse of $(a+b)$ is?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "$-(a+b)$"
+        },
+        {
+          "key": "b",
+          "value": "$-a+b$"
+        },
+        {
+          "key": "c",
+          "value": "$a-b$"
+        },
+        {
+          "key": "d",
+          "value": "none"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "$-(a+b)$",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: The additive inverse of $(a+b)$ is? Options: $-(a+b)$, $-a+b$, $a-b$, none. Correct answer: $-(a+b)$",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q007",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The multiplicative inverse of 2 is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "0"
+        },
+        {
+          "key": "b",
+          "value": "1"
+        },
+        {
+          "key": "c",
+          "value": "-2"
+        },
+        {
+          "key": "d",
+          "value": "½"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "½",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: The multiplicative inverse of 2 is Options: 0, 1, -2, ½. Correct answer: ½",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q009",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "$-3>-5$, this property is called",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Additive property"
+        },
+        {
+          "key": "b",
+          "value": "Transitive property"
+        },
+        {
+          "key": "c",
+          "value": "Multiplicative property"
+        },
+        {
+          "key": "d",
+          "value": "Closure property"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Transitive property",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: $-3>-5$, this property is called Options: Additive property, Transitive property, Multiplicative property, Closure property. Correct answer: Transitive property",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q014",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "$a \\cdot a^{-1} = a^{-1} \\cdot a = 1$ is a",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Commutative law of multiplication"
+        },
+        {
+          "key": "b",
+          "value": "Multiplicative identity"
+        },
+        {
+          "key": "c",
+          "value": "Associative law of multiplication"
+        },
+        {
+          "key": "d",
+          "value": "Multiplicative inverse"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Multiplicative inverse",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: $a \\cdot a^{-1} = a^{-1} \\cdot a = 1$ is a Options: Commutative law of multiplication, Multiplicative identity, Associative law of multiplication, Multiplicative inverse. Correct answer: Multiplicative inverse",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q015",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "$(a+bi)-(c+di)=$",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "$(a+b)=(c+d)$"
+        },
+        {
+          "key": "b",
+          "value": "$(a+c)+i(b+d)$"
+        },
+        {
+          "key": "c",
+          "value": "$(a-c)+i(c-d)$"
+        },
+        {
+          "key": "d",
+          "value": "$(a-c)+i(b-d)$"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "$(a-c)+i(b-d)$",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: $(a+bi)-(c+di)=$ Options: $(a+b)=(c+d)$, $(a+c)+i(b+d)$, $(a-c)+i(c-d)$, $(a-c)+i(b-d)$. Correct answer: $(a-c)+i(b-d)$",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q016",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "$(a, b) + (-a, -b) =$",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "$(0,0)$"
+        },
+        {
+          "key": "b",
+          "value": "$(a,b)$"
+        },
+        {
+          "key": "c",
+          "value": "$(a,b)$"
+        },
+        {
+          "key": "d",
+          "value": "$(1,1)$"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "$(0,0)$",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: $(a, b) + (-a, -b) =$ Options: $(0,0)$, $(a,b)$, $(a,b)$, $(1,1)$. Correct answer: $(0,0)$",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q017",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "$(a,0) \\times (c, 0) =$",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "$(0,ac)$"
+        },
+        {
+          "key": "b",
+          "value": "$(ac,0)$"
+        },
+        {
+          "key": "c",
+          "value": "$(0,0)$"
+        },
+        {
+          "key": "d",
+          "value": "$(a,c)$"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "$(ac,0)$",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: $(a,0) \\times (c, 0) =$ Options: $(0,ac)$, $(ac,0)$, $(0,0)$, $(a,c)$. Correct answer: $(ac,0)$",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q018",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "$(7,9)+(3,-5)=$",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "$(4,4)$"
+        },
+        {
+          "key": "b",
+          "value": "$(10,4)$"
+        },
+        {
+          "key": "c",
+          "value": "$(9,-5)$"
+        },
+        {
+          "key": "d",
+          "value": "$(7,3)$"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "$(10,4)$",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: $(7,9)+(3,-5)=$ Options: $(4,4)$, $(10,4)$, $(9,-5)$, $(7,3)$. Correct answer: $(10,4)$",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q019",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "If $z_1=2+6i$ and $z_2=3+7i$ then which expression defines the product of $z_1$ and $z_2$?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "$36 + (-32)i$"
+        },
+        {
+          "key": "b",
+          "value": "$-36+32i$"
+        },
+        {
+          "key": "c",
+          "value": "$6+(-11)i$"
+        },
+        {
+          "key": "d",
+          "value": "$0+(-12)i$"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "$-36+32i$",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: If $z_1=2+6i$ and $z_2=3+7i$ then which expression defines the product of $z_1$ and $z_2$? Options: $36 + (-32)i$, $-36+32i$, $6+(-11)i$, $0+(-12)i$. Correct answer: $-36+32i$",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q020",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Which element is the additive inverse of $(a, b)$ in complex numbers?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "$(a,0)$"
+        },
+        {
+          "key": "b",
+          "value": "$(0,b)$"
+        },
+        {
+          "key": "c",
+          "value": "$(a, b)$"
+        },
+        {
+          "key": "d",
+          "value": "$(-a,-b)$"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "$(-a,-b)$",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: Which element is the additive inverse of $(a, b)$ in complex numbers? Options: $(a,0)$, $(0,b)$, $(a, b)$, $(-a,-b)$. Correct answer: $(-a,-b)$",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q031",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "To draw general conclusions from accepted or well-known facts is called:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Induction"
+        },
+        {
+          "key": "b",
+          "value": "Proposition"
+        },
+        {
+          "key": "c",
+          "value": "Deduction"
+        },
+        {
+          "key": "d",
+          "value": "Aristotelian logic"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Deduction",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: To draw general conclusions from accepted or well-known facts is called: Options: Induction, Proposition, Deduction, Aristotelian logic. Correct answer: Deduction",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q034",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "A declarative statement which may be true or false but not both is called",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Proposition"
+        },
+        {
+          "key": "b",
+          "value": "Deduction"
+        },
+        {
+          "key": "c",
+          "value": "Induction"
+        },
+        {
+          "key": "d",
+          "value": "Knowledge"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Proposition",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: A declarative statement which may be true or false but not both is called Options: Proposition, Deduction, Induction, Knowledge. Correct answer: Proposition",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q035",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Which of the following is not closed w.r.t addition?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "$\\mathbb{Z}$"
+        },
+        {
+          "key": "b",
+          "value": "$\\mathbb{N}$"
+        },
+        {
+          "key": "c",
+          "value": "$\\mathbb{W}$"
+        },
+        {
+          "key": "d",
+          "value": "$\\mathbb{R}$"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "$\\mathbb{N}$",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: Which of the following is not closed w.r.t addition? Options: $\\mathbb{Z}$, $\\mathbb{N}$, $\\mathbb{W}$, $\\mathbb{R}$. Correct answer: $\\mathbb{N}$",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q036",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Deductive logic in which every statement is regarded as true or false and there is no scope for a third or fourth possibility is called",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Proposition"
+        },
+        {
+          "key": "b",
+          "value": "Deduction"
+        },
+        {
+          "key": "c",
+          "value": "Non Aristotelian logic"
+        },
+        {
+          "key": "d",
+          "value": "Aristotelian logic"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Aristotelian logic",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: Deductive logic in which every statement is regarded as true or false and there is no scope for a third or fourth possibility is called Options: Proposition, Deduction, Non Aristotelian logic, Aristotelian logic. Correct answer: Aristotelian logic",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q042",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "$45^{\\circ}=?$",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "$3\\pi/2$ radians"
+        },
+        {
+          "key": "b",
+          "value": "$2\\pi/3$ radians"
+        },
+        {
+          "key": "c",
+          "value": "$\\pi/4$ radians"
+        },
+        {
+          "key": "d",
+          "value": "$180\\pi$ radians"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "$\\pi/4$ radians",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: $45^{\\circ}=?$ Options: $3\\pi/2$ radians, $2\\pi/3$ radians, $\\pi/4$ radians, $180\\pi$ radians. Correct answer: $\\pi/4$ radians",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q045",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The multiplicative inverse of $-1$ in the set $\\{-1,1\\}$ is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1"
+        },
+        {
+          "key": "b",
+          "value": "-1"
+        },
+        {
+          "key": "c",
+          "value": "±1"
+        },
+        {
+          "key": "d",
+          "value": "0"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "-1",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: The multiplicative inverse of $-1$ in the set $\\{-1,1\\}$ is: Options: 1, -1, ±1, 0. Correct answer: -1",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q048",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "In a school, there are 150 students. Out of these 80 students enrolled for mathematics class, 50 enrolled for English class, and 60 enrolled for physics class. The student enrolled for English cannot attend any other class, but the students of mathematics and physics can take two courses at a time. Find the number of students who have taken both physics and mathematics.",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "40"
+        },
+        {
+          "key": "b",
+          "value": "30"
+        },
+        {
+          "key": "c",
+          "value": "50"
+        },
+        {
+          "key": "d",
+          "value": "20"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "40",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: In a school, there are 150 students. Out of these 80 students enrolled for mathematics class, 50 enrolled for English class, and 60 enrolled for physics class. The student enrolled for English cannot attend any other class, but the students of mathematics and physics can take two courses at a time. Find the number of students who have taken both physics and mathematics. Options: 40, 30, 50, 20. Correct answer: 40",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q053",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The multiplicative inverse of $-1$ in the $\\{1,-1\\}$ is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1"
+        },
+        {
+          "key": "b",
+          "value": "-1"
+        },
+        {
+          "key": "c",
+          "value": "+1"
+        },
+        {
+          "key": "d",
+          "value": "0"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "-1",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: The multiplicative inverse of $-1$ in the $\\{1,-1\\}$ is Options: 1, -1, +1, 0. Correct answer: -1",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q060",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Additive inverse of $-a-b$ is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "$a$"
+        },
+        {
+          "key": "b",
+          "value": "$-a+b$"
+        },
+        {
+          "key": "c",
+          "value": "$a-b$"
+        },
+        {
+          "key": "d",
+          "value": "$a+b$"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "$a+b$",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: Additive inverse of $-a-b$ is Options: $a$, $-a+b$, $a-b$, $a+b$. Correct answer: $a+b$",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q063",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Multiplicative inverse of 0 is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "0"
+        },
+        {
+          "key": "b",
+          "value": "1"
+        },
+        {
+          "key": "c",
+          "value": "±1"
+        },
+        {
+          "key": "d",
+          "value": "Does not exist"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Does not exist",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: Multiplicative inverse of 0 is Options: 0, 1, ±1, Does not exist. Correct answer: Does not exist",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q064",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Decimal part of irrational number is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Terminating"
+        },
+        {
+          "key": "b",
+          "value": "Repeating only"
+        },
+        {
+          "key": "c",
+          "value": "Neither repeating nor terminating"
+        },
+        {
+          "key": "d",
+          "value": "Repeating and terminating"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Neither repeating nor terminating",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: Decimal part of irrational number is Options: Terminating, Repeating only, Neither repeating nor terminating, Repeating and terminating. Correct answer: Neither repeating nor terminating",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q066",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "In a country, 55% of the male population has houses in cities while 30% have houses both in cities and in villages. Find the percentage of the population that has houses only in villages.",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "45"
+        },
+        {
+          "key": "b",
+          "value": "30"
+        },
+        {
+          "key": "c",
+          "value": "25"
+        },
+        {
+          "key": "d",
+          "value": "50"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "45",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: In a country, 55% of the male population has houses in cities while 30% have houses both in cities and in villages. Find the percentage of the population that has houses only in villages. Options: 45, 30, 25, 50. Correct answer: 45",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q078",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "If $A=\\{1,2,3,4,5,6\\}$ and given relation $\\{(1,1),(2,2),(3,3),(4,4),(5,5),(6,6)\\}$ is called:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Binary relation"
+        },
+        {
+          "key": "b",
+          "value": "Inverse relation"
+        },
+        {
+          "key": "c",
+          "value": "Range of a relation"
+        },
+        {
+          "key": "d",
+          "value": "Identity relation"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Identity relation",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: If $A=\\{1,2,3,4,5,6\\}$ and given relation $\\{(1,1),(2,2),(3,3),(4,4),(5,5),(6,6)\\}$ is called: Options: Binary relation, Inverse relation, Range of a relation, Identity relation. Correct answer: Identity relation",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_NUMBER_SYSTEMS_Q080",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Number Systems",
+        "sub_topic": "Number Systems",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Which of the following is unary operation:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Square root"
+        },
+        {
+          "key": "b",
+          "value": "Union of sets"
+        },
+        {
+          "key": "c",
+          "value": "Addition"
+        },
+        {
+          "key": "d",
+          "value": "Multiplication"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Square root",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Number Systems: Which of the following is unary operation: Options: Square root, Union of sets, Addition, Multiplication. Correct answer: Square root",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "number systems"
+        ],
+        "prerequisites": [
+          "number systems"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

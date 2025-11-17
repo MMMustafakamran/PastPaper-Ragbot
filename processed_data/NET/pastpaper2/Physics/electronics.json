@@ -1,0 +1,179 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Physics - Electronics",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 3,
+    "source_file": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Physics",
+    "main_topic": "Electronics"
+  },
+  "questions": [
+    {
+      "question_id": "NET_PHY_ELECTRONICS_Q128",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Electronics",
+        "sub_topic": "Electronics",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The depletion region contains",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Electron"
+        },
+        {
+          "key": "b",
+          "value": "Holes"
+        },
+        {
+          "key": "c",
+          "value": "Electrons and holes"
+        },
+        {
+          "key": "d",
+          "value": "No holes and electrons"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "No holes and electrons",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Electronics: The depletion region contains Options: Electron, Holes, Electrons and holes, No holes and electrons. Correct answer: No holes and electrons",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "electronics"
+        ],
+        "prerequisites": [
+          "electronics"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_ELECTRONICS_Q129",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Electronics",
+        "sub_topic": "Electronics",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The process by which the potential barrier of the depletion region can be increased or decreased is called",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Amplification"
+        },
+        {
+          "key": "b",
+          "value": "Biasing"
+        },
+        {
+          "key": "c",
+          "value": "Modulation"
+        },
+        {
+          "key": "d",
+          "value": "Doping"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Biasing",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Electronics: The process by which the potential barrier of the depletion region can be increased or decreased is called Options: Amplification, Biasing, Modulation, Doping. Correct answer: Biasing",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "electronics"
+        ],
+        "prerequisites": [
+          "electronics"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_ELECTRONICS_Q131",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Electronics",
+        "sub_topic": "Electronics",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The combination of AND and NOT gate is called",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "NAND gate"
+        },
+        {
+          "key": "b",
+          "value": "NOR gate"
+        },
+        {
+          "key": "c",
+          "value": "OR gate"
+        },
+        {
+          "key": "d",
+          "value": "XOR gate"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "NAND gate",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Electronics: The combination of AND and NOT gate is called Options: NAND gate, NOR gate, OR gate, XOR gate. Correct answer: NAND gate",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "electronics"
+        ],
+        "prerequisites": [
+          "electronics"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

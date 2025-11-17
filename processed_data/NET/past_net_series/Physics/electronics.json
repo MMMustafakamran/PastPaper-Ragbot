@@ -1,0 +1,69 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Physics - Electronics",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 1,
+    "source_file": "PAST NET SEIRES 200 MCQS(1) solved.txt",
+    "exam_type": "NET",
+    "subject": "Physics",
+    "main_topic": "Electronics"
+  },
+  "questions": [
+    {
+      "question_id": "NET_PHY_ELECTRONICS_Q094",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Electronics",
+        "sub_topic": "Electronics",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Two figures having the same shape but different sizes are called :",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Congruent figures"
+        },
+        {
+          "key": "b",
+          "value": "Similar figures"
+        },
+        {
+          "key": "c",
+          "value": "Equal figures"
+        },
+        {
+          "key": "d",
+          "value": "All of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Similar figures",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Electronics: Two figures having the same shape but different sizes are called : Options: Congruent figures, Similar figures, Equal figures, All of these. Correct answer: Similar figures",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "electronics"
+        ],
+        "prerequisites": [
+          "electronics"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

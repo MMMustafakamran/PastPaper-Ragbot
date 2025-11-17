@@ -1,0 +1,69 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Conic Sections",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 1,
+    "source_file": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Conic Sections"
+  },
+  "questions": [
+    {
+      "question_id": "NET_MAT_CONIC_SECTIONS_Q030",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Conic Sections",
+        "sub_topic": "Conic Sections",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The equation y² + 4x + 4y + k = 0 represents a parabola whose latus rectum is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1"
+        },
+        {
+          "key": "b",
+          "value": "2"
+        },
+        {
+          "key": "c",
+          "value": "3"
+        },
+        {
+          "key": "d",
+          "value": "4"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "4",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Conic Sections: The equation y² + 4x + 4y + k = 0 represents a parabola whose latus rectum is Options: 1, 2, 3, 4. Correct answer: 4",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "conic sections"
+        ],
+        "prerequisites": [
+          "conic sections"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

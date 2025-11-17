@@ -1,0 +1,289 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET English - Grammar and Syntax",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 5,
+    "source_file": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "English",
+    "main_topic": "Grammar and Syntax"
+  },
+  "questions": [
+    {
+      "question_id": "NET_ENG_GRAMMAR_AND_SYNTAX_Q171",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Grammar and Syntax",
+        "sub_topic": "Grammar and Syntax",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The psychiatrist advised that ___ on diet.",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "I am going"
+        },
+        {
+          "key": "b",
+          "value": "I am to go"
+        },
+        {
+          "key": "c",
+          "value": "I should go"
+        },
+        {
+          "key": "d",
+          "value": "I go"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "I should go",
+        "explanation": ""
+      },
+      "embedding_text": "English - Grammar and Syntax: The psychiatrist advised that ___ on diet. Options: I am going, I am to go, I should go, I go. Correct answer: I should go",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "grammar and syntax"
+        ],
+        "prerequisites": [
+          "grammar and syntax"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_GRAMMAR_AND_SYNTAX_Q172",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Grammar and Syntax",
+        "sub_topic": "Grammar and Syntax",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The hotel manager suggested that they ___ arrived on time for their reservation",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "We arrive"
+        },
+        {
+          "key": "b",
+          "value": "We should arrive"
+        },
+        {
+          "key": "c",
+          "value": "We arrived"
+        },
+        {
+          "key": "d",
+          "value": "Were arrive"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "We arrive",
+        "explanation": ""
+      },
+      "embedding_text": "English - Grammar and Syntax: The hotel manager suggested that they ___ arrived on time for their reservation Options: We arrive, We should arrive, We arrived, Were arrive. Correct answer: We arrive",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "grammar and syntax"
+        ],
+        "prerequisites": [
+          "grammar and syntax"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_GRAMMAR_AND_SYNTAX_Q173",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Grammar and Syntax",
+        "sub_topic": "Grammar and Syntax",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The college discipline committee requires that students ___ in college 165 days a year",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Are in"
+        },
+        {
+          "key": "b",
+          "value": "Be in"
+        },
+        {
+          "key": "c",
+          "value": "Were in"
+        },
+        {
+          "key": "d",
+          "value": "Should in"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Be in",
+        "explanation": ""
+      },
+      "embedding_text": "English - Grammar and Syntax: The college discipline committee requires that students ___ in college 165 days a year Options: Are in, Be in, Were in, Should in. Correct answer: Be in",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "grammar and syntax"
+        ],
+        "prerequisites": [
+          "grammar and syntax"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_GRAMMAR_AND_SYNTAX_Q174",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Grammar and Syntax",
+        "sub_topic": "Grammar and Syntax",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "After the complete failure of the mission the leader of the guerrilla band realized that it was important that money ___ for the cause",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Has been collected"
+        },
+        {
+          "key": "b",
+          "value": "Is collected"
+        },
+        {
+          "key": "c",
+          "value": "Be collected"
+        },
+        {
+          "key": "d",
+          "value": "Was collected"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Be collected",
+        "explanation": ""
+      },
+      "embedding_text": "English - Grammar and Syntax: After the complete failure of the mission the leader of the guerrilla band realized that it was important that money ___ for the cause Options: Has been collected, Is collected, Be collected, Was collected. Correct answer: Be collected",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "grammar and syntax"
+        ],
+        "prerequisites": [
+          "grammar and syntax"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_GRAMMAR_AND_SYNTAX_Q175",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Grammar and Syntax",
+        "sub_topic": "Grammar and Syntax",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "I wish that ___ in Multan.",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "I was living"
+        },
+        {
+          "key": "b",
+          "value": "I has been living"
+        },
+        {
+          "key": "c",
+          "value": "I were living"
+        },
+        {
+          "key": "d",
+          "value": "I am living"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "I were living",
+        "explanation": ""
+      },
+      "embedding_text": "English - Grammar and Syntax: I wish that ___ in Multan. Options: I was living, I has been living, I were living, I am living. Correct answer: I were living",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "grammar and syntax"
+        ],
+        "prerequisites": [
+          "grammar and syntax"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

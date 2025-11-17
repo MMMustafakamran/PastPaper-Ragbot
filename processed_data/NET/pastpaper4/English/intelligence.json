@@ -1,0 +1,285 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET English - Intelligence",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 5,
+    "source_file": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "English",
+    "main_topic": "Intelligence"
+  },
+  "questions": [
+    {
+      "question_id": "NET_ENG_INTELLIGENCE_Q181",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Intelligence",
+        "sub_topic": "Intelligence",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "race : fatigue (analogy)",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "fasting : hunger"
+        },
+        {
+          "key": "b",
+          "value": "round : boxing"
+        },
+        {
+          "key": "c",
+          "value": "flower:colors"
+        },
+        {
+          "key": "d",
+          "value": ". Hiking :gangrene"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "fasting : hunger",
+        "explanation": ""
+      },
+      "embedding_text": "English - Intelligence: race : fatigue (analogy) Options: fasting : hunger, round : boxing, flower:colors, . Hiking :gangrene. Correct answer: fasting : hunger",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "intelligence"
+        ],
+        "prerequisites": [
+          "intelligence"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_INTELLIGENCE_Q182",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Intelligence",
+        "sub_topic": "Intelligence",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Strut : walking (analogy)",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Sweating : wrestling"
+        },
+        {
+          "key": "b",
+          "value": "Hunter : fire"
+        },
+        {
+          "key": "c",
+          "value": "Speech : stage"
+        },
+        {
+          "key": "d",
+          "value": "Stammer :talk"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Stammer :talk",
+        "explanation": ""
+      },
+      "embedding_text": "English - Intelligence: Strut : walking (analogy) Options: Sweating : wrestling, Hunter : fire, Speech : stage, Stammer :talk. Correct answer: Stammer :talk",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "intelligence"
+        ],
+        "prerequisites": [
+          "intelligence"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_INTELLIGENCE_Q183",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Intelligence",
+        "sub_topic": "Intelligence",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Industries : hardworking (analogy)",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Sky : blue"
+        },
+        {
+          "key": "b",
+          "value": "Muddy:unclear"
+        },
+        {
+          "key": "c",
+          "value": "Book :reading"
+        },
+        {
+          "key": "d",
+          "value": "Pond:lake"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Sky : blue",
+        "explanation": ""
+      },
+      "embedding_text": "English - Intelligence: Industries : hardworking (analogy) Options: Sky : blue, Muddy:unclear, Book :reading, Pond:lake. Correct answer: Sky : blue",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "intelligence"
+        ],
+        "prerequisites": [
+          "intelligence"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_INTELLIGENCE_Q184",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Intelligence",
+        "sub_topic": "Intelligence",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Scholar : ignorant (analogy)",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Hardworking :lazy"
+        },
+        {
+          "key": "b",
+          "value": "Knife : sword"
+        },
+        {
+          "key": "c",
+          "value": "Courage :bold"
+        },
+        {
+          "key": "d",
+          "value": "Luxury :wealth"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Hardworking :lazy",
+        "explanation": ""
+      },
+      "embedding_text": "English - Intelligence: Scholar : ignorant (analogy) Options: Hardworking :lazy, Knife : sword, Courage :bold, Luxury :wealth. Correct answer: Hardworking :lazy",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "intelligence"
+        ],
+        "prerequisites": [
+          "intelligence"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_INTELLIGENCE_Q185",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Intelligence",
+        "sub_topic": "Intelligence",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Cool : frozen:: (analogy)",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Sharp :cut"
+        },
+        {
+          "key": "c",
+          "value": "Hassock :stool"
+        },
+        {
+          "key": "d",
+          "value": "Freedom :liberty"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "",
+        "explanation": ""
+      },
+      "embedding_text": "English - Intelligence: Cool : frozen:: (analogy) Options: Sharp :cut, Hassock :stool, Freedom :liberty. Correct answer: ",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "intelligence"
+        ],
+        "prerequisites": [
+          "intelligence"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

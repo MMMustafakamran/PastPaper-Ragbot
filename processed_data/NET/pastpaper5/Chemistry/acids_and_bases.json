@@ -1,0 +1,234 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Chemistry - Acids and Bases",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 4,
+    "source_file": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Chemistry",
+    "main_topic": "Acids and Bases"
+  },
+  "questions": [
+    {
+      "question_id": "NET_CHE_ACIDS_AND_BASES_Q165",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Acids and Bases",
+        "sub_topic": "Acids and Bases",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The strongest Bronsted base is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "ClO₃⁻"
+        },
+        {
+          "key": "b",
+          "value": "ClO₂⁻"
+        },
+        {
+          "key": "c",
+          "value": "ClO₄⁻"
+        },
+        {
+          "key": "d",
+          "value": "ClO⁻"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "ClO⁻",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Acids and Bases: The strongest Bronsted base is: Options: ClO₃⁻, ClO₂⁻, ClO₄⁻, ClO⁻. Correct answer: ClO⁻",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "acids and bases"
+        ],
+        "prerequisites": [
+          "acids and bases"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_ACIDS_AND_BASES_Q166",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Acids and Bases",
+        "sub_topic": "Acids and Bases",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "A solution contains 10ml 0.1N NaOH and 10ml 0.05N H₂SO₄. pH of this solution is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Less than 7"
+        },
+        {
+          "key": "b",
+          "value": "7"
+        },
+        {
+          "key": "c",
+          "value": "0"
+        },
+        {
+          "key": "d",
+          "value": "Greater than 7"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Greater than 7",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Acids and Bases: A solution contains 10ml 0.1N NaOH and 10ml 0.05N H₂SO₄. pH of this solution is: Options: Less than 7, 7, 0, Greater than 7. Correct answer: Greater than 7",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "acids and bases"
+        ],
+        "prerequisites": [
+          "acids and bases"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_ACIDS_AND_BASES_Q168",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Acids and Bases",
+        "sub_topic": "Acids and Bases",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "What is the freezing point of a solution containing 8.1g HBr in 100g of water assuming the acid to be 90% ionized? (Kf for water = 1.86 K·kg/mol):",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "0.85°C"
+        },
+        {
+          "key": "b",
+          "value": "-3.53°C"
+        },
+        {
+          "key": "c",
+          "value": "0°C"
+        },
+        {
+          "key": "d",
+          "value": "(missing)"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "-3.53°C",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Acids and Bases: What is the freezing point of a solution containing 8.1g HBr in 100g of water assuming the acid to be 90% ionized? (Kf for water = 1.86 K·kg/mol): Options: 0.85°C, -3.53°C, 0°C, (missing). Correct answer: -3.53°C",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "acids and bases"
+        ],
+        "prerequisites": [
+          "acids and bases"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_ACIDS_AND_BASES_Q169",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Acids and Bases",
+        "sub_topic": "Acids and Bases",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The pH value for 1/1000 N-KOH solution is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "3"
+        },
+        {
+          "key": "b",
+          "value": "10⁻¹¹"
+        },
+        {
+          "key": "c",
+          "value": "2"
+        },
+        {
+          "key": "d",
+          "value": "11"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "11",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Acids and Bases: The pH value for 1/1000 N-KOH solution is: Options: 3, 10⁻¹¹, 2, 11. Correct answer: 11",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "acids and bases"
+        ],
+        "prerequisites": [
+          "acids and bases"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Sets and Logic",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 2,
+    "source_file": "PAST NET SEIRES 200 MCQS(1) solved.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Sets and Logic"
+  },
+  "questions": [
+    {
+      "question_id": "NET_MAT_SETS_AND_LOGIC_Q007",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sets and Logic",
+        "sub_topic": "Sets and Logic",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "A groupoid is denoted by",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "S"
+        },
+        {
+          "key": "b",
+          "value": "G"
+        },
+        {
+          "key": "c",
+          "value": "(S,∗)"
+        },
+        {
+          "key": "d",
+          "value": "(G,∗)"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "(S,∗)",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sets and Logic: A groupoid is denoted by Options: S, G, (S,∗), (G,∗). Correct answer: (S,∗)",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sets and logic"
+        ],
+        "prerequisites": [
+          "sets and logic"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SETS_AND_LOGIC_Q036",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sets and Logic",
+        "sub_topic": "Sets and Logic",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "If A={a,b,c} then the number of possible subsets is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "3"
+        },
+        {
+          "key": "b",
+          "value": "8"
+        },
+        {
+          "key": "c",
+          "value": "6"
+        },
+        {
+          "key": "d",
+          "value": "None of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "8",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sets and Logic: If A={a,b,c} then the number of possible subsets is: Options: 3, 8, 6, None of these. Correct answer: 8",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sets and logic"
+        ],
+        "prerequisites": [
+          "sets and logic"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

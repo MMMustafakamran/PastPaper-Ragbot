@@ -1,0 +1,454 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET IQ / General Knowledge - Pattern Recognition",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 8,
+    "source_file": "PAST NET SEIRES 200 MCQS(1) solved.txt",
+    "exam_type": "NET",
+    "subject": "IQ / General Knowledge",
+    "main_topic": "Pattern Recognition"
+  },
+  "questions": [
+    {
+      "question_id": "NET_IQ__PATTERN_RECOGNITION_Q191",
+      "source": {
+        "exam_type": "NET",
+        "subject": "IQ / General Knowledge",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Pattern Recognition",
+        "sub_topic": "Pattern Recognition",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Synonym of actuate is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Triple"
+        },
+        {
+          "key": "b",
+          "value": "Motivate"
+        },
+        {
+          "key": "c",
+          "value": "Discourage"
+        },
+        {
+          "key": "d",
+          "value": "move"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Motivate",
+        "explanation": ""
+      },
+      "embedding_text": "IQ / General Knowledge - Pattern Recognition: Synonym of actuate is Options: Triple, Motivate, Discourage, move. Correct answer: Motivate",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "pattern recognition"
+        ],
+        "prerequisites": [
+          "pattern recognition"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_IQ__PATTERN_RECOGNITION_Q192",
+      "source": {
+        "exam_type": "NET",
+        "subject": "IQ / General Knowledge",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Pattern Recognition",
+        "sub_topic": "Pattern Recognition",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Trepidation means",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Doubts"
+        },
+        {
+          "key": "b",
+          "value": "Quark"
+        },
+        {
+          "key": "c",
+          "value": "Worries"
+        },
+        {
+          "key": "d",
+          "value": "apprehension"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "apprehension",
+        "explanation": ""
+      },
+      "embedding_text": "IQ / General Knowledge - Pattern Recognition: Trepidation means Options: Doubts, Quark, Worries, apprehension. Correct answer: apprehension",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "pattern recognition"
+        ],
+        "prerequisites": [
+          "pattern recognition"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_IQ__PATTERN_RECOGNITION_Q193",
+      "source": {
+        "exam_type": "NET",
+        "subject": "IQ / General Knowledge",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Pattern Recognition",
+        "sub_topic": "Pattern Recognition",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Choose the correct spelling",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "deciper"
+        },
+        {
+          "key": "b",
+          "value": "dehcipher"
+        },
+        {
+          "key": "c",
+          "value": "desipher"
+        },
+        {
+          "key": "d",
+          "value": "decipher"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "decipher",
+        "explanation": ""
+      },
+      "embedding_text": "IQ / General Knowledge - Pattern Recognition: Choose the correct spelling Options: deciper, dehcipher, desipher, decipher. Correct answer: decipher",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "pattern recognition"
+        ],
+        "prerequisites": [
+          "pattern recognition"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_IQ__PATTERN_RECOGNITION_Q194",
+      "source": {
+        "exam_type": "NET",
+        "subject": "IQ / General Knowledge",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Pattern Recognition",
+        "sub_topic": "Pattern Recognition",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Choose the word closest in meaning to Amass",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Allot"
+        },
+        {
+          "key": "b",
+          "value": "Gather"
+        },
+        {
+          "key": "c",
+          "value": "Dispense"
+        },
+        {
+          "key": "d",
+          "value": "Deiver"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Gather",
+        "explanation": ""
+      },
+      "embedding_text": "IQ / General Knowledge - Pattern Recognition: Choose the word closest in meaning to Amass Options: Allot, Gather, Dispense, Deiver. Correct answer: Gather",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "pattern recognition"
+        ],
+        "prerequisites": [
+          "pattern recognition"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_IQ__PATTERN_RECOGNITION_Q195",
+      "source": {
+        "exam_type": "NET",
+        "subject": "IQ / General Knowledge",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Pattern Recognition",
+        "sub_topic": "Pattern Recognition",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "INSCRUTABLE means",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Immoral"
+        },
+        {
+          "key": "b",
+          "value": "Unethical"
+        },
+        {
+          "key": "c",
+          "value": "Enigmatic"
+        },
+        {
+          "key": "d",
+          "value": "Unaccountable"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Enigmatic",
+        "explanation": ""
+      },
+      "embedding_text": "IQ / General Knowledge - Pattern Recognition: INSCRUTABLE means Options: Immoral, Unethical, Enigmatic, Unaccountable. Correct answer: Enigmatic",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "pattern recognition"
+        ],
+        "prerequisites": [
+          "pattern recognition"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_IQ__PATTERN_RECOGNITION_Q196",
+      "source": {
+        "exam_type": "NET",
+        "subject": "IQ / General Knowledge",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Pattern Recognition",
+        "sub_topic": "Pattern Recognition",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "To the dismay of the student body, class president was ----berated by the principal",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "privately"
+        },
+        {
+          "key": "b",
+          "value": "magnanimously"
+        },
+        {
+          "key": "c",
+          "value": "inconspicously"
+        },
+        {
+          "key": "d",
+          "value": "ignominously"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "ignominously",
+        "explanation": ""
+      },
+      "embedding_text": "IQ / General Knowledge - Pattern Recognition: To the dismay of the student body, class president was ----berated by the principal Options: privately, magnanimously, inconspicously, ignominously. Correct answer: ignominously",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "pattern recognition"
+        ],
+        "prerequisites": [
+          "pattern recognition"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_IQ__PATTERN_RECOGNITION_Q197",
+      "source": {
+        "exam_type": "NET",
+        "subject": "IQ / General Knowledge",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Pattern Recognition",
+        "sub_topic": "Pattern Recognition",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Which of the following is correct?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Send the letter at my new address"
+        },
+        {
+          "key": "b",
+          "value": "Send the letter to my new address"
+        },
+        {
+          "key": "c",
+          "value": "Send the letter from my new address"
+        },
+        {
+          "key": "d",
+          "value": "Send the letter of my new address"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Send the letter to my new address",
+        "explanation": ""
+      },
+      "embedding_text": "IQ / General Knowledge - Pattern Recognition: Which of the following is correct? Options: Send the letter at my new address, Send the letter to my new address, Send the letter from my new address, Send the letter of my new address. Correct answer: Send the letter to my new address",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "pattern recognition"
+        ],
+        "prerequisites": [
+          "pattern recognition"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_IQ__PATTERN_RECOGNITION_Q200",
+      "source": {
+        "exam_type": "NET",
+        "subject": "IQ / General Knowledge",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Pattern Recognition",
+        "sub_topic": "Pattern Recognition",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Pick out the odd one:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Learn"
+        },
+        {
+          "key": "b",
+          "value": "Read"
+        },
+        {
+          "key": "c",
+          "value": "Knowledge"
+        },
+        {
+          "key": "d",
+          "value": "Write"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Knowledge",
+        "explanation": ""
+      },
+      "embedding_text": "IQ / General Knowledge - Pattern Recognition: Pick out the odd one: Options: Learn, Read, Knowledge, Write. Correct answer: Knowledge",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "pattern recognition"
+        ],
+        "prerequisites": [
+          "pattern recognition"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}
