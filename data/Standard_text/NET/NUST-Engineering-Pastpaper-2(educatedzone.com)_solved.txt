@@ -1,0 +1,1402 @@
+NUST-Engineering-Pastpaper-2(educatedzone.com)
+
+1. If $\sin^{-1}x + \sin^{-1}y + \sin^{-1}z = \frac{3\pi}{2}$ then the value of $x^9 + y^9 + z^9 - \frac{1}{x^9y^9z^9}$ is equal to
+
+(a) 0
+(b) 1
+(c) 2
+(d) 3
+ans: c
+
+2. $0.123456789123456789123456789....$ is
+(a) An irrational number
+(b) A rational number
+(c) A whole number
+(d) A-ive number
+ans: b
+
+3. Every integer number is also
+(a) Irrational number
+(b) Whole number
+(c) Natural number
+(d) Rational number
+ans: d
+
+4. The number $\sqrt{n}$, where $n$ is a prime number is
+(a) A Rational number
+(b) An Irrational number
+(c) A Natural number
+(d) integer number
+ans: b
+
+5. The additive identity of real numbers is
+(a) 0
+(b) 1
+(c) 2
+(d) 3
+ans: a
+
+6. The additive inverse of $(a+b)$ is?
+(a) $-(a+b)$
+(b) $-a+b$
+(c) $a-b$
+(d) none
+ans: a
+
+7. The multiplicative inverse of 2 is
+(a) 0
+(b) 1
+(c) -2
+(d) ½
+ans: d
+
+8. Conjugate of $(-3, 4)$ is
+(a) $(3,4)$
+(b) $(3,-4)$
+(c) $(-3,-4)$
+(d) $(-3, 4)$
+ans: c
+
+9. $-3>-5$, this property is called
+(a) Additive property
+(b) Transitive property
+(c) Multiplicative property
+(d) Closure property
+ans: b
+
+10. If Q, R are any sets, then $Q-R=$
+(a) $Q\cap(Q-R)$
+(b) $Q-(Q\cup R)$
+(c) $Q-(Q\cap R)$
+(d) $Q\cup(Q-R)$
+ans: c
+
+11. The equation $|x+4|=x$ has solution
+(a) $x=-2$
+(b) $x=2$
+(c) $x=-4$
+(d) $x=4$
+ans: *Note: This equation has no real solution*
+
+12. Geometrically, the modulus of a complex number represents its distance from the
+(a) Point (1,0)
+(b) Point (0, 1)
+(c) Point (1, 1)
+(d) Point (0,0)
+ans: d
+
+13. Associative law of multiplication
+(a) $ab = ba$
+(b) $a(bc)=(ab)c$
+(c) $a(a+b)=ab+bc$
+(d) $(a+b)c=ac+bc$
+ans: b
+
+14. $a \cdot a^{-1} = a^{-1} \cdot a = 1$ is a
+(a) Commutative law of multiplication
+(b) Multiplicative identity
+(c) Associative law of multiplication
+(d) Multiplicative inverse
+ans: d
+
+15. $(a+bi)-(c+di)=$
+(a) $(a+b)=(c+d)$
+(b) $(a+c)+i(b+d)$
+(c) $(a-c)+i(c-d)$
+(d) $(a-c)+i(b-d)$
+ans: d
+
+16. $(a, b) + (-a, -b) =$
+(a) $(0,0)$
+(b) $(a,b)$
+(c) $(a,b)$
+(d) $(1,1)$
+ans: a
+
+17. $(a,0) \times (c, 0) =$
+(a) $(0,ac)$
+(b) $(ac,0)$
+(c) $(0,0)$
+(d) $(a,c)$
+ans: b
+
+18. $(7,9)+(3,-5)=$
+(a) $(4,4)$
+(b) $(10,4)$
+(c) $(9,-5)$
+(d) $(7,3)$
+ans: b
+
+19. If $z_1=2+6i$ and $z_2=3+7i$ then which expression defines the product of $z_1$ and $z_2$?
+(a) $36 + (-32)i$
+(b) $-36+32i$
+(c) $6+(-11)i$
+(d) $0+(-12)i$
+ans: b
+
+20. Which element is the additive inverse of $(a, b)$ in complex numbers?
+(a) $(a,0)$
+(b) $(0,b)$
+(c) $(a, b)$
+(d) $(-a,-b)$
+ans: d
+
+21. The set $(\mathbb{Z}, +)$
+(a) Forms a group w.r.t addition
+(b) Non commutative group w.r.t multiplication
+(c) Forms a group w.r.t multiplication
+(d) Does not form group
+ans: a
+
+22. Which of the following has the same value as $i^{113}$?
+(a) $i$
+(b) $-1$
+(c) $-i$
+(d) $1$
+ans: a
+
+23. $p$: Islamabad is a capital of Pakistan $q$: Lahore is not a city of Pakistan, the conjunction of $p \land q$ is
+(a) False
+(b) True
+(c) Not valid
+(d) Known
+ans: a
+
+24. A disjunction of two statements $p$ and $q$ is true if
+(a) $p$ is false
+(b) Both $p$ and $q$ is true
+(c) One of $p$ and $q$ is true
+(d) $q$ is false
+ans: c
+
+25. The set of real number $\mathbb{R}$ is a subset of
+(a) The set of natural Numbers $\mathbb{N}$
+(b) The set of integers $\mathbb{Z}$
+(c) The set of complex numbers $\mathbb{C}$
+(d) The set of even integer $E$
+ans: c
+
+26. An element '$b$' of a set $B$ can be written as
+(a) $b\subseteq B$
+(b) $b<B$
+(c) $b\in B$
+(d) $B\in b$
+ans: c
+
+27. The set $A$ is
+(a) Improper subset of $A$
+(b) Proper subset of $A$
+(c) Not a subset of $A$
+(d) Not superset of $A$
+ans: a
+
+28. A set containing only one element is called the
+(a) Empty set
+(b) Singleton set
+(c) Null set
+(d) Solution set
+ans: b
+
+29. To each element of a group there correspond how many inverse element
+(a) Only one
+(b) At least one
+(c) More than one
+(d) Two
+ans: a
+
+30. The set of students of your class is
+(a) Infinite set
+(b) Finite set
+(c) Empty set
+(d) Null set
+ans: b
+
+31. To draw general conclusions from accepted or well-known facts is called:
+(a) Induction
+(b) Proposition
+(c) Deduction
+(d) Aristotelian logic
+ans: c
+
+32. The truth value of the proposition "A positive number or $2+2=4$" is
+(a) True
+(b) False
+(c) Contingency
+(d) None
+ans: a
+
+33. To draw general conclusions from a limited number of observation or experiences is called
+(a) Proposition
+(b) Deduction
+(c) Induction
+(d) Knowledge
+ans: c
+
+34. A declarative statement which may be true or false but not both is called
+(a) Proposition
+(b) Deduction
+(c) Induction
+(d) Knowledge
+ans: a
+
+35. Which of the following is not closed w.r.t addition?
+(a) $\mathbb{Z}$
+(b) $\mathbb{N}$
+(c) $\mathbb{W}$
+(d) $\mathbb{R}$
+ans: b
+
+36. Deductive logic in which every statement is regarded as true or false and there is no scope for a third or fourth possibility is called
+(a) Proposition
+(b) Deduction
+(c) Non Aristotelian logic
+(d) Aristotelian logic
+ans: d
+
+37. A disjunction of two statements $p$ and $q$ is true if
+(a) $p$ is false
+(b) Both $p$ and $q$ are false
+(c) One of $p$ and $q$ is true
+(d) $q$ is false
+ans: c
+
+38. The identity element of $\mathbb{N}$, w.r.t addition is
+(a) 1
+(b) 0
+(c) 2
+(d) None
+ans: d
+
+39. The set of the first element of the ordered pairs forming a relation is called its:
+(a) Relation of $A$ to $B$
+(b) Relation from $B$ to $A$
+(c) Domain
+(d) Relation in $A$
+ans: c
+
+40. A subset of $B\times A$ is called a
+(a) Relation of $A$ to $B$
+(b) Relation from $B$ to $A$
+(c) Relation in $A$
+(d) Relation in $B$
+ans: b
+
+41. $\cos(-150^\circ) = ?$
+(a) 0
+(b) 1
+(c) -1
+(d) 8
+ans: *Note: $\cos(-150^\circ) = -\frac{\sqrt{3}}{2}$; question may contain errors*
+
+42. $45^{\circ}=?$
+(a) $3\pi/2$ radians
+(b) $2\pi/3$ radians
+(c) $\pi/4$ radians
+(d) $180\pi$ radians
+ans: c
+
+43. A circular wire of radius 3cm is cut straightened and then bent so as to lie along the circumference of a hoop of radius 24cm. The measure of the angle subtended at the center of the hoop is
+(a) $15^{\circ}$
+(b) $30^{\circ}$
+(c) $45^{\circ}$
+(d) $60^{\circ}$
+ans: c
+
+44. The area of a sector with a central angle of 0.5 radians in a circular region whose radius is 2m is
+(a) $\pi/2~m^{2}$
+(b) $\pi/3~m^{2}$
+(c) $\pi/6~m^{2}$
+(d) $1~m^{2}$
+ans: d
+
+45. The multiplicative inverse of $-1$ in the set $\{-1,1\}$ is:
+(a) 1
+(b) -1
+(c) ±1
+(d) 0
+ans: b
+
+46. The values of $\cos^2\theta + \sec^2\theta$ is always
+(a) Less than 1
+(b) Equal to 1
+(c) Greater than 1, but less than 2
+(d) Greater than or equal to 2
+ans: d
+
+47. The maximum value of $\sin x + \cos x$ is
+(a) 1
+(b) 2
+(c) $\sqrt{2}$
+(d) $1/\sqrt{2}$
+ans: c
+
+48. In a school, there are 150 students. Out of these 80 students enrolled for mathematics class, 50 enrolled for English class, and 60 enrolled for physics class. The student enrolled for English cannot attend any other class, but the students of mathematics and physics can take two courses at a time. Find the number of students who have taken both physics and mathematics.
+(a) 40
+(b) 30
+(c) 50
+(d) 20
+ans: a
+
+49. The set $\{\{a, b\}\}$ is
+(a) Infinite set
+(b) Singleton set
+(c) Two points set
+(d) None
+ans: b
+
+50. $\sin 500^\circ - \sin 700^\circ + \sin 100^\circ$ is equal to
+(a) 1
+(b) 2
+(c) 2
+(d) 2
+ans: b
+
+51. The graph of a quadratic function is
+(a) Circle
+(b) Ellipse
+(c) Parabola
+(d) hexagon
+ans: c
+
+52. The set of complex number forms a group under the binary operation of
+(a) Addition
+(b) Multiplication
+(c) Division
+(d) Subtraction
+ans: a
+
+53. The multiplicative inverse of $-1$ in the $\{1,-1\}$ is
+(a) 1
+(b) -1
+(c) +1
+(d) 0
+ans: b
+
+54. The set $\{1,-1,i,-i\}$, form a group under
+(a) Addition
+(b) Multiplication
+(c) Subtraction
+(d) None
+ans: b
+
+55. The set of all positive even integers is
+(a) Not a group
+(b) A group w.r.t subtraction
+(c) A group w.r.t division
+(d) A group w.r.t multiplication
+ans: a
+
+56. The vector quantity in the following is
+(a) Distance
+(b) Impulse
+(c) Energy
+(d) 1
+ans: b
+
+57. The set $(\mathbb{Q},.)$
+(a) Forms a group
+(b) Does not form a group
+(c) Contains no additive identity
+(d) Contains no additive inverse
+ans: b
+
+58. The set $(\mathbb{Z},+)$
+(a) Forms a group w.r.t addition
+(b) Non commutative group w.r.t multiplication
+(c) Forms a group w.r.t multiplication
+(d) Doesn't form a group
+ans: a
+
+59. Total number of subsets that can be formed out of the set $\{a, b, c\}$ is
+(a) 1
+(b) 4
+(c) 8
+(d) 12
+ans: c
+
+60. Additive inverse of $-a-b$ is
+(a) $a$
+(b) $-a+b$
+(c) $a-b$
+(d) $a+b$
+ans: d
+
+61. If $x = \frac{1}{x}$ for $x\in \mathbb{R}$ then the respect to subtraction is
+(a) 0
+(b) 1
+(c) 2
+(d) 4
+ans: *Note: Question is unclear; $x = \pm 1$ *
+
+62. The identity element with respect to subtraction is
+(a) 0
+(b) 1
+(c) ±1
+(d) Does not exist
+ans: d
+
+63. Multiplicative inverse of 0 is
+(a) 0
+(b) 1
+(c) ±1
+(d) Does not exist
+ans: d
+
+64. Decimal part of irrational number is
+(a) Terminating
+(b) Repeating only
+(c) Neither repeating nor terminating
+(d) Repeating and terminating
+ans: c
+
+65. The trigonometric ratio change into co-ratio and vice versa if
+(a) Even-multiple of right angle is added to or subtracted from
+(b) Odd multiple of $\pi/2$
+(c) Both a and b
+(d) None of these
+ans: b
+
+66. In a country, 55% of the male population has houses in cities while 30% have houses both in cities and in villages. Find the percentage of the population that has houses only in villages.
+(a) 45
+(b) 30
+(c) 25
+(d) 50
+ans: a
+
+67. If a function $f: A\rightarrow B$ is such that range $f=B$ then $f$ is a/an?
+(a) Into function
+(b) Onto function
+(c) Bi-jective function
+(d) one-one function
+ans: b
+
+68. The set of the first elements of the ordered pairs forming a relation is called its
+(a) Relation in $B$
+(b) Range
+(c) Domain
+(d) Relation in $A$
+ans: c
+
+69. A function in which the second elements of the ordered pairs are distinct is called
+(a) Onto function
+(b) One-one function
+(c) Identity function
+(d) Inverse function
+ans: b
+
+70. A function whose range is just one element is called
+(a) One-one function
+(b) Constant function
+(c) Onto function
+(d) Identity function
+ans: b
+
+71. The graph of a quadratic function is
+(a) Circle
+(b) Straight line
+(c) Parabola
+(d) Triangle
+ans: c
+
+72. To each element of a group there corresponds inverse element
+(a) Two
+(b) One
+(c) No
+(d) Three
+ans: b
+
+73. The set of integer is
+(a) Finite group
+(b) A group w.r.t addition
+(c) A group w.r.t multiplication
+(d) Not a group
+ans: b
+
+74. The set of complex number forms
+(a) Commutative group w.r.t addition
+(b) Commutative group w.r.t multiplication
+(c) Commutative group w.r.t division
+(d) Non commutative group w.r.t addition
+ans: a
+
+75. The set $\mathbb{R}$ is w.r.t subtraction
+(a) Not a group
+(b) A group
+(c) No conclusion drawn
+(d) Non commutative group
+ans: a
+
+76. Power set of $x$ i.e. $p(x)$ under the binary operation of union $\cup$
+(a) Forms a group
+(b) Does not form a group
+(c) Has no identity element
+(d) Infinite set although $x$ is infinite
+ans: b
+
+77. Any point, where $f$ is neither increasing nor decreasing and $f^{\prime\prime}(x)=0$ at that point, is called a
+(a) Minimum
+(b) Maximum
+(c) Stationary point
+(d) Constant point
+ans: c
+
+78. If $A=\{1,2,3,4,5,6\}$ and given relation $\{(1,1),(2,2),(3,3),(4,4),(5,5),(6,6)\}$ is called:
+(a) Binary relation
+(b) Inverse relation
+(c) Range of a relation
+(d) Identity relation
+ans: d
+
+79. The transpose of a row matrix is a
+(a) Column matrix
+(b) Diagonal matrix
+(c) Zero matrix
+(d) Scalar matrix
+ans: a
+
+80. Which of the following is unary operation:
+(a) Square root
+(b) Union of sets
+(c) Addition
+(d) Multiplication
+ans: a
+
+81. The angle subtended at the center of sphere by its surface area is equal to:
+(a) $4/3$ π radian
+(b) $4/3$ π steradian
+(c) $4\pi$ steradian
+(d) 2 steradian
+ans: c
+
+82. If 7.635 and 4.81 are two significant numbers, their multiplication in significant digits is
+(a) 36.72435
+(b) 36.724
+(c) 36.72
+(d) 36.7
+ans: d
+
+83. The magnitude of the resultant of two forces is 2F. If the magnitude of each force is F, then angle $b/w$ these forces is
+(a) $0^{0}$
+(b) $90^{\circ}$
+(c) $120^{0}$
+(d) $180^{\circ}$
+ans: a
+
+84. $\mathbf{i} \cdot (\mathbf{k} \times \mathbf{j})$ is equal to
+(a) -1
+(b) 0
+(c) 1
+(d) 2
+ans: a
+
+85. Three vectors of equal magnitude are acting on the three sides of an equilateral triangle. The magnitude of their resultant is
+(a) 0
+(b) 3
+(c) √3
+(d) 1.72
+ans: a
+
+86. The physical quantity which produces angular acceleration in the body is
+(a) Force
+(b) Moment of inertia
+(c) Impulse
+(d) Torque
+ans: d
+
+87. The point at which an applied force produces linear motion but no rotatory motion is
+(a) Mid-point
+(b) Centre of gravity
+(c) Optical center
+(d) Pole
+ans: b
+
+88. Bodies which fall freely under the action of gravity is an example of
+(a) Uniform acceleration
+(b) Variable acceleration
+(c) Uniform velocity
+(d) Average velocity
+ans: a
+
+89. Crystalline solids have the properties such as
+(a) Regular arrangement
+(b) Covalent arrangement
+(c) Somewhat defective
+(d) All of them
+ans: a
+
+90. A man throws a ball vertically upward in a compartment of an accelerated train. The ball will fall
+(a) In front of him
+(b) In his hand
+(c) Behind him
+(d) Beside him
+ans: c
+
+91. A bomber drops a bomb, when it is vertically above the target. It misses the target because of
+(a) Vertical component of the velocity of bomber
+(b) Forces of gravity
+(c) Acceleration of the bomber
+(d) Horizontal component of the velocity of bomber
+ans: d
+
+92. The property of the moving object by virtue of which it exerts forces on the object that tries to stop it is
+(a) Inertia of body
+(b) Quantity of motion of body
+(c) Acceleration of body
+(d) All of these
+ans: b
+
+93. The dot product of force and velocity is equal to
+(a) Power
+(b) Impulse
+(c) Couple
+(d) Momentum
+ans: a
+
+94. The escape velocity from the earth's gravitational field depends upon
+(a) Rotation of earth
+(b) Mass of body
+(c) Radius of body
+(d) Mass of earth
+ans: d
+
+95. If the velocity of a body becomes half, the kinetic energy of body will become
+(a) One fourth
+(b) Double
+(c) Four times
+(d) Half
+ans: a
+
+96. A 60kg man in a lift which is moving upward with an acceleration of $4.8m/s^{2}$ will have apparent weight of
+(a) 588N
+(b) 294N
+(c) 58.8N
+(d) 882N
+ans: d
+
+97. The apparent weight of pilot when diving down in a jet plane with an acceleration of $9.8m/s^{2}$ will become
+(a) Double
+(b) Half
+(c) Negative
+(d) 0
+ans: d
+
+98. The geostationary satellites are
+(a) Stationary w.r.t earth
+(b) Rotating w.r.t earth
+(c) Rotating very fast
+(d) Rotating very slow
+ans: a
+
+99. $[MLT^{-1}]$ are the dimensions of
+(a) Angular momentum
+(b) Power
+(c) Impulse
+(d) Viscosity
+ans: c
+
+100. A two meter high tank is full of water. A hole is made in the middle of the tank. The speed of efflux is
+(a) $4.9~m/s$
+(b) $9.8m/s$
+(c) $4.42m/s$
+(d) $3.75m/s$
+ans: c
+
+101. The quantity which specifies the displacement as well as the direction of motion in simple harmonic motion is the
+(a) Phase angle
+(b) Angular frequency
+(c) Path difference
+(d) None
+ans: a
+
+102. The number of loops in stationary waves depends upon
+(a) Velocity of waves
+(b) Wavelength of wave
+(c) Nature of the medium
+(d) Frequency of waves
+ans: d
+
+103. When the light enters from air to glass, it suffers a change in the
+(a) Wavelength of light
+(b) Speed of light
+(c) Frequency of light
+(d) Wavelength and speed of light
+ans: d
+
+104. Which one of the following properties of light does not change with the nature of medium?
+(a) Frequency of light
+(b) Wavelength of light
+(c) Speed of light
+(d) All of these
+ans: a
+
+105. We can hear sound around the corner but cannot see because of
+(a) Interface
+(b) Diffraction
+(c) Polarization
+(d) Dispersion
+ans: b
+
+106. The powers of the objective and eye piece of telescope are 0.5 diopter and 10 diopter respectively. The magnifying power of telescope is
+(a) 0.5
+(b) 10
+(c) 20
+(d) 0.05
+ans: c
+
+107. At constant temperature when the volume of the given mass of gas is doubled its density becomes
+(a) Double
+(b) One fourth
+(c) Four times
+(d) Half
+ans: d
+
+108. The process which is performed quickly is
+(a) Isobaric process
+(b) Adiabatic process
+(c) Isothermal process
+(d) Isochoric process
+ans: b
+
+109. The correct expression for the coulomb's law/force is
+(a) $F=(1/k)(q_1q_2/r^{2})$
+(b) $F=(k)(q_1q_2/r^{2})$
+(c) $F=4\pi\in(q_1q_2/r^{2})$
+(d) $F=(k)(r^{2}/q_1q_2)$
+ans: b
+
+110. The wave nature of an electron is illustrated by its
+(a) Photoelectric effect
+(b) Compton effect
+(c) Penetrating effect
+(d) Diffraction
+ans: d
+
+111. The potential gradient between the two charged plates having separation of 0.5cm and potential difference of 12 volts is
+(a) $240~NC^{-1}$
+(b) $4~NC^{-1}$
+(c) $2.4~NC^{-1}$
+(d) $2400~NC^{-1}$
+ans: d
+
+112. The rate of change of electric potential w.r.t displacement is equal to
+(a) Potential gradient
+(b) Electric potential energy
+(c) Electric intensity
+(d) Electric flux
+ans: c
+
+113. A wire of uniform cross section $A$, length $l$ and resistance $R$ is cut into two equal pieces. The resistivity of each piece will be
+(a) The same
+(b) One fourth
+(c) Double
+(d) One half
+ans: a
+
+114. Two metallic conductors have the same value of resistivity. These conductors can be differentiated from the values of their
+(a) Temperature coefficient
+(b) Resistance
+(c) Conductance
+(d) Conductivity
+ans: a
+
+115. Two metallic wires are lying parallel. If the current in these wires be flowing in the same direction, the wires will:
+(a) Attract each other
+(b) Repel each other
+(c) Have no force of attraction or repulsion
+(d) Remain stationary
+ans: a
+
+116. The S.I unit of magnetic flux is weber which is equal to:
+(a) $Nm/A$
+(b) $Nm^{2}/A^{1}$
+(c) $NA/m^{1}$
+(d) $NA/m^{2}$
+ans: a
+
+117. An electron and proton are projected with same velocity normal to magnetic field which one will suffer greater deflection
+(a) Proton
+(b) Electron
+(c) Both will suffer greater deflection
+(d) None
+ans: b
+
+118. The magnetic field due to current in solenoids can be increased by
+(a) Increasing the number of turns per unit length
+(b) Using soft iron core
+(c) Increasing the current
+(d) All of these
+ans: d
+
+119. Volt $\times$ second/ampere is equal to
+(a) Gauss
+(b) Weber
+(c) Henry
+(d) Tesla
+ans: c
+
+120. The counter torque produced in the moving coil of generator is called
+(a) Restoring torque
+(b) Deflection torque
+(c) Back motor torque
+(d) All of these
+ans: c
+
+121. The inductive reactance of the coil having inductance of 0.5 henry in which AC of 50Hz flows is
+(a) 94.2 ohm
+(b) 1.57 ohm
+(c) 157 ohm
+(d) 9.4 ohm
+ans: c
+
+122. In RLC series circuit when the frequency of AC source is very low, the circuit is a/an
+(a) Resistive circuit
+(b) Capacitive circuit
+(c) Inductive circuit
+(d) Resonant circuit
+ans: b
+
+123. Which of the following makes the motion of a perpetual motion machine a physical impossibility
+(a) First law of thermodynamics
+(b) Second law of thermodynamics
+(c) Third law of thermodynamics
+(d) None of these
+ans: b
+
+124. The process of combining low frequency signal with high frequency carrier waves is called
+(a) Rectification
+(b) Amplification
+(c) Modulation
+(d) Magnification
+ans: c
+
+125. The ratio of volumetric strain to volumetric stress is called
+(a) Compressibility
+(b) Young's modulus
+(c) Bulk's modulus
+(d) Plastic modulus
+ans: a
+
+126. The substance which undergoes plastic deformation until it breaks is:
+(a) Ductile substance
+(b) Brittle substance
+(c) Plastic substance
+(d) All of these
+ans: a
+
+127. Choose the region of the spectrum which would be used to determine the structure of crystalline solids
+(a) Visible
+(b) Infrared
+(c) X rays
+(d) Ultraviolet
+ans: c
+
+128. The depletion region contains
+(a) Electron
+(b) Holes
+(c) Electrons and holes
+(d) No holes and electrons
+ans: d
+
+129. The process by which the potential barrier of the depletion region can be increased or decreased is called
+(a) Amplification
+(b) Biasing
+(c) Modulation
+(d) Doping
+ans: b
+
+130. The color of light emitted by light emitting diode depends upon
+(a) Forward voltage
+(b) Reverse current
+(c) Forward current
+(d) Type of semiconductors
+ans: d
+
+131. The combination of AND and NOT gate is called
+(a) NAND gate
+(b) NOR gate
+(c) OR gate
+(d) XOR gate
+ans: a
+
+132. If the temperature of the black body becomes double the intensity of radiation from it will become
+(a) Double
+(b) Four times
+(c) Six times
+(d) Sixteen times
+ans: d
+
+133. The scattering angle for which the Compton shift in wavelength is equal to Compton wavelength is
+(a) $\theta=90^{\circ}$
+(b) $\theta=0^{\circ}$
+(c) $\theta=45^{\circ}$
+(d) $\theta=180^{\circ}$
+ans: a
+
+134. The threshold frequency for a metal having work function 6.5eV is
+(a) $6.4\times10^{-19}Hz$
+(b) $6.4\times10^{-34}Hz$
+(c) $1.5\times10^{15}Hz$
+(d) $1.5\times10^{-15}Hz$
+ans: c
+
+135. The uncertainty in energy of photon which is emitted from an atom radiating for $10^4$ second is
+(a) $4\times10^{-7}$ joules
+(b) $4\times10^{-17}$ eV
+(c) $6.6 \times 10^{-20}$ eV
+(d) $4\times10$ joule
+ans: *Note: Question contains potential errors in values*
+
+136. If an atom exists in the excited state $n=5$, the maximum number of transition takes place is
+(a) 6
+(b) 4
+(c) 10
+(d) 3
+ans: c
+
+137. When the voltage of the target in the x ray tube increases then the
+(a) Penetrating power of x rays increase
+(b) Intensity of x ray increases
+(c) Wavelength of x ray increase
+(d) All of these
+ans: a
+
+138. The frequency of light having wavelength $3\times10^{-5}$m is
+(a) $1\times10^{6}$
+(b) $1\times10^{7}$
+(c) $10\times10^{10}$
+(d) $1\times10^{13}$
+ans: d
+
+139. The situation in which the excited state i.e metastable state contains more number of electrons than the ground is called
+(a) Ionized state
+(b) Stimulation state
+(c) Population inversion state
+(d) All of these
+ans: c
+
+140. The excited state which persists for unusually longer period of time is called
+(a) Ground state
+(b) Ionized state
+(c) Metastable state
+(d) Ordinary excited state
+ans: c
+
+141. Percentage of calcium in calcium carbonate is
+(a) 80%
+(b) 30%
+(c) 40%
+(d) 20%
+ans: c
+
+142. The empirical formula of the compound having 50% Sulphur and 50% oxygen by mass is
+(a) $SO$
+(b) $S_{2}O_{3}$
+(c) $SO_{3}$
+(d) $SO_{2}$
+ans: d
+
+143. Bromine has two isotopes having the relative abundance as ${}^{79}Br_{35}=50.51\%$ and ${}^{81}Br_{35}=49.49\%$. The average atomic mass of bromine is
+(a) 81
+(b) 80
+(c) 79.5
+(d) 79
+ans: b
+
+144. Equilibrium constant has units if
+(a) No. of moles of reactants and products are same
+(b) Unequal no of moles
+(c) Both
+(d) None of these
+ans: b
+
+145. 1 mole of $CH_{4}$ contains
+(a) $6.02\times10^{23}$ atoms of H
+(b) 4 g-atom of hydrogen
+(c) $1.81\times10^{23}$ molecules of $CH_{4}$
+(d) 3.0 g of carbon
+ans: b
+
+146. How many moles of helium gas occupy 22.4 L at $0^{\circ}C$ at 1 atm pressure
+(a) 0.11
+(b) 0.90
+(c) 1.0
+(d) 1.11
+ans: c
+
+147. The number of oxygen atoms in 4.4g of carbon dioxide is approximately?
+(a) $1.2\times10^{23}$
+(b) $6\times10^{22}$
+(c) $6\times10^{23}$
+(d) $12\times10^{23}$
+ans: a
+
+148. If $N_{A}$ is Avogadro's number, then number of valence electrons in 4.2g of nitride ions $N^{3-}$ is
+(a) $2.4 N_{A}$
+(b) $4.2 N_{A}$
+(c) $1.6 N_{A}$
+(d) $3.2 N_{A}$
+ans: a
+
+149. Pure water is
+(a) Poor conductor
+(b) Very good conductor
+(c) Slight conductance
+(d) Neutral
+ans: a
+
+150. All of the following statements are incorrect for 20 moles of hydrogen peroxide except it has
+(a) 80 mole of atoms
+(b) 30 moles of Oxygen atoms
+(c) 30 moles of hydrogen atoms
+(d) 20 moles of hydrogen atoms
+ans: a
+
+151. Empirical formula and formula unit of an ionic compound
+(a) Are always different
+(b) Are always similar
+(c) May be similar or different
+(d) Ionic compound do not have any empirical formula
+ans: b
+
+152. When forward reaction and reverse reaction occur at the same time it is called
+(a) Forward equilibrium
+(b) Reverse equilibrium
+(c) Chemical equilibrium
+(d) None of above
+ans: c
+
+153. The largest number of molecules are present in
+(a) 3.6g of water
+(b) 4.4g of $C_{2}H_{5}OH$
+(c) 2.8g of CO
+(d) 5.4g of $N_{2}O_{2}$
+ans: a
+
+154. The presence of common ions ___ the solubility of a slightly soluble ionic compound.
+(a) Decreases
+(b) Increases
+(c) Neither decrease nor increase
+(d) None
+ans: a
+
+155. An X gram of calcium carbonate was completely burnt in air. The weight of the solid residue formed is 28 g. What is the value of X in grams?
+(a) 44
+(b) 200
+(c) 150
+(d) 50
+ans: d
+
+156. What is the concentration of nitrate ions, if equal volumes of $0.1M~AgNO_{3}$ and $0.1M~NaCl$ are mixed together?
+(a) 0.1M
+(b) 0.2M
+(c) 0.05M
+(d) 0.25M
+ans: c
+
+157. Buffer solutions are
+(a) Which resist in change in pH and pOH
+(b) Only in pH
+(c) Only pOH
+(d) Does not resist
+ans: a
+
+158. The volume in liters of $CO_{2}$ liberated at STP when 10 grams of 90% pure limestone is heated completely is
+(a) 22.4
+(b) 2.24
+(c) 20.16
+(d) 2.016
+ans: d
+
+159. An organic compound contains 49.3% carbon, 6.84% hydrogen and its vapors density is 73. Molecular formula of compound is
+(a) $C_{3}H_{5}O_{2}$
+(b) $C_{6}H_{10}O_{4}$
+(c) $C_{3}H_{10}O_{2}$
+(d) $C_{4}H_{10}O_{2}$
+ans: b
+
+160. The number of atoms in 0.004g of magnesium is close to
+(a) $2\times10^{20}$
+(b) 24
+(c) $10^{20}$
+(d) $6.02\times10^{23}$
+ans: c
+
+161. The weight of 11.2 liters of $CO_{2}$ at STP would be
+(a) 88g
+(b) 44g
+(c) 32g
+(d) 22g
+ans: d
+
+162. Wt. of 112 ml of oxygen at STP on liquefaction would be
+(a) 0.32g
+(b) 0.64g
+(c) 0.16g
+(d) 0.96g
+ans: c
+
+163. Law of mass action determines
+(a) Only products
+(b) Composition of reacting substances and products
+(c) Only reacting substances
+(d) None of above
+ans: b
+
+164. 100g of $CaCO_{3}$ is treated with 1 liter of 1 N HCl. What would be the weight of $CO_{2}$ liberated after the completion of the reaction?
+(a) 5.5g
+(b) 11g
+(c) 22g
+(d) 33g
+ans: c
+
+165. If we consider that $1/6$, in place of $1/12$, mass of carbon atom is taken to be the relative atomic mass unit, the mass of one mole of substance will
+(a) Decrease twice
+(b) Increase two fold
+(c) Remains unchanged
+(d) Be a function of the molecular mass of substance
+ans: a
+
+166. If 30mL of $H_{2}$ and 20 mL of $O_{2}$ reacts to form water, what is left at the end of the reaction?
+(a) 10mL of $H_{2}$
+(b) 5mL of $H_{2}$
+(c) 10mL of $O_{2}$
+(d) 5mL of $O_{2}$
+ans: d
+
+167. How can we yield maximum ammonia from Haber's process?
+(a) High pressure, low temperature, continual removal of ammonia
+(b) Low pressure, high temperature, increase the ammonia content
+(c) High temperature and high pressure
+(d) All of above
+ans: a
+
+168. An ideal gas obeying kinetic gas equation can be liquefied if
+(a) Its temperature is more than critical temperature
+(b) Its pressure is more than critical pressure
+(c) Its pressure is more than critical pressure but temperature is less than critical temperature
+(d) It cannot be liquefied at any value of P and T.
+ans: d
+
+169. Kinetic energy of one mole of an ideal gas at 300K in kJ is
+(a) 34.8
+(b) 3.48
+(c) 3.74
+(d) 348
+ans: c
+
+170. Le Chatelier's principle discusses the effects of following on equilibrium
+(a) Concentration, work, heat
+(b) Volume, heat, pressure
+(c) Concentration, pressure, temperature
+(d) None
+ans: c
+
+171. The psychiatrist advised that ___ on diet.
+(a) I am going
+(b) I am to go
+(c) I should go
+(d) I go
+ans: c
+
+172. The hotel manager suggested that they ___ arrived on time for their reservation
+(a) We arrive
+(b) We should arrive
+(c) We arrived
+(d) Were arrive
+ans: a
+
+173. The college discipline committee requires that students ___ in college 165 days a year
+(a) Are in
+(b) Be in
+(c) Were in
+(d) Should in
+ans: b
+
+174. After the complete failure of the mission the leader of the guerrilla band realized that it was important that money ___ for the cause
+(a) Has been collected
+(b) Is collected
+(c) Be collected
+(d) Was collected
+ans: c
+
+175. I wish that ___ in Multan.
+(a) I was living
+(b) I has been living
+(c) I were living
+(d) I am living
+ans: c
+
+176. Which of the following is the main reason for insufficient supply of enough food to the poorest?
+(a) Mismanagement of food stocks
+(b) Absence of proper public distribution system
+(c) Production of food is less than the demand
+(d) Governments apathy towards the poor
+ans: b
+
+177. What, according to the passage, is the main purpose of public policy in the long run?
+(a) Reducing the cost of living index by increasing supplies
+(b) Providing enough food to all the citizens
+(c) Good standard of living through productive employment
+(d) Equalizing per capita income across different strata of society
+ans: c
+
+178. Which of the following is true of public distribution system?
+(a) It has improved its effectiveness over the years.
+(b) It has remained effective only in the cities
+(c) It is the unique in the world because of its effectiveness
+(d) It has reached the remotest corner of the country
+ans: b
+
+179. The word "square" as used in the passage means
+(a) Rich
+(b) Sumptuous
+(c) Sufficient
+(d) Quality
+ans: c
+
+180. Which of the following words is the same in meaning as "power" as used in the passage?
+(a) Vigour
+(b) Energy
+(c) Influence
+(d) Capacity
+ans: d
+
+181. RIB CAGE : LUNGS::
+(a) Skull: brain
+(b) Appendix: organ
+(c) Sock: foot
+(d) Skeleton:body
+ans: a
+
+182. Scientist: laboratory (analogy)
+(a) Teacher: classroom
+(b) Dentist: drill
+(c) Lawyer: client
+(d) Actor: playwright
+ans: a
+
+183. Brittle: fracture (analogy)
+(a) Rain: umbrella
+(b) Flammable: burn
+(c) Perpetual: stop
+(d) Ice: cold
+ans: b
+
+184. Gymnasium: exercise (analogy)
+(a) Diseases: diagnose
+(b) Birthday: celebrate
+(c) Store: shop
+(d) Army: discharge
+ans: c
+
+185. Compass: navigation
+(a) Clock: dial
+(b) Physician: disease
+(c) Camera: photography
+(d) Pilot: flight
+ans: c
+
+186. He is believed to be a very industrious worker: synonym
+(a) Successful
+(b) Sensible
+(c) Punctual
+(d) Diligent
+ans: d
+
+187. He had the nerve to suggest that I was cheating. (synonyms)
+(a) Strength
+(b) Capacity
+(c) Audacity
+(d) Courage
+ans: c
+
+188. Apathy (antonyms)
+(a) Enemy
+(b) Love
+(c) Noble
+(d) Temptation
+ans: b
+
+189. Outbreak (antonyms)
+(a) Confined
+(b) Smash
+(c) Reliability
+(d) Tumult
+ans: a
+
+190. Indulgent: (antonyms)
+(a) Active
+(b) Agile
+(c) Squander
+(d) Oppressive
+ans: d
+
+191. The dasu hydro power project is to be built on ___ river
+(a) Jhelum
+(b) Chenab
+(c) Ravi
+(d) Indus
+ans: d
+
+192. The headquarter of Anjuman Tariqi-i-Urdu is located in
+(a) Lahore
+(b) Karachi
+(c) Rawalpindi
+(d) Multan
+ans: b
+
+193. The incumbent president of all Pakistan newspaper society (APNS) is
+(a) Aslam Chelas
+(b) Burhand Ud Din
+(c) Furrukh Niazi
+(d) Hameed Haroon
+ans: d
+
+194. When was earth hour observed?
+(a) 1 April, 2014
+(b) 22 March, 2014
+(c) 29 March, 2014
+(d) 31 March, 2014
+ans: c
+
+195. Book titled the "Wrong Enemy America in Afghanistan 2001-2014" has been written by
+(a) Carlotta Gall
+(b) Henderson Brooks
+(c) Neville Maxwell
+(d) None of these
+ans: a
+
+196. When is world water day celebrated annually?
+(a) 22 March
+(b) 5 March
+(c) 13 March
+(d) 20 March
+ans: a
+
+197. Who is author of the Book the "Sahara Testaments"?
+(a) Tade Ipadeola
+(b) Rebbeca Hunt
+(c) Abdul Kalam
+(d) Victoria Grassack
+ans: a
+
+198. Who is currently acting chairmen of the Competition Commission of Pakistan
+(a) Rahat Kaunain
+(b) Muhammad Zubair
+(c) Nadeem ul Haq
+(d) Dr. Joseph Wilion
+ans: a
+
+199. The incumbent P.M. of Italy is
+(a) Mario Monte
+(b) Lamberto Dini
+(c) Enrico Letta
+(d) Matteo Renzi
+ans: d
+
+200. Who won the Cholistan jeep rally 2014?
+(a) Ali Hassan Baloch
+(b) Qasiar Khan Rind
+(c) Nadir Ali Magsi
+(d) Ayaz Latif Chandio
+ans: c

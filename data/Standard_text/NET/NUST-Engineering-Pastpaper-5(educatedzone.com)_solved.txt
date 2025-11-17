@@ -1,0 +1,1401 @@
+NUST-Engineering-Pastpaper-5(educatedzone.com)
+
+1. ∀a,b,εR,abεR represents:
+a. Commutative law of multiplication
+b. Associative law of multiplication
+c. Closure law of multiplication
+d. Multiplicative identity
+ans:c
+
+2. If the straight lines x=1+s, y=-3-λs, z=1+λs, and x = t/2, y = 1+t, z = 2-t with parameters s and t respectively, are co-planar then λ equal to:
+a. -2
+b. -1
+c. -1/2
+d. 0
+ans:a
+
+3. The intersection of the spheres x²+y²+z²+7x-2y-z=13 and x²+y²+z²-3x+3y+4z=8 is same as the intersection of one of the sphere and the plane:
+a. x-y-z=1
+b. x-2y-z=1
+c. x-y-2z=1
+d. 2x-y-z=1
+ans:a
+
+4. Let a, b, c be three non-zero vectors such that no two of these are collinear. If the vector a+2b is collinear with c and b+3c is collinear with a (λ being some non-zero scalar) then a+2b+6c equal to:
+a. λa
+b. λb
+c. λc
+d. 0
+ans:d
+
+5. A particle is acted upon by constant forces 4i+j-3k and 3i+j-k which displace it from a point i+2j+3k to the point 5i+4j+k. The work done in standard units by the forces is given by:
+a. 40
+b. 30
+c. 25
+d. 15
+ans:a
+
+6. If a,b,c are non-coplanar vectors and λ is a real number, then the vectors a+2b+3c, λb+4c and (2λ-1)c are non-coplanar for:
+a. All value of λ
+b. All expect one value of λ
+c. All expect two value of λ
+d. No value of λ
+ans:c
+
+7. Let u,v,w be such that |u|=1, |v|=2, |w|=3. If the projection v along u is equal to w along u and v,w are perpendicular to each other then |u-v-w| equal to:
+a. 2
+b. √7
+c. √14
+d. 14
+ans:c
+
+8. If z₁ and z₂ are two complex numbers then |z₁+z₂|:
+a. <|z₁|+|z₂|
+b. >|z₁|+|z₂|
+c. <=|z₁|+|z₂|
+d. >=|z₁|+|z₂|
+ans:c
+
+9. Consider the following statements:
+i. Mode can be computed from histogram
+ii. Median is not independent of change of scale
+iii. Variance is independent of change of origin and scale
+Which of these is/are correct?
+a. Only i
+b. Only ii
+c. Only iii
+d. Only i and iii
+ans:a
+
+10. In a series of 2n observations, half of them equal a and remaining half equal –a. If the standard deviation of the observation is 2, then |a| equal to:
+a. 1/n
+b. √2
+c. 2
+d. √2/n
+ans:c
+
+11. The probability that A speaks truth is 4/5, while this probability for B is 3/4. The probability that they contradict each other when asked to speak on a fact is:
+a. 3/20
+b. 1/5
+c. 7/20
+d. 4/5
+ans:c
+
+12. Division is a binary operation in:
+a. The set of rational numbers
+b. The set of real numbers
+c. The set of integers
+d. The set R-(0)
+ans:d
+
+13. If z=(1,2) then z⁻¹=?
+a. (1/5,2/5)
+b. (-1/5,2/5)
+c. (1/5,-2/5)
+d. (-1/5,-2/5)
+ans:c
+
+14. With two forces acting at a point, the max effect is obtained when their resultant is 4N. If they act at right angles then their resultant is 3N then the forces are:
+a. (2+√2) and (2-√2)
+b. (2+√3) and (2-√3)
+c. (2+1/2) and (2-1/2)
+d. (2+√3/2) and (2-√3/2)
+ans:a
+
+15. In right angle ΔABC, A=90° and sides a,b,c are respectively 5cm,4cm and 3cm. If a force F has moments 0,9 and 16 in N cm units respectively about vertices A,B and C, then magnitude of F is:
+a. 3
+b. 4
+c. 5
+d. 9
+ans:c
+
+16. Three forces P,Q,R acting along IA,IB and IC where I is the in-center of a ΔABC, are in equilibrium. Then P:Q:R is:
+a. cos A/2:cos B/2:cos C/2
+b. sin A/2:sin B/2:sin C/2
+c. sec A/2:sec B/2:sec C/2
+d. cosec A/2:cosec B/2:cosec C/2
+ans:a
+
+17. A person travels towards east from a point A to a point B at the rate of 4km/h and then towards north from B to C at the rate of 5km/h. If AB=12km and BC=5km, then its average speed for its journey from A to C and resultant average velocity direct from A to C are respectively:
+a. 17/4Km/h and 13/4Km/h
+b. 13/4Km/h and 17/4Km/h
+c. 17/9Km/h and 13/9Km/h
+d. 13/9Km/h and 17/9Km/h
+ans:a
+
+18. A velocity 1/4 m/s is resolved into two components along OA and OB making angles 30° and 45° respectively with the given velocity. Then the component along OB is:
+a. 1/8 m/s
+b. 1/4(√3-1)
+c. 1/4 m/s
+d. 1/8(√6-√2) m/s
+ans:d
+
+19. If t₁ and t₂ are the times of flight of two particles having the same initial velocity u and range R on the horizontal, then t₁²+t₂² is equal to:
+a. u²/g
+b. 4u²/g
+c. u²/2g
+d. 4
+ans:b
+
+20. The differential equation of the family of the curves x²+y²-2ax=0 is:
+a. x²-y²-2xyy''=0
+b. y²-x²=2xyy'
+c. x²+y²+2y''=0
+d. None
+ans:a
+
+21. If y=cos⁻¹((1-ln x)/(1+ln x)) then dy/dx at x=e is:
+a. -1/e
+b. -1/2e
+c. 1/2e
+d. 1/e
+ans:c
+
+22. The sum of the series 1/2 + 3/4 + 7/8 + 15/16 + ... up to n terms is:
+a. n-1+1/2ⁿ
+b. n+1/2ⁿ
+c. 2n+1/2ⁿ
+d. n+1+1/2ⁿ
+ans:a
+
+23. The equation of the plane passing through the midpoint of the line joining the points (1,2,3) and (3,4,5) and perpendicular to it is:
+a. x+y+z=9
+b. x+y+z=-9
+c. 2x+3y+4z=9
+d. 2x+3y+4z=-9
+ans:a
+
+24. The equation of the circle concentric to the circle 2x²+2y²-3x+6y+2=0 and having area double the area of this circle is:
+a. 8x²+8y²-24x+48y-13=0
+b. 16x²+16y²+24x-48y-13=0
+c. 16x²+16y²-24x+48y-13=0
+d. 8x²+8y²+24x-48y-13=0
+ans:c
+
+25. The domain of the function f(x)=cos⁻¹x/|x| is:
+a. [-1,0)∪{1}
+b. [-1,1]
+c. [-1,1)
+d. None
+ans:d
+
+26. If e and e' are the eccentricities of hyperbola x²/a² - y²/b² = 1 and its conjugate hyperbola, then the value of 1/e² + 1/e'² is:
+a. 0
+b. 1
+c. 2
+d. None
+ans:b
+
+27. The value of ∫(sin x + cos x)/(3 + sin 2x) dx is:
+a. 1/4 ln[(2-sin x - cos x)/(2+sin x+cos x)] + C
+b. 1/2 ln[(2+sin x)/(2-sin x)] + C
+c. 1/4 ln(1-sin x)/(1+sin x) + C
+d. None
+ans:d
+
+28. The solution of the differential equation (dy/dx)·(tan y)/x = (tan y·sin y)/x² is:
+a. x sin y + ln x = c
+b. y sin x + ln = c
+c. ln y + x = c
+d. None
+ans:d
+
+29. z + z̄ is:
+a. Real number
+b. Irrational number
+c. 0
+d. Complex number
+ans:a
+
+30. If Im((z̄-1)/(2z+1)) = -4 then locus of z is:
+a. Ellipse
+b. Parabola
+c. Straight line
+d. Circle
+ans:d
+
+31. The equation (x-b)(x-c)+(x-a)(x-b)+(x-a)(x-c)=0 has all its roots:
+a. Positive
+b. Real
+c. Imaginary
+d. Negative
+ans:b
+
+32. The sum of coefficients of the expansion (1/x + 2x)ⁿ is 6561. The coefficient of term independent of x is:
+a. 16·⁸C₄
+b. ⁸C₄
+c. ⁸C₅
+d. None
+ans:a
+
+33. The area enclosed between the curves y=x and y=2x-x² is:
+a. 1/2
+b. 1/6
+c. 1/3
+d. 1/4
+ans:b
+
+34. The set of all rational numbers between 1 and 2 is:
+a. An empty set
+b. A real set
+c. A finite set
+d. An infinite set
+ans:d
+
+35. In an ellipse the angle between the lines joining the foci with the positive end of minor axis is a right angle. The eccentricity of the ellipse is:
+a. 1/√2
+b. 1/√3
+c. √2
+d. √3
+ans:a
+
+36. If ⌈a⌉=3, ⌊b⌋=5 and |c|=4 and a+b+c=0 (vectors), then the value of a·b + b·c is equal to:
+a. 0
+b. -25
+c. 25
+d. None
+ans:b
+
+37. The equation of a line is 6x-x²=3y-1=2z-2. The direction ratios of the line are:
+a. 1,2,3
+b. 1,1,1
+c. 1/3,1/3,1/3
+d. 1/3,-1/3,1/3
+ans:b
+
+38. y = sin⁻¹(x/2) + cos⁻¹(x/2), then the value of dy/dx is:
+a. 1
+b. -1
+c. 0
+d. 2
+ans:c
+
+39. Z = 4x + 2y, 4x+2y ≥ 46, x+3y ≤ 24 and x and y are greater than or equal to zero, then the max value of z is:
+a. 46
+b. 96
+c. 52
+d. None
+ans:a
+
+40. On one bank of river there is a tree on another bank. An observer makes an angle of elevation of 60° at the top of the tree. The angle of elevation of the top of the tree at a distance 20m away from the bank is 30°. The width of the river is:
+a. 20 meters
+b. 10 meters
+c. 5 meters
+d. 1m
+ans:b
+
+41. √0.0001 is:
+a. An integer number
+b. An irrational number
+c. A rational number
+d. An imaginary number
+ans:c
+
+42. If A=[1/x², x/4y] and B=[-3/1, 1/0] and adj.A + B = [1/0, 0/1], then values of x and y are:
+a. 1,1
+b. ±(1,1)
+c. 1,0
+d. None
+ans:d
+
+43. If tan⁻¹((1-x)/(1+x)) = 1/2 tan⁻¹x then value of x is:
+a. 1/2
+b. 1/√3
+c. √3
+d. 2
+ans:b
+
+44. The number of values of k for which (log x)² - log x - log k = 0 is/are:
+a. 1
+b. 2
+c. 3
+d. 4
+ans:b
+
+45. The value of lim α→0 [cosec⁻¹(sec α) + cot⁻¹(tan α) + cot⁻¹(cos(sin⁻¹α))]/α is:
+a. 0
+b. -1
+c. -2
+d. 1
+ans:d
+
+46. The value of ∫_{π}^{2π} [2 sin x] dx is:
+a. π/3
+b. -4π/3
+c. 4π/3
+d. -π/3
+ans:b
+
+47. ∫₀¹⁰ |x·(x-1)(x-2)| dx is equal to:
+a. 160.05
+b. 1600.5
+c. 16.005
+d. None
+ans:d
+
+48. The value of lim x→0 (1+sin x - cos x + log(1-x))/3 is:
+a. -1
+b. 1/2
+c. -1/2
+d. 1
+ans:d
+
+49. The equation of tangent to the curve x²/3 - y²/2 = 1 which is parallel to y = x is:
+a. y = x ± 1
+b. y = x - 1/2
+c. y = x + 1/2
+d. y = 1-x
+ans:a
+
+50. If Im((z+i)/(z-i)) = 3 then radius of circle is:
+a. 2√21
+b. 1/√21
+c. √21/2
+d. √21
+ans:d
+
+51. Let f(x)=cos x cos 2x cos 4x cos 8x cos16x then the value of f'(π/4) is:
+a. √2
+b. -√2
+c. 2
+d. -2
+ans:a
+
+52. Let (sin a)x²+(sin a)x +(1-cos a)=0. The value of a for which roots of this equation are real and distinct:
+a. (0,2tan⁻¹(1/4))
+b. (0,2π/3)
+c. (0,π)
+d. (0,2π)
+ans:a
+
+53. The angle of elevation of top of a tower from a point on the ground is 30° and it is 60° when it is viewed from a point located 40m away from the initial point towards the tower. The height of the tower is:
+a. -20√3
+b. (garbled)
+c. (garbled)
+d. 20√3
+ans:d
+
+54. The summation of two unit vectors is a third unit vector, then the modulus of the difference of the unit vectors is:
+a. √3
+b. 1-√3
+c. 1+√3
+d. -√3
+ans:a
+
+55. A body falls freely from a point A and passes through the point B and C given that AB = 2BC. The ratio of the time taken by the body to cover the distances AB and BC is:
+a. (2+√6)/1
+b. (2-√6)/1
+c. 1-√6)/2
+d. 1+√6)/2
+ans:a
+
+56. There is a set of m parallel lines intersecting a set of other n parallel lines in a plane. The number of parallelograms formed is:
+a. m⁻¹C₂·n⁻¹C₂
+b. mC₂·nC₂
+c. m⁻¹C₂·n²C₂
+d. mC₂·n⁻¹C₂
+ans:b
+
+57. If in a trial the probability of success is twice the probability of failure. In six trials the probability of at least four successes is:
+a. 496/729
+b. 400/729
+c. 500/729
+d. 600/729
+ans:a
+
+58. A force vector mi +nk is applied to a body at a point P(1,2,3). If moment of the force is perpendicular to 3i +5j +6k then relation between m and n is:
+a. n+3m=0
+b. n+3m=1
+c. n+3m=2
+d. n+3m=3
+ans:a
+
+59. The greatest term in the expansion of (1+3x)⁵⁴ where x = 1/3 is:
+a. T₂₈
+b. T₂₅
+c. T₂₆
+d. T₂₄
+ans:a
+
+60. The equation of family of a curve is y²=4a(x+a). The differential equation of the family is:
+a. Y = y'+x
+b. Y=y''+x
+c. y=2y²x+y²y⁻²
+d. y''+y'+y²=0
+ans:d
+
+61. If A.M of two numbers is twice of their G.M then the ratio of greatest number to smallest number is:
+a. 7-4√3
+b. 7+4√3
+c. 21
+d. 5
+ans:b
+
+62. Let x²+y²-2x-6y+6=0 and x²+y²-6x-4y+12=0 are two circles, then equation of the circle having diameter as their common chord is:
+a. 5x²+5y²+26x-22y+54=0
+b. 5x²+5y²+26x+22y+54=0
+c. 5x²+5y²-26x-22y+54=0
+d. 5x²+5y²-26x-22y-54=0
+ans:c
+
+63. For what value of a, f(x)=-x³+4ax²+2x-5 is decreasing ∀ x .
+a. (1,2)
+b. (3,4)
+c. R
+d. No value of a
+ans:d
+
+64. The common tangent of the parabolas y²=4x and x²=-8y is:
+a. y=x+2
+b. y=x-2
+c. y=2x+3
+d. None
+ans:d
+
+65. If the projectile motion range R is max then relation between H and R is:
+a. H=R/2
+b. H=R/4
+c. H=2R
+d. H=R/8
+ans:b
+
+66. The foci of the conic section 25x²+16y²-150x=175 are:
+a. (0,±3)
+b. (0,±2)
+c. (3,±3)
+d. (0,1)
+ans:c
+
+67. A line passes through the point of intersection of the lines 3x+y+1=0 and 2x-y+3=0 and makes equal intercepts with axes. Then equation of the line is:
+a. 5x+5y-3=0
+b. x+5y-3=0
+c. 5x-y-3=0
+d. 5x+5y+3=0
+ans:a
+
+68. In r cos θ + i sin θ, r and θ represents __________ respectively:
+a. Absolute value of modulus
+b. Argument and modulus
+c. Modulus and argument
+d. Absolute value modulus and argument
+ans:c
+
+69. The value of limit x→0 (4ˣ-1)³/[sin(x²/4)log(1+3x)] is:
+a. 4/3(ln 4)²
+b. 4/3(ln 4)³
+c. 3/2(ln 4)²
+d. 3/2(ln 4)³
+ans:b
+
+70. ∫₀³|x³+x²-3x|dx is equal to:
+a. 171/2
+b. 171/4
+c. 170/4
+d. 170/3
+ans:b
+
+71. Let A=[[1,5],[-5,1]] and A⁻¹=xA+yI, then the value of x and y are:
+a. x=-1, y=2
+b. x=-1, y=-2
+c. x=1, y=2
+d. x=1, y=-2
+ans:d
+
+72. A plane x+y+z=-α√3 touches the sphere 2x²+2y²+2z²-2x+4y-4z+3=0:
+a. ±1/√3
+b. 1/2√3
+c. 1-1/√3
+d. 1+1/√3
+ans:a
+
+73. The solution of the differential equation dy/dx+(2x/(1+x²))y=1/(1+x²)² is:
+a. y(1-x²)=tan⁻¹x+c
+b. y(1+x²)=tan⁻¹x+c
+c. y(1+x²)²=tan⁻¹x+c
+d. y(1-x²)²=tan⁻¹x+c
+ans:b
+
+74. Σ_{r=3}^{∞}(rC₃-3r)/r! is equal to:
+a. 6e²/2
+b. 6e³/2
+c. 9e²/2
+d. 9e³/2
+ans:a
+
+75. Let cos(2tan⁻¹x)=1/2 then the value of x is:
+a. √3
+b. 1/√3
+c. 1-√3
+d. 1-1/√3
+ans:b
+
+76. If sin⁻¹a is the acute angle between the curves x²+y²=4x and x²+y²=8 at (2,2), then a=
+a. 1
+b. 0
+c. √2/2
+d. (missing)
+ans:a
+
+77. The max area of rectangle that can be inscribed in a circle of radius 2units is:
+a. 8π sq.unit
+b. 4sq.unit
+c. 5sq.unit
+d. 8sq.unit
+ans:d
+
+78. If the length of the subtangent at any point to the curve xyⁿ=a is proportional to the abscissa, then 'n' is:
+a. Any non-zero real number
+b. 2
+c. -2
+d. 1
+ans:a
+
+79. ∫cotⁿ⁻¹x sinⁿ⁺¹xdx, n≠0 is:
+a. cotⁿx/n
+b. -cotⁿ⁻¹x/(n-1)
+c. -cot⁴x/n
+d. cotⁿ⁻¹x/(n-1)
+ans:a
+
+80. The value of ∫_{-1}²|x|/x dx is:
+a. 0
+b. 1
+c. 2
+d. 3
+ans:b
+
+81. Laser is device which can produce:
+a. Intense beam of light
+b. Coherent beam of light
+c. Monochromatic beam of light
+d. All of above
+ans:d
+
+82. A magnetic needle lying parallel to a magnetic field is turned through 60°. The work done is w. The torque required to maintain the magnetic needle in the position mentioned above is:
+a. √3w
+b. (√3/2)w
+c. w/2
+d. 2w
+ans:a
+
+83. A parallel plate capacitor has a capacity 80×10⁻⁶F when air is present between the plates. The volume between the plates is then completely filled with a dielectric slab of dielectric constant 20. The capacitor is now connected to a battery of 30v by wires. The dielectric slab is then removed. Then the charge that passes now through the wire is:
+a. 45.6×10⁻³c
+b. 25.3×10⁻³c
+c. 120×10⁻³c
+d. 120×10⁻³c
+ans:a
+
+84. Four resistor A,B,C and D form a whetstones bridge is balanced when C=100Ω. If A and B are interchanged, the balance is for C=121Ω. The value of D is:
+a. 10Ω
+b. 100Ω
+c. 110Ω
+d. 120Ω
+ans:c
+
+85. The magnitude of the resultant of two forces is F. The Magnitude of each force is F. The angle between the forces must be:
+a. 30°
+b. 60°
+c. 45°
+d. 120°
+ans:d
+
+86. A primary coil and secondary coil are placed close to each other. The current which changes at the rate of 25 amps in a millisecond, is present in the primary coil. If the mutual inductance is 92×10⁻⁶ henries, then the value of induced Emf in the secondary coil is:
+a. 4.6v
+b. 2.3v
+c. (missing)
+d. (missing)
+ans:b
+
+87. The de Broglie wavelength of an electron moving with a velocity of 1.5×10⁸ m/s is equal to that of photon. The ratio of K.E of the electron to that of photon (C=3×10⁸ m/s):
+a. 2
+b. 4
+c. 1/2
+d. 1/4
+ans:d
+
+88. The maximum K.E of emitted photoelectrons depend on:
+a. Intensity of the incident light
+b. Frequency of the incident light
+c. Temperature of the photosensitive surface
+d. None
+ans:b
+
+89. The half-life of Ra 226 is 1620 years then the number of atoms decay in one second in 1gm of radium (Avogadro number =6.023×10²³):
+a. 4.23×10⁹
+b. 3.16×10¹⁰
+c. 3.61×10¹⁰
+d. 2.16×10¹⁰
+ans:c
+
+90. The half-life of a radioactive element is 10 hours. The fraction of initial radioactivity of the element that will remain after 40 hours is:
+a. 1/2
+b. 1/16
+c. 1/8
+d. 1/4
+ans:b
+
+91. In a transistor if Ic/Ie=α and Ic/Ib=β. If α varies between 20/21 and 100/101. Then value of β lies between:
+a. 1-10
+b. 0.95-0.99
+c. 20-100
+d. 200-300
+ans:c
+
+92. Let [ε₀] denote the dimensional formula of the permittivity of vacuum. If M=mass, L=length, T=time and A=electric current, then:
+a. [ε₀]=[M⁻¹L⁻³T⁴A²]
+b. [ε₀]=[M⁻¹L²T¹A⁻²]
+c. [ε₀]=[M⁻¹L²T⁻¹A]
+d. [ε₀]=[M⁻¹L⁻³T²A]
+ans:a
+
+93. The gravitational field in a region is given by equation is E=(5i+12j)N/kg. If a particle of mass 2kg is moved from the origin to the point (12m,5m) in this region, the change in gravitational P.E is:
+a. -225J
+b. -240J
+c. -245J
+d. -250J
+ans:b
+
+94. The time period of a particle in simple harmonic motion is 8s. At t=0 it is at the mean position. The ratio of the distances travelled by it in the first and second seconds is:
+a. 1/2
+b. 1/√2
+c. 1/(√2-1)
+d. 1/√3
+ans:c
+
+95. A tension of 22N is applied to a copper wire of cross sectional area 0.02cm². Young's modulus of copper is 1.1×10¹¹ N/m² and Poisson's ratio 0.32. The decrease in cross sectional area will be:
+a. 1.28×10⁻⁶ cm²
+b. 1.6×10⁻⁶ cm²
+c. 2.56×10⁻⁶ cm²
+d. 0.64×10⁻⁶ cm²
+ans:a
+
+96. The total energy of H-atom in its ground state is:
+a. –ive
+b. +ive
+c. 0
+d. None
+ans:a
+
+97. A pipe having an internal diameter 'D' to another pipe of same size, water flow into the second pipe through 'n' holes, each of diameter 'd'. If the water in the first pipe has speed 'V', the speed of water leaving the second pipe is:
+a. D²v/nd²
+b. nD²v/d²
+c. nd²v/D²
+d. d²v/nd²
+ans:a
+
+98. When a liquid is heated in copper vessel its coefficient of apparent expansion is 6×10⁻⁶/°C. When same liquid is heated in a steel vessel its coefficient of apparent expansion is 24×10⁻⁶/°C. If coefficient of linear expansion for copper is 18×10⁻⁶/°C the coefficient of linear expansion for steel is:
+ans: (incomplete question)
+
+99. When the temperature of a body increases from T to T+ΔT, its moment of inertia increases from I to I+ΔI. If α is the coefficient of linear expansion of the material of the body then ΔI/I (neglect higher orders of α):
+a. αΔT
+b. 2αΔT
+c. ΔT/α
+d. 2α/ΔT
+ans:b
+
+100. Work done to increase the temperature of one mole of an ideal gas by 30°C, if it is expanding under the condition v∝T^(2/3) is, (R=8.314 J/mole/°K):
+a. 116.2J
+b. 136.2J
+c. 166.2J
+d. 186.2J
+ans: (incomplete solution)
+
+101. Power radiated by black body at temperature T₁ is P and it radiates maximum energy at a wavelength λ₁. If the temperature of the black body is changed from T₁ to T₂, it radiates max energy at a wavelength of λ₁/2. The power radiated at T₂:
+a. 2P
+b. 4P
+c. 8P
+d. 6P
+ans:c
+
+102. Which of the following has the high energy photon:
+a. Visible light
+b. X rays
+c. Ultraviolet rays
+d. Gamma rays
+ans:d
+
+103. What is minimum energy required to launch a satellite of mass m from the surface of a planet of mass M and radius R in a circular orbit at an altitude of 2R:
+a. 2GmM/3R
+b. GmM/2R
+c. GmM/3R
+d. 5GmM/6R
+ans:d
+
+104. When the engine is switched off a vehicle of mass 'M' is moving on a rough horizontal road with momentum P. If the coefficient of friction between the road and tires of the vehicle is μₖ, the distance travelled by the vehicle before it comes to rest is:
+a. P²/2μₖM²g
+b. 2μₖM²g/P²
+c. P²/2μₖg
+d. P²M²/2μₖg
+ans:a
+
+105. A projectile is given an initial velocity of i + 2j where i is along the ground and j is along the vertical. If g=10m/s², the equation of its trajectory is:
+a. y=2x-5x²
+b. 4y=2x-5x²
+c. 4y=2x-25x²
+d. y=x-5x²
+ans:a
+
+106. The escape velocity from the earth gravitational field depend upon:
+a. Rotation of earth
+b. Mass of body
+c. Radius of earth
+d. Mass of earth
+ans:c
+
+107. If the earth is treated as a sphere of radius R and mass M its angular momentum about the axis of its rotation with period T is:
+a. πMR³/T
+b. πMR²/T
+c. 2πMR²/5T
+d. 4πMR²/5T
+ans:d
+
+108. The velocity 'V' reached by a car of mass 'm' at certain distance from the starting point driven with constant power 'P' is such that:
+a. V ∝ 3P/m
+b. V² ∝ 3P/m
+c. V³ ∝ 3P/m
+d. V ∝ (3P/m)²
+ans:c
+
+109. It is possible to project a particle with a given velocity in two possible ways so as to make them pass through a point P at a horizontal distance r from the point of projection. If t₁ and t₂ are times taken to reach this point in two possible ways, then the product t₁t₂ is proportional to:
+a. 1/r
+b. r
+c. r²
+d. 1/r²
+ans:b
+
+110. Sum of magnitudes of two forces acting at a point is 16N. If their resultant is normal to smaller force and has a magnitude 8N, then the forces are:
+a. 6N, 10N
+b. 8N, 8N
+c. 4N, 12N
+d. 2N, 14N
+ans:a
+
+111. The length of a pendulum is measured as 1.01m and time for 30 oscillations is measured as one minute 3 sec. Error in length is 0.01m and error in time is 3 sec. The percentage error in the measurement of acceleration due to gravity is:
+a. 1
+b. 5
+c. 10
+d. 15
+ans:c
+
+112. A tension of 20N applied to a copper wire of cross sectional area 0.01cm², Young's modulus of copper is 1.1×10¹¹ N/m² and Poisson's ratio is 0.32. The decrease in cross sectional area of the wire is:
+a. 1.16×10⁻⁶ cm²
+b. 1.16×10⁻⁵ m²
+c. 1.16×10⁻⁴ m²
+d. 1.16×10⁻³ cm²
+ans:a
+
+113. A capillary tube of radius r is immersed in water and water rises to a height of 'h'. Mass of water in the capillary tube is 5×10⁻³ kg. The same capillary tube is now immersed in a liquid whose surface tension is √2 times the surface tension of water. The angle of contact between the capillary tube and this liquid is 45°. The mass of liquid which rises into the capillary tube now is (in kg):
+a. 5×10⁻³
+b. 5×10⁻³
+c. 5√2×10⁻³
+d. 3.5×10⁻³
+ans:a
+
+114. The terminal velocity of a liquid drop of radius 'r' falling through air is v. If two such drops are combined to form a bigger drop, the terminal velocity with which the bigger drop falls through air is (ignore any buoyant force due to air):
+a. √2 v
+b. 2v
+c. √(4/3) v
+d. √(2/3) v
+ans:a
+
+115. A glass flask of volume one liter is filled completely with mercury at 0°C. The flask is now heated to 100°C. Coefficient of volume expansion of mercury is 1.82×10⁻⁴/°C and coefficient of linear expansion of glass is 0.1×10⁻⁴/°C. During this process, amount of mercury which overflow is:
+a. 21.2 cc
+b. 15.2 cc
+c. 2.12 cc
+d. 18.2 cc
+ans:b
+
+116. On a temperature scale y, water freezes at -160°y and boils at -50°y. On this y scale, a temperature of 340K is:
+a. -106.30°y
+b. -96.30°y
+c. -86.30°y
+d. -76.30°y
+ans:c
+
+117. Efficiency of heat engine whose sink is at a temperature of 300K is 40%. To increase the efficiency to 60%, keeping the sink temperature constant, the source temperature must be increased by:
+a. 750K
+b. 500K
+c. 250K
+d. 1000K
+ans:c
+
+118. We can hear sound around the corner but cannot see because of:
+a. Interference
+b. Diffraction
+c. Polarization
+d. Dispersion
+ans:b
+
+119. An air column in a tube 32cm long closed at one end, is in resonance with a tuning fork. The air column in another tube, open at both ends of length 66cm is in resonance with another tuning fork. When these two tuning forks are sounded together, they produce 8 beats per second then the frequencies of the two tuning forks are (Consider fundamental frequencies):
+a. 250Hz, 258Hz
+b. 240Hz, 248Hz
+c. 264Hz, 256Hz
+d. 280Hz, 272Hz
+ans:c
+
+120. A wire of uniform cross section A, length L and resistance R is cut into two equal pieces. The resistivity of each piece will be:
+a. The same
+b. One fourth
+c. Double
+d. One half
+ans:a
+
+121. A microscope consist of an objective of focal length 1.9cm and eye piece of focal length 5cm. The two lenses are kept at a distance of 10.5cm. If the image is to be formed at least distance of distinct vision, the distance at which the object is to be placed before the objective is (least distance of distinct vision is 25cm):
+a. 6.2cm
+b. 2.7cm
+c. 21.0cm
+d. 4.17cm
+ans:b
+
+122. Fresnel diffraction is produced due to light rays falling on a small obstacle. The intensity of light at a point on a screen beyond an obstacle depends on:
+a. The focal length of lens used for observation
+b. The number of half period zones that superpose at the point
+c. The square of the sum of the number of half period zones
+d. The thickness of the obstacle
+ans:b
+
+123. A short bar magnet having magnetic moment 4Am², placed in a vibrating magnetometer, vibrates with a time period of 8 seconds. Another short bar magnet having a magnetic moment 8Am² vibrates with a time period of 6 seconds. If the moment of inertia of the second magnet is 9×10⁻² kg m², the moment of inertia of the first magnet is (assume that both magnets are kept in the same uniform magnetic induction field):
+a. 9×10⁻² kg m²
+b. 8×10⁻² kg m²
+c. 5.33×10⁻² kg m²
+d. 12.2×10⁻² kg m²
+ans:b
+
+124. Two short bar magnets have their magnetic moments 1.2Am² and 1.0Am². They are placed on a horizontal table parallel to each other at a distance of 20cm between their centers, such that their north poles pointing towards geographic south. They have common magnetic equatorial line. Horizontal component of earth's field is 3.6×10⁻⁵T. Then, the resultant horizontal magnetic induction at mid-point of the line joining their centers:
+a. 3.6×10⁻⁵T
+b. 1.84×10⁻⁴T
+c. 2.56×10⁻⁴T
+d. 5.8×10⁻⁵T
+ans:b
+
+125. The S.I unit of magnetic flux is weber which is equal to:
+a. NmA⁻¹
+b. Nm²/A
+c. NA/m
+d. Nm/A⁻²
+ans:a
+
+126. If E, M, J and G respectively denote energy, mass, angular momentum and universal gravitational constant the quantity, which has the same dimensions as dimensions of EJ²/M²G²:
+a. Time
+b. Angle
+c. Mass
+d. Length
+ans:a
+
+127. The work done in moving an object from origin to a point whose position vector is r = 3i + 2j - 5k by a force F = 2i – j – k is:
+a. 1unit
+b. 9units
+c. 13units
+d. 60units
+ans:b
+
+128. A particle is projected from the ground with an initial speed of v at an angle of projection θ. The average velocity of the particle between its time of projection and time it reaches highest point of trajectory is:
+a. v/2(√(1+2cos²θ))
+b. v/2(√(1+2sin²θ))
+c. v/2(√(1+3cos²θ))
+d. v/2(√(1+3sin²θ))
+ans:c
+
+129. A ball at rest is dropped from a height of 12m. It loses 25% of its K.E on striking the ground and bounces back to a height 'h'. Then value of 'h' is:
+a. 3m
+b. 6m
+c. 9m
+d. 12m
+ans:c
+
+130. Two bodies of mass 4kg and 5kg are moving along east and north directions with velocities 5m/s and 3m/s respectively. Magnitude of the velocity of center of mass of the systems is:
+a. 25/9 m/s
+b. 9/25 m/s
+c. 41/9 m/s
+d. 9/41 m/s
+ans:a
+
+131. A mass of 2.9kg is suspended from a string of length 50cm and is at rest. Another body of mass 100g, which is moving horizontally with a velocity of 150m/s strikes and sticks to it. Subsequently when the string makes an angle of 60° with vertical, the tension in the string is (g=10m/s²):
+a. 140N
+b. 135N
+c. 125N
+d. 90N
+ans:b
+
+132. The upper half of an inclined plane with an angle of inclination φ, is smooth while the lower half is rough. A body starting from rest at the top of the inclined plane comes to rest at the bottom of the inclined plane. Then the coefficient of friction for the lower half is:
+a. 2tanφ
+b. tanφ
+c. 2sinφ
+d. 2cosφ
+ans:a
+
+133. Moment of inertia of a body about an axis is 4kg·m². The body is initially at rest and a torque of 8Nm starts acting on it along the same axis. Work done by the torque in 20sec in Joules, is:
+a. 40
+b. 640
+c. 2560
+d. 3200
+ans:d
+
+134. A uniform circular disc of radius R, lying on a frictionless horizontal plane is rotating with an angular velocity 'w' about its own axis. Another identical circular disc is gently placed on the top of the first disc coaxially. The loss in rotational K.E due to friction between the two disc, as they acquire common angular velocity is (I is moment of inertia of the disc):
+a. 1/8 Iw²
+b. 1/4 Iw²
+c. 1/2 Iw²
+d. Iw²
+ans:b
+
+135. The ratio of volumetric strain to volumetric stress is called:
+a. Compressibility
+b. Young's modulus
+c. Bulk's modulus
+d. Shear's modulus
+ans:a
+
+136. The base current in a transistor circuit changes from 45mA to 140mA. Accordingly, the collector current changes from 0.2mA to 4mA. The gain in current is:
+a. 9.5
+b. 1
+c. 40
+d. 20
+ans:c
+
+137. A U²³⁵ nuclear reactor generates energy at the rate of 3.70×10⁷ J/s. Each fission liberates 185MeV useful energy. If the reactor has to operate for 144×10⁴ seconds, then, the mass of the fuel needed is (Assume Avogadro's number = 6×10²³, 1eV = 1.6×10⁻¹⁹J):
+a. 70.5kg
+b. 0.705kg
+c. 13.1kg
+d. 1.31kg
+ans:b
+
+138. Fissions reaction can be produced in ₉₂U²³⁸ by:
+a. Fast neutron
+b. Slow neutron
+c. Thermal neutron
+d. All of these
+ans:a
+
+139. The work function of a metal is 2eV. If a radiation of wavelength 3000Å is incident on it, the maximum K.E of the emitted photoelectrons is (Planck's constant h=6.6×10⁻³⁴ J·s, velocity of light c=3×10⁸ m/s, 1eV=1.6×10⁻¹⁹J):
+a. 4.4×10⁻¹⁹J
+b. 5.6×10⁻¹⁹J
+c. 3.4×10⁻¹⁹J
+d. 2.5×10⁻¹⁹J
+ans:c
+
+140. Initially a photon of wavelength λ₁ falls on photocathode and emits an electron with maximum energy E₁. Then the wavelength of the incident photon is changed to λ₂, the maximum energy of electron emitted becomes E₂. Then value of hc (Planck's constant = h, c = velocity of light) is:
+a. hc = (E₁+E₂)λ₁λ₂/(λ₂-λ₁)
+b. hc = (E₁-E₂)λ₁λ₂/(λ₂-λ₁)
+c. hc = (E₁+E₂)(λ₂-λ₁)/λ₁λ₂
+d. None
+ans:b
+
+141. The gas leaked from a storage tank of union carbide plant in Bhopal gas tragedy was:
+a. methylamine
+b. ammonia
+c. phosgene
+d. methylisocyanate
+ans:d
+
+142. Which of the following exists as covalent crystal in the solid state?
+a. Silicon
+b. Sulphur
+c. Phosphorous
+d. Iodine
+ans:a
+
+143. Transfer of heat from hot surrounding to cold refrigerator is an example of:
+a. Spontaneous reaction
+b. Non spontaneous reaction
+c. First law of thermodynamic
+d. All
+ans:b
+
+144. In which of the following pairs molecules/ions both the species are not likely to exist?
+a. H⁻²:He²⁻
+b. H₂⁺²:He₂
+c. H⁻²:He₂²⁻
+d. H⁺₂:He²⁻
+ans:b
+
+145. One would expect proton to have very large:
+a. Ionization potential
+b. Radius
+c. Charge
+d. Hydration energy
+ans:d
+
+146. The mass of 1 mole of electron is:
+a. 9.1×10⁻²⁸g
+b. 1.008mg
+c. 0.55mg
+d. 9.1×10⁻²⁷g
+ans:c
+
+147. The C¹⁴ to C¹² ratio in a wooden article is 13% that of the fresh wood. Calculate the age of the wooden article. Given that the half-life of C¹⁴ is 5770 years:
+a. 16989yr
+b. 16858yr
+c. 15675yr
+d. 17700yr
+ans:a
+
+148. The number of neutrons in the parent nucleus which gives N¹⁴ on β emission is:
+a. 7
+b. 14
+c. 6
+d. 8
+ans:d
+
+149. A reversible chemical reaction is having two reactants in equilibrium. If the concentration of the reactants are doubled then equilibrium constant will be:
+a. Doubled
+b. One fourth
+c. Halved
+d. Remain same
+ans:d
+
+150. Which is the phenomenon which help us to calculate lattice energy of ionic crystal:
+a. Hess law
+b. Enthalpy of formation
+c. Born Haber process
+d. None
+ans:c
+
+151. Which of the following will have highest coagulating power for As₂S₃ colloids?
+a. Al³⁺
+b. PO₄³⁻
+c. SO₄²⁻
+d. Na⁺
+ans:a
+
+152. The low density of ice compared to water is due to:
+a. Induced dipole-induced dipole interactions
+b. Dipole-induced dipole interactions
+c. Hydrogen bonding interaction
+d. Dipole-dipole interaction
+ans:c
+
+153. The bond order in N₂⁺ is:
+a. 1.5
+b. 3.0
+c. 2.5
+d. 2
+ans:c
+
+154. The oxidation number of N in NH₃ is:
+a. +3
+b. +5
+c. -3
+d. 0
+ans:c
+
+155. Which one of the following reactions involves oxidation-reduction?
+a. H₂ + Br₂ → 2HBr
+b. NaBr + HCl → NaCl + HBr
+c. HBr + AgNO₃ → AgBr + HNO₃
+d. 2NaOH + H₂SO₄ → Na₂SO₄ + 2H₂O
+ans:a
+
+156. How can we predict whether a reaction will be spontaneous or not?
+a. By calculating its energy
+b. By understanding its free energy
+c. By changing energy levels
+d. None
+ans:b
+
+157. What is the molarity of 0.2N Na₂CO₃ solution?
+a. 0.1M
+b. 0M
+c. 0.4M
+d. 0.2M
+ans:a
+
+158. Spontaneous reaction is one:
+a. Directional, irreversible, real process
+b. Unidirectional reversible imaginary process
+c. Irreversible, unidirectional and real process
+d. Imaginary irreversible reaction
+ans:c
+
+159. One liter oxygen gas at S.T.P. will weigh:
+a. 1.43g
+b. 2.24g
+c. 11.2g
+d. 22.4g
+ans:a
+
+160. Rate of reaction:
+a. Decreases with increase in temperature
+b. Increases with increase in temperature
+c. May increase or decrease with increase in temperature
+d. Does not depend on temperature
+ans:b
+
+161. Which of these polymers is an addition polymer?
+a. Nylon
+b. Polystyrene
+c. Terylene
+d. Epoxy resin
+ans:b
+
+162. A catalyst is a substance which:
+a. Is always in the same phase as in the reactions
+b. Alters the equilibrium in a reaction
+c. Does not participate in the reaction but alters the rate of reaction
+d. Participates in the reaction and provides an easier pathway for the same
+ans:d
+
+163. Which structure of protein gives the sequence of amino acids only?
+a. Primary structure
+b. Secondary structure
+c. Tertiary structure
+d. Quaternary structure
+ans:a
+
+164. An aqueous solution of glucose is 10% in strength. The volume in which 1g/mol of it is dissolved, will be:
+a. 9L
+b. 1.8L
+c. 8L
+d. 0.9L
+ans:b
+
+165. The strongest Bronsted base is:
+a. ClO₃⁻
+b. ClO₂⁻
+c. ClO₄⁻
+d. ClO⁻
+ans:d
+
+166. A solution contains 10ml 0.1N NaOH and 10ml 0.05N H₂SO₄. pH of this solution is:
+a. Less than 7
+b. 7
+c. 0
+d. Greater than 7
+ans:d
+
+167. A saturated solution of Ag₂SO₄ is 2.5×10⁻²M. The value of its solubility product is:
+a. 62.5×10⁻⁶
+b. 6.25×10⁻⁴
+c. 15.625×10⁻⁶
+d. 3.125×10⁻⁶
+ans:c
+
+168. What is the freezing point of a solution containing 8.1g HBr in 100g of water assuming the acid to be 90% ionized? (Kf for water = 1.86 K·kg/mol):
+a. 0.85°C
+b. -3.53°C
+c. 0°C
+d. (missing)
+ans:b
+
+169. The pH value for 1/1000 N-KOH solution is:
+a. 3
+b. 10⁻¹¹
+c. 2
+d. 11
+ans:d
+
+170. All fats are:
+a. Carbohydrates
+b. Hydrocarbons
+c. Aldehydes
+d. Esters
+ans:d
+
+171. We went to the shop and bought ______________ wedding suit for the bride:
+a. New
+b. A new
+c. The new
+d. An new
+ans:b
+
+172. Citizens have right that everyone should have ________ opportunity to have job:
+a. An equal
+b. A equal
+c. The equal
+d. Equal
+ans:a
+
+173. They had an accident in _____ car they painted last month:
+a. An new car
+b. The new car
+c. A new car
+d. New car
+ans:b
+
+174. _________ is a virtue:
+a. Honesty
+b. An honesty
+c. A honesty
+d. The honesty
+ans:a
+
+175. His ____ father is eighty years old, and he still runs fast:
+a. A
+b. An
+c. The
+d. None
+ans:d
+
+176. What is the main thrust of the author?
+a. Traditional systems should be strengthened
+b. Formal education is more important than non-formal
+c. One should never cease to learn
+d. It is impossible to meet the needs of everyone
+ans:c
+
+177. Which of the following describes the purpose of the author?
+a. To criticize the present educational system
+b. To strengthen the present educational practice
+c. To support non-conventional educational organizations
+d. To present a pragmatic point of view
+ans:d
+
+178. According to the passage, the present education structure assumes which of the following?
+a. All people can be educated as per their needs
+b. Present educational planning is very much practical
+c. Education is a onetime process
+d. Simple rearrangement of the present educational system is a must
+ans:c
+
+179. What should be the measure characteristic of the future educational system?
+a. Different modules with the same function
+b. Same modules for different groups
+c. No modules but standard compulsory program for all
+d. None of these
+ans:d
+
+180. According to the author, educational plan should attempt to:
+a. Train the people at the core
+b. Encourage conventional schools and colleges
+c. Decide a terminal point to education
+d. Fulfill the educational needs of everyone
+ans:d
+
+181. Iron : blacksmith :: ______ : ______:
+a. Cotton : cloth
+b. Food : gourmet
+c. Clay : potter
+d. Silver : miner
+ans:c
+
+182. Fish : scales :: ______ : ______:
+a. Book : papers
+b. Snakes : fangs
+c. Birds : feathers
+d. Car : wheels
+ans:c
+
+183. Nose : smell :: ______ : ______:
+a. Tongue : speak
+b. Foot : hit
+c. Hand : finger
+d. Teeth : chew
+ans:d
+
+184. Collage : images :: ______ : ______:
+a. Cement : building
+b. Medley : songs
+c. Furniture : sofa
+d. Grains : tree
+ans:b
+
+185. Sketch : artist :: ______ : ______:
+a. Secret : confident
+b. Cell : prisoner
+c. Palette : painter
+d. Draft : writer
+ans:d
+
+186. Fragile : ______ (synonym):
+a. Strong
+b. Grave
+c. Weak
+d. Showy
+ans:c
+
+187. Esoteric : ______ (synonym):
+a. Fair
+b. Popular
+c. Alluring
+d. Private
+ans:d
+
+188. Synchronized : ______ (antonym):
+a. Arrhythmic
+b. Resonating
+c. Harmonized
+d. Brought into accord
+ans:a
+
+189. Chaotic : ______ (antonym):
+a. Immersive
+b. Orderly
+c. Hectic
+d. Steady
+ans:b
+
+190. Bombastic : ______ (antonym):
+a. Creative
+b. Selfish
+c. Astounded
+d. Polite
+ans:d
+
+191. The current president of European union belong to which country?
+a. Greece
+b. Austria
+c. Germany
+d. Latvia
+ans:b
+
+192. Chief Minister of Punjab?
+a. Javed mehmood
+b. Shahbaz sharif
+c. Captain arif Nadeem
+d. none
+ans:b
+
+193. Who visited Pakistan and agreed to enhance their defense cooperation and support each other's position on regional issues, including Syria and Afghanistan?
+a. Saudi foreign minister
+b. American foreign minister
+c. German foreign minister
+d. French foreign minister
+ans:a
+
+194. The international day of peace sometimes unofficially known as world peace day, is observed annually on:
+a. 21st September
+b. 23rd September
+c. 12th October
+d. None of these
+ans:a
+
+195. International day for the elimination of violence against racial discrimination is observed annually on:
+a. 23rd may
+b. 21st march
+c. 1st march
+d. None of these
+ans:b
+
+196. The 'KASHAF-UL-MAHJUB' was written by?
+a. HAZRAT DATA GUNJ
+b. Maulana Altaf Hussain Hali
+c. Maulana Shibli Nomani
+d. Maulana Zakaullah
+ans:a
+
+197. Which are five international languages of the world that have been classified as the classical languages?
+a. Chinese, Sanskrit, Arabic, Russian, and Latin
+b. Chinese, French, English, Greek, and Latin
+c. Chinese, Sanskrit, Arabic, Greek, and Latin
+d. None of these
+ans:c
+
+198. In which nuclear plant of Japan did the radioactive water leak of 100 tonnes take place?
+a. Ikata nuclear power plant
+b. Kashiwazaki, Kariwa nuclear power plant
+c. Fukushima nuclear power plant
+d. Hamaoka nuclear power plant
+ans:c
+
+199. The book titled "the Meaning of success: Insight from women" has been released by which world famous university to address the decline of women professors in the university?
+a. Oxford university
+b. London school of economics
+c. Cambridge university
+d. Harvard university
+ans:a
+
+200. FIA Stand for:
+a. Federal investigation agency
+b. Federal internal agency
+c. Foreign investigation agency
+d. none
+ans:a

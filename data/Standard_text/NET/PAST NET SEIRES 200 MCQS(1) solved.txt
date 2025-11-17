@@ -1,0 +1,1449 @@
+PAST NET SEIRES 200 MCQS(1) solved
+1. Which one of the following is the real part of the complex number: 6(2-3i)?
+(a) 2
+(b) 12
+(c) 3
+(d) 6
+Ans: b
+
+2. Sum the series 0.2+0.02+0.002+......up to infinite terms is?
+(a) 1/3
+(b) 1/6
+(c) 2/9
+(d) 3/12
+Ans: c
+
+3. If a dice is rolled thrice, then the probability that sum of dots is 5 is?
+(a) 4/36
+(b) 16/216
+(c) 6/216
+(d) 8/64
+Ans: c
+
+4. If e>1 the conic is called
+(a) Circle
+(b) Parabola
+(c) Ellipse
+(d) Hyperbola
+Ans: d
+
+5. A complex number is real if:
+(a) z = z̅
+(b) z̅ = -z
+(c) z̅ = 1/z
+(d) None of these
+Ans: a
+
+6. The roots of the equation v²-3v-5=0 are:
+(a) Real, irrational & equal
+(b) Imaginary, unequal
+(c) Rational unequal
+(d) Real, irrational & unequal
+Ans: d
+
+7. A groupoid is denoted by
+(a) S
+(b) G
+(c) (S,∗)
+(d) (G,∗)
+Ans: c
+
+8. For any square matrix if A=Aᵗ then the matrix is called:
+(a) Scalar
+(b) Skew symmetric
+(c) Symmetric
+(d) Hermitian
+Ans: c
+
+9. 2,2,2,2,2,2 is an arithmetic sequence with common difference?
+(a) 0
+(b) 2
+(c) 4
+(d) It is not Arithematic Progression
+Ans: a
+
+10. Which may not be "r" for Geometric series?
+(a) 1
+(b) 2
+(c) 0
+(d) 0.2
+Ans: c
+
+11. 1, 1/3, 1/5, 1/7,...is?
+(a) Geometric
+(b) Arithmetic
+(c) Harmonic
+(d) None of these
+Ans: c
+
+12. A circle with area 60cm² has an arc 8cm long, the angle subtended at the centre is
+(a) 1.83r
+(b) 2.1r
+(c) 1.05r
+(d) 1.25r
+Ans: a
+
+13. What is the angle of elevation of sun at 12:00pm?
+(a) 90
+(b) 0
+(c) undefined/infinity
+(d) none
+Ans: a
+
+14. Eccentricity of Earth..??
+(a) e>0
+(b) e=0
+(c) e<0
+(d) None
+Ans: a
+
+15. A dice is rolled, what is the probability of getting 1 or 6?
+(a) 1/6
+(b) 2/36
+(c) 1/3
+(d) 3/6
+Ans: c
+
+16. The probability of picking rotten apples in a box is 1/100. If there are 6 boxes containing 1200 apples, then how many rotten apples would be picked?
+(a) 12
+(b) 45
+(c) 60
+(d) 72
+Ans: d
+
+17. Two dices are thrown, what is the probability that sum of dots shown on the dice is 5?
+(a) 2/36
+(b) 3/36
+(c) 4/36
+(d) 5/36
+Ans: c
+
+18. What is the formula for tan θ?
+(a) sin θ/cos θ
+(b) 1/cot θ
+(c) tan(180+θ)
+(d) All of these
+Ans: d
+
+19. Evaluate: cos x * sin x * tan x * cot x * csc x
+(a) cos x
+(b) 1/sec x
+(c) sin x
+(d) Both a and b
+Ans: a
+
+20. What is the domain of the inverse cosecant function?
+(a) [-1,1]
+(b) R
+(c) R -(-1,1)
+(d) (-1,1)
+Ans: c
+
+21. Period of cot is?
+(a) pi
+(b) 2pi
+(c) pi/2
+(d) none of these
+Ans: a
+
+22. Which is the same as sin(-a)?
+(a) –sin(a)
+(b) sin(a)
+(c) –tan(a)/sec(a)
+(d) Both a and c
+Ans: d
+
+23. Which one of the following pairs has the same period?
+(a) Tangent function and cotangent function
+(b) Sine function and tangent function
+(c) Cosine function and cotangent function
+(d) Cosecant function and tangent function
+Ans: a
+
+24. How many 4 digit numbers less than 4000 can be formed from the digits 1,2,3,4,5 without repetition?
+(a) 120
+(b) 96
+(c) 72
+(d) 48
+Ans: c
+
+25. nP4/nC3=30, then n=?
+(a) 1
+(b) 3
+(c) 4
+(d) 8
+Ans: d
+
+26. If sin(x)=1/2 where x is in 1st quadrant, find the value of tan(2x)
+(a) 1
+(b) -1
+(c) 1.732
+(d) 0.577
+Ans: c
+
+27. Magnitude of unit vector is
+(a) 1
+(b) -1
+(c) 0
+(d) All of them
+Ans: a
+
+28. What is the formula of cos 3α?
+(a) cos 2α*cos α
+(b) 4cos³(α)-3cos α
+(c) (1+cos α)/sin α
+(d) Both a and b
+Ans: b
+
+29. Quadrilateral having opposite angles congruent is
+(a) square
+(b) triangle
+(c) parallelogram
+(d) rectangle
+Ans: c
+
+30. If sequence is 2,6,10......then 30th term is
+(a) 118
+(b) 32
+(c) 122
+(d) 128
+Ans: a
+
+31. The distance of (3,0) from 3x-4y +6=0 is
+(a) 1
+(b) 2
+(c) 3
+(d) 4
+Ans: c
+
+32. Function and it's inverse reflect at?
+(a) X = y
+(b) y = X
+(c) X axis
+(d) y axis
+Ans: b
+
+33. Common ratio in GP cant be
+(a) 1
+(b) -1
+(c) 0
+(d) all of these
+Ans: c
+
+34. Tan(180+A)Cos(90-A)+Cos(180-A)
+(a) 1/secA
+(b) 1/cosA
+(c) TanA
+(d) SinA-CosA
+Ans: a
+
+35. Find the sum: 1+3+5...+(2n+1)
+(a) n²
+(b) ln e²
+(c) 2ⁿ
+(d) nᵉ
+Ans: a
+
+36. If A={a,b,c} then the number of possible subsets is:
+(a) 3
+(b) 8
+(c) 6
+(d) None of these
+Ans: b
+
+37. Calculate exact value of repeating decimal 0.4545...
+(a) 5/11
+(b) 50/11
+(c) 0.5/11
+(d) None of these
+Ans: a
+
+38. If nP3=720 then what is the value of n?
+(a) 9
+(b) 10
+(c) 11
+(d) 12
+Ans: b
+
+39. What is the cosine inverse of cos(0.5)?
+(a) 1/6
+(b) 1/2
+(c) 1/4
+(d) 1/3
+Ans: b
+
+40. Value of sin inverse (-1) is?
+(a) 0 degree
+(b) 90 degree
+(c) -90 degree
+(d) -1 is not in the domain of sin inverse
+Ans: c
+
+41. If U, V, W are three vectors, then (UxV).W represents volume of
+(a) Triangle
+(b) Cube
+(c) Cylinder
+(d) Parallelepiped
+Ans: d
+
+42. Two dice are rolled, the probability that the sum of dots is an odd number is?
+(a) 1/2
+(b) 1/3
+(c) greater than 1 or less than 0
+(d) None
+Ans: a
+
+43. Product of two imaginary numbers is
+(a) Complex Number
+(b) Real number
+(c) Imaginary number
+(d) None of these
+Ans: b
+
+44. For an A.P if Sn = q, an = p and total number of terms in series is n, then a1 equals?
+(a) a1=2q/n – p
+(b) a1=2q/n
+(c) a1=q/n + p
+(d) None
+Ans: a
+
+45. A GP has a common ratio of 0.45, and its sum to infinity is 100. What is the first term of the series?
+(a) 55
+(b) 110
+(c) 450
+(d) 24
+Ans: a
+
+46. Probability of a diamond card in a 52 deck cards is?
+(a) 1/13
+(b) 4/13
+(c) 13/52
+(d) 4/52
+Ans: c
+
+47. The product of first n natural numbers is ?
+(a) n!
+(b) (n+1)!
+(c) (n-1)!
+(d) None of these
+Ans: a
+
+48. The value of sin13cos77 + cos13sin77 = ?
+(a) 0
+(b) 1
+(c) cos26
+(d) sin26
+Ans: b
+
+49. If two lines are anti-parallel then
+(a) Slopes are equal
+(b) Slopes are opposite
+(c) Product of slopes are -1
+(d) Both A & B
+Ans: a
+
+50. Product of Cube root of unity is
+(a) 1
+(b) 0
+(c) -1
+(d) 2
+Ans: a
+
+51. If one cut is parallel we get which conic section ?
+(a) Circle
+(b) Parabola
+(c) Hyperbola
+(d) Ellipse
+Ans: b
+
+52. d/dx sin2x
+(a) –cos2x
+(b) cos2x
+(c) 2Sin2x
+(d) 2cos2x
+Ans: d
+
+53. The length of all the sides of a square and an equilateral triangle is 5 units. What is the ratio of the area of the square to the area of the triangle ?
+(a) 8/√3
+(b) 8√3/5
+(c) 4/√3
+(d) √3/8
+Ans: c
+
+54. What kind of discontinuity is removable in graph of non-linear functions involving second order derivative ?
+(a) Jump
+(b) Asymptotic
+(c) Point
+(d) Multipoint
+Ans: c
+
+55. Cos⁻¹(-1/2)
+(a) 120degree
+(b) 180degree
+(c) 90degree
+(d) 0degree
+Ans: a
+
+56. 1 degree is equal to (in radians)?
+(a) π/180
+(b) 0.0625
+(c) 0.0345
+(d) 0.7154
+Ans: a
+
+57. If dice is rolled two times then what is the probability of the numbers whose sum is 8 ?
+(a) 2/36
+(b) 2/4
+(c) 4/36
+(d) 5/36
+Ans: d
+
+58. Domain of cos⁻¹(x) is?
+(a) [-1,1]
+(b) [0,π]
+(c) [0,1]
+(d) All real numbers
+Ans: a
+
+59. If two vertices of rectangle are present in first quadrant then which coordinate cannot be a vertex?
+(a) (+2,+8)
+(b) (+2,-8)
+(c) (+8,-2)
+(d) (-2,-8)
+Ans: a
+
+60. 3-x = x-3 then x is equal to
+(a) X is greater than 3
+(b) X is less than 3
+(c) X is greater than or equal to 3
+(d) X is less than or equal to 3
+Ans: c
+
+61. The derivative of f(x) w.r.t x is
+(a) Rate change of f(x) w.r.t x
+(b) Relevance rate of increase in f(x) w.r.t x
+(c) Relevance rate decrease on f(x) w.r.t x
+(d) None
+Ans: a
+
+62. If we have f(x,y)=c then we solve by
+(a) Implicit differentiation
+(b) Product rule
+(c) Chain rule
+(d) Cannot be solved
+Ans: a
+
+63. A hyperbola has
+(a) One focus two directrices
+(b) Two foci two directrices
+(c) Two focus one directrices
+(d) None
+Ans: b
+
+64. sin⁻¹(3/5)
+(a) Cos⁻¹(4/5)
+(b) Sec⁻¹(5/4)
+(c) Cosec⁻¹(5/3)
+(d) All
+Ans: a, c
+
+65. Differentiate ln(e) with respect to 'x'
+(a) 1/e
+(b) 0
+(c) 1/x
+(d) e
+Ans: b
+
+66. A GP has a common ratio of 0.45, and its sum to infinity is 100. What is the first term of the series?
+(a) 55
+(b) 110
+(c) 450
+(d) 24
+Ans: a
+
+67. Probability of a diamond card in a 52 deck cards is?
+(a) 1/13
+(b) 4/13
+(c) 13/52
+(d) 4/52
+Ans: c
+
+68. The product of first n natural numbers is ?
+(a) n!
+(b) (n+1)!
+(c) (n-1)!
+(d) None of these
+Ans: a
+
+69. The value of sin13cos77 + cos13sin77 = ?
+(a) 0
+(b) 1
+(c) cos26
+(d) sin26
+Ans: b
+
+70. If two lines are anti-parallel then
+(a) Slopes are equal
+(b) Slopes are opposite
+(c) Product of slopes are -1
+(d) Both A & B
+Ans: a
+
+71. Product of Cube root of unity is
+(a) 1
+(b) 0
+(c) -1
+(d) 2
+Ans: a
+
+72. If one cut is parallel we get which conic section ?
+(a) Circle
+(b) Parabola
+(c) Hyperbola
+(d) Ellipse
+Ans: b
+
+73. d/dx sin2x
+(a) –cos2x
+(b) cos2x
+(c) 2Sin2x
+(d) 2cos2x
+Ans: d
+
+74. The length of all the sides of a square and an equilateral triangle is 5 units. What is the ratio of the area of the square to the area of the triangle ?
+(a) 8/√3
+(b) 8√3/5
+(c) 4/√3
+(d) √3/8
+Ans: c
+
+75. What kind of discontinuity is removable in graph of non-linear functions involving second order derivative ?
+(a) Jump
+(b) Asymptotic
+(c) Point
+(d) Multipoint
+Ans: c
+
+76. Cos⁻¹(-1/2)
+(a) 120degree
+(b) 180degree
+(c) 90degree
+(d) 0degree
+Ans: a
+
+77. 1 degree is equal to (in radians)?
+(a) π/180
+(b) 0.0625
+(c) 0.0345
+(d) 0.7154
+Ans: a
+
+78. If dice is rolled two times then what is the probability of the numbers whose sum is 8 ?
+(a) 2/36
+(b) 2/4
+(c) 4/36
+(d) 5/36
+Ans: d
+
+79. Domain of cos⁻¹(x) is?
+(a) [-1,1]
+(b) [0,π]
+(c) [0,1]
+(d) All real numbers
+Ans: a
+
+80. If two vertices of rectangle are present in first quadrant then which coordinate cannot be a vertex?
+(a) (+2,+8)
+(b) (+2,-8)
+(c) (+8,-2)
+(d) (-2,-8)
+Ans: a
+
+81. 3-x = x-3 then x is equal to
+(a) X is greater than 3
+(b) X is less than 3
+(c) X is greater than or equal to 3
+(d) X is less than or equal to 3
+Ans: c
+
+82. The derivative of f(x) w.r.t x is
+(a) Rate change of f(x) w.r.t x
+(b) Relevance rate of increase in f(x) w.r.t x
+(c) Relevance rate decrease on f(x) w.r.t x
+(d) None
+Ans: a
+
+83. If we have f(x,y)=c then we solve by
+(a) Implicit differentiation
+(b) Product rule
+(c) Chain rule
+(d) Cannot be solved
+Ans: a
+
+84. A hyperbola has
+(a) One focus two directrices
+(b) Two foci two directrices
+(c) Two focus one directrices
+(d) None
+Ans: b
+
+85. sin⁻¹(3/5)
+(a) Cos⁻¹(4/5)
+(b) Sec⁻¹(5/4)
+(c) Cosec⁻¹(5/3)
+(d) All
+Ans: a, c
+
+86. Differentiate ln(e) with respect to 'x'
+(a) 1/e
+(b) 0
+(c) 1/x
+(d) e
+Ans: b
+
+87. Evaluate: w²³ + w²⁸ (where w is cube root of unity)
+(a) -1
+(b) 1
+(c) w
+(d) w²
+Ans: a
+
+88. The derivative of f(x) with respect to 'x' is defined as:
+(a) The rate of change in f(x) with respect to 'x'
+(b) The increase in the relevance rate of f(x) with respect to 'x'
+(c) The decrease in the relevance rate of f(x) with respect to 'x'
+(d) None of these
+Ans: a
+
+89. Which one of the following is the additive inverse for 2+√3 ?
+(a) √3
+(b) -2+√3
+(c) -2-√3
+(d) 2+√3
+Ans: c
+
+90. What are the angles of an equilateral triangle ?
+(a) 45°,45° and 90°
+(b) 45°,90° and 45°
+(c) 120°,30° and 30°
+(d) 60°,60° and 60°
+Ans: d
+
+91. If a square has a side of 2 units, then what is the length of its diagonal ?
+(a) 2√2
+(b) 8
+(c) 4
+(d) 16
+Ans: a
+
+92. In an ellipse, what is the name for the line through the focus and perpendicular to the major axis ending at the ellipse ?
+(a) Focal chord
+(b) Minor axis
+(c) Latus rectum
+(d) Vertical asymptote
+Ans: c
+
+93. The length of all the sides of a square and an equilateral triangle is 5 units. What is the ratio of the area of the square to the area of the triangle ?
+(a) 8/√3
+(b) [8√3]/5
+(c) 4/√3
+(d) √3/8
+Ans: c
+
+94. Two figures having the same shape but different sizes are called :
+(a) Congruent figures
+(b) Similar figures
+(c) Equal figures
+(d) All of these
+Ans: b
+
+95. If three resistances R₁,R₂ and R₃ are connected in series such that R₁>R₂>R₃ then their equivalent resistance will be :
+(a) Lesser than R₁
+(b) More than R₁
+(c) Lesser than R₃
+(d) Between R₁ and R₃
+Ans: b
+
+96. If the distance between two charges is halved, the Coulomb's force between the charges will be ?
+(a) 1/4 times
+(b) 4 times
+(c) Half
+(d) Twice
+Ans: b
+
+97. Formula of capacitance is ?
+(a) C/V
+(b) CV
+(c) Q/V
+(d) QV
+Ans: c
+
+98. If capacitor is connected with battery and is fully charged then _______ ?
+(a) Current will flow
+(b) Current will not flow
+(c) Depends on the dielectric
+(d) May or may not flow
+Ans: b
+
+99. If the angle between electric field and vector area A is π/3 then electric flux will be ?
+(a) 0.866EA
+(b) 0.5EA
+(c) 0.707EA
+(d) EA/3
+Ans: b
+
+100. When two suspended objects are seen to attract each other electrically :
+(a) they are both uncharged
+(b) they are both charged
+(c) either (a) or (b) is true
+(d) neither (a) nor (b) is true
+Ans: c
+
+101. Q²/C has the units of ?
+(a) Charge
+(b) Capacitance
+(c) Voltage
+(d) Energy
+Ans: d
+
+102. 0.37q charge is stored on the capacitor, what will be the current at this point ?
+(a) 63%
+(b) 37%
+(c) 83%
+(d) None of these
+Ans: a
+
+103. Unit of electric intensity is ?
+(a) V/m
+(b) N/m
+(c) V/C
+(d) None of these
+Ans: a
+
+104. Will current pass through a capacitor attached to a DC source ?
+(a) Yes
+(b) No
+(c) First passes then stops
+(d) None of these
+Ans: c
+
+105. In which medium the force of repulsion between two charges would be minimum ?
+(a) Oil
+(b) Air
+(c) Vacuum
+(d) Distilled water
+Ans: a
+
+106. An electron is placed between two charged plates the upper plate is positively charged and the lower plate is negatively charged. The electron will ?
+(a) deflect downwards
+(b) deflect upwards
+(c) go straight
+(d) none of these
+Ans: b
+
+107. Two objects X and Y have similar charges q, they exert a force F on each other, if Z with charge -2q touches X and then removed then what is the force between X and Y ?
+(a) F
+(b) 2F
+(c) F/2
+(d) 0
+Ans: c
+
+108. Which of the following can't be used as a dielectric in a capacitor ?
+(a) Air
+(b) Wax
+(c) Iron
+(d) all of the above
+Ans: c
+
+109. If 60 capacitors each of Capacitance C are connected in series and then in parallel what is the ratio of Cs/Cp=?
+(a) 3600
+(b) 1/3600
+(c) 250
+(d) 1/60
+Ans: b
+
+110. Unit of capacitance is?
+(a) C/V
+(b) V/C
+(c) J/C
+(d) None of these
+Ans: a
+
+111. Two conducting objects X and Y having a charge Q on them exert force F on each other. Now third conductor Z having charge -Q touches with X and is removed, the new force between X and Y is?
+(a) F
+(b) F/2
+(c) 2F
+(d) None of these
+Ans: b
+
+112. Ohm's law states that I is directly proportional to?
+(a) Resistance of conductor
+(b) Potential difference across conductor
+(c) Power of conductor
+(d) Conductance of Conductor
+Ans: b
+
+113. Which will offer more resistance when connected across same battery, 500watt or 40watt?
+(a) 500w
+(b) 40w
+(c) Both will offer same resistance
+(d) None of these
+Ans: b
+
+114. How much heat a 100watt bulb will generate in 1hour?
+(a) 60J
+(b) 3600J
+(c) 360000J
+(d) 0J
+Ans: c
+
+115. If three resistances R₁,R₂ and R₃ are connected in series such that R₁>R₂>R₃ then their equivalent resistance will be:
+(a) Lesser than R₁
+(b) More than R₁
+(c) Lesser than R₃
+(d) Between R₁ and R₃
+Ans: b
+
+116. If y component of a force acting in y direction is 6N the x component will be?
+(a) 6N
+(b) 12N
+(c) 0N
+(d) None of these
+Ans: c
+
+117. If a particle of mass m has momentum p, then its kE will be
+(a) 2pm
+(b) 2m/p²
+(c) p²/m
+(d) p²/2m
+Ans: d
+
+118. If a body A is charged with charge q, and then touched with body B, after which it is touched with body C. What is the charge on C?
+(a) q
+(b) q/2
+(c) q/3
+(d) q/4
+Ans: c
+
+119. A coil is placed near a MAGNET...Emf will be induced in it when
+(a) Area of coil is changed.
+(b) Coil is rotated
+(c) Magnet which was placed at a distance is moved closer to it.
+(d) None
+Ans: c
+
+120. Newton derived formula speed of light on the basis of
+(a) Isothermal Process
+(b) Adiabatic Process
+(c) Isobaric Process
+(d) Isochoric Process
+Ans: b
+
+121. If 2 bodies of different masses, initially at rest are acted upon by same force for same time, then bodies will acquire same.
+(a) Velocity
+(b) Acceleration
+(c) Momentum
+(d) KE
+Ans: c
+
+122. If m means mass of gases ejected per sec from a rocket and v show the change in velocity then mv is named as?
+(a) work
+(b) impulse
+(c) energy
+(d) force
+Ans: d
+
+123. Name the scientist who won noble prize for quantum physics and black body radiation ?
+(a) Newton
+(b) Plank
+(c) Maxwell
+(d) Einstein
+Ans: b
+
+124. If rate of change of momentum is 50Ns. What is impulse?
+(a) 100
+(b) 50
+(c) Both
+(d) None
+Ans: b
+
+125. what is absolute uncertainty in length of 10m measured by scale of precision of 0.1m
+(a) 0.1
+(b) 1.0
+(c) 10
+(d) 15
+Ans: a
+
+126. What would be Compton Wave shift if X-rays are scattered at an angle of 90degree?
+(a) Equal to Compton wavelength
+(b) Zero
+(c) Maximum
+(d) Minimum
+Ans: a
+
+127. If temperature in Kelvin scale is reduced to half, what would be an effect on the energy of radiations?
+(a) Becomes Double
+(b) Not Effected
+(c) reduces to half
+(d) reduces to 1/8
+Ans: d
+
+128. Time stops in which of following places?
+(a) Space
+(b) Space shuttle
+(c) Satellite
+(d) Both b & c
+Ans: d
+
+129. If current is increased 100times what would be the effect on energy stored in inductor?
+(a) Increases by 1000times
+(b) Decreases By 1000times
+(c) Not effected
+(d) None
+Ans: a
+
+130. An electron is placed in a box about a size of an atom that is about 1.0×10⁻¹⁰m. what is the velocity of the electron?
+(a) 1.15×10¹⁰ m/s
+(b) 7.29×10⁶ m/s
+(c) 2.8×10⁸ m/s
+(d) 8.9×10⁵ m/s
+Ans: b
+
+131. In pure capacitive circuit is current?
+(a) leading the voltage
+(b) lagging the voltage
+(c) in phase with the voltage
+(d) both a and b
+Ans: a
+
+132. Two parallel vectors of same magnitude are.
+(a) not equal
+(b) approximately equal
+(c) equal
+(d) both b & c
+Ans: c
+
+133. when the elevator moves downward with an acceleration 'a' the apparent value of 'g' inside the elevator changes
+(a) g + a
+(b) g - a
+(c) g × a
+(d) g / a
+Ans: b
+
+134. Friction is a force
+(a) Self-adjusting
+(b) Pseudo
+(c) Fake
+(d) None
+Ans: a
+
+135. if a pendulum has time period t and length l then after doubling time period length becomes
+(a) Half
+(b) Double
+(c) 1.4
+(d) Quadrupled
+Ans: d
+
+136. two objects X and Y have similar charges q, they experience a force F on each other, if X with charge 2q touches X and then removed then what is the force between X and Y
+(a) F
+(b) f/2
+(c) 2f
+(d) 0
+Ans: b
+
+137. X-RAYS emit photoelectrons from
+(a) Stone
+(b) Water
+(c) Wood
+(d) Glass
+Ans: d
+
+138. In which medium the force of repulsion between two charges would be minimum
+(a) Oil
+(b) Distilled Water
+(c) Vacuum
+(d) Air
+Ans: a
+
+139. Child Paradox is a consequence of what?
+(a) Length Contraction
+(b) Time Dilation
+(c) Mass Variation
+(d) Compton Effect
+Ans: b
+
+140. If a body A is charged with charge q, and then touched with body B, after which it is touched with body C. What is the charge on C?
+(a) q/2
+(b) q/3
+(c) q/4
+(d) q
+Ans: b
+
+141. Which series is emitted when electron jumps from a higher orbit to fifth orbit?
+(a) Lymann
+(b) Balmer
+(c) Pfund
+(d) Brackett
+Ans: c
+
+142. Sky appears blue due to the?
+(a) Light interference
+(b) Light diffraction
+(c) Light scattering
+(d) Light polarization
+Ans: c
+
+143. Kinetic energy of photoelectrons depends on
+(a) intensity of light
+(b) frequency of light
+(c) both
+(d) none
+Ans: b
+
+144. in a parallel plate capacitor if 'd' is the separation between plates and 'A' is the area, what will be capacitance if separation is doubled and area is halved?
+(a) C/4
+(b) C/2
+(c) 2C
+(d) 4C
+Ans: a
+
+145. If number of rulings (lines) are halved what will be effect on grating element of spectrometer?
+(a) Half
+(b) Doubled
+(c) No effect
+(d) None
+Ans: b
+
+146. What effect become on time period of simple pendulum when its length become doubled
+(a) Reduced to half
+(b) Increase two time
+(c) 1.4 time reduced
+(d) increases four time
+Ans: d
+
+147. What will be the force between two charges if the distance between them is halved?
+(a) Half
+(b) Increase by 2times
+(c) 4times increase
+(d) 1/4
+Ans: c
+
+148. If w=0.50m/s , diameter of circle is half a meter then projection on diameter has time period ?
+(a) 1sec
+(b) 2sec
+(c) Pi sec
+(d) None
+Ans: c
+
+149. What is mass spectrometer used for ?
+(a) to measure atomic masses
+(b) to measure atomic number
+(c) both
+(d) none of these
+Ans: a
+
+150. 1 amu is equal to ?
+(a) 1.66×10⁻²⁷ kg
+(b) 1.602×10⁻²⁷ kg
+(c) 1.66×10⁻³¹ kg
+(d) None of these
+Ans: a
+
+151. In mass spectrometry, ionization occurs on:
+(a) solid form
+(b) liquid form
+(c) vapor form
+(d) no ionization
+Ans: c
+
+152. Chemical properties of an atom depend upon number of?
+(a) electrons
+(b) neutrons
+(c) protons
+(d) nucleons
+Ans: a
+
+153. Physical and chemical properties of an element depend upon:
+(a) only atomic mass
+(b) only atomic number
+(c) atomic mass and atomic number respectively
+(d) atomic number and atomic mass respectively
+Ans: b
+
+154. the velocity of electron in outer most shell
+(a) maximum
+(b) minimum
+(c) intermediate
+(d) none
+Ans: b
+
+155. which of the following has highest boiling point?
+(a) He
+(b) Ne
+(c) Kr
+(d) Ar
+Ans: c
+
+156. Which one of the following has the higher bond forces among its molecules?
+(a) Water
+(b) Nitrogen
+(c) Neon
+(d) Hydrogen Fluoride
+Ans: d
+
+157. Which of the following does not have an incomplete d orbital?
+(a) Ag
+(b) Cu
+(c) Au
+(d) Ti
+Ans: d
+
+158. Each carbon in benzene is
+(a) Sp³ hybridize
+(b) Sp² hybridize
+(c) Sp hybridize
+(d) None
+Ans: b
+
+159. The aromatic compound having the functional group "OH" attached to it is ?
+(a) Carbolic acid
+(b) Phenol
+(c) Alcohol
+(d) None
+Ans: b
+
+160. colligative properties depend upon ....?
+(a) Solute
+(b) Solvent
+(c) Both
+(d) None
+Ans: a
+
+161. WHICH ONE ARE GASES?
+(a) Methane
+(b) Ethane
+(c) Propane
+(d) All
+Ans: d
+
+162. Which group of elements shows greatest electrical conductivity?
+(a) alkali metals
+(b) alkaline earth metals
+(c) halogens
+(d) coinage metals
+Ans: d
+
+163. we have two half cells connected with a salt bridge (indicates that its a galvanic cell). electrons flow from ?
+(a) anode to cathode through external circuit
+(b) cathode to anode through external circuit
+(c) anode to cathode through salt bridge
+(d) cathode to anode through salt bridge
+Ans: a
+
+164. transmutation is the decay of:
+(a) alpha
+(b) beta
+(c) gamma
+(d) All
+Ans: d
+
+165. what is correct relation between Kw ,Ka ,Kb?
+(a) Kw=Ka/Kb
+(b) Kw=Ka-Kb
+(c) Kw=Kb-Ka
+(d) Kw=Ka×Kb
+Ans: d
+
+166. Which of these is not an isotope of Phosphorus?
+(a) Red Phosphorus
+(b) Black Phosphorus
+(c) White Phosphorus
+(d) Grey Phosphorus
+Ans: d
+
+167. Grignard's Reagant on hydrolysis gives
+(a) Lower hydrocarbon
+(b) Higher hydrocarbon
+(c) Alcohols
+(d) Alkyl halide
+Ans: c
+
+168. Which of the following reacts readily with water?
+(a) Al
+(b) Na
+(c) Ka
+(d) Cu
+Ans: b
+
+169. Sulphur with HI acts as a
+(a) strong oxidizing agent
+(b) weak oxidizing agent
+(c) strong reducing agent
+(d) weak reducing agent
+Ans: c
+
+170. Which halogen is used for bleaching?
+(a) Chlorine
+(b) Bromine
+(c) Iodine
+(d) Fluorine
+Ans: a
+
+171. Not true about K₂Cr₂O₇
+(a) blue crystalline solid
+(b) not soluble in water
+(c) strong oxidizing agent
+(d) used in formation of lead chromate
+Ans: b
+
+172. which one is NOT the type of boric acid?
+(a) ortho boric acid
+(b) nano boric acid
+(c) meta boric acid
+(d) pyro boric acid
+Ans: b
+
+173. What is the least no.of carbon atoms in amino acid?
+(a) 1
+(b) 2
+(c) 3
+(d) 4
+Ans: b
+
+174. there is double bond in oleic acid between carbon number ?
+(a) 7-8
+(b) 8-9
+(c) 10-11
+(d) 9-10
+Ans: d
+
+175. In combustion analysis method CO₂ is absorbed by ?
+(a) Mg(OH)₂
+(b) KOH
+(c) Mg(ClO₄)₂
+(d) None
+Ans: b
+
+176. ionization energy depend upon?
+(a) nuclear charge
+(b) shielding effect
+(c) atomic radius
+(d) All
+Ans: d
+
+177. which one of the organic compounds is most reactive ?
+(a) Alkane
+(b) Alkene
+(c) Alkyne
+(d) None
+Ans: c
+
+178. AUDACIOUS means
+(a) Brunt
+(b) Pressure
+(c) trouble some
+(d) lively spirited
+Ans: d
+
+179. ELLICIT means
+(a) Impulsive
+(b) Dashing
+(c) Key
+(d) draw out/evolve
+Ans: d
+
+180. FLEECE means
+(a) Excess
+(b) Leveled
+(c) Steal
+(d) bought
+Ans: c
+
+181. Choose the correct spelling:
+(a) presamble
+(b) misible
+(c) presible
+(d) permissible
+Ans: d
+
+182. Choose the correct spelling:
+(a) Prejudice
+(b) Jeduce
+(c) dejuice
+(d) diceju
+Ans: a
+
+183. TELLER:BANK :: ?
+(a) artist:MUSEUM
+(b) cashier:check
+(c) waiter:restaurant
+(d) mourner:funeral
+Ans: c
+
+184. INNING:BASEBALL :: ?
+(a) puck:hockey
+(b) serve:tennis
+(c) outing:hiking
+(d) round:boxing
+Ans: d
+
+185. DEGREE:TEMPERATURE :: ?
+(a) ounce:weight
+(b) fathom:volume
+(c) mass:energy
+(d) time:length
+Ans: a
+
+186. EINSTEIN:PHYSICS :: ?
+(a) harvey:biology
+(b) bohr:periodic table
+(c) moseley:chemistry
+(d) aristotle:greek
+Ans: a
+
+187. JACKET:LEATHER :: ?
+(a) shoes:laces
+(b) shirt:cotton
+(c) pant:zip
+(d) geometry:pen
+Ans: b
+
+188. Opposite word of pauper is?
+(a) Wealthy
+(b) Rich
+(c) Poor
+(d) None of these
+Ans: a
+
+189. Synonym of passé is
+(a) In
+(b) Chic
+(c) Function
+(d) archaic
+Ans: d
+
+190. Choose the correct spelling:
+(a) Mathimatics
+(b) Mathemaitics
+(c) Mithamatics
+(d) Mathematics
+Ans: d
+
+191. Synonym of actuate is
+(a) Triple
+(b) Motivate
+(c) Discourage
+(d) move
+Ans: b
+
+192. Trepidation means
+(a) Doubts
+(b) Quark
+(c) Worries
+(d) apprehension
+Ans: d
+
+193. Choose the correct spelling
+(a) deciper
+(b) dehcipher
+(c) desipher
+(d) decipher
+Ans: d
+
+194. Choose the word closest in meaning to Amass
+(a) Allot
+(b) Gather
+(c) Dispense
+(d) Deiver
+Ans: b
+
+195. INSCRUTABLE means
+(a) Immoral
+(b) Unethical
+(c) Enigmatic
+(d) Unaccountable
+Ans: c
+
+196. To the dismay of the student body, class president was ----berated by the principal
+(a) privately
+(b) magnanimously
+(c) inconspicously
+(d) ignominously
+Ans: d
+
+197. Which of the following is correct?
+(a) Send the letter at my new address
+(b) Send the letter to my new address
+(c) Send the letter from my new address
+(d) Send the letter of my new address
+Ans: b
+
+198. Pick the odd one out:
+(a) March
+(b) July
+(c) September
+(d) October
+Ans: d
+
+199. Pick the odd one:
+(a) Trunk
+(b) Tree
+(c) Leaf
+(d) Flower
+Ans: b
+
+200. Pick out the odd one:
+(a) Learn
+(b) Read
+(c) Knowledge
+(d) Write
+Ans: c
+
+201. What will be the next term in the series? 4,8,16,32,64...
+(a) 89
+(b) 92
+(c) 128
+(d) 120
+Ans: c
+
+202. 6,9,18,21,63,66,... Next number in the series will be?
+(a) 132
+(b) 264
+(c) 112
+(d) 198
+Ans: a
+
+203. 1514131616121718?
+(a) 11
+(b) 17
+(c) 19
+(d) 23
+Ans: a
+
+204. Pick the odd one?
+(a) Natural gas
+(b) Gasoline
+(c) Coal
+(d) Biogas
+Ans: c
+
+205. Pick the odd one out:
+(a) Brinjal
+(b) Potato
+(c) Tomato
+(d) Cucumber
+Ans: b
+
+206. If SHELNXR stands for TEDIOUS, in the same way how would GLAMOUR be coded?
+(a) FODPNUQ
+(b) FOBPNXS
+(c) FOBPNXQ
+(d) FODPNUS
+Ans: d
+
+207. If RTTHHX encodes for purify, then code for blanch will be:
+(a) DKDSHG
+(b) AOCGTY
+(c) DKCMEG
+(d) EMGCKD
+Ans: c

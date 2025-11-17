@@ -1,0 +1,2192 @@
+NUST-Engineering-Pastpaper-4(educatedzone.com)
+
+1. If sin⁻¹x + sin⁻¹y + sin⁻¹z = 3π/2 then the value of x⁹ + y⁹ + z⁹ - 1/(x⁹y⁹z⁹) is equal to
+
+(a) 0
+(b) 1
+(c) 2
+(d) 3
+
+ans: c
+
+
+
+2. Let p,q,r be the sides opposite to the angle P,Q,R respectively in a triangle PQR. If r²sin P sin Q = pq then the triangle is
+
+(a) Equilateral
+(b) Acute angled but not equilateral
+(c) Obtuse angled
+(d) Right angled
+
+ans: d
+
+
+
+3. Let p,q,and r be sides opposite to the angles P,Q,R respectively in a triangle PQR. Then 2pr sin((P-Q+R)/2) equals
+
+(a) p² + q² + r²
+(b) p² + r² - q²
+(c) q² + r² - p²
+(d) p² + q² - r²
+
+ans: b
+
+
+
+4. Let P (2,-3), Q (-2,1) be the vertices of the triangle PQR. If the centroid of ΔPQR lies on the line 2x + 3y = 1, then the locus of R is
+
+(a) 2x + 3y = 9
+(b) 2x - 3y = 9
+(c) 3x + 2y = 5
+(d) 3x - 2y = 5
+
+ans: a
+
+
+
+5. If n(A) = m, then nP(A) =
+
+(a) 2ⁿ
+(b) 2ⁿ
+(c) 2ᵐ
+(d) 2ᵐ
+
+ans: c
+
+
+
+6. If f is a real-valued differentiable function such that f(x)f'(x) < 0 for all real x, then
+
+(a) F(x) must be an increasing function
+(b) F(x) must be a decreasing function
+(c) |F(x)| must be an increasing function
+(d) |F(x)| must be a decreasing function
+
+ans: d
+
+
+
+7. Rolle's theorem is applicable in the interval [-2,2] for the function
+
+(a) F(x) = x³
+(b) F(x) = 4x⁴
+(c) F(x) = 2x³ + 3
+(d) F(x) = π|x|
+
+ans: b
+
+
+
+8. The solution of 25d²y/dx² - 10dy/dx + y = 0, y(0) = 1, y(1) = 2e¹/⁵ is
+
+(a) y = e⁵ˣ + e⁻⁵ˣ
+(b) y = (1 + x)e⁵ˣ
+(c) y = (1 + x)eˣ/⁵
+(d) y = (1 + x)eˣ/⁵
+
+ans: c
+
+
+
+9. Let P be the midpoint of a chord joining the vertex of the parabola y² = 8x to another point on it. Then the locus of P is
+
+(a) y = 2x
+(b) y² = 4x
+(c) x²/4 + y² = 1
+(d) x² + y²/4 = 1
+
+ans: b
+
+
+
+10. The line x = 2y intersects the ellipse x²/4 + y² = 1 at the point P and Q. The equation of the circle with PQ as diameter is
+
+(a) x² + y² = 1/2
+(b) x² + y² = 1
+(c) x² + y² = 2
+(d) x² + y² = 5/2
+
+ans: d
+
+
+
+11. The eccentric angle in the first quadrant of a point on the ellipse x²/10 + y²/8 = 1 at a distance 3 units from the center of the ellipse is
+
+(a) π/6
+(b) π/4
+(c) π/3
+(d) π/2
+
+ans: b
+
+
+
+12. The transverse axis of a hyperbola is along the x axis and its length is 2a. The vertex of the hyperbola bisects the line segment joining the center and the focus. The equation of the hyperbola is
+
+(a) 6x² - y² = 3a²
+(b) x² - 3y² = 3a²
+(c) x² - 6y² = 3a²
+(d) 3x² - y² = 3a²
+
+ans: d
+
+
+
+13. A point moves in such a way that the difference of its distance from two point (8,0) and (-8,0) always remains 4. Then the locus of the point is
+
+(a) A circle
+(b) A parabola
+(c) An ellipse
+(d) A hyperbola
+
+ans: d
+
+
+
+14. The number of integer values of m, for which the x coordinate of the point of intersection of the lines 3x + 4y = 9 and y = mx + 1 is also an integer is
+
+(a) 0
+(b) 2
+(c) 4
+(d) 1
+
+ans: b
+
+
+
+15. If a straight line passes through the point (α,β) and the portion of the line intercepted between the axes is divided equally at the point, then x/a + y/b is
+
+(a) 0
+(b) 1
+(c) 2
+(d) 4
+
+ans: b
+
+
+
+16. The maximum value of |z| when the Complex number z satisfies the condition |z + 2/z| = √3 is
+
+(a) √3
+(b) √3 + √2
+(c) √(3 + 1)
+(d) √(3 - 1)
+
+ans: b
+
+
+
+17. If (3/2 + i√3/2)⁵⁶ = 3²⁵(x + iy), where x and y are real, then the ordered pair (x,y) is
+
+(a) (-3, 0)
+(b) (0, 3)
+(c) (0, -3)
+(d) (1/2, √3/2)
+
+ans: c
+
+
+
+18. If (z - 1)/(z + 1) is purely imaginary, then
+
+(a) |z| = 1/2
+(b) |z| = 1
+(c) |z| = 2
+(d) |z| = 3
+
+ans: b
+
+
+
+19. The inverse of q → p is
+
+(a) p → q
+(b) p → q
+(c) q → p
+(d) q → p
+
+ans: a
+
+
+
+20. A vehicle registration number consists of 2 letters of English alphabet followed by 4 digits, where the first digit is not zero. Then the total number of vehicles with distinct registration number is
+
+(a) 26² × 10⁴
+(b) ²⁶P₂ × ¹⁰P₂
+(c) 26p₂ × 9 × 10p₃
+(d) 26² × 9 × 10³
+
+ans: d
+
+
+
+21. The number of the words that can be written using all the letters of the word "irrational" is
+
+(a) 10!/(2!)³
+(b) 10!/(2!)²
+(c) 10!/2!
+(d) 10!
+
+ans: a
+
+
+
+22. Four speakers will address a meeting where speaker Q will always speak after speaker P. Then the number of ways in which the order of speakers can be prepared is
+
+(a) 256
+(b) 128
+(c) 24
+(d) 12
+
+ans: d
+
+
+
+23. The number of diagonals in a regular polygon of 100 sides is
+
+(a) 4950
+(b) 4850
+(c) 4750
+(d) 4650
+
+ans: b
+
+
+
+24. Let the coefficients of powers of x in the 2nd, 3rd and 4th terms in the expansion of (1 + x)ⁿ where n is a positive integer be in arithmetic progression. Then the sum of the coefficients of odd power of x in the expansion is
+
+(a) 23
+(b) 64
+(c) 128
+(d) 256
+
+ans: b
+
+
+
+25. The sum 1 × 1! + 2 × 2! + ... + 50 × 50! is equal to
+
+(a) 51!
+(b) 51! - 1
+(c) 51! + 1
+(d) 51! × 2
+
+ans: b
+
+
+
+26. Six numbers are in AP such that their sum is 3, the first term is 4 times the third term. Then the fifth term is
+
+(a) -15
+(b) -3
+(c) 9
+(d) -4
+
+ans: d
+
+
+
+27. The sum of the infinite series 1 + 1/3 + 1·3/1·6 + 1·3·5/3·6·9 + 1·3·5·7/3·6·9·12 + ... is equal to
+
+(a) √2
+(b) √3
+(c) √3/2
+(d) √1/3
+
+ans: b
+
+
+
+28. The equations x² + x + a = 0 and x² + ax + 1 = 0 have a common real root
+
+(a) For no value of a
+(b) For exactly one value of a
+(c) For exactly two values of a
+(d) For exactly three values of a
+
+ans: b
+
+
+
+29. If 64, 27, 36, are the Pᵗʰ, Qᵗʰ and the Rᵗʰ terms of the G.P then P + 2Q is equal to
+
+(a) R
+(b) 2R
+(c) 3R
+(d) 4R
+
+ans: c
+
+
+
+30. The equation y² + 4x + 4y + k = 0 represents a parabola whose latus rectum is
+
+(a) 1
+(b) 2
+(c) 3
+(d) 4
+
+ans: d
+
+
+
+31. If the circles x² + y² + 2x + 2ky + 6 = 0 and x² + y² + 2ky + k = 0 intersect orthogonally, then k is equal to
+
+(a) 2 or -3/2
+(b) -2 or -3/2
+(c) 2 or 3/2
+(d) -2 or 3/2
+
+ans: a
+
+
+
+32. If four distinct points (2k, 3k), (2, 0), (0, 3), (0, 0) lie on a circle, then
+
+(a) K < 0
+(b) 0 < K < 1
+(c) K = 1
+(d) K > 1
+
+ans: c
+
+
+
+33. The line joining A(b cos α, b sin α) and B(a cos β, a sin β), where a ≠ b, is produced to the point M(x, y) so that AM:MB = b:a. Then x cos((α + β)/2) + y sin((α + β)/2)
+
+(a) 0
+(b) 1
+(c) -1
+(d) a² + b²
+
+ans: a
+
+
+
+34. Let the foci of the ellipse x²/9 + y² = 1 subtend right angle at a point P then the locus of P is
+
+(a) x² + y² = 1
+(b) x² + y² = 2
+(c) x² + y² = 4
+(d) x² + y² = 8
+
+ans: d
+
+
+
+35. The general solution of the differential equation dy/dx = (x + y + 1)/(2x + 2y + 1) is
+
+(a) Log|3x + 3y + 2| + 3x + 6x = c
+(b) Log|3x + 3y + 2| - 3x + 6x = c
+(c) Log|3x + 3y + 2| - 3x - 6x = c
+(d) Log|3x + 3y + 2| + 3x - 6x = c
+
+ans: b
+
+
+
+36. A ⊆ B
+
+(a) A ∩ B = A
+(b) A ∩ B' = A
+(c) A - B = A
+(d) A ∪ B = A
+
+ans: a
+
+
+
+37. The value of the integral ∫₀^(π/2) 1/(1 + (tan x)¹⁰¹) dx is equal to
+
+(a) 1
+(b) π/6
+(c) π/8
+(d) π/4
+
+ans: d
+
+
+
+38. The integrating factor of the differential equation 3x log x dy/dx + y = 2 log x is given by
+
+(a) log x³
+(b) log(log x)
+(c) log x
+(d) (log x)^(1/3)
+
+ans: d
+
+
+
+39. Number of solutions of the equation tan x + sec x = 2 cos x, x ∈ [0, π] is
+
+(a) 0
+(b) 1
+(c) 2
+(d) 3
+
+ans: c
+
+
+
+40. The value of the integral ∫₀^(π/4) (sin x + cos x)/(3 + sin 2x) dx is equal to
+
+(a) Log 2
+(b) Log 3
+(c) 1/4 log 2
+(d) 1/4 log 3
+
+ans: d
+
+
+
+41. Let y = (3x - 1)/(3x + 1) sin x + log(2 + x), x > -1 then at x =
+
+(a) 1
+(b) 0
+(c) -1
+(d) -2
+
+ans: b
+
+
+
+42. Max value of the function f(x) = x/8 + 2/x on the interval [1, 6] is
+
+(a) 1
+(b) 9/8
+(c) 13/12
+(d) 17/8
+
+ans: d
+
+
+
+43. A non-empty set on which a binary operation can be defined is called
+
+(a) Group
+(b) Semi group
+(c) Groupoid
+(d) Abelian group
+(e) Monoid
+
+ans: c
+
+
+
+44. The value of the integral ∫₋₂² (1 + 2 sin x) e^|x| dx is equal to
+
+(a) 0
+(b) e² - 1
+(c) 2(e² - 1)
+(d) 1
+
+ans: c
+
+
+
+45. If (α + √β) and (α - √β) are the roots of the equation x² + p x + q = 0 where α, β, p, q are real then the roots of the equation (p² - 4q)(p²x² + 4px) - 16q = 0 are
+
+(a) (1/α + 1/√β) and (1/α - 1/√β)
+(b) (1/√α + 1/β) and (1/√α - 1/β)
+(c) (1/√α + 1/√β) and (1/√α - 1/√β)
+(d) (√α + √β) and (√α - √β)
+
+ans: a
+
+
+
+46. The number of solutions of the equation log₂(x² + 2x - 1) = 1 is
+
+(a) 0
+(b) 1
+(c) 2
+(d) 3
+
+ans: c
+
+
+
+47. The sum of the series 1 + (1/2)C¹ + (1/3)C² + ... + (1/(n+1))Cⁿ is
+
+(a) (2ⁿ⁺¹ - 1)/(n + 1)
+(b) 3(2ⁿ - 1)/2ⁿ
+(c) 2ⁿ⁺¹/(n + 1)
+(d) 2ⁿ⁺¹/2ⁿ
+
+ans: a
+
+
+
+48. The value of Σ_{r=2}^∞ (1 + 2 + 3 + ... + r)/r! is equal to
+
+(a) e
+(b) 2e
+(c) e/2
+(d) 3e/2
+
+ans: d
+
+
+
+49. If P = [[1, 2, 1], [1, 3, 1]] and Q = PPᵗ, then the value of the determinant of Q is equal to
+
+(a) 2
+(b) -2
+(c) 1
+(d) 0
+
+ans: a
+
+
+
+50. The remainder obtained when 1! + 2! + ... + 95! is divided by 15 is
+
+(a) 14
+(b) 3
+(c) 1
+(d) 0
+
+ans: b
+
+Here are the next 50 solved MCQs (questions 51-100):
+
+```
+51. If P,Q,R are angles of triangle PQR then the value of the determinant:
+| -1   cosR  cosQ |
+| cosR  -1   cosP |
+| cosQ  cosP  -1  | is equal to
+
+(a) -1
+(b) 0
+(c) 1/2
+(d) 1
+
+ans: b
+
+
+
+52. The number of real values of α for which the system of equations:
+x + 3y + 5z = αx, 5x + y + 3z = αy, 3x + 5y + z = αz has infinite number of solutions is
+
+(a) 1
+(b) 2
+(c) 4
+(d) 6
+
+ans: a
+
+
+
+53. The total number of injections from {a₁,a₂,a₃,a₄} to {b₁,b₂,b₃,b₄,b₅,b₆,b₇} is
+
+(a) 400
+(b) 420
+(c) 800
+(d) 840
+
+ans: d
+
+
+
+54. If the set G = {1, ω, ω²} is an abelian group w.r.t multiplication then inverse of ω is?
+
+(a) 1
+(b) ω
+(c) ω²
+(d) does not contain an inverse
+
+ans: c
+
+
+
+55. Two decks of playing cards are well shuffled and 26 cards are randomly distributed to a player. Then the probability that the player gets all distinct cards is
+
+(a) 52C26/104C26
+(b) 2 × 52C26/104C26
+(c) 2¹³ × 52C26/104C26
+(d) 2²⁶ × 52C26/104C26
+
+ans: d
+
+
+
+56. An urn contains 7 red and 6 white balls. Three balls are drawn at random. Then the probability that balls of both colors are drawn is
+
+(a) 40/143
+(b) 70/143
+(c) 3/13
+(d) 10/13
+
+ans: b
+
+
+
+57. Two coins are available, one fair and the other two headed. Choose a coin. Unbiased coin is chosen with probability 3/4. Given that the outcome is head, the probability that the two headed coin was chosen is
+
+(a) 3/5
+(b) 2/5
+(c) 1/5
+(d) 2/7
+
+ans: b
+
+
+
+58. Let R be the set of real numbers and the functions f:R→R and g:R→R be defined f(x)=x²+2x-3 and g(x)=x+1 then the value of x for which f(g(x)) = g(f(x))
+
+(a) -1
+(b) 0
+(c) 1
+(d) 2
+
+ans: a
+
+
+
+59. If a, b, c are in arithmetic progression, then the roots of the equation ax² - 2bx + c = 0 are
+
+(a) 1 and c/a
+(b) -1/a and -c
+(c) -1 and -c/a
+(d) -2 and -c/2a
+
+ans: a
+
+
+
+60. Let γ be the solution of the differential equation x dy/dx = y²/(1 - log x) satisfying y(1) = 1 then γ satisfies
+
+(a) y = xy - 1
+(b) y = xy
+(c) y = xy + 1
+(d) y = xy + 2
+
+ans: b
+
+
+
+61. The area of the region bounded by the curves y = sin⁻¹x + x(1-x) and y = sin⁻¹x - x(1-x) in the first quadrant is
+
+(a) 1
+(b) 1/2
+(c) 1/3
+(d) 1/4
+
+ans: c
+
+
+
+62. The value of the integral ∫₁⁵ [|x-3| + |x-1|] dx is equal to
+
+(a) 4
+(b) 8
+(c) 12
+(d) 16
+
+ans: c
+
+
+
+63. If f(x) and g(x) are twice differentiable functions on (0,3) satisfying f''(x) = g''(x), f'(1) = 4, g'(1) = 6, f(2) = 3, g(2) = 9 then f(1) - g(1) is
+
+(a) 4
+(b) -4
+(c) 0
+(d) -2
+
+ans: b
+
+
+
+64. Let [x] denote the greatest integer less than or equal to x, then the value of the integral ∫₋₁¹ [|x| - 2[x]] dx is equal to
+
+(a) 3
+(b) 2
+(c) -2
+(d) -3
+
+ans: a
+
+
+
+65. The points representing the complex number z for which arg((z-2)/(z+2)) = π/3 lies on
+
+(a) A circle
+(b) A straight line
+(c) An ellipse
+(d) A parabola
+
+ans: a
+
+
+
+66. Let a,b,c,p,q,r be positive real numbers such that a,b,c are in G.P and ap = bq = cr then p,q,r
+
+(a) are in G.P
+(b) are in A.P
+(c) are in H.P
+(d) p²,q²,r² are in A.P
+
+ans: a
+
+
+
+67. A compound statement of the form "If p then q" is called
+
+(a) implication
+(b) hypothesis
+(c) tautology
+(d) contingency
+
+ans: a
+
+
+
+68. The quadratic equation 2x² + (a³ + 8a - 1)x + a² - 4a = 0 possesses roots of opposite sign. Then
+
+(a) a ≤ 0
+(b) 0 < a < 4
+(c) 4 ≤ a < 8
+(d) a ≥ 8
+
+ans: b
+
+
+
+69. If log(x² - 16) ≤ log(4x - 11), then
+
+(a) 4 < x ≤ 5
+(b) x < -4 or x > 4
+(c) -1 ≤ x ≤ 5
+(d) x < -1 or x > 5
+
+ans: a
+
+
+
+70. The coefficient of x¹⁰ in the expansion of 1 + (1+x) + (1+x)² + ... + (1+x)²⁰ is
+
+(a) ¹⁹C₉
+(b) ²⁰C₁₀
+(c) ²¹C₁₁
+(d) ²²C₁₂
+
+ans: c
+
+
+
+71. The system of linear equations λx + y + z = 3, x - y - 2z = 6, -x + y + z = μ
+
+(a) Infinite number of solutions for λ ≠ -1 and all μ
+(b) Infinite number of solutions for λ = -1 and μ = 3
+(c) No solution for λ ≠ -1
+(d) Unique solution for λ = -1 and all μ = 3
+
+ans: b
+
+
+
+72. Let A and B be two events with P(A^c) = 0.3, P(B) = 0.4 and P(A ∩ B') = 0.5. Then P(B/(A ∪ B')) is equal to
+
+(a) 1/4
+(b) 1/3
+(c) 1/2
+(d) 2/3
+
+ans: a
+
+
+
+73. The set of real numbers is a subset of
+
+(a) Set of natural number
+(b) Set of whole number
+(c) Set of rational numbers
+(d) Set of complex number
+
+ans: d
+
+
+
+74. Let C₁ and C₂ denote the centers of the circles x² + y² = 4 and (x-2)² + y² = 1 respectively and let P and Q be their points of intersection. Then the area of triangle C₁PQ and C₂PQ are in ratio
+
+(a) 3:1
+(b) 5:1
+(c) 7:1
+(d) 9:1
+
+ans: c
+
+
+
+75. A straight line through the point of intersection of the lines x + 2y = 4 and 2x + y = 4 meets the coordinate axes at A and B. The locus of the midpoint of AB is
+
+(a) 3(x + y) = 2xy
+(b) 2(x + y) = 3xy
+(c) 2(x + y) = xy
+(d) (x + y) = 3xy
+
+ans: c
+
+
+
+76. Let P and Q be the points on the parabola y² = 4x so that the line segment PQ subtends right angle at the vertex. If PQ intersects the axis of the parabola at R then the distance of the vertex from R is
+
+(a) 1
+(b) 2
+(c) 4
+(d) 6
+
+ans: c
+
+
+
+77. The set {{a, b}} is called
+
+(a) Singleton set
+(b) Proper set
+(c) Overlapping set
+(d) Improper set
+
+ans: a
+
+
+
+78. The value of lim_{n→∞} (n!)¹/ⁿ / n is
+
+(a) 1
+(b) 1/e²
+(c) 1/2e
+(d) 1/e
+
+ans: d
+
+
+
+79. The area of the region bounded by the curve y = x³, y = 1/x, x = 2 is
+
+(a) 2 - log 2
+(b) 1/4 - log 2
+(c) 3 - log 2
+(d) 15/4 - log 2
+
+ans: d
+
+
+
+80. Let f(x) = ax² + bx + c, g(x) = px² + qx + r such that f(1) = g(1), f(2) = g(2) and f(3) - g(3) = 2. Then f(4) - g(4) is
+
+(a) 4
+(b) 5
+(c) 6
+(d) 7
+
+ans: c
+
+
+
+81. If the measuring scale has a least count of 10kg then in 8000kg the significant figures are
+
+(a) 4
+(b) 1
+(c) 3
+(d) 0
+
+ans: c
+
+
+
+82. Which one of the following series are observed in the visible region of electromagnetic radiation
+
+(a) Lyman series
+(b) Balmer series
+(c) Bracket series
+(d) Pfund series
+
+ans: b
+
+
+
+83. The number 1678.9 should be written in scientific notation as
+
+(a) 16.789 × 10³
+(b) 1.6789 × 10³
+(c) 1678.9 × 10³
+(d) None
+
+ans: b
+
+
+
+84. Which one of the following groups has quantities that do not have the same dimensions
+
+(a) Velocity, speed
+(b) Pressure, stress
+(c) Force, impulse
+(d) Work, energy
+
+ans: c
+
+
+
+85. The %age errors in the measurement of mass and speed are 3% and 4% respectively. The maximum error in the measurement of K.E is
+
+(a) 11%
+(b) 10%
+(c) 8%
+(d) 9%
+
+ans: a
+
+
+
+86. The vector product of two vectors is zero, when
+
+(a) They are parallel to each other
+(b) They are equal vectors
+(c) They are perpendicular to each other
+(d) They are inclined at angle of 60°
+
+ans: a
+
+
+
+87. In right hand rule, the direction of the product vector will be
+
+(a) Along the thumb erect
+(b) Perpendicular to the erect thumb
+(c) Along the rotation of fingers
+(d) None
+
+ans: a
+
+
+
+88. When an object slides at constant speed down an inclined plane, the coefficient of friction may be approximately be
+
+(a) sinθ
+(b) cosθ
+(c) tanθ
+(d) cotθ
+
+ans: c
+
+
+
+89. Two forces 3N and 2N are at an angle θ such that the resultant is R. The first force is now increased to 6N and the resultant becomes 2R. The value of θ is
+
+(a) 30°
+(b) 60°
+(c) 90°
+(d) 120°
+
+ans: d
+
+
+
+90. Torque acting on a body determines
+
+(a) Acceleration
+(b) Linear acceleration
+(c) Angular acceleration
+(d) Direction of motion of the body
+
+ans: c
+
+
+
+91. If the velocity of a body is uniform the velocity–time graph is a straight line which is
+
+(a) Parallel to x axis
+(b) Parallel to y axis
+(c) At an angle of 45° with the x-axis
+(d) Along the y-axis
+
+ans: a
+
+
+
+92. At what angle of projection the horizontal range of a projectile is max?
+
+(a) 30°
+(b) 45°
+(c) 60°
+(d) 90°
+
+ans: b
+
+
+
+93. What will be the ratio of the distance moved by a freely falling body from rest in 4th and 5th second of journey
+
+(a) 4:5
+(b) 7:9
+(c) 16:25
+(d) 1:1
+
+ans: b
+
+
+
+94. According to the postulates of the theory of relativity, a fourth dimension has been added to the three dimensions already associated with a Cartesian frame of reference. Which is the fourth dimension?
+
+(a) Space
+(b) Inertial frame of reference
+(c) Speed of light
+(d) Time
+
+ans: d
+
+
+
+95. If the water fall from a dam to into a turbine wheel 19.6m below, then the velocity of water at the turbine is (Take g = 9.8 m/s²)
+
+(a) 9.8 m/s
+(b) 19.6 m/s
+(c) 39.2 m/s
+(d) 98.0 m/s
+
+ans: b
+
+
+
+96. The escape velocity of earth in Km/s
+
+(a) 9.75
+(b) 11.2
+(c) 12.3
+(d) 15.6
+
+ans: b
+
+
+
+97. Which is constant for a satellite in orbit?
+
+(a) Velocity
+(b) K.E
+(c) Angular momentum
+(d) None
+
+ans: c
+
+
+
+98. How much water a pump of 2kW can raise in one minute to a height of 10m (Take g = 10 m/s²)
+
+(a) 1000 liters
+(b) 1200 liters
+(c) 100 liters
+(d) 2000 liters
+
+ans: b
+
+
+
+99. The escape velocity from the earth's surface is 11 km/s. A certain planet has a radius twice that of the earth but its mean density is the same as that of the earth. The value of the escape velocity from this planet would be
+
+(a) 24 km/s
+(b) 11 km/s
+(c) 22 km/s
+(d) 33 km/s
+
+ans: a
+
+
+
+100. If force and displacement of particle in the direction of force are doubled, work would be
+
+(a) Double
+(b) 4 times
+(c) Half
+(d) 1/4 time
+
+ans: b
+
+
+101. A couple produces
+
+(a) Purely linear motion
+(b) Purely rotational motion
+(c) Linear and rotational motion
+(d) No motion
+
+ans: b
+
+
+
+102. The units of angular acceleration is
+
+(a) Radian
+(b) Radian per second
+(c) Radian per second²
+(d) None
+
+ans: c
+
+
+
+103. Once the space shuttle is in orbit at a radius R from earth's center, what force does the seat exert on the astronaut?
+
+(a) Mg
+(b) Zero newton
+(c) M/g
+(d) Mg/R²
+
+ans: b
+
+
+
+104. In which case application of angular velocity is useful?
+
+(a) When body is rotating
+(b) When velocity of body is in a straight line
+(c) When velocity is in a straight line
+(d) None
+
+ans: a
+
+
+
+105. If the area of a circle is equal to its circumference the radius of this circle is
+
+(a) 1
+(b) 2
+(c) 3
+(d) 4
+
+ans: b
+
+
+
+106. Rotational K.E of a disc is
+
+(a) KE_rot = 1/2 mv²
+(b) KE_rot = 1/3 mv²
+(c) KE_rot = 1/4 mv²
+(d) None
+
+ans: c
+
+
+
+107. Which of these statements is not correct?
+
+(a) Moment of inertia is independent of shape and size of the body
+(b) Moment of inertia depends on choice of axes
+(c) Momentum of inertia does not depend on the mass of body
+(d) None
+
+ans: c
+
+
+
+108. A particle is moving in a vertical circle. The tension in the string when passing through two positions at angles 30° and 60° from vertical (lowest position) are T₁ and T₂ respectively. Then
+
+(a) T₁ = T₂
+(b) T₂ > T₁
+(c) T₁ > T₂
+(d) Tension in the string always remains the same
+
+ans: c
+
+
+
+109. At terminal velocity, fluid friction is
+
+(a) Maximum
+(b) Minimum
+(c) Zero
+(d) Decreasing
+
+ans: a
+
+
+
+110. v = √(2g(h₁-h₂)) shows the
+
+(a) Equation of continuity
+(b) Bernoulli's theorem
+(c) Torricelli's theorem
+(d) Equation for compressible fluids
+
+ans: c
+
+
+
+111. With the increase of temperature viscosity
+
+(a) Increase
+(b) Decrease
+(c) Remain constant
+(d) Doubles
+
+ans: b
+
+
+
+112. In case of streamlined flow of liquid the loss of energy is
+
+(a) Maximum
+(b) Minimum
+(c) Infinite
+(d) Equal to what is in turbulent flow
+
+ans: b
+
+
+
+113. A car engine is based on the principle of
+
+(a) Bernoulli's equation
+(b) Ventura relation
+(c) Torricelli's theorem
+(d) None
+
+ans: d
+
+
+
+114. When a beam of light traveling in a rare medium is reflected from a denser medium it
+
+(a) Suffers no phase change
+(b) Undergoes a phase change of 180°
+(c) Undergoes a phase change of 270°
+(d) Undergoes a phase change of 90°
+
+ans: b
+
+
+
+115. Two water pipes of diameters 4cm and 8cm are connected with a supply line. The velocity of flow of water in the pipe 4cm diameter is
+
+(a) 1/4 times
+(b) 4 times
+(c) Twice
+(d) 1/2 of 8cm diameter pipe
+
+ans: b
+
+
+
+116. The density of water in F.P.S system is
+
+(a) 50 lb/ft²
+(b) 50 ft/lb
+(c) 50 ft/lb³
+(d) 50 lb/ft³
+
+ans: d
+
+
+
+117. Total pressure on 1m x 1m gate immersed vertically at a depth of 2m below the free water surface will be
+
+(a) 1000 kg
+(b) 2000 kg
+(c) 4000 kg
+(d) 8000 kg
+
+ans: b
+
+
+
+118. The frequency of second pendulum is
+
+(a) 1 hertz
+(b) 2 hertz
+(c) 0.5 hertz
+(d) None
+
+ans: c
+
+
+
+119. The type of motion in which an oscillating disturbance is transmitted from one position to the next without the actual rectilinear translation of the particles of the medium is called
+
+(a) Periodic motion
+(b) Rotatory motion
+(c) Wave motion
+(d) Rectilinear motion
+
+ans: c
+
+
+
+120. A ball is just allowed to fall from the window of a moving train it will hit the ground following a
+
+(a) Circular path
+(b) Hyperbolic path
+(c) Straight line path
+(d) Parabolic path
+
+ans: d
+
+
+
+121. Which one of the following is a simple harmonic motion?
+
+(a) Wave moving through a string fixed at both end
+(b) Earth spinning about its own axis
+(c) Ball bouncing between two rigid vertical walls
+(d) Particle moving in a circle with uniform speed
+
+ans: d
+
+
+
+122. A block weighting 40kg extends a spring by 0.16m from its unscratched position. What is the value of k
+
+(a) 170 kg/s²
+(b) 245 kg/s²
+(c) 215 kg/s²
+(d) 201 kg/s²
+
+ans: b
+
+
+
+123. A simple harmonic oscillator has a period T and energy E. The amplitude of the oscillator is doubled. Choose the correct answer
+
+(a) Period and energy get double
+(b) Period gets doubled while energy remain same
+(c) Energy gets doubled while Period remain same
+(d) Period remain same and Energy becomes 4 times
+
+ans: d
+
+
+
+124. A particle performs simple harmonic motion of amplitude 0.020m and frequency 2.5Hz. What is its max speed?
+
+(a) 0.008 m/s
+(b) 0.050 m/s
+(c) 0.125 m/s
+(d) 0.314 m/s
+
+ans: d
+
+
+
+125. Which of electromagnetic radiation has the longest wavelength?
+
+(a) γ rays
+(b) UV
+(c) Microwaves
+(d) X rays
+
+ans: c
+
+
+
+126. The length of a spring is α when a force of 4N is applied on it, the length is β when 5N forces is applied, then the length of spring when 9N force is applied is
+
+(a) 5β - 4α
+(b) β - α
+(c) 5α - 4β
+(d) 9(β - α)
+
+ans: a
+
+
+
+127. Two springs of spring constant k₁ and k₂ are joined in series. The effective spring constant of combination is given by
+
+(a) (k₁ + k₂)/2
+(b) k₁ + k₂
+(c) k₁k₂/(k₁ + k₂)
+(d) √(k₁k₂)
+
+ans: c
+
+
+
+128. The various features of wave phenomenon can be very conveniently studied by an apparatus called
+
+(a) Sonometer
+(b) Ripple tank
+(c) Hydrometer
+(d) Barometer
+
+ans: b
+
+
+
+129. A highly directional beam of ultrasonic wave can be made to travel in water in
+
+(a) many meters
+(b) many kilometers
+(c) several kilometers
+(d) none
+
+ans: c
+
+
+
+130. Applications of the result of scientific studies of sound in the designs of building etc. is called
+
+(a) Optics
+(b) Wave mechanics
+(c) Acoustics
+(d) Statics
+
+ans: c
+
+
+
+131. Laplace formula is derived from
+
+(a) Isothermal change
+(b) Adiabatic change
+(c) Isobaric change
+(d) Isochoric change
+
+ans: b
+
+
+
+132. In the absence of an external torque the angular momentum of a rotating body is
+
+(a) Constant
+(b) Variable
+(c) Unstable
+(d) Zero
+
+ans: a
+
+
+
+133. Progressive waves of frequency 300Hz are superimposed to produce a system of stationary waves in which adjacent nodes are 1.5m apart. What is the speed of the progressive waves?
+
+(a) 100 m/s
+(b) 200 m/s
+(c) 450 m/s
+(d) 900 m/s
+
+ans: d
+
+
+
+134. Which one of the following could be the frequency of ultraviolet radiation
+
+(a) 1.0 × 10⁶ Hz
+(b) 1.0 × 10⁹ Hz
+(c) 1.0 × 10¹² Hz
+(d) 1.0 × 10¹⁵ Hz
+
+ans: d
+
+
+
+135. To hear a clear echo, the reflecting surface must be at a minimum distance of
+
+(a) 10 m
+(b) 16.5 m
+(c) 33 m
+(d) 66 m
+
+ans: b
+
+
+
+136. Which one is not produced by sound wave in air
+
+(a) Polarization
+(b) Diffraction
+(c) Refraction
+(d) Reflection
+
+ans: a
+
+
+
+137. The conduction due to charges produced by pair generation in a semi-conductor is called
+
+(a) Polarity
+(b) Intrinsic conduction
+(c) Electrostatic
+(d) Amplitude modulation
+
+ans: b
+
+
+
+138. Every point of a wave front may be considered as a
+
+(a) Source
+(b) Source of wave front
+(c) Source of secondary wave front
+(d) None
+
+ans: c
+
+
+
+139. The phenomenon of polarization occurs only in which of the following wave type
+
+(a) Electromagnetic
+(b) Longitudinal
+(c) Mechanical waves
+(d) Matter waves
+
+ans: a
+
+
+
+140. Spontaneous reaction is one
+
+(a) Directional, irreversible, real process
+(b) Unidirectional, reversible, imaginary reaction
+(c) Irreversible, unidirectional, real process
+(d) Imaginary, reversible reaction
+
+ans: c
+
+
+
+141. Which one of the following solution has the highest boiling point?
+
+(a) 0.1M BaCl₂
+(b) 0.1M glucose
+(c) 0.1M urea
+(d) 0.1M NaCl
+
+ans: a
+
+
+
+142. The pH of 0.005 molar solution of sulphuric acid is approximately:
+
+(a) 0.010
+(b) 1
+(c) 2
+(d) 0.005
+
+ans: c
+
+
+
+143. Given that heat of neutralization of strong acid and strong base is –57.1 kJ. The heat produced when 0.25 mole of HCl is neutralized with 0.25 mole NaOH in aqueous solution is
+
+(a) 14.275 kJ
+(b) 57.1 kJ
+(c) 22.5 kJ
+(d) 28.6 kJ
+
+ans: a
+
+
+
+144. Number of moles of NaOH present in 2L of 0.5M NaOH is
+
+(a) 1.5
+(b) 2.0
+(c) 1.0
+(d) 2.5
+
+ans: c
+
+
+
+145. The molar solution of sulphuric acid is equal to
+
+(a) N/2 solution
+(b) N solution
+(c) 2N solution
+(d) 3N solution
+
+ans: c
+
+
+
+146. Substances exist because they posses
+
+(a) Material
+(b) Molecular bonds
+(c) Volume
+(d) Heat
+
+ans: b
+
+
+
+147. The equilibrium constant for a reaction A + 2B ⇌ 2C is 40. The equilibrium constant for reaction C ⇌ B + (1/2)A is
+
+(a) 40
+(b) (1/40)²
+(c) 1/40
+(d) 1/√40
+
+ans: d
+
+
+
+148. In the reaction 2A + B → A₂B, if the concentration of A is doubled and that of B is halved, then the rate of the reaction will:
+
+(a) Increase 2 times
+(b) Increase 4 times
+(c) Decrease 2 times
+(d) Remain same
+
+ans: a
+
+
+
+149. Correct order among the following is
+
+(a) 1 erg > 1 J > 1 cal
+(b) 1 cal > 1 J > 1 erg
+(c) 1 erg > 1 cal > 1 J
+(d) 1 J > 1 cal > 1 erg
+
+ans: b
+
+
+
+150. Which is the phenomenon who help us to calculate lattice energy of ionic crystals
+
+(a) Hess law
+(b) Enthalpy of formation
+(c) Born haber process
+(d) None
+
+ans: c
+
+151. The volatile metal is
+
+(a) Fe
+(b) Zn
+(c) Cu
+(d) Ag
+
+ans: b
+
+
+
+152. Gypsum on heating 120°C - 130°C gives
+
+(a) Anhydrous salt
+(b) Hemihydrate
+(c) Monohydrate
+(d) Dehydrates
+
+ans: b
+
+
+
+153. Substances exist because they posses
+
+(a) Material
+(b) Molecular bonds
+(c) Volume
+(d) Heat
+
+ans: b
+
+
+
+154. O₂, N₂ are present in the ratio of 1:4 by weight the ratio of number of molecules
+
+(a) 7:32
+(b) 1:4
+(c) 2:1
+(d) 4:1
+
+ans: a
+
+
+
+155. Chlorine upon reaction with NaOH in cold yields
+
+(a) NaCl, NaClO, H₂O
+(b) NaCl, NaClO₃, H₂O
+(c) NaClO, NaClO₃, H₂O
+(d) NaCl ,H₂O
+
+ans: a
+
+
+
+156. Farming's salt is
+
+(a) NaCl
+(b) HF
+(c) KHF₂
+(d) KClO₃
+
+ans: c
+
+
+
+157. Which of the following is least polarizable?
+
+(a) Ne
+(b) He
+(c) Xe
+(d) Kr
+
+ans: b
+
+
+
+158. Transfer of heat from hot surrounding to cold refrigerator is an example of
+
+(a) Spontaneous reaction
+(b) Non spontaneous reaction
+(c) First law of thermodynamics
+(d) All of above
+
+ans: b
+
+
+
+159. Alkaline KMnO₄ converts ethylene into
+
+(a) Methanol
+(b) Ethanol
+(c) Ethane
+(d) Ethylene glycol
+
+ans: d
+
+
+
+160. Which one of the following is not an isotope of hydrogen?
+
+(a) Deuterium
+(b) Tritium
+(c) Ortho hydrogen
+(d) None
+
+ans: c
+
+
+
+161. Blue litmus turns red in a solution of pH
+
+(a) Below 7
+(b) 7
+(c) Above 7
+(d) at all pH
+
+ans: a
+
+
+
+162. Maximum ionization potential is of
+
+(a) Ca
+(b) Na
+(c) Be
+(d) Mg
+
+ans: c
+
+
+
+163. Strongest acid among the following is
+
+(a) CCl₃COOH
+(b) CH₃COOH
+(c) CF₃COOH
+(d) CBr₃COOH
+
+ans: c
+
+
+
+164. Which molecule is planar?
+
+(a) SF₄
+(b) XeF₄
+(c) NF₃
+(d) SiF₄
+
+ans: b
+
+
+
+165. A certain radioactive isotope has a half-life of 50 days. Fraction of the material left behind after 100 days will be
+
+(a) 125%
+(b) 25%
+(c) 50%
+(d) 75%
+
+ans: b
+
+
+
+166. The RMS speed at NTP of a gas can be calculated from the expression:
+
+(a) √(3P/d)
+(b) √(3PV/M)²
+(c) √(3RT/φM)
+(d) All of these
+
+ans: d
+
+
+
+167. Prussian blue is
+
+(a) K₂Fe[Fe(CN)₆]
+(b) K₄[Fe(CN)₆]
+(c) Fe₄(Fe(CN)₆)
+(d) K₃(Fe(CN)₆)
+
+ans: a
+
+
+
+168. Following are fundamental ways of transferring energy
+
+(a) Pressure and work
+(b) Volume and pressure
+(c) Heat and work
+(d) Pressure and heat
+
+ans: c
+
+
+
+169. A mixture of camphor and benzoic acid can be separated by
+
+(a) Fractional crystallization
+(b) Sublimation
+(c) Chemical method
+(d) Extraction with solvent
+
+ans: b
+
+
+
+170. _________ is a very difficult profession for a lazy person as you
+
+(a) That copper mining
+(b) It is copper mining
+(c) Although copper mining
+(d) Copper mining
+
+ans: d
+
+
+
+171. She read _______
+
+(a) Several chapters in the library last night
+(b) Last night several chapters in the library
+(c) Last night in library several chapters
+(d). In the library several chapters last night
+
+ans: a
+
+
+
+172. He is taking some ________ this semester
+
+(a) Histories class
+(b) History classes
+(c) History class
+(d) None
+
+ans: b
+
+
+
+173. The _________ death
+
+(a) wages of sins are
+(b) Wage of sin are
+(c) Wages of sin is
+(d) Wage of sins are
+
+ans: c
+
+
+
+174. Murtaza scored _________ in his last entry test
+
+(a) The least points
+(b) A least points
+(c) The fewest points
+(d) The fewer points
+
+ans: c
+
+
+
+176. The advent of science and technology has increased the
+
+(a) freedom of people
+(b) tyranny of political parties
+(c) powers of the government
+(d) chances of economic inequality
+
+ans: c
+
+
+
+177. A spirit of moderation on the economically sound people would make the less privileged
+
+(a) unhappy with the rich people
+(b) more interested in freedom and security
+(c) unhappy with their lot
+(d) clamour less for absolute equality
+
+ans: d
+
+
+
+178. The growth of government is necessitated to
+
+(a) make the rich and the poor happy
+(b) curb the accumulation of wealth in a few hands
+(c) monitor science and technology
+(d) deploy the police force wisely
+
+ans: c
+
+
+
+179. 'Era of good feeling' in the second sentence refers to
+
+(a) time of prosperity
+(b) time of adversity
+(c) time without government
+(d) time of police atrocities
+
+ans: a
+
+
+
+180. 'Tolerable state of balance' in the last sentence may mean
+
+(a) an adequate level of police force
+(b) a reasonable level of economic equality
+(c) a reasonable amount of government interference
+(d) a reasonable check on economic power
+
+ans: b
+
+
+
+181. race : fatigue (analogy)
+
+(a) fasting : hunger
+(b) round : boxing
+(c) flower:colors
+(d). Hiking :gangrene
+
+ans: a
+
+
+
+182. Strut : walking (analogy)
+
+(a) Sweating : wrestling
+(b) Hunter : fire
+(c) Speech : stage
+(d) Stammer :talk
+
+ans: d
+
+
+
+183. Industries : hardworking (analogy)
+
+(a) Sky : blue
+(b) Muddy:unclear
+(c) Book :reading
+(d) Pond:lake
+
+ans: a
+
+
+
+184. Scholar : ignorant (analogy)
+
+(a) Hardworking :lazy
+(b) Knife : sword
+(c) Courage :bold
+(d) Luxury :wealth
+
+ans: a
+
+
+
+185. Cool : frozen:: (analogy)
+
+(a) Sharp :cut
+(b. Warm:hot
+(c) Hassock :stool
+(d) Freedom :liberty
+
+ans: b
+
+
+
+186. Admonish (synonym)
+
+(a) Hypnotic
+(b) Honor
+(c) Encourage
+(d) scold
+(e) Prepare
+
+ans: d
+
+
+
+187. Animosity (antonym)
+
+(a) Friendliness
+(b) Anxiety
+(c) Eagerness
+(d) Reliability
+
+ans: a
+
+
+
+188. Portly (synonym)
+
+(a) Briskly
+(b) Vessel
+(c) Slender
+(d) Entirely
+
+ans: c
+
+
+
+189. Impetuous (antonym)
+
+(a) Defensive
+(b) Ardent
+(c) Hobbyist
+(d) Wary
+
+ans: d
+
+
+
+190. Valid (antonym)
+
+(a) Laud
+(b) Feeble
+(c) Due
+(d) Dump
+
+ans: b
+
+
+
+191. An index that estimates true rate of exchange among the currencies is
+
+(a) Human development index
+(b) Exchange rate
+(c) Purchasing rate
+(d) None
+
+ans: c
+
+
+
+192. LRR is stand for
+
+(a) Lahore ring road
+(b) Large ring road
+(c). Lahore ring road
+(d) Long ring road
+
+ans: a
+
+
+
+193. Who is allegedly the current head of al-Qaida?
+
+(a) Khalid sheikh MOHAMMAD
+(b) Osama bin laden (late)
+(c) Ayman ul Zawahiri
+(d) None
+
+ans: c
+
+
+
+194. Who is chancellor of Germany
+
+(a) Joachim Gauck
+(b) Angela Merkel
+(c) John Atta Mills
+(d) Laszlo Kover
+
+ans: b
+
+
+
+195. Which of the following academies grants the noble prize in literature?
+
+(a) London academy
+(b) Norwegian academy
+(c) Swedish academy
+(d) New York academy
+
+ans: c
+
+
+
+196. BCB stand for
+
+(a) Bhutan cricket board
+(b) Bangladesh cricket board
+(c) Belgium cricket board
+(d) None
+
+ans: b
+
+
+
+197. Who was honored with highest cultural award of France the commander of the order on 17th July 2013
+
+(a) David bowie
+(b) Paul hewson
+(c) Bruce Willis
+(d) Bob Dylan
+
+ans: d
+
+
+
+198. Identify the current hajj year
+
+(a) 1432
+(b) 1433
+(c) 1434
+(d) 1435
+
+ans: d
+
+
+
+199. Du plessis is player of
+
+(a) Hockey
+(b. Cricket
+(c) Football
+(d) Snooker
+
+ans: b
+
+
+
+200. Easy jet is airline of
+
+(a) Uk
+(b) Malaysia
+(c) Spain
+(d) Turkey
+
+ans: a
