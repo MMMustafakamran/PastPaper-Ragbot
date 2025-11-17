@@ -1,0 +1,2104 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Physics - Mechanics",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 38,
+    "source_file": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Physics",
+    "main_topic": "Mechanics"
+  },
+  "questions": [
+    {
+      "question_id": "NET_PHY_MECHANICS_Q081",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "If the measuring scale has a least count of 10kg then in 8000kg the significant figures are",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "4"
+        },
+        {
+          "key": "b",
+          "value": "1"
+        },
+        {
+          "key": "c",
+          "value": "3"
+        },
+        {
+          "key": "d",
+          "value": "0"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "3",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: If the measuring scale has a least count of 10kg then in 8000kg the significant figures are Options: 4, 1, 3, 0. Correct answer: 3",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q083",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The number 1678.9 should be written in scientific notation as",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "16.789 × 10³"
+        },
+        {
+          "key": "b",
+          "value": "1.6789 × 10³"
+        },
+        {
+          "key": "c",
+          "value": "1678.9 × 10³"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "1.6789 × 10³",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: The number 1678.9 should be written in scientific notation as Options: 16.789 × 10³, 1.6789 × 10³, 1678.9 × 10³, None. Correct answer: 1.6789 × 10³",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q084",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Which one of the following groups has quantities that do not have the same dimensions",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Velocity, speed"
+        },
+        {
+          "key": "b",
+          "value": "Pressure, stress"
+        },
+        {
+          "key": "c",
+          "value": "Force, impulse"
+        },
+        {
+          "key": "d",
+          "value": "Work, energy"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Force, impulse",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: Which one of the following groups has quantities that do not have the same dimensions Options: Velocity, speed, Pressure, stress, Force, impulse, Work, energy. Correct answer: Force, impulse",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q085",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The %age errors in the measurement of mass and speed are 3% and 4% respectively. The maximum error in the measurement of K.E is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "11%"
+        },
+        {
+          "key": "b",
+          "value": "10%"
+        },
+        {
+          "key": "c",
+          "value": "8%"
+        },
+        {
+          "key": "d",
+          "value": "9%"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "11%",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: The %age errors in the measurement of mass and speed are 3% and 4% respectively. The maximum error in the measurement of K.E is Options: 11%, 10%, 8%, 9%. Correct answer: 11%",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q086",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The vector product of two vectors is zero, when",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "They are parallel to each other"
+        },
+        {
+          "key": "b",
+          "value": "They are equal vectors"
+        },
+        {
+          "key": "c",
+          "value": "They are perpendicular to each other"
+        },
+        {
+          "key": "d",
+          "value": "They are inclined at angle of 60°"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "They are parallel to each other",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: The vector product of two vectors is zero, when Options: They are parallel to each other, They are equal vectors, They are perpendicular to each other, They are inclined at angle of 60°. Correct answer: They are parallel to each other",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q087",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "In right hand rule, the direction of the product vector will be",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Along the thumb erect"
+        },
+        {
+          "key": "b",
+          "value": "Perpendicular to the erect thumb"
+        },
+        {
+          "key": "c",
+          "value": "Along the rotation of fingers"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Along the thumb erect",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: In right hand rule, the direction of the product vector will be Options: Along the thumb erect, Perpendicular to the erect thumb, Along the rotation of fingers, None. Correct answer: Along the thumb erect",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q088",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "When an object slides at constant speed down an inclined plane, the coefficient of friction may be approximately be",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "sinθ"
+        },
+        {
+          "key": "b",
+          "value": "cosθ"
+        },
+        {
+          "key": "c",
+          "value": "tanθ"
+        },
+        {
+          "key": "d",
+          "value": "cotθ"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "tanθ",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: When an object slides at constant speed down an inclined plane, the coefficient of friction may be approximately be Options: sinθ, cosθ, tanθ, cotθ. Correct answer: tanθ",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q089",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "Two forces 3N and 2N are at an angle θ such that the resultant is R. The first force is now increased to 6N and the resultant becomes 2R. The value of θ is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "30°"
+        },
+        {
+          "key": "b",
+          "value": "60°"
+        },
+        {
+          "key": "c",
+          "value": "90°"
+        },
+        {
+          "key": "d",
+          "value": "120°"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "120°",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: Two forces 3N and 2N are at an angle θ such that the resultant is R. The first force is now increased to 6N and the resultant becomes 2R. The value of θ is Options: 30°, 60°, 90°, 120°. Correct answer: 120°",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q090",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Torque acting on a body determines",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Acceleration"
+        },
+        {
+          "key": "b",
+          "value": "Linear acceleration"
+        },
+        {
+          "key": "c",
+          "value": "Angular acceleration"
+        },
+        {
+          "key": "d",
+          "value": "Direction of motion of the body"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Angular acceleration",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: Torque acting on a body determines Options: Acceleration, Linear acceleration, Angular acceleration, Direction of motion of the body. Correct answer: Angular acceleration",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q091",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "If the velocity of a body is uniform the velocity–time graph is a straight line which is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Parallel to x axis"
+        },
+        {
+          "key": "b",
+          "value": "Parallel to y axis"
+        },
+        {
+          "key": "c",
+          "value": "At an angle of 45° with the x-axis"
+        },
+        {
+          "key": "d",
+          "value": "Along the y-axis"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Parallel to x axis",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: If the velocity of a body is uniform the velocity–time graph is a straight line which is Options: Parallel to x axis, Parallel to y axis, At an angle of 45° with the x-axis, Along the y-axis. Correct answer: Parallel to x axis",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q092",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "At what angle of projection the horizontal range of a projectile is max?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "30°"
+        },
+        {
+          "key": "b",
+          "value": "45°"
+        },
+        {
+          "key": "c",
+          "value": "60°"
+        },
+        {
+          "key": "d",
+          "value": "90°"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "45°",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: At what angle of projection the horizontal range of a projectile is max? Options: 30°, 45°, 60°, 90°. Correct answer: 45°",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q093",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "What will be the ratio of the distance moved by a freely falling body from rest in 4th and 5th second of journey",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "4:5"
+        },
+        {
+          "key": "b",
+          "value": "7:9"
+        },
+        {
+          "key": "c",
+          "value": "16:25"
+        },
+        {
+          "key": "d",
+          "value": "1:1"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "7:9",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: What will be the ratio of the distance moved by a freely falling body from rest in 4th and 5th second of journey Options: 4:5, 7:9, 16:25, 1:1. Correct answer: 7:9",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q095",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "If the water fall from a dam to into a turbine wheel 19.6m below, then the velocity of water at the turbine is (Take g = 9.8 m/s²)",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "9.8 m/s"
+        },
+        {
+          "key": "b",
+          "value": "19.6 m/s"
+        },
+        {
+          "key": "c",
+          "value": "39.2 m/s"
+        },
+        {
+          "key": "d",
+          "value": "98.0 m/s"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "19.6 m/s",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: If the water fall from a dam to into a turbine wheel 19.6m below, then the velocity of water at the turbine is (Take g = 9.8 m/s²) Options: 9.8 m/s, 19.6 m/s, 39.2 m/s, 98.0 m/s. Correct answer: 19.6 m/s",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q096",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The escape velocity of earth in Km/s",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "9.75"
+        },
+        {
+          "key": "b",
+          "value": "11.2"
+        },
+        {
+          "key": "c",
+          "value": "12.3"
+        },
+        {
+          "key": "d",
+          "value": "15.6"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "11.2",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: The escape velocity of earth in Km/s Options: 9.75, 11.2, 12.3, 15.6. Correct answer: 11.2",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q097",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Which is constant for a satellite in orbit?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Velocity"
+        },
+        {
+          "key": "b",
+          "value": "K.E"
+        },
+        {
+          "key": "c",
+          "value": "Angular momentum"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Angular momentum",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: Which is constant for a satellite in orbit? Options: Velocity, K.E, Angular momentum, None. Correct answer: Angular momentum",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q098",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "How much water a pump of 2kW can raise in one minute to a height of 10m (Take g = 10 m/s²)",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1000 liters"
+        },
+        {
+          "key": "b",
+          "value": "1200 liters"
+        },
+        {
+          "key": "c",
+          "value": "100 liters"
+        },
+        {
+          "key": "d",
+          "value": "2000 liters"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "1200 liters",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: How much water a pump of 2kW can raise in one minute to a height of 10m (Take g = 10 m/s²) Options: 1000 liters, 1200 liters, 100 liters, 2000 liters. Correct answer: 1200 liters",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q099",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "The escape velocity from the earth's surface is 11 km/s. A certain planet has a radius twice that of the earth but its mean density is the same as that of the earth. The value of the escape velocity from this planet would be",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "24 km/s"
+        },
+        {
+          "key": "b",
+          "value": "11 km/s"
+        },
+        {
+          "key": "c",
+          "value": "22 km/s"
+        },
+        {
+          "key": "d",
+          "value": "33 km/s"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "24 km/s",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: The escape velocity from the earth's surface is 11 km/s. A certain planet has a radius twice that of the earth but its mean density is the same as that of the earth. The value of the escape velocity from this planet would be Options: 24 km/s, 11 km/s, 22 km/s, 33 km/s. Correct answer: 24 km/s",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q100",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "If force and displacement of particle in the direction of force are doubled, work would be",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Double"
+        },
+        {
+          "key": "b",
+          "value": "4 times"
+        },
+        {
+          "key": "c",
+          "value": "Half"
+        },
+        {
+          "key": "d",
+          "value": "1/4 time"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "4 times",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: If force and displacement of particle in the direction of force are doubled, work would be Options: Double, 4 times, Half, 1/4 time. Correct answer: 4 times",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q101",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "A couple produces",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Purely linear motion"
+        },
+        {
+          "key": "b",
+          "value": "Purely rotational motion"
+        },
+        {
+          "key": "c",
+          "value": "Linear and rotational motion"
+        },
+        {
+          "key": "d",
+          "value": "No motion"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Purely rotational motion",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: A couple produces Options: Purely linear motion, Purely rotational motion, Linear and rotational motion, No motion. Correct answer: Purely rotational motion",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q102",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The units of angular acceleration is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Radian"
+        },
+        {
+          "key": "b",
+          "value": "Radian per second"
+        },
+        {
+          "key": "c",
+          "value": "Radian per second²"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Radian per second²",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: The units of angular acceleration is Options: Radian, Radian per second, Radian per second², None. Correct answer: Radian per second²",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q103",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Once the space shuttle is in orbit at a radius R from earth's center, what force does the seat exert on the astronaut?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Mg"
+        },
+        {
+          "key": "b",
+          "value": "Zero newton"
+        },
+        {
+          "key": "c",
+          "value": "M/g"
+        },
+        {
+          "key": "d",
+          "value": "Mg/R²"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Zero newton",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: Once the space shuttle is in orbit at a radius R from earth's center, what force does the seat exert on the astronaut? Options: Mg, Zero newton, M/g, Mg/R². Correct answer: Zero newton",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q104",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "In which case application of angular velocity is useful?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "When body is rotating"
+        },
+        {
+          "key": "b",
+          "value": "When velocity of body is in a straight line"
+        },
+        {
+          "key": "c",
+          "value": "When velocity is in a straight line"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "When body is rotating",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: In which case application of angular velocity is useful? Options: When body is rotating, When velocity of body is in a straight line, When velocity is in a straight line, None. Correct answer: When body is rotating",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q105",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "If the area of a circle is equal to its circumference the radius of this circle is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1"
+        },
+        {
+          "key": "b",
+          "value": "2"
+        },
+        {
+          "key": "c",
+          "value": "3"
+        },
+        {
+          "key": "d",
+          "value": "4"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "2",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: If the area of a circle is equal to its circumference the radius of this circle is Options: 1, 2, 3, 4. Correct answer: 2",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q106",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Rotational K.E of a disc is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "KE_rot = 1/2 mv²"
+        },
+        {
+          "key": "b",
+          "value": "KE_rot = 1/3 mv²"
+        },
+        {
+          "key": "c",
+          "value": "KE_rot = 1/4 mv²"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "KE_rot = 1/4 mv²",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: Rotational K.E of a disc is Options: KE_rot = 1/2 mv², KE_rot = 1/3 mv², KE_rot = 1/4 mv², None. Correct answer: KE_rot = 1/4 mv²",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q107",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Which of these statements is not correct?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Moment of inertia is independent of shape and size of the body"
+        },
+        {
+          "key": "b",
+          "value": "Moment of inertia depends on choice of axes"
+        },
+        {
+          "key": "c",
+          "value": "Momentum of inertia does not depend on the mass of body"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Momentum of inertia does not depend on the mass of body",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: Which of these statements is not correct? Options: Moment of inertia is independent of shape and size of the body, Moment of inertia depends on choice of axes, Momentum of inertia does not depend on the mass of body, None. Correct answer: Momentum of inertia does not depend on the mass of body",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q108",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "A particle is moving in a vertical circle. The tension in the string when passing through two positions at angles 30° and 60° from vertical (lowest position) are T₁ and T₂ respectively. Then",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "T₁ = T₂"
+        },
+        {
+          "key": "b",
+          "value": "T₂ > T₁"
+        },
+        {
+          "key": "c",
+          "value": "T₁ > T₂"
+        },
+        {
+          "key": "d",
+          "value": "Tension in the string always remains the same"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "T₁ > T₂",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: A particle is moving in a vertical circle. The tension in the string when passing through two positions at angles 30° and 60° from vertical (lowest position) are T₁ and T₂ respectively. Then Options: T₁ = T₂, T₂ > T₁, T₁ > T₂, Tension in the string always remains the same. Correct answer: T₁ > T₂",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q109",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "At terminal velocity, fluid friction is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Maximum"
+        },
+        {
+          "key": "b",
+          "value": "Minimum"
+        },
+        {
+          "key": "c",
+          "value": "Zero"
+        },
+        {
+          "key": "d",
+          "value": "Decreasing"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Maximum",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: At terminal velocity, fluid friction is Options: Maximum, Minimum, Zero, Decreasing. Correct answer: Maximum",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q110",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "v = √(2g(h₁-h₂)) shows the",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Equation of continuity"
+        },
+        {
+          "key": "b",
+          "value": "Bernoulli's theorem"
+        },
+        {
+          "key": "c",
+          "value": "Torricelli's theorem"
+        },
+        {
+          "key": "d",
+          "value": "Equation for compressible fluids"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Torricelli's theorem",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: v = √(2g(h₁-h₂)) shows the Options: Equation of continuity, Bernoulli's theorem, Torricelli's theorem, Equation for compressible fluids. Correct answer: Torricelli's theorem",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q112",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "In case of streamlined flow of liquid the loss of energy is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Maximum"
+        },
+        {
+          "key": "b",
+          "value": "Minimum"
+        },
+        {
+          "key": "c",
+          "value": "Infinite"
+        },
+        {
+          "key": "d",
+          "value": "Equal to what is in turbulent flow"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Minimum",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: In case of streamlined flow of liquid the loss of energy is Options: Maximum, Minimum, Infinite, Equal to what is in turbulent flow. Correct answer: Minimum",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q113",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "A car engine is based on the principle of",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Bernoulli's equation"
+        },
+        {
+          "key": "b",
+          "value": "Ventura relation"
+        },
+        {
+          "key": "c",
+          "value": "Torricelli's theorem"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "None",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: A car engine is based on the principle of Options: Bernoulli's equation, Ventura relation, Torricelli's theorem, None. Correct answer: None",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q115",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Two water pipes of diameters 4cm and 8cm are connected with a supply line. The velocity of flow of water in the pipe 4cm diameter is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1/4 times"
+        },
+        {
+          "key": "b",
+          "value": "4 times"
+        },
+        {
+          "key": "c",
+          "value": "Twice"
+        },
+        {
+          "key": "d",
+          "value": "1/2 of 8cm diameter pipe"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "4 times",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: Two water pipes of diameters 4cm and 8cm are connected with a supply line. The velocity of flow of water in the pipe 4cm diameter is Options: 1/4 times, 4 times, Twice, 1/2 of 8cm diameter pipe. Correct answer: 4 times",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q116",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The density of water in F.P.S system is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "50 lb/ft²"
+        },
+        {
+          "key": "b",
+          "value": "50 ft/lb"
+        },
+        {
+          "key": "c",
+          "value": "50 ft/lb³"
+        },
+        {
+          "key": "d",
+          "value": "50 lb/ft³"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "50 lb/ft³",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: The density of water in F.P.S system is Options: 50 lb/ft², 50 ft/lb, 50 ft/lb³, 50 lb/ft³. Correct answer: 50 lb/ft³",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q120",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "A ball is just allowed to fall from the window of a moving train it will hit the ground following a",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Circular path"
+        },
+        {
+          "key": "b",
+          "value": "Hyperbolic path"
+        },
+        {
+          "key": "c",
+          "value": "Straight line path"
+        },
+        {
+          "key": "d",
+          "value": "Parabolic path"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Parabolic path",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: A ball is just allowed to fall from the window of a moving train it will hit the ground following a Options: Circular path, Hyperbolic path, Straight line path, Parabolic path. Correct answer: Parabolic path",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q122",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "A block weighting 40kg extends a spring by 0.16m from its unscratched position. What is the value of k",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "170 kg/s²"
+        },
+        {
+          "key": "b",
+          "value": "245 kg/s²"
+        },
+        {
+          "key": "c",
+          "value": "215 kg/s²"
+        },
+        {
+          "key": "d",
+          "value": "201 kg/s²"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "245 kg/s²",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: A block weighting 40kg extends a spring by 0.16m from its unscratched position. What is the value of k Options: 170 kg/s², 245 kg/s², 215 kg/s², 201 kg/s². Correct answer: 245 kg/s²",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q126",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "The length of a spring is α when a force of 4N is applied on it, the length is β when 5N forces is applied, then the length of spring when 9N force is applied is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "5β - 4α"
+        },
+        {
+          "key": "b",
+          "value": "β - α"
+        },
+        {
+          "key": "c",
+          "value": "5α - 4β"
+        },
+        {
+          "key": "d",
+          "value": "9(β - α)"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "5β - 4α",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: The length of a spring is α when a force of 4N is applied on it, the length is β when 5N forces is applied, then the length of spring when 9N force is applied is Options: 5β - 4α, β - α, 5α - 4β, 9(β - α). Correct answer: 5β - 4α",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q127",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Two springs of spring constant k₁ and k₂ are joined in series. The effective spring constant of combination is given by",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "(k₁ + k₂)/2"
+        },
+        {
+          "key": "b",
+          "value": "k₁ + k₂"
+        },
+        {
+          "key": "c",
+          "value": "k₁k₂/(k₁ + k₂)"
+        },
+        {
+          "key": "d",
+          "value": "√(k₁k₂)"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "k₁k₂/(k₁ + k₂)",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: Two springs of spring constant k₁ and k₂ are joined in series. The effective spring constant of combination is given by Options: (k₁ + k₂)/2, k₁ + k₂, k₁k₂/(k₁ + k₂), √(k₁k₂). Correct answer: k₁k₂/(k₁ + k₂)",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q131",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "Laplace formula is derived from",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Isothermal change"
+        },
+        {
+          "key": "b",
+          "value": "Adiabatic change"
+        },
+        {
+          "key": "c",
+          "value": "Isobaric change"
+        },
+        {
+          "key": "d",
+          "value": "Isochoric change"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Adiabatic change",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: Laplace formula is derived from Options: Isothermal change, Adiabatic change, Isobaric change, Isochoric change. Correct answer: Adiabatic change",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q132",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "In the absence of an external torque the angular momentum of a rotating body is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Constant"
+        },
+        {
+          "key": "b",
+          "value": "Variable"
+        },
+        {
+          "key": "c",
+          "value": "Unstable"
+        },
+        {
+          "key": "d",
+          "value": "Zero"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Constant",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: In the absence of an external torque the angular momentum of a rotating body is Options: Constant, Variable, Unstable, Zero. Correct answer: Constant",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

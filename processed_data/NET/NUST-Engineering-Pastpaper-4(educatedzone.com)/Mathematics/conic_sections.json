@@ -1,0 +1,234 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Conic Sections",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 4,
+    "source_file": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Conic Sections"
+  },
+  "questions": [
+    {
+      "question_id": "NET_MAT_CONIC_SECTIONS_Q011",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Conic Sections",
+        "sub_topic": "Conic Sections",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The eccentric angle in the first quadrant of a point on the ellipse x²/10 + y²/8 = 1 at a distance 3 units from the center of the ellipse is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "π/6"
+        },
+        {
+          "key": "b",
+          "value": "π/4"
+        },
+        {
+          "key": "c",
+          "value": "π/3"
+        },
+        {
+          "key": "d",
+          "value": "π/2"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "π/4",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Conic Sections: The eccentric angle in the first quadrant of a point on the ellipse x²/10 + y²/8 = 1 at a distance 3 units from the center of the ellipse is Options: π/6, π/4, π/3, π/2. Correct answer: π/4",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "conic sections"
+        ],
+        "prerequisites": [
+          "conic sections"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_CONIC_SECTIONS_Q012",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Conic Sections",
+        "sub_topic": "Conic Sections",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "The transverse axis of a hyperbola is along the x axis and its length is 2a. The vertex of the hyperbola bisects the line segment joining the center and the focus. The equation of the hyperbola is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "6x² - y² = 3a²"
+        },
+        {
+          "key": "b",
+          "value": "x² - 3y² = 3a²"
+        },
+        {
+          "key": "c",
+          "value": "x² - 6y² = 3a²"
+        },
+        {
+          "key": "d",
+          "value": "3x² - y² = 3a²"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "3x² - y² = 3a²",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Conic Sections: The transverse axis of a hyperbola is along the x axis and its length is 2a. The vertex of the hyperbola bisects the line segment joining the center and the focus. The equation of the hyperbola is Options: 6x² - y² = 3a², x² - 3y² = 3a², x² - 6y² = 3a², 3x² - y² = 3a². Correct answer: 3x² - y² = 3a²",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "conic sections"
+        ],
+        "prerequisites": [
+          "conic sections"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_CONIC_SECTIONS_Q030",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Conic Sections",
+        "sub_topic": "Conic Sections",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The equation y² + 4x + 4y + k = 0 represents a parabola whose latus rectum is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1"
+        },
+        {
+          "key": "b",
+          "value": "2"
+        },
+        {
+          "key": "c",
+          "value": "3"
+        },
+        {
+          "key": "d",
+          "value": "4"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "4",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Conic Sections: The equation y² + 4x + 4y + k = 0 represents a parabola whose latus rectum is Options: 1, 2, 3, 4. Correct answer: 4",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "conic sections"
+        ],
+        "prerequisites": [
+          "conic sections"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_CONIC_SECTIONS_Q034",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Conic Sections",
+        "sub_topic": "Conic Sections",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Let the foci of the ellipse x²/9 + y² = 1 subtend right angle at a point P then the locus of P is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "x² + y² = 1"
+        },
+        {
+          "key": "b",
+          "value": "x² + y² = 2"
+        },
+        {
+          "key": "c",
+          "value": "x² + y² = 4"
+        },
+        {
+          "key": "d",
+          "value": "x² + y² = 8"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "x² + y² = 8",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Conic Sections: Let the foci of the ellipse x²/9 + y² = 1 subtend right angle at a point P then the locus of P is Options: x² + y² = 1, x² + y² = 2, x² + y² = 4, x² + y² = 8. Correct answer: x² + y² = 8",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "conic sections"
+        ],
+        "prerequisites": [
+          "conic sections"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

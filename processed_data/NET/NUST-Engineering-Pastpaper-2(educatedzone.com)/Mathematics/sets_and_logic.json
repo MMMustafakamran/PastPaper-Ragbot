@@ -1,0 +1,1664 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Sets and Logic",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 30,
+    "source_file": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Sets and Logic"
+  },
+  "questions": [
+    {
+      "question_id": "NET_MAT_SETS_AND_LOGIC_Q010",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sets and Logic",
+        "sub_topic": "Sets and Logic",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "If Q, R are any sets, then $Q-R=$",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "$Q\\cap(Q-R)$"
+        },
+        {
+          "key": "b",
+          "value": "$Q-(Q\\cup R)$"
+        },
+        {
+          "key": "c",
+          "value": "$Q-(Q\\cap R)$"
+        },
+        {
+          "key": "d",
+          "value": "$Q\\cup(Q-R)$"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "$Q-(Q\\cap R)$",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sets and Logic: If Q, R are any sets, then $Q-R=$ Options: $Q\\cap(Q-R)$, $Q-(Q\\cup R)$, $Q-(Q\\cap R)$, $Q\\cup(Q-R)$. Correct answer: $Q-(Q\\cap R)$",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sets and logic"
+        ],
+        "prerequisites": [
+          "sets and logic"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SETS_AND_LOGIC_Q021",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sets and Logic",
+        "sub_topic": "Sets and Logic",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The set $(\\mathbb{Z}, +)$",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Forms a group w.r.t addition"
+        },
+        {
+          "key": "b",
+          "value": "Non commutative group w.r.t multiplication"
+        },
+        {
+          "key": "c",
+          "value": "Forms a group w.r.t multiplication"
+        },
+        {
+          "key": "d",
+          "value": "Does not form group"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Forms a group w.r.t addition",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sets and Logic: The set $(\\mathbb{Z}, +)$ Options: Forms a group w.r.t addition, Non commutative group w.r.t multiplication, Forms a group w.r.t multiplication, Does not form group. Correct answer: Forms a group w.r.t addition",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sets and logic"
+        ],
+        "prerequisites": [
+          "sets and logic"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SETS_AND_LOGIC_Q023",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sets and Logic",
+        "sub_topic": "Sets and Logic",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "$p$: Islamabad is a capital of Pakistan $q$: Lahore is not a city of Pakistan, the conjunction of $p \\land q$ is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "False"
+        },
+        {
+          "key": "b",
+          "value": "True"
+        },
+        {
+          "key": "c",
+          "value": "Not valid"
+        },
+        {
+          "key": "d",
+          "value": "Known"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "False",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sets and Logic: $p$: Islamabad is a capital of Pakistan $q$: Lahore is not a city of Pakistan, the conjunction of $p \\land q$ is Options: False, True, Not valid, Known. Correct answer: False",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sets and logic"
+        ],
+        "prerequisites": [
+          "sets and logic"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SETS_AND_LOGIC_Q024",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sets and Logic",
+        "sub_topic": "Sets and Logic",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "A disjunction of two statements $p$ and $q$ is true if",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "$p$ is false"
+        },
+        {
+          "key": "b",
+          "value": "Both $p$ and $q$ is true"
+        },
+        {
+          "key": "c",
+          "value": "One of $p$ and $q$ is true"
+        },
+        {
+          "key": "d",
+          "value": "$q$ is false"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "One of $p$ and $q$ is true",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sets and Logic: A disjunction of two statements $p$ and $q$ is true if Options: $p$ is false, Both $p$ and $q$ is true, One of $p$ and $q$ is true, $q$ is false. Correct answer: One of $p$ and $q$ is true",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sets and logic"
+        ],
+        "prerequisites": [
+          "sets and logic"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SETS_AND_LOGIC_Q025",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sets and Logic",
+        "sub_topic": "Sets and Logic",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The set of real number $\\mathbb{R}$ is a subset of",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "The set of natural Numbers $\\mathbb{N}$"
+        },
+        {
+          "key": "b",
+          "value": "The set of integers $\\mathbb{Z}$"
+        },
+        {
+          "key": "c",
+          "value": "The set of complex numbers $\\mathbb{C}$"
+        },
+        {
+          "key": "d",
+          "value": "The set of even integer $E$"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "The set of complex numbers $\\mathbb{C}$",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sets and Logic: The set of real number $\\mathbb{R}$ is a subset of Options: The set of natural Numbers $\\mathbb{N}$, The set of integers $\\mathbb{Z}$, The set of complex numbers $\\mathbb{C}$, The set of even integer $E$. Correct answer: The set of complex numbers $\\mathbb{C}$",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sets and logic"
+        ],
+        "prerequisites": [
+          "sets and logic"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SETS_AND_LOGIC_Q026",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sets and Logic",
+        "sub_topic": "Sets and Logic",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "An element '$b$' of a set $B$ can be written as",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "$b\\subseteq B$"
+        },
+        {
+          "key": "b",
+          "value": "$b<B$"
+        },
+        {
+          "key": "c",
+          "value": "$b\\in B$"
+        },
+        {
+          "key": "d",
+          "value": "$B\\in b$"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "$b\\in B$",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sets and Logic: An element '$b$' of a set $B$ can be written as Options: $b\\subseteq B$, $b<B$, $b\\in B$, $B\\in b$. Correct answer: $b\\in B$",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sets and logic"
+        ],
+        "prerequisites": [
+          "sets and logic"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SETS_AND_LOGIC_Q027",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sets and Logic",
+        "sub_topic": "Sets and Logic",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The set $A$ is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Improper subset of $A$"
+        },
+        {
+          "key": "b",
+          "value": "Proper subset of $A$"
+        },
+        {
+          "key": "c",
+          "value": "Not a subset of $A$"
+        },
+        {
+          "key": "d",
+          "value": "Not superset of $A$"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Improper subset of $A$",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sets and Logic: The set $A$ is Options: Improper subset of $A$, Proper subset of $A$, Not a subset of $A$, Not superset of $A$. Correct answer: Improper subset of $A$",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sets and logic"
+        ],
+        "prerequisites": [
+          "sets and logic"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SETS_AND_LOGIC_Q028",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sets and Logic",
+        "sub_topic": "Sets and Logic",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "A set containing only one element is called the",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Empty set"
+        },
+        {
+          "key": "b",
+          "value": "Singleton set"
+        },
+        {
+          "key": "c",
+          "value": "Null set"
+        },
+        {
+          "key": "d",
+          "value": "Solution set"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Singleton set",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sets and Logic: A set containing only one element is called the Options: Empty set, Singleton set, Null set, Solution set. Correct answer: Singleton set",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sets and logic"
+        ],
+        "prerequisites": [
+          "sets and logic"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SETS_AND_LOGIC_Q030",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sets and Logic",
+        "sub_topic": "Sets and Logic",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The set of students of your class is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Infinite set"
+        },
+        {
+          "key": "b",
+          "value": "Finite set"
+        },
+        {
+          "key": "c",
+          "value": "Empty set"
+        },
+        {
+          "key": "d",
+          "value": "Null set"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Finite set",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sets and Logic: The set of students of your class is Options: Infinite set, Finite set, Empty set, Null set. Correct answer: Finite set",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sets and logic"
+        ],
+        "prerequisites": [
+          "sets and logic"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SETS_AND_LOGIC_Q032",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sets and Logic",
+        "sub_topic": "Sets and Logic",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The truth value of the proposition \"A positive number or $2+2=4$\" is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "True"
+        },
+        {
+          "key": "b",
+          "value": "False"
+        },
+        {
+          "key": "c",
+          "value": "Contingency"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "True",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sets and Logic: The truth value of the proposition \"A positive number or $2+2=4$\" is Options: True, False, Contingency, None. Correct answer: True",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sets and logic"
+        ],
+        "prerequisites": [
+          "sets and logic"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SETS_AND_LOGIC_Q037",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sets and Logic",
+        "sub_topic": "Sets and Logic",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "A disjunction of two statements $p$ and $q$ is true if",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "$p$ is false"
+        },
+        {
+          "key": "b",
+          "value": "Both $p$ and $q$ are false"
+        },
+        {
+          "key": "c",
+          "value": "One of $p$ and $q$ is true"
+        },
+        {
+          "key": "d",
+          "value": "$q$ is false"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "One of $p$ and $q$ is true",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sets and Logic: A disjunction of two statements $p$ and $q$ is true if Options: $p$ is false, Both $p$ and $q$ are false, One of $p$ and $q$ is true, $q$ is false. Correct answer: One of $p$ and $q$ is true",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sets and logic"
+        ],
+        "prerequisites": [
+          "sets and logic"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SETS_AND_LOGIC_Q038",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sets and Logic",
+        "sub_topic": "Sets and Logic",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The identity element of $\\mathbb{N}$, w.r.t addition is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1"
+        },
+        {
+          "key": "b",
+          "value": "0"
+        },
+        {
+          "key": "c",
+          "value": "2"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "None",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sets and Logic: The identity element of $\\mathbb{N}$, w.r.t addition is Options: 1, 0, 2, None. Correct answer: None",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sets and logic"
+        ],
+        "prerequisites": [
+          "sets and logic"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SETS_AND_LOGIC_Q039",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sets and Logic",
+        "sub_topic": "Sets and Logic",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The set of the first element of the ordered pairs forming a relation is called its:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Relation of $A$ to $B$"
+        },
+        {
+          "key": "b",
+          "value": "Relation from $B$ to $A$"
+        },
+        {
+          "key": "c",
+          "value": "Domain"
+        },
+        {
+          "key": "d",
+          "value": "Relation in $A$"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Domain",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sets and Logic: The set of the first element of the ordered pairs forming a relation is called its: Options: Relation of $A$ to $B$, Relation from $B$ to $A$, Domain, Relation in $A$. Correct answer: Domain",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sets and logic"
+        ],
+        "prerequisites": [
+          "sets and logic"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SETS_AND_LOGIC_Q040",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sets and Logic",
+        "sub_topic": "Sets and Logic",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "A subset of $B\\times A$ is called a",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Relation of $A$ to $B$"
+        },
+        {
+          "key": "b",
+          "value": "Relation from $B$ to $A$"
+        },
+        {
+          "key": "c",
+          "value": "Relation in $A$"
+        },
+        {
+          "key": "d",
+          "value": "Relation in $B$"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Relation from $B$ to $A$",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sets and Logic: A subset of $B\\times A$ is called a Options: Relation of $A$ to $B$, Relation from $B$ to $A$, Relation in $A$, Relation in $B$. Correct answer: Relation from $B$ to $A$",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sets and logic"
+        ],
+        "prerequisites": [
+          "sets and logic"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SETS_AND_LOGIC_Q045",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sets and Logic",
+        "sub_topic": "Sets and Logic",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The multiplicative inverse of $-1$ in the set $\\{-1,1\\}$ is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1"
+        },
+        {
+          "key": "b",
+          "value": "-1"
+        },
+        {
+          "key": "c",
+          "value": "±1"
+        },
+        {
+          "key": "d",
+          "value": "0"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "-1",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sets and Logic: The multiplicative inverse of $-1$ in the set $\\{-1,1\\}$ is: Options: 1, -1, ±1, 0. Correct answer: -1",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sets and logic"
+        ],
+        "prerequisites": [
+          "sets and logic"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SETS_AND_LOGIC_Q048",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sets and Logic",
+        "sub_topic": "Sets and Logic",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "In a school, there are 150 students. Out of these 80 students enrolled for mathematics class, 50 enrolled for English class, and 60 enrolled for physics class. The student enrolled for English cannot attend any other class, but the students of mathematics and physics can take two courses at a time. Find the number of students who have taken both physics and mathematics.",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "40"
+        },
+        {
+          "key": "b",
+          "value": "30"
+        },
+        {
+          "key": "c",
+          "value": "50"
+        },
+        {
+          "key": "d",
+          "value": "20"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "40",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sets and Logic: In a school, there are 150 students. Out of these 80 students enrolled for mathematics class, 50 enrolled for English class, and 60 enrolled for physics class. The student enrolled for English cannot attend any other class, but the students of mathematics and physics can take two courses at a time. Find the number of students who have taken both physics and mathematics. Options: 40, 30, 50, 20. Correct answer: 40",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sets and logic"
+        ],
+        "prerequisites": [
+          "sets and logic"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SETS_AND_LOGIC_Q049",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sets and Logic",
+        "sub_topic": "Sets and Logic",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The set $\\{\\{a, b\\}\\}$ is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Infinite set"
+        },
+        {
+          "key": "b",
+          "value": "Singleton set"
+        },
+        {
+          "key": "c",
+          "value": "Two points set"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Singleton set",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sets and Logic: The set $\\{\\{a, b\\}\\}$ is Options: Infinite set, Singleton set, Two points set, None. Correct answer: Singleton set",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sets and logic"
+        ],
+        "prerequisites": [
+          "sets and logic"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SETS_AND_LOGIC_Q054",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sets and Logic",
+        "sub_topic": "Sets and Logic",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The set $\\{1,-1,i,-i\\}$, form a group under",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Addition"
+        },
+        {
+          "key": "b",
+          "value": "Multiplication"
+        },
+        {
+          "key": "c",
+          "value": "Subtraction"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Multiplication",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sets and Logic: The set $\\{1,-1,i,-i\\}$, form a group under Options: Addition, Multiplication, Subtraction, None. Correct answer: Multiplication",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sets and logic"
+        ],
+        "prerequisites": [
+          "sets and logic"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SETS_AND_LOGIC_Q055",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sets and Logic",
+        "sub_topic": "Sets and Logic",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The set of all positive even integers is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Not a group"
+        },
+        {
+          "key": "b",
+          "value": "A group w.r.t subtraction"
+        },
+        {
+          "key": "c",
+          "value": "A group w.r.t division"
+        },
+        {
+          "key": "d",
+          "value": "A group w.r.t multiplication"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Not a group",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sets and Logic: The set of all positive even integers is Options: Not a group, A group w.r.t subtraction, A group w.r.t division, A group w.r.t multiplication. Correct answer: Not a group",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sets and logic"
+        ],
+        "prerequisites": [
+          "sets and logic"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SETS_AND_LOGIC_Q057",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sets and Logic",
+        "sub_topic": "Sets and Logic",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The set $(\\mathbb{Q},.)$",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Forms a group"
+        },
+        {
+          "key": "b",
+          "value": "Does not form a group"
+        },
+        {
+          "key": "c",
+          "value": "Contains no additive identity"
+        },
+        {
+          "key": "d",
+          "value": "Contains no additive inverse"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Does not form a group",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sets and Logic: The set $(\\mathbb{Q},.)$ Options: Forms a group, Does not form a group, Contains no additive identity, Contains no additive inverse. Correct answer: Does not form a group",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sets and logic"
+        ],
+        "prerequisites": [
+          "sets and logic"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SETS_AND_LOGIC_Q058",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sets and Logic",
+        "sub_topic": "Sets and Logic",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The set $(\\mathbb{Z},+)$",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Forms a group w.r.t addition"
+        },
+        {
+          "key": "b",
+          "value": "Non commutative group w.r.t multiplication"
+        },
+        {
+          "key": "c",
+          "value": "Forms a group w.r.t multiplication"
+        },
+        {
+          "key": "d",
+          "value": "Doesn't form a group"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Forms a group w.r.t addition",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sets and Logic: The set $(\\mathbb{Z},+)$ Options: Forms a group w.r.t addition, Non commutative group w.r.t multiplication, Forms a group w.r.t multiplication, Doesn't form a group. Correct answer: Forms a group w.r.t addition",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sets and logic"
+        ],
+        "prerequisites": [
+          "sets and logic"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SETS_AND_LOGIC_Q059",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sets and Logic",
+        "sub_topic": "Sets and Logic",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Total number of subsets that can be formed out of the set $\\{a, b, c\\}$ is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1"
+        },
+        {
+          "key": "b",
+          "value": "4"
+        },
+        {
+          "key": "c",
+          "value": "8"
+        },
+        {
+          "key": "d",
+          "value": "12"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "8",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sets and Logic: Total number of subsets that can be formed out of the set $\\{a, b, c\\}$ is Options: 1, 4, 8, 12. Correct answer: 8",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sets and logic"
+        ],
+        "prerequisites": [
+          "sets and logic"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SETS_AND_LOGIC_Q062",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sets and Logic",
+        "sub_topic": "Sets and Logic",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The identity element with respect to subtraction is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "0"
+        },
+        {
+          "key": "b",
+          "value": "1"
+        },
+        {
+          "key": "c",
+          "value": "±1"
+        },
+        {
+          "key": "d",
+          "value": "Does not exist"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Does not exist",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sets and Logic: The identity element with respect to subtraction is Options: 0, 1, ±1, Does not exist. Correct answer: Does not exist",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sets and logic"
+        ],
+        "prerequisites": [
+          "sets and logic"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SETS_AND_LOGIC_Q066",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sets and Logic",
+        "sub_topic": "Sets and Logic",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "In a country, 55% of the male population has houses in cities while 30% have houses both in cities and in villages. Find the percentage of the population that has houses only in villages.",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "45"
+        },
+        {
+          "key": "b",
+          "value": "30"
+        },
+        {
+          "key": "c",
+          "value": "25"
+        },
+        {
+          "key": "d",
+          "value": "50"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "45",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sets and Logic: In a country, 55% of the male population has houses in cities while 30% have houses both in cities and in villages. Find the percentage of the population that has houses only in villages. Options: 45, 30, 25, 50. Correct answer: 45",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sets and logic"
+        ],
+        "prerequisites": [
+          "sets and logic"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SETS_AND_LOGIC_Q068",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sets and Logic",
+        "sub_topic": "Sets and Logic",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The set of the first elements of the ordered pairs forming a relation is called its",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Relation in $B$"
+        },
+        {
+          "key": "b",
+          "value": "Range"
+        },
+        {
+          "key": "c",
+          "value": "Domain"
+        },
+        {
+          "key": "d",
+          "value": "Relation in $A$"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Domain",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sets and Logic: The set of the first elements of the ordered pairs forming a relation is called its Options: Relation in $B$, Range, Domain, Relation in $A$. Correct answer: Domain",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sets and logic"
+        ],
+        "prerequisites": [
+          "sets and logic"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SETS_AND_LOGIC_Q069",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sets and Logic",
+        "sub_topic": "Sets and Logic",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "A function in which the second elements of the ordered pairs are distinct is called",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Onto function"
+        },
+        {
+          "key": "b",
+          "value": "One-one function"
+        },
+        {
+          "key": "c",
+          "value": "Identity function"
+        },
+        {
+          "key": "d",
+          "value": "Inverse function"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "One-one function",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sets and Logic: A function in which the second elements of the ordered pairs are distinct is called Options: Onto function, One-one function, Identity function, Inverse function. Correct answer: One-one function",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sets and logic"
+        ],
+        "prerequisites": [
+          "sets and logic"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SETS_AND_LOGIC_Q073",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sets and Logic",
+        "sub_topic": "Sets and Logic",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The set of integer is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Finite group"
+        },
+        {
+          "key": "b",
+          "value": "A group w.r.t addition"
+        },
+        {
+          "key": "c",
+          "value": "A group w.r.t multiplication"
+        },
+        {
+          "key": "d",
+          "value": "Not a group"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "A group w.r.t addition",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sets and Logic: The set of integer is Options: Finite group, A group w.r.t addition, A group w.r.t multiplication, Not a group. Correct answer: A group w.r.t addition",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sets and logic"
+        ],
+        "prerequisites": [
+          "sets and logic"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SETS_AND_LOGIC_Q075",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sets and Logic",
+        "sub_topic": "Sets and Logic",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The set $\\mathbb{R}$ is w.r.t subtraction",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Not a group"
+        },
+        {
+          "key": "b",
+          "value": "A group"
+        },
+        {
+          "key": "c",
+          "value": "No conclusion drawn"
+        },
+        {
+          "key": "d",
+          "value": "Non commutative group"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Not a group",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sets and Logic: The set $\\mathbb{R}$ is w.r.t subtraction Options: Not a group, A group, No conclusion drawn, Non commutative group. Correct answer: Not a group",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sets and logic"
+        ],
+        "prerequisites": [
+          "sets and logic"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SETS_AND_LOGIC_Q076",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sets and Logic",
+        "sub_topic": "Sets and Logic",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Power set of $x$ i.e. $p(x)$ under the binary operation of union $\\cup$",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Forms a group"
+        },
+        {
+          "key": "b",
+          "value": "Does not form a group"
+        },
+        {
+          "key": "c",
+          "value": "Has no identity element"
+        },
+        {
+          "key": "d",
+          "value": "Infinite set although $x$ is infinite"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Does not form a group",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sets and Logic: Power set of $x$ i.e. $p(x)$ under the binary operation of union $\\cup$ Options: Forms a group, Does not form a group, Has no identity element, Infinite set although $x$ is infinite. Correct answer: Does not form a group",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sets and logic"
+        ],
+        "prerequisites": [
+          "sets and logic"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_SETS_AND_LOGIC_Q078",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sets and Logic",
+        "sub_topic": "Sets and Logic",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "If $A=\\{1,2,3,4,5,6\\}$ and given relation $\\{(1,1),(2,2),(3,3),(4,4),(5,5),(6,6)\\}$ is called:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Binary relation"
+        },
+        {
+          "key": "b",
+          "value": "Inverse relation"
+        },
+        {
+          "key": "c",
+          "value": "Range of a relation"
+        },
+        {
+          "key": "d",
+          "value": "Identity relation"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Identity relation",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Sets and Logic: If $A=\\{1,2,3,4,5,6\\}$ and given relation $\\{(1,1),(2,2),(3,3),(4,4),(5,5),(6,6)\\}$ is called: Options: Binary relation, Inverse relation, Range of a relation, Identity relation. Correct answer: Identity relation",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sets and logic"
+        ],
+        "prerequisites": [
+          "sets and logic"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

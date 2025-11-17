@@ -1,0 +1,124 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Matrices and Determinants",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 2,
+    "source_file": "PAST NET SEIRES 200 MCQS(1) solved.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Matrices and Determinants"
+  },
+  "questions": [
+    {
+      "question_id": "NET_MAT_MATRICES_AND_DETERMINANTS_Q008",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Matrices and Determinants",
+        "sub_topic": "Matrices and Determinants",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "For any square matrix if A=Aᵗ then the matrix is called:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Scalar"
+        },
+        {
+          "key": "b",
+          "value": "Skew symmetric"
+        },
+        {
+          "key": "c",
+          "value": "Symmetric"
+        },
+        {
+          "key": "d",
+          "value": "Hermitian"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Symmetric",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Matrices and Determinants: For any square matrix if A=Aᵗ then the matrix is called: Options: Scalar, Skew symmetric, Symmetric, Hermitian. Correct answer: Symmetric",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "matrices and determinants"
+        ],
+        "prerequisites": [
+          "matrices and determinants"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_MATRICES_AND_DETERMINANTS_Q032",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Matrices and Determinants",
+        "sub_topic": "Matrices and Determinants",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Function and it's inverse reflect at?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "X = y"
+        },
+        {
+          "key": "b",
+          "value": "y = X"
+        },
+        {
+          "key": "c",
+          "value": "X axis"
+        },
+        {
+          "key": "d",
+          "value": "y axis"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "y = X",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Matrices and Determinants: Function and it's inverse reflect at? Options: X = y, y = X, X axis, y axis. Correct answer: y = X",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "matrices and determinants"
+        ],
+        "prerequisites": [
+          "matrices and determinants"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

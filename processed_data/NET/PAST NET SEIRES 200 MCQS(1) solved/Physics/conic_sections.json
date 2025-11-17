@@ -1,0 +1,124 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Physics - Conic Sections",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 2,
+    "source_file": "PAST NET SEIRES 200 MCQS(1) solved.txt",
+    "exam_type": "NET",
+    "subject": "Physics",
+    "main_topic": "Conic Sections"
+  },
+  "questions": [
+    {
+      "question_id": "NET_PHY_CONIC_SECTIONS_Q084",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Conic Sections",
+        "sub_topic": "Conic Sections",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "A hyperbola has",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "One focus two directrices"
+        },
+        {
+          "key": "b",
+          "value": "Two foci two directrices"
+        },
+        {
+          "key": "c",
+          "value": "Two focus one directrices"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Two foci two directrices",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Conic Sections: A hyperbola has Options: One focus two directrices, Two foci two directrices, Two focus one directrices, None. Correct answer: Two foci two directrices",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "conic sections"
+        ],
+        "prerequisites": [
+          "conic sections"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_CONIC_SECTIONS_Q092",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Conic Sections",
+        "sub_topic": "Conic Sections",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "In an ellipse, what is the name for the line through the focus and perpendicular to the major axis ending at the ellipse ?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Focal chord"
+        },
+        {
+          "key": "b",
+          "value": "Minor axis"
+        },
+        {
+          "key": "c",
+          "value": "Latus rectum"
+        },
+        {
+          "key": "d",
+          "value": "Vertical asymptote"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Latus rectum",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Conic Sections: In an ellipse, what is the name for the line through the focus and perpendicular to the major axis ending at the ellipse ? Options: Focal chord, Minor axis, Latus rectum, Vertical asymptote. Correct answer: Latus rectum",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "conic sections"
+        ],
+        "prerequisites": [
+          "conic sections"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

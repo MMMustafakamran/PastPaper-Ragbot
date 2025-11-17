@@ -1,0 +1,234 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET English - General Knowledge",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 4,
+    "source_file": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "English",
+    "main_topic": "General Knowledge"
+  },
+  "questions": [
+    {
+      "question_id": "NET_ENG_GENERAL_KNOWLEDGE_Q192",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General Knowledge",
+        "sub_topic": "General Knowledge",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Chief Minister of Punjab?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Javed mehmood"
+        },
+        {
+          "key": "b",
+          "value": "Shahbaz sharif"
+        },
+        {
+          "key": "c",
+          "value": "Captain arif Nadeem"
+        },
+        {
+          "key": "d",
+          "value": "none"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Shahbaz sharif",
+        "explanation": ""
+      },
+      "embedding_text": "English - General Knowledge: Chief Minister of Punjab? Options: Javed mehmood, Shahbaz sharif, Captain arif Nadeem, none. Correct answer: Shahbaz sharif",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general knowledge"
+        ],
+        "prerequisites": [
+          "general knowledge"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_GENERAL_KNOWLEDGE_Q194",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General Knowledge",
+        "sub_topic": "General Knowledge",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The international day of peace sometimes unofficially known as world peace day, is observed annually on:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "21st September"
+        },
+        {
+          "key": "b",
+          "value": "23rd September"
+        },
+        {
+          "key": "c",
+          "value": "12th October"
+        },
+        {
+          "key": "d",
+          "value": "None of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "21st September",
+        "explanation": ""
+      },
+      "embedding_text": "English - General Knowledge: The international day of peace sometimes unofficially known as world peace day, is observed annually on: Options: 21st September, 23rd September, 12th October, None of these. Correct answer: 21st September",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general knowledge"
+        ],
+        "prerequisites": [
+          "general knowledge"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_GENERAL_KNOWLEDGE_Q195",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General Knowledge",
+        "sub_topic": "General Knowledge",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "International day for the elimination of violence against racial discrimination is observed annually on:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "23rd may"
+        },
+        {
+          "key": "b",
+          "value": "21st march"
+        },
+        {
+          "key": "c",
+          "value": "1st march"
+        },
+        {
+          "key": "d",
+          "value": "None of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "21st march",
+        "explanation": ""
+      },
+      "embedding_text": "English - General Knowledge: International day for the elimination of violence against racial discrimination is observed annually on: Options: 23rd may, 21st march, 1st march, None of these. Correct answer: 21st march",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general knowledge"
+        ],
+        "prerequisites": [
+          "general knowledge"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_GENERAL_KNOWLEDGE_Q198",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "General Knowledge",
+        "sub_topic": "General Knowledge",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "In which nuclear plant of Japan did the radioactive water leak of 100 tonnes take place?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Ikata nuclear power plant"
+        },
+        {
+          "key": "b",
+          "value": "Kashiwazaki, Kariwa nuclear power plant"
+        },
+        {
+          "key": "c",
+          "value": "Fukushima nuclear power plant"
+        },
+        {
+          "key": "d",
+          "value": "Hamaoka nuclear power plant"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Fukushima nuclear power plant",
+        "explanation": ""
+      },
+      "embedding_text": "English - General Knowledge: In which nuclear plant of Japan did the radioactive water leak of 100 tonnes take place? Options: Ikata nuclear power plant, Kashiwazaki, Kariwa nuclear power plant, Fukushima nuclear power plant, Hamaoka nuclear power plant. Correct answer: Fukushima nuclear power plant",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "general knowledge"
+        ],
+        "prerequisites": [
+          "general knowledge"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Functions and Limits",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 3,
+    "source_file": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Functions and Limits"
+  },
+  "questions": [
+    {
+      "question_id": "NET_MAT_FUNCTIONS_AND_LIMITS_Q033",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Functions and Limits",
+        "sub_topic": "Functions and Limits",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "To draw general conclusions from a limited number of observation or experiences is called",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Proposition"
+        },
+        {
+          "key": "b",
+          "value": "Deduction"
+        },
+        {
+          "key": "c",
+          "value": "Induction"
+        },
+        {
+          "key": "d",
+          "value": "Knowledge"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Induction",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Functions and Limits: To draw general conclusions from a limited number of observation or experiences is called Options: Proposition, Deduction, Induction, Knowledge. Correct answer: Induction",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "functions and limits"
+        ],
+        "prerequisites": [
+          "functions and limits"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_FUNCTIONS_AND_LIMITS_Q067",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Functions and Limits",
+        "sub_topic": "Functions and Limits",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "If a function $f: A\\rightarrow B$ is such that range $f=B$ then $f$ is a/an?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Into function"
+        },
+        {
+          "key": "b",
+          "value": "Onto function"
+        },
+        {
+          "key": "c",
+          "value": "Bi-jective function"
+        },
+        {
+          "key": "d",
+          "value": "one-one function"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Onto function",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Functions and Limits: If a function $f: A\\rightarrow B$ is such that range $f=B$ then $f$ is a/an? Options: Into function, Onto function, Bi-jective function, one-one function. Correct answer: Onto function",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "functions and limits"
+        ],
+        "prerequisites": [
+          "functions and limits"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_FUNCTIONS_AND_LIMITS_Q070",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Functions and Limits",
+        "sub_topic": "Functions and Limits",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "A function whose range is just one element is called",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "One-one function"
+        },
+        {
+          "key": "b",
+          "value": "Constant function"
+        },
+        {
+          "key": "c",
+          "value": "Onto function"
+        },
+        {
+          "key": "d",
+          "value": "Identity function"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Constant function",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Functions and Limits: A function whose range is just one element is called Options: One-one function, Constant function, Onto function, Identity function. Correct answer: Constant function",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "functions and limits"
+        ],
+        "prerequisites": [
+          "functions and limits"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

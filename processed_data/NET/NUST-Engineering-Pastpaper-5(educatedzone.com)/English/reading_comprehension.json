@@ -1,0 +1,179 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET English - Reading Comprehension",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 3,
+    "source_file": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "English",
+    "main_topic": "Reading Comprehension"
+  },
+  "questions": [
+    {
+      "question_id": "NET_ENG_READING_COMPREHENSION_Q176",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Reading Comprehension",
+        "sub_topic": "Reading Comprehension",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "What is the main thrust of the author?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Traditional systems should be strengthened"
+        },
+        {
+          "key": "b",
+          "value": "Formal education is more important than non-formal"
+        },
+        {
+          "key": "c",
+          "value": "One should never cease to learn"
+        },
+        {
+          "key": "d",
+          "value": "It is impossible to meet the needs of everyone"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "One should never cease to learn",
+        "explanation": ""
+      },
+      "embedding_text": "English - Reading Comprehension: What is the main thrust of the author? Options: Traditional systems should be strengthened, Formal education is more important than non-formal, One should never cease to learn, It is impossible to meet the needs of everyone. Correct answer: One should never cease to learn",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "reading comprehension"
+        ],
+        "prerequisites": [
+          "reading comprehension"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_READING_COMPREHENSION_Q177",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Reading Comprehension",
+        "sub_topic": "Reading Comprehension",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Which of the following describes the purpose of the author?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "To criticize the present educational system"
+        },
+        {
+          "key": "b",
+          "value": "To strengthen the present educational practice"
+        },
+        {
+          "key": "c",
+          "value": "To support non-conventional educational organizations"
+        },
+        {
+          "key": "d",
+          "value": "To present a pragmatic point of view"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "To present a pragmatic point of view",
+        "explanation": ""
+      },
+      "embedding_text": "English - Reading Comprehension: Which of the following describes the purpose of the author? Options: To criticize the present educational system, To strengthen the present educational practice, To support non-conventional educational organizations, To present a pragmatic point of view. Correct answer: To present a pragmatic point of view",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "reading comprehension"
+        ],
+        "prerequisites": [
+          "reading comprehension"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_READING_COMPREHENSION_Q179",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Reading Comprehension",
+        "sub_topic": "Reading Comprehension",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "What should be the measure characteristic of the future educational system?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Different modules with the same function"
+        },
+        {
+          "key": "b",
+          "value": "Same modules for different groups"
+        },
+        {
+          "key": "c",
+          "value": "No modules but standard compulsory program for all"
+        },
+        {
+          "key": "d",
+          "value": "None of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "None of these",
+        "explanation": ""
+      },
+      "embedding_text": "English - Reading Comprehension: What should be the measure characteristic of the future educational system? Options: Different modules with the same function, Same modules for different groups, No modules but standard compulsory program for all, None of these. Correct answer: None of these",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "reading comprehension"
+        ],
+        "prerequisites": [
+          "reading comprehension"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

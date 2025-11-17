@@ -1,0 +1,179 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET English - Grammar and Syntax",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 3,
+    "source_file": "PAST NET SEIRES 200 MCQS(1) solved.txt",
+    "exam_type": "NET",
+    "subject": "English",
+    "main_topic": "Grammar and Syntax"
+  },
+  "questions": [
+    {
+      "question_id": "NET_ENG_GRAMMAR_AND_SYNTAX_Q178",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Grammar and Syntax",
+        "sub_topic": "Grammar and Syntax",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "AUDACIOUS means",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Brunt"
+        },
+        {
+          "key": "b",
+          "value": "Pressure"
+        },
+        {
+          "key": "c",
+          "value": "trouble some"
+        },
+        {
+          "key": "d",
+          "value": "lively spirited"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "lively spirited",
+        "explanation": ""
+      },
+      "embedding_text": "English - Grammar and Syntax: AUDACIOUS means Options: Brunt, Pressure, trouble some, lively spirited. Correct answer: lively spirited",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "grammar and syntax"
+        ],
+        "prerequisites": [
+          "grammar and syntax"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_GRAMMAR_AND_SYNTAX_Q179",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Grammar and Syntax",
+        "sub_topic": "Grammar and Syntax",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "ELLICIT means",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Impulsive"
+        },
+        {
+          "key": "b",
+          "value": "Dashing"
+        },
+        {
+          "key": "c",
+          "value": "Key"
+        },
+        {
+          "key": "d",
+          "value": "draw out/evolve"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "draw out/evolve",
+        "explanation": ""
+      },
+      "embedding_text": "English - Grammar and Syntax: ELLICIT means Options: Impulsive, Dashing, Key, draw out/evolve. Correct answer: draw out/evolve",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "grammar and syntax"
+        ],
+        "prerequisites": [
+          "grammar and syntax"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_GRAMMAR_AND_SYNTAX_Q180",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Grammar and Syntax",
+        "sub_topic": "Grammar and Syntax",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "FLEECE means",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Excess"
+        },
+        {
+          "key": "b",
+          "value": "Leveled"
+        },
+        {
+          "key": "c",
+          "value": "Steal"
+        },
+        {
+          "key": "d",
+          "value": "bought"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Steal",
+        "explanation": ""
+      },
+      "embedding_text": "English - Grammar and Syntax: FLEECE means Options: Excess, Leveled, Steal, bought. Correct answer: Steal",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "grammar and syntax"
+        ],
+        "prerequisites": [
+          "grammar and syntax"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

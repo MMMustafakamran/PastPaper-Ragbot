@@ -1,0 +1,344 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Complex Numbers",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 6,
+    "source_file": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Complex Numbers"
+  },
+  "questions": [
+    {
+      "question_id": "NET_MAT_COMPLEX_NUMBERS_Q008",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Complex Numbers",
+        "sub_topic": "Complex Numbers",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Conjugate of $(-3, 4)$ is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "$(3,4)$"
+        },
+        {
+          "key": "b",
+          "value": "$(3,-4)$"
+        },
+        {
+          "key": "c",
+          "value": "$(-3,-4)$"
+        },
+        {
+          "key": "d",
+          "value": "$(-3, 4)$"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "$(-3,-4)$",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Complex Numbers: Conjugate of $(-3, 4)$ is Options: $(3,4)$, $(3,-4)$, $(-3,-4)$, $(-3, 4)$. Correct answer: $(-3,-4)$",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "complex numbers"
+        ],
+        "prerequisites": [
+          "complex numbers"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_COMPLEX_NUMBERS_Q012",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Complex Numbers",
+        "sub_topic": "Complex Numbers",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Geometrically, the modulus of a complex number represents its distance from the",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Point (1,0)"
+        },
+        {
+          "key": "b",
+          "value": "Point (0, 1)"
+        },
+        {
+          "key": "c",
+          "value": "Point (1, 1)"
+        },
+        {
+          "key": "d",
+          "value": "Point (0,0)"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Point (0,0)",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Complex Numbers: Geometrically, the modulus of a complex number represents its distance from the Options: Point (1,0), Point (0, 1), Point (1, 1), Point (0,0). Correct answer: Point (0,0)",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "complex numbers"
+        ],
+        "prerequisites": [
+          "complex numbers"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_COMPLEX_NUMBERS_Q015",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Complex Numbers",
+        "sub_topic": "Complex Numbers",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "$(a+bi)-(c+di)=$",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "$(a+b)=(c+d)$"
+        },
+        {
+          "key": "b",
+          "value": "$(a+c)+i(b+d)$"
+        },
+        {
+          "key": "c",
+          "value": "$(a-c)+i(c-d)$"
+        },
+        {
+          "key": "d",
+          "value": "$(a-c)+i(b-d)$"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "$(a-c)+i(b-d)$",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Complex Numbers: $(a+bi)-(c+di)=$ Options: $(a+b)=(c+d)$, $(a+c)+i(b+d)$, $(a-c)+i(c-d)$, $(a-c)+i(b-d)$. Correct answer: $(a-c)+i(b-d)$",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "complex numbers"
+        ],
+        "prerequisites": [
+          "complex numbers"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_COMPLEX_NUMBERS_Q020",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Complex Numbers",
+        "sub_topic": "Complex Numbers",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Which element is the additive inverse of $(a, b)$ in complex numbers?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "$(a,0)$"
+        },
+        {
+          "key": "b",
+          "value": "$(0,b)$"
+        },
+        {
+          "key": "c",
+          "value": "$(a, b)$"
+        },
+        {
+          "key": "d",
+          "value": "$(-a,-b)$"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "$(-a,-b)$",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Complex Numbers: Which element is the additive inverse of $(a, b)$ in complex numbers? Options: $(a,0)$, $(0,b)$, $(a, b)$, $(-a,-b)$. Correct answer: $(-a,-b)$",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "complex numbers"
+        ],
+        "prerequisites": [
+          "complex numbers"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_COMPLEX_NUMBERS_Q022",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Complex Numbers",
+        "sub_topic": "Complex Numbers",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Which of the following has the same value as $i^{113}$?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "$i$"
+        },
+        {
+          "key": "b",
+          "value": "$-1$"
+        },
+        {
+          "key": "c",
+          "value": "$-i$"
+        },
+        {
+          "key": "d",
+          "value": "$1$"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "$i$",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Complex Numbers: Which of the following has the same value as $i^{113}$? Options: $i$, $-1$, $-i$, $1$. Correct answer: $i$",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "complex numbers"
+        ],
+        "prerequisites": [
+          "complex numbers"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_COMPLEX_NUMBERS_Q074",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Complex Numbers",
+        "sub_topic": "Complex Numbers",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The set of complex number forms",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Commutative group w.r.t addition"
+        },
+        {
+          "key": "b",
+          "value": "Commutative group w.r.t multiplication"
+        },
+        {
+          "key": "c",
+          "value": "Commutative group w.r.t division"
+        },
+        {
+          "key": "d",
+          "value": "Non commutative group w.r.t addition"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Commutative group w.r.t addition",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Complex Numbers: The set of complex number forms Options: Commutative group w.r.t addition, Commutative group w.r.t multiplication, Commutative group w.r.t division, Non commutative group w.r.t addition. Correct answer: Commutative group w.r.t addition",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "complex numbers"
+        ],
+        "prerequisites": [
+          "complex numbers"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

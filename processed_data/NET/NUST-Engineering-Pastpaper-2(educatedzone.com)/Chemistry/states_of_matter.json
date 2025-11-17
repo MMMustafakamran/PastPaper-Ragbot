@@ -1,0 +1,124 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Chemistry - States of Matter",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 2,
+    "source_file": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Chemistry",
+    "main_topic": "States of Matter"
+  },
+  "questions": [
+    {
+      "question_id": "NET_CHE_STATES_OF_MATTER_Q168",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "States of Matter",
+        "sub_topic": "States of Matter",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "An ideal gas obeying kinetic gas equation can be liquefied if",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Its temperature is more than critical temperature"
+        },
+        {
+          "key": "b",
+          "value": "Its pressure is more than critical pressure"
+        },
+        {
+          "key": "c",
+          "value": "Its pressure is more than critical pressure but temperature is less than critical temperature"
+        },
+        {
+          "key": "d",
+          "value": "It cannot be liquefied at any value of P and T."
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "It cannot be liquefied at any value of P and T.",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - States of Matter: An ideal gas obeying kinetic gas equation can be liquefied if Options: Its temperature is more than critical temperature, Its pressure is more than critical pressure, Its pressure is more than critical pressure but temperature is less than critical temperature, It cannot be liquefied at any value of P and T.. Correct answer: It cannot be liquefied at any value of P and T.",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "states of matter"
+        ],
+        "prerequisites": [
+          "states of matter"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_STATES_OF_MATTER_Q169",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "States of Matter",
+        "sub_topic": "States of Matter",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Kinetic energy of one mole of an ideal gas at 300K in kJ is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "34.8"
+        },
+        {
+          "key": "b",
+          "value": "3.48"
+        },
+        {
+          "key": "c",
+          "value": "3.74"
+        },
+        {
+          "key": "d",
+          "value": "348"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "3.74",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - States of Matter: Kinetic energy of one mole of an ideal gas at 300K in kJ is Options: 34.8, 3.48, 3.74, 348. Correct answer: 3.74",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "states of matter"
+        ],
+        "prerequisites": [
+          "states of matter"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

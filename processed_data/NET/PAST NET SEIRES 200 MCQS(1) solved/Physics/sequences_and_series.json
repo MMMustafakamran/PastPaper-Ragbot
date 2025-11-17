@@ -1,0 +1,69 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Physics - Sequences and Series",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 1,
+    "source_file": "PAST NET SEIRES 200 MCQS(1) solved.txt",
+    "exam_type": "NET",
+    "subject": "Physics",
+    "main_topic": "Sequences and Series"
+  },
+  "questions": [
+    {
+      "question_id": "NET_PHY_SEQUENCES_AND_SERIES_Q109",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Sequences and Series",
+        "sub_topic": "Sequences and Series",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "If 60 capacitors each of Capacitance C are connected in series and then in parallel what is the ratio of Cs/Cp=?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "3600"
+        },
+        {
+          "key": "b",
+          "value": "1/3600"
+        },
+        {
+          "key": "c",
+          "value": "250"
+        },
+        {
+          "key": "d",
+          "value": "1/60"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "1/3600",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Sequences and Series: If 60 capacitors each of Capacitance C are connected in series and then in parallel what is the ratio of Cs/Cp=? Options: 3600, 1/3600, 250, 1/60. Correct answer: 1/3600",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "sequences and series"
+        ],
+        "prerequisites": [
+          "sequences and series"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

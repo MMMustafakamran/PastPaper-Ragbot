@@ -1,0 +1,619 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Analytical Geometry",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 11,
+    "source_file": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Analytical Geometry"
+  },
+  "questions": [
+    {
+      "question_id": "NET_MAT_ANALYTICAL_GEOMETRY_Q002",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Analytical Geometry",
+        "sub_topic": "Analytical Geometry",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "If the straight lines x=1+s, y=-3-λs, z=1+λs, and x = t/2, y = 1+t, z = 2-t with parameters s and t respectively, are co-planar then λ equal to:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "-2"
+        },
+        {
+          "key": "b",
+          "value": "-1"
+        },
+        {
+          "key": "c",
+          "value": "-1/2"
+        },
+        {
+          "key": "d",
+          "value": "0"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "-2",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Analytical Geometry: If the straight lines x=1+s, y=-3-λs, z=1+λs, and x = t/2, y = 1+t, z = 2-t with parameters s and t respectively, are co-planar then λ equal to: Options: -2, -1, -1/2, 0. Correct answer: -2",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "analytical geometry"
+        ],
+        "prerequisites": [
+          "analytical geometry"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_ANALYTICAL_GEOMETRY_Q003",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Analytical Geometry",
+        "sub_topic": "Analytical Geometry",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The intersection of the spheres x²+y²+z²+7x-2y-z=13 and x²+y²+z²-3x+3y+4z=8 is same as the intersection of one of the sphere and the plane:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "x-y-z=1"
+        },
+        {
+          "key": "b",
+          "value": "x-2y-z=1"
+        },
+        {
+          "key": "c",
+          "value": "x-y-2z=1"
+        },
+        {
+          "key": "d",
+          "value": "2x-y-z=1"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "x-y-z=1",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Analytical Geometry: The intersection of the spheres x²+y²+z²+7x-2y-z=13 and x²+y²+z²-3x+3y+4z=8 is same as the intersection of one of the sphere and the plane: Options: x-y-z=1, x-2y-z=1, x-y-2z=1, 2x-y-z=1. Correct answer: x-y-z=1",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "analytical geometry"
+        ],
+        "prerequisites": [
+          "analytical geometry"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_ANALYTICAL_GEOMETRY_Q020",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Analytical Geometry",
+        "sub_topic": "Analytical Geometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The differential equation of the family of the curves x²+y²-2ax=0 is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "x²-y²-2xyy''=0"
+        },
+        {
+          "key": "b",
+          "value": "y²-x²=2xyy'"
+        },
+        {
+          "key": "c",
+          "value": "x²+y²+2y''=0"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "x²-y²-2xyy''=0",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Analytical Geometry: The differential equation of the family of the curves x²+y²-2ax=0 is: Options: x²-y²-2xyy''=0, y²-x²=2xyy', x²+y²+2y''=0, None. Correct answer: x²-y²-2xyy''=0",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "analytical geometry"
+        ],
+        "prerequisites": [
+          "analytical geometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_ANALYTICAL_GEOMETRY_Q023",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Analytical Geometry",
+        "sub_topic": "Analytical Geometry",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The equation of the plane passing through the midpoint of the line joining the points (1,2,3) and (3,4,5) and perpendicular to it is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "x+y+z=9"
+        },
+        {
+          "key": "b",
+          "value": "x+y+z=-9"
+        },
+        {
+          "key": "c",
+          "value": "2x+3y+4z=9"
+        },
+        {
+          "key": "d",
+          "value": "2x+3y+4z=-9"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "x+y+z=9",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Analytical Geometry: The equation of the plane passing through the midpoint of the line joining the points (1,2,3) and (3,4,5) and perpendicular to it is: Options: x+y+z=9, x+y+z=-9, 2x+3y+4z=9, 2x+3y+4z=-9. Correct answer: x+y+z=9",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "analytical geometry"
+        ],
+        "prerequisites": [
+          "analytical geometry"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_ANALYTICAL_GEOMETRY_Q024",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Analytical Geometry",
+        "sub_topic": "Analytical Geometry",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The equation of the circle concentric to the circle 2x²+2y²-3x+6y+2=0 and having area double the area of this circle is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "8x²+8y²-24x+48y-13=0"
+        },
+        {
+          "key": "b",
+          "value": "16x²+16y²+24x-48y-13=0"
+        },
+        {
+          "key": "c",
+          "value": "16x²+16y²-24x+48y-13=0"
+        },
+        {
+          "key": "d",
+          "value": "8x²+8y²+24x-48y-13=0"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "16x²+16y²-24x+48y-13=0",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Analytical Geometry: The equation of the circle concentric to the circle 2x²+2y²-3x+6y+2=0 and having area double the area of this circle is: Options: 8x²+8y²-24x+48y-13=0, 16x²+16y²+24x-48y-13=0, 16x²+16y²-24x+48y-13=0, 8x²+8y²+24x-48y-13=0. Correct answer: 16x²+16y²-24x+48y-13=0",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "analytical geometry"
+        ],
+        "prerequisites": [
+          "analytical geometry"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_ANALYTICAL_GEOMETRY_Q050",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Analytical Geometry",
+        "sub_topic": "Analytical Geometry",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "If Im((z+i)/(z-i)) = 3 then radius of circle is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "2√21"
+        },
+        {
+          "key": "b",
+          "value": "1/√21"
+        },
+        {
+          "key": "c",
+          "value": "√21/2"
+        },
+        {
+          "key": "d",
+          "value": "√21"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "√21",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Analytical Geometry: If Im((z+i)/(z-i)) = 3 then radius of circle is: Options: 2√21, 1/√21, √21/2, √21. Correct answer: √21",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "analytical geometry"
+        ],
+        "prerequisites": [
+          "analytical geometry"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_ANALYTICAL_GEOMETRY_Q055",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Analytical Geometry",
+        "sub_topic": "Analytical Geometry",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "A body falls freely from a point A and passes through the point B and C given that AB = 2BC. The ratio of the time taken by the body to cover the distances AB and BC is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "(2+√6)/1"
+        },
+        {
+          "key": "b",
+          "value": "(2-√6)/1"
+        },
+        {
+          "key": "c",
+          "value": "1-√6)/2"
+        },
+        {
+          "key": "d",
+          "value": "1+√6)/2"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "(2+√6)/1",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Analytical Geometry: A body falls freely from a point A and passes through the point B and C given that AB = 2BC. The ratio of the time taken by the body to cover the distances AB and BC is: Options: (2+√6)/1, (2-√6)/1, 1-√6)/2, 1+√6)/2. Correct answer: (2+√6)/1",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "analytical geometry"
+        ],
+        "prerequisites": [
+          "analytical geometry"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_ANALYTICAL_GEOMETRY_Q062",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Analytical Geometry",
+        "sub_topic": "Analytical Geometry",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Let x²+y²-2x-6y+6=0 and x²+y²-6x-4y+12=0 are two circles, then equation of the circle having diameter as their common chord is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "5x²+5y²+26x-22y+54=0"
+        },
+        {
+          "key": "b",
+          "value": "5x²+5y²+26x+22y+54=0"
+        },
+        {
+          "key": "c",
+          "value": "5x²+5y²-26x-22y+54=0"
+        },
+        {
+          "key": "d",
+          "value": "5x²+5y²-26x-22y-54=0"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "5x²+5y²-26x-22y+54=0",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Analytical Geometry: Let x²+y²-2x-6y+6=0 and x²+y²-6x-4y+12=0 are two circles, then equation of the circle having diameter as their common chord is: Options: 5x²+5y²+26x-22y+54=0, 5x²+5y²+26x+22y+54=0, 5x²+5y²-26x-22y+54=0, 5x²+5y²-26x-22y-54=0. Correct answer: 5x²+5y²-26x-22y+54=0",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "analytical geometry"
+        ],
+        "prerequisites": [
+          "analytical geometry"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_ANALYTICAL_GEOMETRY_Q067",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Analytical Geometry",
+        "sub_topic": "Analytical Geometry",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "A line passes through the point of intersection of the lines 3x+y+1=0 and 2x-y+3=0 and makes equal intercepts with axes. Then equation of the line is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "5x+5y-3=0"
+        },
+        {
+          "key": "b",
+          "value": "x+5y-3=0"
+        },
+        {
+          "key": "c",
+          "value": "5x-y-3=0"
+        },
+        {
+          "key": "d",
+          "value": "5x+5y+3=0"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "5x+5y-3=0",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Analytical Geometry: A line passes through the point of intersection of the lines 3x+y+1=0 and 2x-y+3=0 and makes equal intercepts with axes. Then equation of the line is: Options: 5x+5y-3=0, x+5y-3=0, 5x-y-3=0, 5x+5y+3=0. Correct answer: 5x+5y-3=0",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "analytical geometry"
+        ],
+        "prerequisites": [
+          "analytical geometry"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_ANALYTICAL_GEOMETRY_Q072",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Analytical Geometry",
+        "sub_topic": "Analytical Geometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "A plane x+y+z=-α√3 touches the sphere 2x²+2y²+2z²-2x+4y-4z+3=0:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "±1/√3"
+        },
+        {
+          "key": "b",
+          "value": "1/2√3"
+        },
+        {
+          "key": "c",
+          "value": "1-1/√3"
+        },
+        {
+          "key": "d",
+          "value": "1+1/√3"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "±1/√3",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Analytical Geometry: A plane x+y+z=-α√3 touches the sphere 2x²+2y²+2z²-2x+4y-4z+3=0: Options: ±1/√3, 1/2√3, 1-1/√3, 1+1/√3. Correct answer: ±1/√3",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "analytical geometry"
+        ],
+        "prerequisites": [
+          "analytical geometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_ANALYTICAL_GEOMETRY_Q078",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Analytical Geometry",
+        "sub_topic": "Analytical Geometry",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "If the length of the subtangent at any point to the curve xyⁿ=a is proportional to the abscissa, then 'n' is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Any non-zero real number"
+        },
+        {
+          "key": "b",
+          "value": "2"
+        },
+        {
+          "key": "c",
+          "value": "-2"
+        },
+        {
+          "key": "d",
+          "value": "1"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Any non-zero real number",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Analytical Geometry: If the length of the subtangent at any point to the curve xyⁿ=a is proportional to the abscissa, then 'n' is: Options: Any non-zero real number, 2, -2, 1. Correct answer: Any non-zero real number",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "analytical geometry"
+        ],
+        "prerequisites": [
+          "analytical geometry"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Physics - Differentiation",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 3,
+    "source_file": "PAST NET SEIRES 200 MCQS(1) solved.txt",
+    "exam_type": "NET",
+    "subject": "Physics",
+    "main_topic": "Differentiation"
+  },
+  "questions": [
+    {
+      "question_id": "NET_PHY_DIFFERENTIATION_Q082",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Differentiation",
+        "sub_topic": "Differentiation",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The derivative of f(x) w.r.t x is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Rate change of f(x) w.r.t x"
+        },
+        {
+          "key": "b",
+          "value": "Relevance rate of increase in f(x) w.r.t x"
+        },
+        {
+          "key": "c",
+          "value": "Relevance rate decrease on f(x) w.r.t x"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Rate change of f(x) w.r.t x",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Differentiation: The derivative of f(x) w.r.t x is Options: Rate change of f(x) w.r.t x, Relevance rate of increase in f(x) w.r.t x, Relevance rate decrease on f(x) w.r.t x, None. Correct answer: Rate change of f(x) w.r.t x",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "differentiation"
+        ],
+        "prerequisites": [
+          "differentiation"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_DIFFERENTIATION_Q086",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Differentiation",
+        "sub_topic": "Differentiation",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Differentiate ln(e) with respect to 'x'",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1/e"
+        },
+        {
+          "key": "b",
+          "value": "0"
+        },
+        {
+          "key": "c",
+          "value": "1/x"
+        },
+        {
+          "key": "d",
+          "value": "e"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "0",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Differentiation: Differentiate ln(e) with respect to 'x' Options: 1/e, 0, 1/x, e. Correct answer: 0",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "differentiation"
+        ],
+        "prerequisites": [
+          "differentiation"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_DIFFERENTIATION_Q088",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Differentiation",
+        "sub_topic": "Differentiation",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The derivative of f(x) with respect to 'x' is defined as:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "The rate of change in f(x) with respect to 'x'"
+        },
+        {
+          "key": "b",
+          "value": "The increase in the relevance rate of f(x) with respect to 'x'"
+        },
+        {
+          "key": "c",
+          "value": "The decrease in the relevance rate of f(x) with respect to 'x'"
+        },
+        {
+          "key": "d",
+          "value": "None of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "The rate of change in f(x) with respect to 'x'",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Differentiation: The derivative of f(x) with respect to 'x' is defined as: Options: The rate of change in f(x) with respect to 'x', The increase in the relevance rate of f(x) with respect to 'x', The decrease in the relevance rate of f(x) with respect to 'x', None of these. Correct answer: The rate of change in f(x) with respect to 'x'",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "differentiation"
+        ],
+        "prerequisites": [
+          "differentiation"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

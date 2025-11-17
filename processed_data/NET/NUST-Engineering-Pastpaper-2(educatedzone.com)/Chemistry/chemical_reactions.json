@@ -1,0 +1,289 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Chemistry - Chemical Reactions",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 5,
+    "source_file": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Chemistry",
+    "main_topic": "Chemical Reactions"
+  },
+  "questions": [
+    {
+      "question_id": "NET_CHE_CHEMICAL_REACTIONS_Q144",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Chemical Reactions",
+        "sub_topic": "Chemical Reactions",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Equilibrium constant has units if",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "No. of moles of reactants and products are same"
+        },
+        {
+          "key": "b",
+          "value": "Unequal no of moles"
+        },
+        {
+          "key": "c",
+          "value": "Both"
+        },
+        {
+          "key": "d",
+          "value": "None of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Unequal no of moles",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Chemical Reactions: Equilibrium constant has units if Options: No. of moles of reactants and products are same, Unequal no of moles, Both, None of these. Correct answer: Unequal no of moles",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "chemical reactions"
+        ],
+        "prerequisites": [
+          "chemical reactions"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_CHEMICAL_REACTIONS_Q152",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Chemical Reactions",
+        "sub_topic": "Chemical Reactions",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "When forward reaction and reverse reaction occur at the same time it is called",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Forward equilibrium"
+        },
+        {
+          "key": "b",
+          "value": "Reverse equilibrium"
+        },
+        {
+          "key": "c",
+          "value": "Chemical equilibrium"
+        },
+        {
+          "key": "d",
+          "value": "None of above"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Chemical equilibrium",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Chemical Reactions: When forward reaction and reverse reaction occur at the same time it is called Options: Forward equilibrium, Reverse equilibrium, Chemical equilibrium, None of above. Correct answer: Chemical equilibrium",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "chemical reactions"
+        ],
+        "prerequisites": [
+          "chemical reactions"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_CHEMICAL_REACTIONS_Q163",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Chemical Reactions",
+        "sub_topic": "Chemical Reactions",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Law of mass action determines",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Only products"
+        },
+        {
+          "key": "b",
+          "value": "Composition of reacting substances and products"
+        },
+        {
+          "key": "c",
+          "value": "Only reacting substances"
+        },
+        {
+          "key": "d",
+          "value": "None of above"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Composition of reacting substances and products",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Chemical Reactions: Law of mass action determines Options: Only products, Composition of reacting substances and products, Only reacting substances, None of above. Correct answer: Composition of reacting substances and products",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "chemical reactions"
+        ],
+        "prerequisites": [
+          "chemical reactions"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_CHEMICAL_REACTIONS_Q167",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Chemical Reactions",
+        "sub_topic": "Chemical Reactions",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "How can we yield maximum ammonia from Haber's process?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "High pressure, low temperature, continual removal of ammonia"
+        },
+        {
+          "key": "b",
+          "value": "Low pressure, high temperature, increase the ammonia content"
+        },
+        {
+          "key": "c",
+          "value": "High temperature and high pressure"
+        },
+        {
+          "key": "d",
+          "value": "All of above"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "High pressure, low temperature, continual removal of ammonia",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Chemical Reactions: How can we yield maximum ammonia from Haber's process? Options: High pressure, low temperature, continual removal of ammonia, Low pressure, high temperature, increase the ammonia content, High temperature and high pressure, All of above. Correct answer: High pressure, low temperature, continual removal of ammonia",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "chemical reactions"
+        ],
+        "prerequisites": [
+          "chemical reactions"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_CHE_CHEMICAL_REACTIONS_Q170",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Chemical Reactions",
+        "sub_topic": "Chemical Reactions",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Le Chatelier's principle discusses the effects of following on equilibrium",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Concentration, work, heat"
+        },
+        {
+          "key": "b",
+          "value": "Volume, heat, pressure"
+        },
+        {
+          "key": "c",
+          "value": "Concentration, pressure, temperature"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Concentration, pressure, temperature",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Chemical Reactions: Le Chatelier's principle discusses the effects of following on equilibrium Options: Concentration, work, heat, Volume, heat, pressure, Concentration, pressure, temperature, None. Correct answer: Concentration, pressure, temperature",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "chemical reactions"
+        ],
+        "prerequisites": [
+          "chemical reactions"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

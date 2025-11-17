@@ -1,0 +1,344 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Differentiation",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 6,
+    "source_file": "PAST NET SEIRES 200 MCQS(1) solved.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Differentiation"
+  },
+  "questions": [
+    {
+      "question_id": "NET_MAT_DIFFERENTIATION_Q052",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Differentiation",
+        "sub_topic": "Differentiation",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "d/dx sin2x",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "–cos2x"
+        },
+        {
+          "key": "b",
+          "value": "cos2x"
+        },
+        {
+          "key": "c",
+          "value": "2Sin2x"
+        },
+        {
+          "key": "d",
+          "value": "2cos2x"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "2cos2x",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Differentiation: d/dx sin2x Options: –cos2x, cos2x, 2Sin2x, 2cos2x. Correct answer: 2cos2x",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "differentiation"
+        ],
+        "prerequisites": [
+          "differentiation"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_DIFFERENTIATION_Q054",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Differentiation",
+        "sub_topic": "Differentiation",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "What kind of discontinuity is removable in graph of non-linear functions involving second order derivative ?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Jump"
+        },
+        {
+          "key": "b",
+          "value": "Asymptotic"
+        },
+        {
+          "key": "c",
+          "value": "Point"
+        },
+        {
+          "key": "d",
+          "value": "Multipoint"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Point",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Differentiation: What kind of discontinuity is removable in graph of non-linear functions involving second order derivative ? Options: Jump, Asymptotic, Point, Multipoint. Correct answer: Point",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "differentiation"
+        ],
+        "prerequisites": [
+          "differentiation"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_DIFFERENTIATION_Q061",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Differentiation",
+        "sub_topic": "Differentiation",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The derivative of f(x) w.r.t x is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Rate change of f(x) w.r.t x"
+        },
+        {
+          "key": "b",
+          "value": "Relevance rate of increase in f(x) w.r.t x"
+        },
+        {
+          "key": "c",
+          "value": "Relevance rate decrease on f(x) w.r.t x"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Rate change of f(x) w.r.t x",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Differentiation: The derivative of f(x) w.r.t x is Options: Rate change of f(x) w.r.t x, Relevance rate of increase in f(x) w.r.t x, Relevance rate decrease on f(x) w.r.t x, None. Correct answer: Rate change of f(x) w.r.t x",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "differentiation"
+        ],
+        "prerequisites": [
+          "differentiation"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_DIFFERENTIATION_Q065",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Differentiation",
+        "sub_topic": "Differentiation",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Differentiate ln(e) with respect to 'x'",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1/e"
+        },
+        {
+          "key": "b",
+          "value": "0"
+        },
+        {
+          "key": "c",
+          "value": "1/x"
+        },
+        {
+          "key": "d",
+          "value": "e"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "0",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Differentiation: Differentiate ln(e) with respect to 'x' Options: 1/e, 0, 1/x, e. Correct answer: 0",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "differentiation"
+        ],
+        "prerequisites": [
+          "differentiation"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_DIFFERENTIATION_Q073",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Differentiation",
+        "sub_topic": "Differentiation",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "d/dx sin2x",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "–cos2x"
+        },
+        {
+          "key": "b",
+          "value": "cos2x"
+        },
+        {
+          "key": "c",
+          "value": "2Sin2x"
+        },
+        {
+          "key": "d",
+          "value": "2cos2x"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "2cos2x",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Differentiation: d/dx sin2x Options: –cos2x, cos2x, 2Sin2x, 2cos2x. Correct answer: 2cos2x",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "differentiation"
+        ],
+        "prerequisites": [
+          "differentiation"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_DIFFERENTIATION_Q075",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Differentiation",
+        "sub_topic": "Differentiation",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "What kind of discontinuity is removable in graph of non-linear functions involving second order derivative ?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Jump"
+        },
+        {
+          "key": "b",
+          "value": "Asymptotic"
+        },
+        {
+          "key": "c",
+          "value": "Point"
+        },
+        {
+          "key": "d",
+          "value": "Multipoint"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Point",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Differentiation: What kind of discontinuity is removable in graph of non-linear functions involving second order derivative ? Options: Jump, Asymptotic, Point, Multipoint. Correct answer: Point",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "differentiation"
+        ],
+        "prerequisites": [
+          "differentiation"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

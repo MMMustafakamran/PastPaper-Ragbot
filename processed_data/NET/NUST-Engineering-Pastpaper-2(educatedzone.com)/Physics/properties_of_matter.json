@@ -1,0 +1,289 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Physics - Properties of Matter",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 5,
+    "source_file": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Physics",
+    "main_topic": "Properties of Matter"
+  },
+  "questions": [
+    {
+      "question_id": "NET_PHY_PROPERTIES_OF_MATTER_Q082",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Properties of Matter",
+        "sub_topic": "Properties of Matter",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "If 7.635 and 4.81 are two significant numbers, their multiplication in significant digits is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "36.72435"
+        },
+        {
+          "key": "b",
+          "value": "36.724"
+        },
+        {
+          "key": "c",
+          "value": "36.72"
+        },
+        {
+          "key": "d",
+          "value": "36.7"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "36.7",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Properties of Matter: If 7.635 and 4.81 are two significant numbers, their multiplication in significant digits is Options: 36.72435, 36.724, 36.72, 36.7. Correct answer: 36.7",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "properties of matter"
+        ],
+        "prerequisites": [
+          "properties of matter"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_PROPERTIES_OF_MATTER_Q089",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Properties of Matter",
+        "sub_topic": "Properties of Matter",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Crystalline solids have the properties such as",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Regular arrangement"
+        },
+        {
+          "key": "b",
+          "value": "Covalent arrangement"
+        },
+        {
+          "key": "c",
+          "value": "Somewhat defective"
+        },
+        {
+          "key": "d",
+          "value": "All of them"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Regular arrangement",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Properties of Matter: Crystalline solids have the properties such as Options: Regular arrangement, Covalent arrangement, Somewhat defective, All of them. Correct answer: Regular arrangement",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "properties of matter"
+        ],
+        "prerequisites": [
+          "properties of matter"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_PROPERTIES_OF_MATTER_Q099",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Properties of Matter",
+        "sub_topic": "Properties of Matter",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "$[MLT^{-1}]$ are the dimensions of",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Angular momentum"
+        },
+        {
+          "key": "b",
+          "value": "Power"
+        },
+        {
+          "key": "c",
+          "value": "Impulse"
+        },
+        {
+          "key": "d",
+          "value": "Viscosity"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Impulse",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Properties of Matter: $[MLT^{-1}]$ are the dimensions of Options: Angular momentum, Power, Impulse, Viscosity. Correct answer: Impulse",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "properties of matter"
+        ],
+        "prerequisites": [
+          "properties of matter"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_PROPERTIES_OF_MATTER_Q126",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Properties of Matter",
+        "sub_topic": "Properties of Matter",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The substance which undergoes plastic deformation until it breaks is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Ductile substance"
+        },
+        {
+          "key": "b",
+          "value": "Brittle substance"
+        },
+        {
+          "key": "c",
+          "value": "Plastic substance"
+        },
+        {
+          "key": "d",
+          "value": "All of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Ductile substance",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Properties of Matter: The substance which undergoes plastic deformation until it breaks is: Options: Ductile substance, Brittle substance, Plastic substance, All of these. Correct answer: Ductile substance",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "properties of matter"
+        ],
+        "prerequisites": [
+          "properties of matter"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_PROPERTIES_OF_MATTER_Q127",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Properties of Matter",
+        "sub_topic": "Properties of Matter",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Choose the region of the spectrum which would be used to determine the structure of crystalline solids",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Visible"
+        },
+        {
+          "key": "b",
+          "value": "Infrared"
+        },
+        {
+          "key": "c",
+          "value": "X rays"
+        },
+        {
+          "key": "d",
+          "value": "Ultraviolet"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "X rays",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Properties of Matter: Choose the region of the spectrum which would be used to determine the structure of crystalline solids Options: Visible, Infrared, X rays, Ultraviolet. Correct answer: X rays",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "properties of matter"
+        ],
+        "prerequisites": [
+          "properties of matter"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

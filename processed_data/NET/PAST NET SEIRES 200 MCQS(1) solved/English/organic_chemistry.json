@@ -1,0 +1,124 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET English - Organic Chemistry",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 2,
+    "source_file": "PAST NET SEIRES 200 MCQS(1) solved.txt",
+    "exam_type": "NET",
+    "subject": "English",
+    "main_topic": "Organic Chemistry"
+  },
+  "questions": [
+    {
+      "question_id": "NET_ENG_ORGANIC_CHEMISTRY_Q174",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Organic Chemistry",
+        "sub_topic": "Organic Chemistry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "there is double bond in oleic acid between carbon number ?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "7-8"
+        },
+        {
+          "key": "b",
+          "value": "8-9"
+        },
+        {
+          "key": "c",
+          "value": "10-11"
+        },
+        {
+          "key": "d",
+          "value": "9-10"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "9-10",
+        "explanation": ""
+      },
+      "embedding_text": "English - Organic Chemistry: there is double bond in oleic acid between carbon number ? Options: 7-8, 8-9, 10-11, 9-10. Correct answer: 9-10",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "organic chemistry"
+        ],
+        "prerequisites": [
+          "organic chemistry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_ORGANIC_CHEMISTRY_Q175",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Organic Chemistry",
+        "sub_topic": "Organic Chemistry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "In combustion analysis method CO₂ is absorbed by ?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Mg(OH)₂"
+        },
+        {
+          "key": "b",
+          "value": "KOH"
+        },
+        {
+          "key": "c",
+          "value": "Mg(ClO₄)₂"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "KOH",
+        "explanation": ""
+      },
+      "embedding_text": "English - Organic Chemistry: In combustion analysis method CO₂ is absorbed by ? Options: Mg(OH)₂, KOH, Mg(ClO₄)₂, None. Correct answer: KOH",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "organic chemistry"
+        ],
+        "prerequisites": [
+          "organic chemistry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

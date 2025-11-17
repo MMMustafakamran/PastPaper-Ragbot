@@ -1,0 +1,729 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Analytical Geometry",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 13,
+    "source_file": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Analytical Geometry"
+  },
+  "questions": [
+    {
+      "question_id": "NET_MAT_ANALYTICAL_GEOMETRY_Q004",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Analytical Geometry",
+        "sub_topic": "Analytical Geometry",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "Let P (2,-3), Q (-2,1) be the vertices of the triangle PQR. If the centroid of ΔPQR lies on the line 2x + 3y = 1, then the locus of R is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "2x + 3y = 9"
+        },
+        {
+          "key": "b",
+          "value": "2x - 3y = 9"
+        },
+        {
+          "key": "c",
+          "value": "3x + 2y = 5"
+        },
+        {
+          "key": "d",
+          "value": "3x - 2y = 5"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "2x + 3y = 9",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Analytical Geometry: Let P (2,-3), Q (-2,1) be the vertices of the triangle PQR. If the centroid of ΔPQR lies on the line 2x + 3y = 1, then the locus of R is Options: 2x + 3y = 9, 2x - 3y = 9, 3x + 2y = 5, 3x - 2y = 5. Correct answer: 2x + 3y = 9",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "analytical geometry"
+        ],
+        "prerequisites": [
+          "analytical geometry"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_ANALYTICAL_GEOMETRY_Q009",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Analytical Geometry",
+        "sub_topic": "Analytical Geometry",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Let P be the midpoint of a chord joining the vertex of the parabola y² = 8x to another point on it. Then the locus of P is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "y = 2x"
+        },
+        {
+          "key": "b",
+          "value": "y² = 4x"
+        },
+        {
+          "key": "c",
+          "value": "x²/4 + y² = 1"
+        },
+        {
+          "key": "d",
+          "value": "x² + y²/4 = 1"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "y² = 4x",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Analytical Geometry: Let P be the midpoint of a chord joining the vertex of the parabola y² = 8x to another point on it. Then the locus of P is Options: y = 2x, y² = 4x, x²/4 + y² = 1, x² + y²/4 = 1. Correct answer: y² = 4x",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "analytical geometry"
+        ],
+        "prerequisites": [
+          "analytical geometry"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_ANALYTICAL_GEOMETRY_Q010",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Analytical Geometry",
+        "sub_topic": "Analytical Geometry",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The line x = 2y intersects the ellipse x²/4 + y² = 1 at the point P and Q. The equation of the circle with PQ as diameter is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "x² + y² = 1/2"
+        },
+        {
+          "key": "b",
+          "value": "x² + y² = 1"
+        },
+        {
+          "key": "c",
+          "value": "x² + y² = 2"
+        },
+        {
+          "key": "d",
+          "value": "x² + y² = 5/2"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "x² + y² = 5/2",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Analytical Geometry: The line x = 2y intersects the ellipse x²/4 + y² = 1 at the point P and Q. The equation of the circle with PQ as diameter is Options: x² + y² = 1/2, x² + y² = 1, x² + y² = 2, x² + y² = 5/2. Correct answer: x² + y² = 5/2",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "analytical geometry"
+        ],
+        "prerequisites": [
+          "analytical geometry"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_ANALYTICAL_GEOMETRY_Q013",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Analytical Geometry",
+        "sub_topic": "Analytical Geometry",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "A point moves in such a way that the difference of its distance from two point (8,0) and (-8,0) always remains 4. Then the locus of the point is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "A circle"
+        },
+        {
+          "key": "b",
+          "value": "A parabola"
+        },
+        {
+          "key": "c",
+          "value": "An ellipse"
+        },
+        {
+          "key": "d",
+          "value": "A hyperbola"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "A hyperbola",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Analytical Geometry: A point moves in such a way that the difference of its distance from two point (8,0) and (-8,0) always remains 4. Then the locus of the point is Options: A circle, A parabola, An ellipse, A hyperbola. Correct answer: A hyperbola",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "analytical geometry"
+        ],
+        "prerequisites": [
+          "analytical geometry"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_ANALYTICAL_GEOMETRY_Q014",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Analytical Geometry",
+        "sub_topic": "Analytical Geometry",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "The number of integer values of m, for which the x coordinate of the point of intersection of the lines 3x + 4y = 9 and y = mx + 1 is also an integer is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "0"
+        },
+        {
+          "key": "b",
+          "value": "2"
+        },
+        {
+          "key": "c",
+          "value": "4"
+        },
+        {
+          "key": "d",
+          "value": "1"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "2",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Analytical Geometry: The number of integer values of m, for which the x coordinate of the point of intersection of the lines 3x + 4y = 9 and y = mx + 1 is also an integer is Options: 0, 2, 4, 1. Correct answer: 2",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "analytical geometry"
+        ],
+        "prerequisites": [
+          "analytical geometry"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_ANALYTICAL_GEOMETRY_Q015",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Analytical Geometry",
+        "sub_topic": "Analytical Geometry",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "If a straight line passes through the point (α,β) and the portion of the line intercepted between the axes is divided equally at the point, then x/a + y/b is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "0"
+        },
+        {
+          "key": "b",
+          "value": "1"
+        },
+        {
+          "key": "c",
+          "value": "2"
+        },
+        {
+          "key": "d",
+          "value": "4"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "1",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Analytical Geometry: If a straight line passes through the point (α,β) and the portion of the line intercepted between the axes is divided equally at the point, then x/a + y/b is Options: 0, 1, 2, 4. Correct answer: 1",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "analytical geometry"
+        ],
+        "prerequisites": [
+          "analytical geometry"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_ANALYTICAL_GEOMETRY_Q031",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Analytical Geometry",
+        "sub_topic": "Analytical Geometry",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "If the circles x² + y² + 2x + 2ky + 6 = 0 and x² + y² + 2ky + k = 0 intersect orthogonally, then k is equal to",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "2 or -3/2"
+        },
+        {
+          "key": "b",
+          "value": "-2 or -3/2"
+        },
+        {
+          "key": "c",
+          "value": "2 or 3/2"
+        },
+        {
+          "key": "d",
+          "value": "-2 or 3/2"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "2 or -3/2",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Analytical Geometry: If the circles x² + y² + 2x + 2ky + 6 = 0 and x² + y² + 2ky + k = 0 intersect orthogonally, then k is equal to Options: 2 or -3/2, -2 or -3/2, 2 or 3/2, -2 or 3/2. Correct answer: 2 or -3/2",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "analytical geometry"
+        ],
+        "prerequisites": [
+          "analytical geometry"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_ANALYTICAL_GEOMETRY_Q032",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Analytical Geometry",
+        "sub_topic": "Analytical Geometry",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "If four distinct points (2k, 3k), (2, 0), (0, 3), (0, 0) lie on a circle, then",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "K < 0"
+        },
+        {
+          "key": "b",
+          "value": "0 < K < 1"
+        },
+        {
+          "key": "c",
+          "value": "K = 1"
+        },
+        {
+          "key": "d",
+          "value": "K > 1"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "K = 1",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Analytical Geometry: If four distinct points (2k, 3k), (2, 0), (0, 3), (0, 0) lie on a circle, then Options: K < 0, 0 < K < 1, K = 1, K > 1. Correct answer: K = 1",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "analytical geometry"
+        ],
+        "prerequisites": [
+          "analytical geometry"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_ANALYTICAL_GEOMETRY_Q033",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Analytical Geometry",
+        "sub_topic": "Analytical Geometry",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "The line joining A(b cos α, b sin α) and B(a cos β, a sin β), where a ≠ b, is produced to the point M(x, y) so that AM:MB = b:a. Then x cos((α + β)/2) + y sin((α + β)/2)",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "0"
+        },
+        {
+          "key": "b",
+          "value": "1"
+        },
+        {
+          "key": "c",
+          "value": "-1"
+        },
+        {
+          "key": "d",
+          "value": "a² + b²"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "0",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Analytical Geometry: The line joining A(b cos α, b sin α) and B(a cos β, a sin β), where a ≠ b, is produced to the point M(x, y) so that AM:MB = b:a. Then x cos((α + β)/2) + y sin((α + β)/2) Options: 0, 1, -1, a² + b². Correct answer: 0",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "analytical geometry"
+        ],
+        "prerequisites": [
+          "analytical geometry"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_ANALYTICAL_GEOMETRY_Q071",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Analytical Geometry",
+        "sub_topic": "Analytical Geometry",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The system of linear equations λx + y + z = 3, x - y - 2z = 6, -x + y + z = μ",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Infinite number of solutions for λ ≠ -1 and all μ"
+        },
+        {
+          "key": "b",
+          "value": "Infinite number of solutions for λ = -1 and μ = 3"
+        },
+        {
+          "key": "c",
+          "value": "No solution for λ ≠ -1"
+        },
+        {
+          "key": "d",
+          "value": "Unique solution for λ = -1 and all μ = 3"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Infinite number of solutions for λ = -1 and μ = 3",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Analytical Geometry: The system of linear equations λx + y + z = 3, x - y - 2z = 6, -x + y + z = μ Options: Infinite number of solutions for λ ≠ -1 and all μ, Infinite number of solutions for λ = -1 and μ = 3, No solution for λ ≠ -1, Unique solution for λ = -1 and all μ = 3. Correct answer: Infinite number of solutions for λ = -1 and μ = 3",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "analytical geometry"
+        ],
+        "prerequisites": [
+          "analytical geometry"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_ANALYTICAL_GEOMETRY_Q074",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Analytical Geometry",
+        "sub_topic": "Analytical Geometry",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "Let C₁ and C₂ denote the centers of the circles x² + y² = 4 and (x-2)² + y² = 1 respectively and let P and Q be their points of intersection. Then the area of triangle C₁PQ and C₂PQ are in ratio",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "3:1"
+        },
+        {
+          "key": "b",
+          "value": "5:1"
+        },
+        {
+          "key": "c",
+          "value": "7:1"
+        },
+        {
+          "key": "d",
+          "value": "9:1"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "7:1",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Analytical Geometry: Let C₁ and C₂ denote the centers of the circles x² + y² = 4 and (x-2)² + y² = 1 respectively and let P and Q be their points of intersection. Then the area of triangle C₁PQ and C₂PQ are in ratio Options: 3:1, 5:1, 7:1, 9:1. Correct answer: 7:1",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "analytical geometry"
+        ],
+        "prerequisites": [
+          "analytical geometry"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_ANALYTICAL_GEOMETRY_Q075",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Analytical Geometry",
+        "sub_topic": "Analytical Geometry",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "A straight line through the point of intersection of the lines x + 2y = 4 and 2x + y = 4 meets the coordinate axes at A and B. The locus of the midpoint of AB is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "3(x + y) = 2xy"
+        },
+        {
+          "key": "b",
+          "value": "2(x + y) = 3xy"
+        },
+        {
+          "key": "c",
+          "value": "2(x + y) = xy"
+        },
+        {
+          "key": "d",
+          "value": "(x + y) = 3xy"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "2(x + y) = xy",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Analytical Geometry: A straight line through the point of intersection of the lines x + 2y = 4 and 2x + y = 4 meets the coordinate axes at A and B. The locus of the midpoint of AB is Options: 3(x + y) = 2xy, 2(x + y) = 3xy, 2(x + y) = xy, (x + y) = 3xy. Correct answer: 2(x + y) = xy",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "analytical geometry"
+        ],
+        "prerequisites": [
+          "analytical geometry"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_ANALYTICAL_GEOMETRY_Q076",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Analytical Geometry",
+        "sub_topic": "Analytical Geometry",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "Let P and Q be the points on the parabola y² = 4x so that the line segment PQ subtends right angle at the vertex. If PQ intersects the axis of the parabola at R then the distance of the vertex from R is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1"
+        },
+        {
+          "key": "b",
+          "value": "2"
+        },
+        {
+          "key": "c",
+          "value": "4"
+        },
+        {
+          "key": "d",
+          "value": "6"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "4",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Analytical Geometry: Let P and Q be the points on the parabola y² = 4x so that the line segment PQ subtends right angle at the vertex. If PQ intersects the axis of the parabola at R then the distance of the vertex from R is Options: 1, 2, 4, 6. Correct answer: 4",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "analytical geometry"
+        ],
+        "prerequisites": [
+          "analytical geometry"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

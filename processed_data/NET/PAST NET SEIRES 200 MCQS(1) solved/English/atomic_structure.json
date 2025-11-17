@@ -1,0 +1,399 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET English - Atomic Structure",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 7,
+    "source_file": "PAST NET SEIRES 200 MCQS(1) solved.txt",
+    "exam_type": "NET",
+    "subject": "English",
+    "main_topic": "Atomic Structure"
+  },
+  "questions": [
+    {
+      "question_id": "NET_ENG_ATOMIC_STRUCTURE_Q172",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Atomic Structure",
+        "sub_topic": "Atomic Structure",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "which one is NOT the type of boric acid?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "ortho boric acid"
+        },
+        {
+          "key": "b",
+          "value": "nano boric acid"
+        },
+        {
+          "key": "c",
+          "value": "meta boric acid"
+        },
+        {
+          "key": "d",
+          "value": "pyro boric acid"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "nano boric acid",
+        "explanation": ""
+      },
+      "embedding_text": "English - Atomic Structure: which one is NOT the type of boric acid? Options: ortho boric acid, nano boric acid, meta boric acid, pyro boric acid. Correct answer: nano boric acid",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "atomic structure"
+        ],
+        "prerequisites": [
+          "atomic structure"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_ATOMIC_STRUCTURE_Q173",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Atomic Structure",
+        "sub_topic": "Atomic Structure",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "What is the least no.of carbon atoms in amino acid?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1"
+        },
+        {
+          "key": "b",
+          "value": "2"
+        },
+        {
+          "key": "c",
+          "value": "3"
+        },
+        {
+          "key": "d",
+          "value": "4"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "2",
+        "explanation": ""
+      },
+      "embedding_text": "English - Atomic Structure: What is the least no.of carbon atoms in amino acid? Options: 1, 2, 3, 4. Correct answer: 2",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "atomic structure"
+        ],
+        "prerequisites": [
+          "atomic structure"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_ATOMIC_STRUCTURE_Q176",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Atomic Structure",
+        "sub_topic": "Atomic Structure",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "ionization energy depend upon?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "nuclear charge"
+        },
+        {
+          "key": "b",
+          "value": "shielding effect"
+        },
+        {
+          "key": "c",
+          "value": "atomic radius"
+        },
+        {
+          "key": "d",
+          "value": "All"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "All",
+        "explanation": ""
+      },
+      "embedding_text": "English - Atomic Structure: ionization energy depend upon? Options: nuclear charge, shielding effect, atomic radius, All. Correct answer: All",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "atomic structure"
+        ],
+        "prerequisites": [
+          "atomic structure"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_ATOMIC_STRUCTURE_Q177",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Atomic Structure",
+        "sub_topic": "Atomic Structure",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "which one of the organic compounds is most reactive ?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Alkane"
+        },
+        {
+          "key": "b",
+          "value": "Alkene"
+        },
+        {
+          "key": "c",
+          "value": "Alkyne"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Alkyne",
+        "explanation": ""
+      },
+      "embedding_text": "English - Atomic Structure: which one of the organic compounds is most reactive ? Options: Alkane, Alkene, Alkyne, None. Correct answer: Alkyne",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "atomic structure"
+        ],
+        "prerequisites": [
+          "atomic structure"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_ATOMIC_STRUCTURE_Q181",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Atomic Structure",
+        "sub_topic": "Atomic Structure",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Choose the correct spelling:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "presamble"
+        },
+        {
+          "key": "b",
+          "value": "misible"
+        },
+        {
+          "key": "c",
+          "value": "presible"
+        },
+        {
+          "key": "d",
+          "value": "permissible"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "permissible",
+        "explanation": ""
+      },
+      "embedding_text": "English - Atomic Structure: Choose the correct spelling: Options: presamble, misible, presible, permissible. Correct answer: permissible",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "atomic structure"
+        ],
+        "prerequisites": [
+          "atomic structure"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_ATOMIC_STRUCTURE_Q182",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Atomic Structure",
+        "sub_topic": "Atomic Structure",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Choose the correct spelling:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Prejudice"
+        },
+        {
+          "key": "b",
+          "value": "Jeduce"
+        },
+        {
+          "key": "c",
+          "value": "dejuice"
+        },
+        {
+          "key": "d",
+          "value": "diceju"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Prejudice",
+        "explanation": ""
+      },
+      "embedding_text": "English - Atomic Structure: Choose the correct spelling: Options: Prejudice, Jeduce, dejuice, diceju. Correct answer: Prejudice",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "atomic structure"
+        ],
+        "prerequisites": [
+          "atomic structure"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_ATOMIC_STRUCTURE_Q190",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Atomic Structure",
+        "sub_topic": "Atomic Structure",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Choose the correct spelling:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Mathimatics"
+        },
+        {
+          "key": "b",
+          "value": "Mathemaitics"
+        },
+        {
+          "key": "c",
+          "value": "Mithamatics"
+        },
+        {
+          "key": "d",
+          "value": "Mathematics"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Mathematics",
+        "explanation": ""
+      },
+      "embedding_text": "English - Atomic Structure: Choose the correct spelling: Options: Mathimatics, Mathemaitics, Mithamatics, Mathematics. Correct answer: Mathematics",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "atomic structure"
+        ],
+        "prerequisites": [
+          "atomic structure"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

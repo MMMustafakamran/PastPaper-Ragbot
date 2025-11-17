@@ -1,0 +1,949 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Trigonometry",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 17,
+    "source_file": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Trigonometry"
+  },
+  "questions": [
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q018",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "A velocity 1/4 m/s is resolved into two components along OA and OB making angles 30° and 45° respectively with the given velocity. Then the component along OB is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1/8 m/s"
+        },
+        {
+          "key": "b",
+          "value": "1/4(√3-1)"
+        },
+        {
+          "key": "c",
+          "value": "1/4 m/s"
+        },
+        {
+          "key": "d",
+          "value": "1/8(√6-√2) m/s"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "1/8(√6-√2) m/s",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: A velocity 1/4 m/s is resolved into two components along OA and OB making angles 30° and 45° respectively with the given velocity. Then the component along OB is: Options: 1/8 m/s, 1/4(√3-1), 1/4 m/s, 1/8(√6-√2) m/s. Correct answer: 1/8(√6-√2) m/s",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q027",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The value of ∫(sin x + cos x)/(3 + sin 2x) dx is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1/4 ln[(2-sin x - cos x)/(2+sin x+cos x)] + C"
+        },
+        {
+          "key": "b",
+          "value": "1/2 ln[(2+sin x)/(2-sin x)] + C"
+        },
+        {
+          "key": "c",
+          "value": "1/4 ln(1-sin x)/(1+sin x) + C"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "None",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: The value of ∫(sin x + cos x)/(3 + sin 2x) dx is: Options: 1/4 ln[(2-sin x - cos x)/(2+sin x+cos x)] + C, 1/2 ln[(2+sin x)/(2-sin x)] + C, 1/4 ln(1-sin x)/(1+sin x) + C, None. Correct answer: None",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q038",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "y = sin⁻¹(x/2) + cos⁻¹(x/2), then the value of dy/dx is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1"
+        },
+        {
+          "key": "b",
+          "value": "-1"
+        },
+        {
+          "key": "c",
+          "value": "0"
+        },
+        {
+          "key": "d",
+          "value": "2"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "0",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: y = sin⁻¹(x/2) + cos⁻¹(x/2), then the value of dy/dx is: Options: 1, -1, 0, 2. Correct answer: 0",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q040",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "On one bank of river there is a tree on another bank. An observer makes an angle of elevation of 60° at the top of the tree. The angle of elevation of the top of the tree at a distance 20m away from the bank is 30°. The width of the river is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "20 meters"
+        },
+        {
+          "key": "b",
+          "value": "10 meters"
+        },
+        {
+          "key": "c",
+          "value": "5 meters"
+        },
+        {
+          "key": "d",
+          "value": "1m"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "10 meters",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: On one bank of river there is a tree on another bank. An observer makes an angle of elevation of 60° at the top of the tree. The angle of elevation of the top of the tree at a distance 20m away from the bank is 30°. The width of the river is: Options: 20 meters, 10 meters, 5 meters, 1m. Correct answer: 10 meters",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q043",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "If tan⁻¹((1-x)/(1+x)) = 1/2 tan⁻¹x then value of x is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1/2"
+        },
+        {
+          "key": "b",
+          "value": "1/√3"
+        },
+        {
+          "key": "c",
+          "value": "√3"
+        },
+        {
+          "key": "d",
+          "value": "2"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "1/√3",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: If tan⁻¹((1-x)/(1+x)) = 1/2 tan⁻¹x then value of x is: Options: 1/2, 1/√3, √3, 2. Correct answer: 1/√3",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q045",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The value of lim α→0 [cosec⁻¹(sec α) + cot⁻¹(tan α) + cot⁻¹(cos(sin⁻¹α))]/α is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "0"
+        },
+        {
+          "key": "b",
+          "value": "-1"
+        },
+        {
+          "key": "c",
+          "value": "-2"
+        },
+        {
+          "key": "d",
+          "value": "1"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "1",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: The value of lim α→0 [cosec⁻¹(sec α) + cot⁻¹(tan α) + cot⁻¹(cos(sin⁻¹α))]/α is: Options: 0, -1, -2, 1. Correct answer: 1",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q048",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The value of lim x→0 (1+sin x - cos x + log(1-x))/3 is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "-1"
+        },
+        {
+          "key": "b",
+          "value": "1/2"
+        },
+        {
+          "key": "c",
+          "value": "-1/2"
+        },
+        {
+          "key": "d",
+          "value": "1"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "1",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: The value of lim x→0 (1+sin x - cos x + log(1-x))/3 is: Options: -1, 1/2, -1/2, 1. Correct answer: 1",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q051",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Let f(x)=cos x cos 2x cos 4x cos 8x cos16x then the value of f'(π/4) is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "√2"
+        },
+        {
+          "key": "b",
+          "value": "-√2"
+        },
+        {
+          "key": "c",
+          "value": "2"
+        },
+        {
+          "key": "d",
+          "value": "-2"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "√2",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: Let f(x)=cos x cos 2x cos 4x cos 8x cos16x then the value of f'(π/4) is: Options: √2, -√2, 2, -2. Correct answer: √2",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q052",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Let (sin a)x²+(sin a)x +(1-cos a)=0. The value of a for which roots of this equation are real and distinct:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "(0,2tan⁻¹(1/4))"
+        },
+        {
+          "key": "b",
+          "value": "(0,2π/3)"
+        },
+        {
+          "key": "c",
+          "value": "(0,π)"
+        },
+        {
+          "key": "d",
+          "value": "(0,2π)"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "(0,2tan⁻¹(1/4))",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: Let (sin a)x²+(sin a)x +(1-cos a)=0. The value of a for which roots of this equation are real and distinct: Options: (0,2tan⁻¹(1/4)), (0,2π/3), (0,π), (0,2π). Correct answer: (0,2tan⁻¹(1/4))",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q053",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "The angle of elevation of top of a tower from a point on the ground is 30° and it is 60° when it is viewed from a point located 40m away from the initial point towards the tower. The height of the tower is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "-20√3"
+        },
+        {
+          "key": "b",
+          "value": "(garbled)"
+        },
+        {
+          "key": "c",
+          "value": "(garbled)"
+        },
+        {
+          "key": "d",
+          "value": "20√3"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "20√3",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: The angle of elevation of top of a tower from a point on the ground is 30° and it is 60° when it is viewed from a point located 40m away from the initial point towards the tower. The height of the tower is: Options: -20√3, (garbled), (garbled), 20√3. Correct answer: 20√3",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q063",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "For what value of a, f(x)=-x³+4ax²+2x-5 is decreasing ∀ x .",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "(1,2)"
+        },
+        {
+          "key": "b",
+          "value": "(3,4)"
+        },
+        {
+          "key": "c",
+          "value": "R"
+        },
+        {
+          "key": "d",
+          "value": "No value of a"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "No value of a",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: For what value of a, f(x)=-x³+4ax²+2x-5 is decreasing ∀ x . Options: (1,2), (3,4), R, No value of a. Correct answer: No value of a",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q068",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "In r cos θ + i sin θ, r and θ represents __________ respectively:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Absolute value of modulus"
+        },
+        {
+          "key": "b",
+          "value": "Argument and modulus"
+        },
+        {
+          "key": "c",
+          "value": "Modulus and argument"
+        },
+        {
+          "key": "d",
+          "value": "Absolute value modulus and argument"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Modulus and argument",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: In r cos θ + i sin θ, r and θ represents __________ respectively: Options: Absolute value of modulus, Argument and modulus, Modulus and argument, Absolute value modulus and argument. Correct answer: Modulus and argument",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q069",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The value of limit x→0 (4ˣ-1)³/[sin(x²/4)log(1+3x)] is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "4/3(ln 4)²"
+        },
+        {
+          "key": "b",
+          "value": "4/3(ln 4)³"
+        },
+        {
+          "key": "c",
+          "value": "3/2(ln 4)²"
+        },
+        {
+          "key": "d",
+          "value": "3/2(ln 4)³"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "4/3(ln 4)³",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: The value of limit x→0 (4ˣ-1)³/[sin(x²/4)log(1+3x)] is: Options: 4/3(ln 4)², 4/3(ln 4)³, 3/2(ln 4)², 3/2(ln 4)³. Correct answer: 4/3(ln 4)³",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q075",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Let cos(2tan⁻¹x)=1/2 then the value of x is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "√3"
+        },
+        {
+          "key": "b",
+          "value": "1/√3"
+        },
+        {
+          "key": "c",
+          "value": "1-√3"
+        },
+        {
+          "key": "d",
+          "value": "1-1/√3"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "1/√3",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: Let cos(2tan⁻¹x)=1/2 then the value of x is: Options: √3, 1/√3, 1-√3, 1-1/√3. Correct answer: 1/√3",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q076",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "If sin⁻¹a is the acute angle between the curves x²+y²=4x and x²+y²=8 at (2,2), then a=",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1"
+        },
+        {
+          "key": "b",
+          "value": "0"
+        },
+        {
+          "key": "c",
+          "value": "√2/2"
+        },
+        {
+          "key": "d",
+          "value": "(missing)"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "1",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: If sin⁻¹a is the acute angle between the curves x²+y²=4x and x²+y²=8 at (2,2), then a= Options: 1, 0, √2/2, (missing). Correct answer: 1",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q077",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The max area of rectangle that can be inscribed in a circle of radius 2units is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "8π sq.unit"
+        },
+        {
+          "key": "b",
+          "value": "4sq.unit"
+        },
+        {
+          "key": "c",
+          "value": "5sq.unit"
+        },
+        {
+          "key": "d",
+          "value": "8sq.unit"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "8sq.unit",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: The max area of rectangle that can be inscribed in a circle of radius 2units is: Options: 8π sq.unit, 4sq.unit, 5sq.unit, 8sq.unit. Correct answer: 8sq.unit",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_TRIGONOMETRY_Q079",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Trigonometry",
+        "sub_topic": "Trigonometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "∫cotⁿ⁻¹x sinⁿ⁺¹xdx, n≠0 is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "cotⁿx/n"
+        },
+        {
+          "key": "b",
+          "value": "-cotⁿ⁻¹x/(n-1)"
+        },
+        {
+          "key": "c",
+          "value": "-cot⁴x/n"
+        },
+        {
+          "key": "d",
+          "value": "cotⁿ⁻¹x/(n-1)"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "cotⁿx/n",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Trigonometry: ∫cotⁿ⁻¹x sinⁿ⁺¹xdx, n≠0 is: Options: cotⁿx/n, -cotⁿ⁻¹x/(n-1), -cot⁴x/n, cotⁿ⁻¹x/(n-1). Correct answer: cotⁿx/n",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "trigonometry"
+        ],
+        "prerequisites": [
+          "trigonometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

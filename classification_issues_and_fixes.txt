@@ -1,0 +1,43 @@
+CLASSIFICATION ISSUES AND FIXES
+================================
+
+PASTPAPER 2
+-----------
+
+ISSUE: Q016, Q017, Q018, Q019 in Number Systems
+SOLUTION: Add to Complex Numbers keywords: "(a,b)", "(a,0)", "(c,0)", "z_1", "z_2", "product of z_1 and z_2"
+
+ISSUE: Q031 in Number Systems
+SOLUTION: Add to Sets and Logic keywords: "deduction", "to draw general conclusions"
+
+ISSUE: Q034 in Number Systems
+SOLUTION: Add to Sets and Logic keywords: "proposition"
+
+ISSUE: Q036 in Number Systems
+SOLUTION: Add to Sets and Logic keywords: "aristotelian logic"
+
+ISSUE: Q042 in Number Systems
+SOLUTION: Add to Trigonometry keywords: "45°", "degrees to radians", "= ? radians"
+
+ISSUE: Q077 in Trigonometry
+SOLUTION: Add to Differentiation keywords: "stationary point", "f''(x)=0", "neither increasing nor decreasing"
+
+ISSUE: Q081 in Trigonometry
+SOLUTION: Add to Properties of Matter keywords: "steradian", "solid angle", "angle subtended at center of sphere"
+
+
+PAST NET SEIRES
+---------------
+
+ISSUE: Q062 in Number Systems
+SOLUTION: Add to Differentiation keywords: "f(x,y)=c", "solve by", "implicit differentiation"
+
+
+PASTPAPER 4
+-----------
+STATUS: All fixed
+
+
+PASTPAPER 5
+-----------
+STATUS: All fixed

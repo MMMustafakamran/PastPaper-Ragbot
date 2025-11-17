@@ -1,0 +1,124 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Physics - Modern Physics",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 2,
+    "source_file": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Physics",
+    "main_topic": "Modern Physics"
+  },
+  "questions": [
+    {
+      "question_id": "NET_PHY_MODERN_PHYSICS_Q082",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Modern Physics",
+        "sub_topic": "Modern Physics",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Which one of the following series are observed in the visible region of electromagnetic radiation",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Lyman series"
+        },
+        {
+          "key": "b",
+          "value": "Balmer series"
+        },
+        {
+          "key": "c",
+          "value": "Bracket series"
+        },
+        {
+          "key": "d",
+          "value": "Pfund series"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Balmer series",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Modern Physics: Which one of the following series are observed in the visible region of electromagnetic radiation Options: Lyman series, Balmer series, Bracket series, Pfund series. Correct answer: Balmer series",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "modern physics"
+        ],
+        "prerequisites": [
+          "modern physics"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MODERN_PHYSICS_Q094",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-4(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Modern Physics",
+        "sub_topic": "Modern Physics",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "According to the postulates of the theory of relativity, a fourth dimension has been added to the three dimensions already associated with a Cartesian frame of reference. Which is the fourth dimension?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Space"
+        },
+        {
+          "key": "b",
+          "value": "Inertial frame of reference"
+        },
+        {
+          "key": "c",
+          "value": "Speed of light"
+        },
+        {
+          "key": "d",
+          "value": "Time"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Time",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Modern Physics: According to the postulates of the theory of relativity, a fourth dimension has been added to the three dimensions already associated with a Cartesian frame of reference. Which is the fourth dimension? Options: Space, Inertial frame of reference, Speed of light, Time. Correct answer: Time",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "modern physics"
+        ],
+        "prerequisites": [
+          "modern physics"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

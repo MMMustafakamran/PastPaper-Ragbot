@@ -1,0 +1,894 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Physics - Mechanics",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 16,
+    "source_file": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Physics",
+    "main_topic": "Mechanics"
+  },
+  "questions": [
+    {
+      "question_id": "NET_PHY_MECHANICS_Q084",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "Four resistor A,B,C and D form a whetstones bridge is balanced when C=100Ω. If A and B are interchanged, the balance is for C=121Ω. The value of D is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "10Ω"
+        },
+        {
+          "key": "b",
+          "value": "100Ω"
+        },
+        {
+          "key": "c",
+          "value": "110Ω"
+        },
+        {
+          "key": "d",
+          "value": "120Ω"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "110Ω",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: Four resistor A,B,C and D form a whetstones bridge is balanced when C=100Ω. If A and B are interchanged, the balance is for C=121Ω. The value of D is: Options: 10Ω, 100Ω, 110Ω, 120Ω. Correct answer: 110Ω",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q085",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The magnitude of the resultant of two forces is F. The Magnitude of each force is F. The angle between the forces must be:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "30°"
+        },
+        {
+          "key": "b",
+          "value": "60°"
+        },
+        {
+          "key": "c",
+          "value": "45°"
+        },
+        {
+          "key": "d",
+          "value": "120°"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "120°",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: The magnitude of the resultant of two forces is F. The Magnitude of each force is F. The angle between the forces must be: Options: 30°, 60°, 45°, 120°. Correct answer: 120°",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q097",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "A pipe having an internal diameter 'D' to another pipe of same size, water flow into the second pipe through 'n' holes, each of diameter 'd'. If the water in the first pipe has speed 'V', the speed of water leaving the second pipe is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "D²v/nd²"
+        },
+        {
+          "key": "b",
+          "value": "nD²v/d²"
+        },
+        {
+          "key": "c",
+          "value": "nd²v/D²"
+        },
+        {
+          "key": "d",
+          "value": "d²v/nd²"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "D²v/nd²",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: A pipe having an internal diameter 'D' to another pipe of same size, water flow into the second pipe through 'n' holes, each of diameter 'd'. If the water in the first pipe has speed 'V', the speed of water leaving the second pipe is: Options: D²v/nd², nD²v/d², nd²v/D², d²v/nd². Correct answer: D²v/nd²",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q104",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "When the engine is switched off a vehicle of mass 'M' is moving on a rough horizontal road with momentum P. If the coefficient of friction between the road and tires of the vehicle is μₖ, the distance travelled by the vehicle before it comes to rest is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "P²/2μₖM²g"
+        },
+        {
+          "key": "b",
+          "value": "2μₖM²g/P²"
+        },
+        {
+          "key": "c",
+          "value": "P²/2μₖg"
+        },
+        {
+          "key": "d",
+          "value": "P²M²/2μₖg"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "P²/2μₖM²g",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: When the engine is switched off a vehicle of mass 'M' is moving on a rough horizontal road with momentum P. If the coefficient of friction between the road and tires of the vehicle is μₖ, the distance travelled by the vehicle before it comes to rest is: Options: P²/2μₖM²g, 2μₖM²g/P², P²/2μₖg, P²M²/2μₖg. Correct answer: P²/2μₖM²g",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q105",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "A projectile is given an initial velocity of i + 2j where i is along the ground and j is along the vertical. If g=10m/s², the equation of its trajectory is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "y=2x-5x²"
+        },
+        {
+          "key": "b",
+          "value": "4y=2x-5x²"
+        },
+        {
+          "key": "c",
+          "value": "4y=2x-25x²"
+        },
+        {
+          "key": "d",
+          "value": "y=x-5x²"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "y=2x-5x²",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: A projectile is given an initial velocity of i + 2j where i is along the ground and j is along the vertical. If g=10m/s², the equation of its trajectory is: Options: y=2x-5x², 4y=2x-5x², 4y=2x-25x², y=x-5x². Correct answer: y=2x-5x²",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q108",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "The velocity 'V' reached by a car of mass 'm' at certain distance from the starting point driven with constant power 'P' is such that:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "V ∝ 3P/m"
+        },
+        {
+          "key": "b",
+          "value": "V² ∝ 3P/m"
+        },
+        {
+          "key": "c",
+          "value": "V³ ∝ 3P/m"
+        },
+        {
+          "key": "d",
+          "value": "V ∝ (3P/m)²"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "V³ ∝ 3P/m",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: The velocity 'V' reached by a car of mass 'm' at certain distance from the starting point driven with constant power 'P' is such that: Options: V ∝ 3P/m, V² ∝ 3P/m, V³ ∝ 3P/m, V ∝ (3P/m)². Correct answer: V³ ∝ 3P/m",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q109",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "It is possible to project a particle with a given velocity in two possible ways so as to make them pass through a point P at a horizontal distance r from the point of projection. If t₁ and t₂ are times taken to reach this point in two possible ways, then the product t₁t₂ is proportional to:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1/r"
+        },
+        {
+          "key": "b",
+          "value": "r"
+        },
+        {
+          "key": "c",
+          "value": "r²"
+        },
+        {
+          "key": "d",
+          "value": "1/r²"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "r",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: It is possible to project a particle with a given velocity in two possible ways so as to make them pass through a point P at a horizontal distance r from the point of projection. If t₁ and t₂ are times taken to reach this point in two possible ways, then the product t₁t₂ is proportional to: Options: 1/r, r, r², 1/r². Correct answer: r",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q110",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "Sum of magnitudes of two forces acting at a point is 16N. If their resultant is normal to smaller force and has a magnitude 8N, then the forces are:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "6N, 10N"
+        },
+        {
+          "key": "b",
+          "value": "8N, 8N"
+        },
+        {
+          "key": "c",
+          "value": "4N, 12N"
+        },
+        {
+          "key": "d",
+          "value": "2N, 14N"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "6N, 10N",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: Sum of magnitudes of two forces acting at a point is 16N. If their resultant is normal to smaller force and has a magnitude 8N, then the forces are: Options: 6N, 10N, 8N, 8N, 4N, 12N, 2N, 14N. Correct answer: 6N, 10N",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q126",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "If E, M, J and G respectively denote energy, mass, angular momentum and universal gravitational constant the quantity, which has the same dimensions as dimensions of EJ²/M²G²:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Time"
+        },
+        {
+          "key": "b",
+          "value": "Angle"
+        },
+        {
+          "key": "c",
+          "value": "Mass"
+        },
+        {
+          "key": "d",
+          "value": "Length"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Time",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: If E, M, J and G respectively denote energy, mass, angular momentum and universal gravitational constant the quantity, which has the same dimensions as dimensions of EJ²/M²G²: Options: Time, Angle, Mass, Length. Correct answer: Time",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q127",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "The work done in moving an object from origin to a point whose position vector is r = 3i + 2j - 5k by a force F = 2i – j – k is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1unit"
+        },
+        {
+          "key": "b",
+          "value": "9units"
+        },
+        {
+          "key": "c",
+          "value": "13units"
+        },
+        {
+          "key": "d",
+          "value": "60units"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "9units",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: The work done in moving an object from origin to a point whose position vector is r = 3i + 2j - 5k by a force F = 2i – j – k is: Options: 1unit, 9units, 13units, 60units. Correct answer: 9units",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q128",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "A particle is projected from the ground with an initial speed of v at an angle of projection θ. The average velocity of the particle between its time of projection and time it reaches highest point of trajectory is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "v/2(√(1+2cos²θ))"
+        },
+        {
+          "key": "b",
+          "value": "v/2(√(1+2sin²θ))"
+        },
+        {
+          "key": "c",
+          "value": "v/2(√(1+3cos²θ))"
+        },
+        {
+          "key": "d",
+          "value": "v/2(√(1+3sin²θ))"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "v/2(√(1+3cos²θ))",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: A particle is projected from the ground with an initial speed of v at an angle of projection θ. The average velocity of the particle between its time of projection and time it reaches highest point of trajectory is: Options: v/2(√(1+2cos²θ)), v/2(√(1+2sin²θ)), v/2(√(1+3cos²θ)), v/2(√(1+3sin²θ)). Correct answer: v/2(√(1+3cos²θ))",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q130",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "Two bodies of mass 4kg and 5kg are moving along east and north directions with velocities 5m/s and 3m/s respectively. Magnitude of the velocity of center of mass of the systems is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "25/9 m/s"
+        },
+        {
+          "key": "b",
+          "value": "9/25 m/s"
+        },
+        {
+          "key": "c",
+          "value": "41/9 m/s"
+        },
+        {
+          "key": "d",
+          "value": "9/41 m/s"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "25/9 m/s",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: Two bodies of mass 4kg and 5kg are moving along east and north directions with velocities 5m/s and 3m/s respectively. Magnitude of the velocity of center of mass of the systems is: Options: 25/9 m/s, 9/25 m/s, 41/9 m/s, 9/41 m/s. Correct answer: 25/9 m/s",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q131",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "A mass of 2.9kg is suspended from a string of length 50cm and is at rest. Another body of mass 100g, which is moving horizontally with a velocity of 150m/s strikes and sticks to it. Subsequently when the string makes an angle of 60° with vertical, the tension in the string is (g=10m/s²):",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "140N"
+        },
+        {
+          "key": "b",
+          "value": "135N"
+        },
+        {
+          "key": "c",
+          "value": "125N"
+        },
+        {
+          "key": "d",
+          "value": "90N"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "135N",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: A mass of 2.9kg is suspended from a string of length 50cm and is at rest. Another body of mass 100g, which is moving horizontally with a velocity of 150m/s strikes and sticks to it. Subsequently when the string makes an angle of 60° with vertical, the tension in the string is (g=10m/s²): Options: 140N, 135N, 125N, 90N. Correct answer: 135N",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q132",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "The upper half of an inclined plane with an angle of inclination φ, is smooth while the lower half is rough. A body starting from rest at the top of the inclined plane comes to rest at the bottom of the inclined plane. Then the coefficient of friction for the lower half is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "2tanφ"
+        },
+        {
+          "key": "b",
+          "value": "tanφ"
+        },
+        {
+          "key": "c",
+          "value": "2sinφ"
+        },
+        {
+          "key": "d",
+          "value": "2cosφ"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "2tanφ",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: The upper half of an inclined plane with an angle of inclination φ, is smooth while the lower half is rough. A body starting from rest at the top of the inclined plane comes to rest at the bottom of the inclined plane. Then the coefficient of friction for the lower half is: Options: 2tanφ, tanφ, 2sinφ, 2cosφ. Correct answer: 2tanφ",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q133",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "Moment of inertia of a body about an axis is 4kg·m². The body is initially at rest and a torque of 8Nm starts acting on it along the same axis. Work done by the torque in 20sec in Joules, is:",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "40"
+        },
+        {
+          "key": "b",
+          "value": "640"
+        },
+        {
+          "key": "c",
+          "value": "2560"
+        },
+        {
+          "key": "d",
+          "value": "3200"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "3200",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: Moment of inertia of a body about an axis is 4kg·m². The body is initially at rest and a torque of 8Nm starts acting on it along the same axis. Work done by the torque in 20sec in Joules, is: Options: 40, 640, 2560, 3200. Correct answer: 3200",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q134",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "A uniform circular disc of radius R, lying on a frictionless horizontal plane is rotating with an angular velocity 'w' about its own axis. Another identical circular disc is gently placed on the top of the first disc coaxially. The loss in rotational K.E due to friction between the two disc, as they acquire common angular velocity is (I is moment of inertia of the disc):",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "1/8 Iw²"
+        },
+        {
+          "key": "b",
+          "value": "1/4 Iw²"
+        },
+        {
+          "key": "c",
+          "value": "1/2 Iw²"
+        },
+        {
+          "key": "d",
+          "value": "Iw²"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "1/4 Iw²",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: A uniform circular disc of radius R, lying on a frictionless horizontal plane is rotating with an angular velocity 'w' about its own axis. Another identical circular disc is gently placed on the top of the first disc coaxially. The loss in rotational K.E due to friction between the two disc, as they acquire common angular velocity is (I is moment of inertia of the disc): Options: 1/8 Iw², 1/4 Iw², 1/2 Iw², Iw². Correct answer: 1/4 Iw²",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

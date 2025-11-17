@@ -1,0 +1,509 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Physics - Mechanics",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 9,
+    "source_file": "PAST NET SEIRES 200 MCQS(1) solved.txt",
+    "exam_type": "NET",
+    "subject": "Physics",
+    "main_topic": "Mechanics"
+  },
+  "questions": [
+    {
+      "question_id": "NET_PHY_MECHANICS_Q083",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "If we have f(x,y)=c then we solve by",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Implicit differentiation"
+        },
+        {
+          "key": "b",
+          "value": "Product rule"
+        },
+        {
+          "key": "c",
+          "value": "Chain rule"
+        },
+        {
+          "key": "d",
+          "value": "Cannot be solved"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Implicit differentiation",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: If we have f(x,y)=c then we solve by Options: Implicit differentiation, Product rule, Chain rule, Cannot be solved. Correct answer: Implicit differentiation",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q116",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "If y component of a force acting in y direction is 6N the x component will be?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "6N"
+        },
+        {
+          "key": "b",
+          "value": "12N"
+        },
+        {
+          "key": "c",
+          "value": "0N"
+        },
+        {
+          "key": "d",
+          "value": "None of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "0N",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: If y component of a force acting in y direction is 6N the x component will be? Options: 6N, 12N, 0N, None of these. Correct answer: 0N",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q117",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "If a particle of mass m has momentum p, then its kE will be",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "2pm"
+        },
+        {
+          "key": "b",
+          "value": "2m/p²"
+        },
+        {
+          "key": "c",
+          "value": "p²/m"
+        },
+        {
+          "key": "d",
+          "value": "p²/2m"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "p²/2m",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: If a particle of mass m has momentum p, then its kE will be Options: 2pm, 2m/p², p²/m, p²/2m. Correct answer: p²/2m",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q121",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "If 2 bodies of different masses, initially at rest are acted upon by same force for same time, then bodies will acquire same.",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Velocity"
+        },
+        {
+          "key": "b",
+          "value": "Acceleration"
+        },
+        {
+          "key": "c",
+          "value": "Momentum"
+        },
+        {
+          "key": "d",
+          "value": "KE"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Momentum",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: If 2 bodies of different masses, initially at rest are acted upon by same force for same time, then bodies will acquire same. Options: Velocity, Acceleration, Momentum, KE. Correct answer: Momentum",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q122",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "If m means mass of gases ejected per sec from a rocket and v show the change in velocity then mv is named as?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "work"
+        },
+        {
+          "key": "b",
+          "value": "impulse"
+        },
+        {
+          "key": "c",
+          "value": "energy"
+        },
+        {
+          "key": "d",
+          "value": "force"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "force",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: If m means mass of gases ejected per sec from a rocket and v show the change in velocity then mv is named as? Options: work, impulse, energy, force. Correct answer: force",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q124",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "If rate of change of momentum is 50Ns. What is impulse?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "100"
+        },
+        {
+          "key": "b",
+          "value": "50"
+        },
+        {
+          "key": "c",
+          "value": "Both"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "50",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: If rate of change of momentum is 50Ns. What is impulse? Options: 100, 50, Both, None. Correct answer: 50",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q133",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "medium"
+      },
+      "question": {
+        "text": "when the elevator moves downward with an acceleration 'a' the apparent value of 'g' inside the elevator changes",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "g + a"
+        },
+        {
+          "key": "b",
+          "value": "g - a"
+        },
+        {
+          "key": "c",
+          "value": "g × a"
+        },
+        {
+          "key": "d",
+          "value": "g / a"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "g - a",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: when the elevator moves downward with an acceleration 'a' the apparent value of 'g' inside the elevator changes Options: g + a, g - a, g × a, g / a. Correct answer: g - a",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "medium",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q134",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Friction is a force",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Self-adjusting"
+        },
+        {
+          "key": "b",
+          "value": "Pseudo"
+        },
+        {
+          "key": "c",
+          "value": "Fake"
+        },
+        {
+          "key": "d",
+          "value": "None"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Self-adjusting",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: Friction is a force Options: Self-adjusting, Pseudo, Fake, None. Correct answer: Self-adjusting",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_PHY_MECHANICS_Q135",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Physics",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Mechanics",
+        "sub_topic": "Mechanics",
+        "difficulty": "hard"
+      },
+      "question": {
+        "text": "if a pendulum has time period t and length l then after doubling time period length becomes",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Half"
+        },
+        {
+          "key": "b",
+          "value": "Double"
+        },
+        {
+          "key": "c",
+          "value": "1.4"
+        },
+        {
+          "key": "d",
+          "value": "Quadrupled"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Quadrupled",
+        "explanation": ""
+      },
+      "embedding_text": "Physics - Mechanics: if a pendulum has time period t and length l then after doubling time period length becomes Options: Half, Double, 1.4, Quadrupled. Correct answer: Quadrupled",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "mechanics"
+        ],
+        "prerequisites": [
+          "mechanics"
+        ],
+        "difficulty_level": "hard",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

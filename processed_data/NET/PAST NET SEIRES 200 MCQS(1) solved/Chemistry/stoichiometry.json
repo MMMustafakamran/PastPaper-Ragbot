@@ -1,0 +1,69 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Chemistry - Stoichiometry",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 1,
+    "source_file": "PAST NET SEIRES 200 MCQS(1) solved.txt",
+    "exam_type": "NET",
+    "subject": "Chemistry",
+    "main_topic": "Stoichiometry"
+  },
+  "questions": [
+    {
+      "question_id": "NET_CHE_STOICHIOMETRY_Q149",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Chemistry",
+        "paper_name": "PAST NET SEIRES 200 MCQS(1) solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Stoichiometry",
+        "sub_topic": "Stoichiometry",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "What is mass spectrometer used for ?",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "to measure atomic masses"
+        },
+        {
+          "key": "b",
+          "value": "to measure atomic number"
+        },
+        {
+          "key": "c",
+          "value": "both"
+        },
+        {
+          "key": "d",
+          "value": "none of these"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "to measure atomic masses",
+        "explanation": ""
+      },
+      "embedding_text": "Chemistry - Stoichiometry: What is mass spectrometer used for ? Options: to measure atomic masses, to measure atomic number, both, none of these. Correct answer: to measure atomic masses",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "stoichiometry"
+        ],
+        "prerequisites": [
+          "stoichiometry"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

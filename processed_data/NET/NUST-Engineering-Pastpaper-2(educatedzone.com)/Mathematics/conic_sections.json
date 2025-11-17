@@ -1,0 +1,124 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET Mathematics - Conic Sections",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 2,
+    "source_file": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "Mathematics",
+    "main_topic": "Conic Sections"
+  },
+  "questions": [
+    {
+      "question_id": "NET_MAT_CONIC_SECTIONS_Q051",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Conic Sections",
+        "sub_topic": "Conic Sections",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The graph of a quadratic function is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Circle"
+        },
+        {
+          "key": "b",
+          "value": "Ellipse"
+        },
+        {
+          "key": "c",
+          "value": "Parabola"
+        },
+        {
+          "key": "d",
+          "value": "hexagon"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Parabola",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Conic Sections: The graph of a quadratic function is Options: Circle, Ellipse, Parabola, hexagon. Correct answer: Parabola",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "conic sections"
+        ],
+        "prerequisites": [
+          "conic sections"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_MAT_CONIC_SECTIONS_Q071",
+      "source": {
+        "exam_type": "NET",
+        "subject": "Mathematics",
+        "paper_name": "NUST-Engineering-Pastpaper-2(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Conic Sections",
+        "sub_topic": "Conic Sections",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "The graph of a quadratic function is",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Circle"
+        },
+        {
+          "key": "b",
+          "value": "Straight line"
+        },
+        {
+          "key": "c",
+          "value": "Parabola"
+        },
+        {
+          "key": "d",
+          "value": "Triangle"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Parabola",
+        "explanation": ""
+      },
+      "embedding_text": "Mathematics - Conic Sections: The graph of a quadratic function is Options: Circle, Straight line, Parabola, Triangle. Correct answer: Parabola",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "conic sections"
+        ],
+        "prerequisites": [
+          "conic sections"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}

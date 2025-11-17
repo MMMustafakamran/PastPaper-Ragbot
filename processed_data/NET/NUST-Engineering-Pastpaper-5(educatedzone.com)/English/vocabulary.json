@@ -1,0 +1,289 @@
+{
+  "dataset_info": {
+    "dataset_name": "NET English - Vocabulary",
+    "version": "1.0",
+    "created_date": "2025-11-17",
+    "total_questions": 5,
+    "source_file": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved.txt",
+    "exam_type": "NET",
+    "subject": "English",
+    "main_topic": "Vocabulary"
+  },
+  "questions": [
+    {
+      "question_id": "NET_ENG_VOCABULARY_Q186",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Vocabulary",
+        "sub_topic": "Vocabulary",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Fragile : ______ (synonym):",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Strong"
+        },
+        {
+          "key": "b",
+          "value": "Grave"
+        },
+        {
+          "key": "c",
+          "value": "Weak"
+        },
+        {
+          "key": "d",
+          "value": "Showy"
+        }
+      ],
+      "answer": {
+        "correct_key": "c",
+        "correct_value": "Weak",
+        "explanation": ""
+      },
+      "embedding_text": "English - Vocabulary: Fragile : ______ (synonym): Options: Strong, Grave, Weak, Showy. Correct answer: Weak",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "vocabulary"
+        ],
+        "prerequisites": [
+          "vocabulary"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_VOCABULARY_Q187",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Vocabulary",
+        "sub_topic": "Vocabulary",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Esoteric : ______ (synonym):",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Fair"
+        },
+        {
+          "key": "b",
+          "value": "Popular"
+        },
+        {
+          "key": "c",
+          "value": "Alluring"
+        },
+        {
+          "key": "d",
+          "value": "Private"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Private",
+        "explanation": ""
+      },
+      "embedding_text": "English - Vocabulary: Esoteric : ______ (synonym): Options: Fair, Popular, Alluring, Private. Correct answer: Private",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "vocabulary"
+        ],
+        "prerequisites": [
+          "vocabulary"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_VOCABULARY_Q188",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Vocabulary",
+        "sub_topic": "Vocabulary",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Synchronized : ______ (antonym):",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Arrhythmic"
+        },
+        {
+          "key": "b",
+          "value": "Resonating"
+        },
+        {
+          "key": "c",
+          "value": "Harmonized"
+        },
+        {
+          "key": "d",
+          "value": "Brought into accord"
+        }
+      ],
+      "answer": {
+        "correct_key": "a",
+        "correct_value": "Arrhythmic",
+        "explanation": ""
+      },
+      "embedding_text": "English - Vocabulary: Synchronized : ______ (antonym): Options: Arrhythmic, Resonating, Harmonized, Brought into accord. Correct answer: Arrhythmic",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "vocabulary"
+        ],
+        "prerequisites": [
+          "vocabulary"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_VOCABULARY_Q189",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Vocabulary",
+        "sub_topic": "Vocabulary",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Chaotic : ______ (antonym):",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Immersive"
+        },
+        {
+          "key": "b",
+          "value": "Orderly"
+        },
+        {
+          "key": "c",
+          "value": "Hectic"
+        },
+        {
+          "key": "d",
+          "value": "Steady"
+        }
+      ],
+      "answer": {
+        "correct_key": "b",
+        "correct_value": "Orderly",
+        "explanation": ""
+      },
+      "embedding_text": "English - Vocabulary: Chaotic : ______ (antonym): Options: Immersive, Orderly, Hectic, Steady. Correct answer: Orderly",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "vocabulary"
+        ],
+        "prerequisites": [
+          "vocabulary"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    },
+    {
+      "question_id": "NET_ENG_VOCABULARY_Q190",
+      "source": {
+        "exam_type": "NET",
+        "subject": "English",
+        "paper_name": "NUST-Engineering-Pastpaper-5(educatedzone.com)_solved",
+        "year": "2024"
+      },
+      "topic": {
+        "main_topic": "Vocabulary",
+        "sub_topic": "Vocabulary",
+        "difficulty": "easy"
+      },
+      "question": {
+        "text": "Bombastic : ______ (antonym):",
+        "type": "mcq",
+        "format": "single_choice"
+      },
+      "options": [
+        {
+          "key": "a",
+          "value": "Creative"
+        },
+        {
+          "key": "b",
+          "value": "Selfish"
+        },
+        {
+          "key": "c",
+          "value": "Astounded"
+        },
+        {
+          "key": "d",
+          "value": "Polite"
+        }
+      ],
+      "answer": {
+        "correct_key": "d",
+        "correct_value": "Polite",
+        "explanation": ""
+      },
+      "embedding_text": "English - Vocabulary: Bombastic : ______ (antonym): Options: Creative, Selfish, Astounded, Polite. Correct answer: Polite",
+      "metadata": {
+        "keywords": [],
+        "related_concepts": [
+          "vocabulary"
+        ],
+        "prerequisites": [
+          "vocabulary"
+        ],
+        "difficulty_level": "easy",
+        "cognitive_skill": "application",
+        "bloom_level": "L3_Apply"
+      }
+    }
+  ]
+}
